@@ -165,7 +165,14 @@ Somos CiberMach, un startup conformado por 6 estudiantes de la Universidad Perua
 - Innovación: La innovación constante para ofrecer soluciones creativas.
 - Calidad: Buscamos la exelencia en nuestro producto.  
 ### 1.1.2. Perfiles de integrantes del equipo
-
+| Integrante                   | Foto | Descripción del Perfil                                                                                    |
+|------------------------------|------|-----------------------------------------------------------------------------------------------------------|
+|Adriana María Diestra Zambrano|<img src="Link de la foto de Adriana" width="300"/>|Descripción de Adriana|
+| Bárbara Antonella Espinoza Delgado|<img src="https://github.com/UPC-AppWeb-CodySoftwrae/Final-Report/blob/7e86e5bd85244f4424c3cae1971070acf9fad639/assets/chapter-01/photos/Messo.jpeg" width="300"/>|Estudiante de Ingeniería de Software de 7mo ciclo. Experiencia en dirección de grupos, redacción, búsqueda de información, exposiciones y cumplimiento de tareas de manera estricta y puntual.|
+|Mathias Adriano Hidalgo Lopez |<img src="Link de la foto de Mathias" width="300"/>|Descripción de Mathias|
+Néstor Velarde Gonzales|<img src="Link de la foto de Néstor" width="300"/>|Descripción de Nestor|
+|Quique Vladimir Jara Benites|<img src="Link de la foto de Vladimir" width="300"/>|Descripción de Vladimir|
+|Roy Linsh Fernandez Remon|<img src="Link de la foto de Roy" width="300"/>|Descripción de Roy|
 ## 1.2. Solution Profile
 
 ### 1.2.1. Antecedentes y problemática
