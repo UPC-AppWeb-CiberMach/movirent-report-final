@@ -175,10 +175,10 @@ web ofrece una experiencia excepcional, garantizando la disponibilidad y segurid
 |------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
 | Adriana María Diestra Zambrano     | <img src="Link de la foto de Adriana" width="300"/>                                                                                                                                          |Estudiante de la carrera Ingeniería de Software de 6to ciclo. Con conocimientos en c++, Python, HTML y CSS. Así como también trabajo colaborativo y participación en grupo. |
 | Bárbara Antonella Espinoza Delgado | <img src="./assets/chapter-01/photos/Barbara.png" width="300"/>                                                                                                                              |Estudiante de Ingeniería de Software de 7mo ciclo. Experiencia en dirección de grupos, redacción, búsqueda de información, exposiciones y cumplimiento de tareas de manera estricta y puntual.|
-| Mathias Adriano Hidalgo Lopez      | <img src="[Link de la foto de Mathias](https://github.com/UPC-AppWeb-CodySoftwrae/Final-Report/blob/7e86e5bd85244f4424c3cae1971070acf9fad639/assets/chapter-01/photos/Yo.jpg)" width="300"/> |Estudiante de Ingenieria de Software de 6to ciclo. Experiencia en direccion y trabajo en equipo, conocimientos y manejo de lenguajes como C++, C# entre otros.|
-| Néstor H. Velarde Gonzales         | <img src="./assets/chapter-01/photos/Nestor-Velarde.png" width="300"/>                                                                                                                       |Estudiante de la carrera de Ing. De Software de 6to ciclo en la UPC. Mi compromiso con mi grupo es mantener un ambiente colaborativo y trabajo en equipo. Me gusta aprender nuevas herramientas y tecnologíass de desarrollo, tengo experiencia desarrollando pequeños proyectos basados es sistemas de electrónica, sé programación en Python, C++, Arduino, Logo soft.|
-| Quique Vladimir Jara Benites       | <img src="./assets/chapter-01/photos/Vladimir.png" width="300"/>                                                                                                                             |Estudiante de la carrera de ingenieria de software con conocimientos tecnicos en javascript, Vue, php y SQ. Asimismo, para el desarrollo en equipo cuento con habilidades como participacion comunicativa, creatividad, resolucion de problemas, adaptavilidad y toma de decisiones.                                                                                                                                                                                                          |
-| Roy Linsh Fernandez Remon          | <img src="./assets/chapter-01/photos/Roy-Fernandez.jpeg" width="300"/>                                                                                                                       |Me llamo Roy Fernández Remón y estudio la carrera de ingeniería de software, actualmente estoy en el 6to ciclo de la carrera. Soy una persona dedicada a mis estudios y trabajos y me gusta ser responsable con las actividades académicas|
+| Mathias Adriano Hidalgo Lopez      | <img src="https://github.com/UPC-AppWeb-CodySoftwrae/Final-Report/blob/2f47970ccbea0aa4deadde3d84232c1b83ea02e2/assets/chapter-01/photos/Mathias%20Hidalgo.jpeg" width="300" height="98"/> |Estudiante de Ingenieria de Software de 6to ciclo. Experiencia en direccion y trabajo en equipo, conocimientos y manejo de lenguajes como C++, C# entre otros.|
+| Néstor Velarde Gonzales            | <img src="./assets/chapter-01/photos/Nestor-Velarde.png" width="300" height="98"/>                                                                                                                       |Estudiante de la carrera de Ing. De Software de 6to ciclo en la UPC. Mi compromiso con mi grupo es mantener un ambiente colaborativo y trabajo en equipo. Me gusta aprender nuevas herramientas y tecnologíass de desarrollo, tengo experiencia desarrollando pequeños proyectos basados es sistemas de electrónica, sé programación en Python, C++, Arduino, Logo soft.|
+| Quique Vladimir Jara Benites       | <img src="./assets/chapter-01/photos/Vladimir.png" width="300" height="98"/>                                                                                                                             |Estudiante de la carrera de ingenieria de software con conocimientos tecnicos en javascript, Vue, php y SQ. Asimismo, para el desarrollo en equipo cuento con habilidades como participacion comunicativa, creatividad, resolucion de problemas, adaptavilidad y toma de decisiones.                                                                                                                                                                                                          |
+| Roy Linsh Fernandez Remon          | <img src="./assets/chapter-01/photos/Roy-Fernandez.jpeg" width="300" height="98"/>                                                                                                                       |Me llamo Roy Fernández Remón y estudio la carrera de ingeniería de software, actualmente estoy en el 6to ciclo de la carrera. Soy una persona dedicada a mis estudios y trabajos y me gusta ser responsable con las actividades académicas|
 ## 1.2. Solution Profile
 
 ### 1.2.1. Antecedentes y problemática
@@ -214,15 +214,14 @@ La congestión vehicular causa un impacto diario a millones de personas, provoca
 ### 1.2.2. Lean UX Process
 
 #### 1.2.2.1. Lean UX Problem statements  
-En el estado actual de el alquiler de vehiculos menores, se ha centrado principalmente en los usuarios que necesitan un transporte alternativo con garantia o usuarios que deseen generar un ingreso extra alquilando sus vehiculos.  
 
-Lo que los servicios existentes no logran abordan es el seguimiento de uso, cobertura amplia y la posbilidad de obtener un ingreso de dinero adicional.  
+El transporte público en Perú es malo y deficiente ¿Cómo podemos ayudar a que las personas opten por transportarse en vehículos como scooters eléctricos?
 
-Nuestro servicio abordará esta brecha al ofrecer un producto web enfocado en el alquiler de scooters eléctricos.  
+Los servicios existentes no dan la posibilidad de obtener un ingreso de dinero adicional por alquilar tu scooter.  ¿Cómo se podría ayudar a los dueños de un scooter a generar ingresos?
 
-Nuestro enfoque inicial será el segmento de personas que desean alquilar un scooter para sus actividades diarias o recreativas.  
+Notamos que los adultos desconfían de lo que ven en internet ¿Existe alguna forma de transmitirles confianza al usar nuestra aplicación?
 
-Sabremos que tenemos éxito cuando veamos una reducción en el gasto mensual de transporte de nuestros usuarios de un 30% y una reducción de tiempo de al menos 5 horas semanales.  
+En ocasiones pueden haber inconvenientes como robos o daños ¿Cómo podríamos evitar que personas irresponsables afecten a nuestros clientes?
 
 #### 1.2.2.2. Lean UX Assumptions
 
@@ -364,6 +363,8 @@ Utilizando los bussines outcomes, user outcomes y solutions se formularon las si
 **Creemos que** al simplificar el proceso de poner en alquiler un scooter en nuestra plataforma, aumentaremos la cantidad de arrendadores. **Sabremos que** hemos tenido éxito **cuando** observemos un aumento significativo en el número de scooters disponibles para alquilar en los primeros 7 días después del lanzamiento.  
 
 #### 1.2.2.4. Lean UX Canvas
+
+<img src="https://github.com/UPC-AppWeb-CodySoftwrae/Final-Report/blob/9cbfd9570a0d625f9d5ff160b6e5e934f97d6951/assets/chapter-01/LeanUX/Lean%20UX%20Canvas.png"/>
 
 ## 1.3. Segmentos Objetivo
 Según Huamanraime y Echevarría (2022) Se ha observado a adultos y adultos mayores hacer uso de los e-scooters, principalmente en distritos con un alto índice de desarrollo humano, como Miraflores o San Isidro, por lo que nuestros segmentos objetivo del proyecto propuesto son dos, a continuación los presentamos:  
