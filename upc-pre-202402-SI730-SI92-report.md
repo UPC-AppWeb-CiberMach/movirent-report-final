@@ -360,11 +360,32 @@ Utilizando los bussines outcomes, user outcomes y solutions se formularon las si
 #### 1.2.2.4. Lean UX Canvas
 
 ## 1.3. Segmentos Objetivo
-Nuestros segmentos objetivo del proyecto propuesto son dos, acontinuación los presentamos:  
+Según Huamanraime y Echevarría (2022) Se ha observado a adultos y adultos mayores hacer uso de los e-scooters, principalmente en distritos con un alto índice de desarrollo humano, como Miraflores o San Isidro, por lo que nuestros segmentos objetivo del proyecto propuesto son dos, a continuación los presentamos:  
 
 **Segmento 1** Segmento arrendatario (Owner): Aquellas personas interesadas formar parte de MoviTech, donde ellos podrán rentar su scooter disponible y conseguir un ingreso extra, tendrán la opción de registrar sus caracteristicas y validar si el equipo cumple con las condiciones para nuestro servicio.  
+Aspectos demográficos:
+
+Sexo: Ambos sexos.
+Edades: de 18 a 65 años.
+Nivel socioeconómico: Clase media, media-alta y alta.
+
+Aspectos geográficos:
+Nacionalidad: Peruana y extranjera residente en Perú.
+Zona geográfica en la que viven: Zonas urbanas.
+
+Aspecto psicográfico: Buscan generar ingresos extra con la compra de un scooter eléctrico que no usan recurrentemente.
 
 **Segmento 2** Segmento arrendador (User): Personas que desean optar un scooter eléctrico para fines de transporte sea hacia sus labores, universidades, fines deportivos u otros pero que no cuentan con el dinero necesario en el momento para comprar uno. Donde podrán optar por alquilar un scooter por horas a un precio muy accesible.
+
+Sexo: Ambos sexos.
+Edades: de 18 a 65 años.
+Nivel socioeconómico: Clase media, media-alta y alta.
+
+Aspectos geográficos:
+Nacionalidad: Peruana y extranjera residente en Perú.
+Zona geográfica en la que viven: Zonas urbanas.
+
+Aspecto psicográfico: Buscan alquilar scooters eléctricos para momentos específicos y no ven viablw comprar uno propio.
 
 ---
 
