@@ -40,6 +40,21 @@
 
 <br>
 
+---
+
+# Registro de Versiones del Informe
+
+|Versión|Fecha|Autor|Descripción| 
+|-------|-----|-----|-----------|
+| 1.0   |2024/08/19|Bárbara Antonella Espinoza Delgado|Creación del documento de trabajo en formato markdown, Capítulo 1, diagrama de base de datos y Landing Page.| 
+| 1.1   |2024/08/19|Quique Vladimir Jara Benites|Capítulo 2 y Landing Page.| 
+| 1.2   |2024/08/19|Mathias Adriano Hidalgo Lopez|Capítulo 3 y Landing Page|
+| 1.3   |2024/08/19|Adriana María Diestra Zambrano|Elaboración de c4 y Landing Page|
+| 1.4   |2024/08/19|Nestor Hernan Velarde Gonzales|Capítulo 4 y Landing Page|
+| 1.5   |2024/08/19|Roy Linsh Fernandez Remon|Entrevistas y Landing Page|
+
+<br>
+
 # Project Report Collaboration Insights
 TB1: Las tareas asignadas para la entrega TB1 se han completado y están documentadas en el siguiente repositorio de Github perteneciente a la organización del equipo:
 
@@ -150,6 +165,18 @@ Durante la preparación del informe, se llevaron a cabo las siguientes actividad
 
 ## [Bibliografía](#bibliografía)
 ## [Anexos](#anexos)
+
+---
+
+# Student Outcome  
+El curso contribuye al cumplimiento del Student Outcome ABET: ABET – EAC - Student Outcome 5
+Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen objetivos.
+En el siguiente cuadro se describe las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 5.
+
+|Criterio específico| Acciones Realizadas | Conclusiones |
+|-------------------|---------------------|--------------|
+|Trabaja en equipo para proporcionar liderazgo en forma conjunta|Adriana María Diestra Zambrano<br><b>TB1</b><br>Bárbara Antonella Espinoza Delgado<br><b>TB1</b><br>Mathias Adriano Hidalgo Lopez<br><b>TB1</b><br>Nestor Hernan Velarde Gonzales<br><b>TB1</b><br>Quique Vladimir Jara Benites<br><b>TB1</b><br>Roy Linsh Fernandez Remon<br><b>TB1</b><br>|<b>TB1</b><br>|
+|Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.|Adriana María Diestra Zambrano<br><b>TB1</b><br>Bárbara Antonella Espinoza Delgado<br><b>TB1</b><br>Mathias Adriano Hidalgo Lopez<br><b>TB1</b><br>Nestor Hernan Velarde Gonzales<br><b>TB1</b><br>Quique Vladimir Jara Benites<br><b>TB1</b><br>Roy Linsh Fernandez Remon<br><b>TB1</b><br>|<b>TB1</b><br>|
 
 ---
 
@@ -352,8 +379,10 @@ Utilizando los bussines outcomes, user outcomes y solutions se formularon las si
 
 #### 1.2.2.4. Lean UX Canvas
 
+
+          
 ## 1.3. Segmentos Objetivo
-Nuestros segmentos objetivo del proyecto propuesto son dos, acontinuación los presentamos:  
+Nuestros segmentos objetivo del proyecto propuesto son dos, a continuación los presentamos:  
 
 **Segmento 1** Segmento arrendatario (Owner): Aquellas personas interesadas formar parte de MoviTech, donde ellos podrán rentar su scooter disponible y conseguir un ingreso extra, tendrán la opción de registrar sus caracteristicas y validar si el equipo cumple con las condiciones para nuestro servicio.  
 
@@ -791,4 +820,6 @@ En conclusion, ya tenemos casi finalizado.
 ## Conclusiones y Recomendaciones
 
 # Bibliografía
+
+Huamanraime Maquin, E. L., & Echeverria Su, M. E. (2022). Estudio integral de los e-scooters en distritos de Lima Centro: un análisis social, ambiental y de movilidad urbana. Recuperado de: https://tesis.pucp.edu.pe/repositorio/handle/20.500.12404/22351 
 # Anexos
