@@ -90,6 +90,6 @@ Como sistema de navegación optamos emplear una barra de menú horizontal que gu
 ### 4.8.1. Database Diagram
 Para desarrollar la estructura de diagrama de base de datos usamos la herramienta de Vertabelo. A continuación, muestra las tabla de diseño de base de datos.
 
-<img src= "https://github.com/UPC-AppWeb-CodySoftwrae/Final-Report/blob/6af03f04ec8469772c62fcd1964ad6a04dca6eaf/assets/chapter-04/database-diagram/DatabaseDiagram.png">
+<img src= "../assets/chapter-04/DataBase/DatabaseDiagram.png">
 
 ---
