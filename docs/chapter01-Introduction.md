@@ -16,13 +16,13 @@ web ofrece una experiencia excepcional, garantizando la disponibilidad y segurid
 - Calidad: Buscamos la exelencia en nuestro producto.  
 
 ### 1.1.2. Perfiles de integrantes del equipo
-| Integrante                         | Foto                                                                         | Descripción del Perfil                                                                                    |
-|------------------------------------|------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
-| Adriana María Diestra Zambrano     | <img src="Link de la foto de Adriana" width="300"/>                          |Estudiante de la carrera Ingeniería de Software de 6to ciclo. Con conocimientos en c++, Python, HTML y CSS. Así como también trabajo colaborativo y participación en grupo. |
-| Bárbara Antonella Espinoza Delgado | <img src="../assets/chapter-01/photos/Barbara.png" width="98"/>              |Estudiante de Ingeniería de Software de 7mo ciclo. Experiencia en dirección de grupos, redacción, búsqueda de información, exposiciones y cumplimiento de tareas de manera estricta y puntual.|
-| Mathias Adriano Hidalgo Lopez      | <img src="Link de la foto de Adriana" width="300"/>                                                                        |Estudiante de Ingenieria de Software de 6to ciclo. Experiencia en direccion y trabajo en equipo, conocimientos y manejo de lenguajes como C++, C# entre otros.|
+| Integrante                         | Foto                                                                                | Descripción del Perfil                                                                                    |
+|------------------------------------|-------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
+| Adriana María Diestra Zambrano     | <img src="Link de la foto de Adriana" width="300"/>                                 |Estudiante de la carrera Ingeniería de Software de 6to ciclo. Con conocimientos en c++, Python, HTML y CSS. Así como también trabajo colaborativo y participación en grupo. |
+| Bárbara Antonella Espinoza Delgado | <img src="../assets/chapter-01/photos/Barbara.png" width="98"/>                     |Estudiante de Ingeniería de Software de 7mo ciclo. Experiencia en dirección de grupos, redacción, búsqueda de información, exposiciones y cumplimiento de tareas de manera estricta y puntual.|
+| Mathias Adriano Hidalgo Lopez      | <img src="../assets/chapter-01/photos/Mathias.jpeg" width="98"/>                    |Estudiante de Ingenieria de Software de 6to ciclo. Experiencia en direccion y trabajo en equipo, conocimientos y manejo de lenguajes como C++, C# entre otros.|
 | Néstor Velarde Gonzales            | <img src="../assets/chapter-01/photos/Nestor-Velarde.png" width="300" height="98"/> |Estudiante de la carrera de Ing. De Software de 6to ciclo en la UPC. Mi compromiso con mi grupo es mantener un ambiente colaborativo y trabajo en equipo. Me gusta aprender nuevas herramientas y tecnologíass de desarrollo, tengo experiencia desarrollando pequeños proyectos basados es sistemas de electrónica, sé programación en Python, C++, Arduino, Logo soft.|
-| Quique Vladimir Jara Benites       | <img src="../assets/chapter-01/photos/Vladimir.png" width="300" height="98"/> |Estudiante de la carrera de ingenieria de software con conocimientos tecnicos en javascript, Vue, php y SQ. Asimismo, para el desarrollo en equipo cuento con habilidades como participacion comunicativa, creatividad, resolucion de problemas, adaptavilidad y toma de decisiones.                                                                                                                                                                                                          |
+| Quique Vladimir Jara Benites       | <img src="../assets/chapter-01/photos/Vladimir.png" width="300" height="98"/>       |Estudiante de la carrera de ingenieria de software con conocimientos tecnicos en javascript, Vue, php y SQ. Asimismo, para el desarrollo en equipo cuento con habilidades como participacion comunicativa, creatividad, resolucion de problemas, adaptavilidad y toma de decisiones.                                                                                                                                                                                                          |
 | Roy Linsh Fernandez Remon          | <img src="../assets/chapter-01/photos/Roy-Fernandez.jpeg" width="300" height="98"/> |Me llamo Roy Fernández Remón y estudio la carrera de ingeniería de software, actualmente estoy en el 6to ciclo de la carrera. Soy una persona dedicada a mis estudios y trabajos y me gusta ser responsable con las actividades académicas|
 ## 1.2. Solution Profile
 
@@ -209,7 +209,7 @@ Utilizando los bussines outcomes, user outcomes y solutions se formularon las si
 
 #### 1.2.2.4. Lean UX Canvas
 
-<img src="https://github.com/UPC-AppWeb-CodySoftwrae/Final-Report/blob/e49b27a02f38e80651f7f18faed9ed3a7eca6af1/assets/chapter-01/LeanUX/Lean%20UX%20Canvas.png"/>
+<img src="../assets/chapter-01/LeanUX/Lean-UX-Canvas.png"/>
 
 ## 1.3. Segmentos Objetivo
 Según Huamanraime y Echevarría (2022) Se ha observado a adultos y adultos mayores hacer uso de los e-scooters, principalmente en distritos con un alto índice de desarrollo humano, como Miraflores o San Isidro, por lo que nuestros segmentos objetivo del proyecto propuesto son dos, a continuación los presentamos:  
