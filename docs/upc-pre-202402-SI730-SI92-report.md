@@ -166,7 +166,7 @@ Somos CiberMach, un startup conformado por 6 estudiantes de la Universidad Perua
 - Calidad: Buscamos la exelencia en nuestro producto.  
 ### 1.1.2. Perfiles de integrantes del equipo
 
-## 1.2. Solution Profile
+## 1.2. Solution Profile -
 
 ### 1.2.1. Antecedentes y problemática
 Nuestra capital Lima, es una de las ciudades con mayor tráfico del mundo, lo que genera grandes costos económicos para las millones de personas que transitan diariamente por la ciudad de lima y callao, el sistema de transporte se encuentran notablemente retrasados. En el 2023 nuestra ciudad de Lima pasó del quinto al segundo país en el ranking de ciudades con mayor tráfico a nivel mundial. Según TomTom Traffic, trasladarse 10 kilómetros (distancia entre plaza San Martín y el Óvalo Naranjal al norte o al Larcomar al sur) demora 24 a 30 minutos en promedio.  
