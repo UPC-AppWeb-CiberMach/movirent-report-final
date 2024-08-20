@@ -16,7 +16,7 @@
   </tr>
   <tr>
     <td colspan="2" rowspan="2" valign="top">Startup y Competidores</td>
-    <td valign="top">CAMBIAR</td>
+    <td valign="top">MoviTech</td>
     <td valign="top">City Bike</td>
     <td valign="top">Grin</td>
     <td valign="top">Emove</td>
