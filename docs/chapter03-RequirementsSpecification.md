@@ -6,7 +6,7 @@
 
 <table>
   <tr>
-    <td colspan="2" rowspan="2" valign="top"> Epic / Story ID </td>
+    <td valign="top"> Epic / Story ID </td>
     <td valign="top"> Título </td>
     <td valign="top"> Descripción </td>
     <td valign="top"> Criterios de Aceptación </td>
@@ -20,7 +20,10 @@
     <td valign="top"> EP01 </td>
   </tr>
 </table>
+
+
 ## 3.3. Impact Mapping
+
 ## 3.4. Product Backlog.
 ---
 
