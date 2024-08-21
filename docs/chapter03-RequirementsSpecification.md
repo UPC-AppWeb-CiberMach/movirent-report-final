@@ -4,7 +4,7 @@
 ## 3.1. To-Be Scenario Mapping
 ## 3.2. User Stories
 
-<table>
+<table border="1px" style="text-align: center; width: 100%;">
   <tr>
     <td valign="top"> Epic / Story ID </td>
     <td valign="top"> Título </td>
@@ -111,7 +111,6 @@
     <td valign="top"> Dado que el Owner tiene acceso al sistema Cuando accede a la gestión de clientes desde la plataforma. Y Selecciona el perfil de un cliente que ha hecho uso de su scooter. Luego el sistema le muestra la información detallada del cliente, como nombre, contacto, fotografía y comentarios. </td>
     <td valign="top"> EP01 </td>
   </tr>
-  
 </table>
 
 
@@ -119,7 +118,7 @@
 
 ## 3.4. Product Backlog.
 
-<table>
+<table border="1px" style="text-align: center; width: 100%;">
   <tr>
     <td valign="top"> #Orden </td>
     <td valign="top"> User Story Id </td>
@@ -221,4 +220,3 @@
 </table>
 
 ---
-
