@@ -97,5 +97,16 @@
 ## 3.3. Impact Mapping
 
 ## 3.4. Product Backlog.
+
+<table>
+  <tr>
+    <td valign="top"> #Orden </td>
+    <td valign="top"> User Story Id </td>
+    <td valign="top"> Título </td>
+    <td valign="top"> Descripción </td>
+    <td valign="top"> StoryPoints (1/2/3/5/8 </td>
+  </tr>
+</table>
+
 ---
 
