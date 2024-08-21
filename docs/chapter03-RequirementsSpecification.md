@@ -90,6 +90,27 @@
     <td valign="top"> Dado que el Owner tiene acceso al sistema Cuando accede a la gestión de clientes desde la plataforma. Y Selecciona el perfil de un cliente que ha hecho uso de su scooter. Luego el sistema le muestra la información detallada del cliente, como nombre, contacto, fotografía y comentarios. </td>
     <td valign="top"> EP01 </td>
   </tr>
+   <tr>
+    <td valign="top"> US12 </td>
+    <td valign="top"> Visualización del perfil de cliente </td>
+    <td valign="top"> Como Owner quiero visualizar el perfil del cliente que hace uso de mi vehículo para conocer a mi cliente </td>
+    <td valign="top"> Dado que el Owner tiene acceso al sistema Cuando accede a la gestión de clientes desde la plataforma. Y Selecciona el perfil de un cliente que ha hecho uso de su scooter. Luego el sistema le muestra la información detallada del cliente, como nombre, contacto, fotografía y comentarios. </td>
+    <td valign="top"> EP01 </td>
+  </tr>
+   <tr>
+    <td valign="top"> US11 </td>
+    <td valign="top"> Visualización del perfil de cliente </td>
+    <td valign="top"> Como Owner quiero visualizar el perfil del cliente que hace uso de mi vehículo para conocer a mi cliente </td>
+    <td valign="top"> Dado que el Owner tiene acceso al sistema Cuando accede a la gestión de clientes desde la plataforma. Y Selecciona el perfil de un cliente que ha hecho uso de su scooter. Luego el sistema le muestra la información detallada del cliente, como nombre, contacto, fotografía y comentarios. </td>
+    <td valign="top"> EP14 </td>
+  </tr>
+   <tr>
+    <td valign="top"> US11 </td>
+    <td valign="top"> Visualización del perfil de cliente </td>
+    <td valign="top"> Como Owner quiero visualizar el perfil del cliente que hace uso de mi vehículo para conocer a mi cliente </td>
+    <td valign="top"> Dado que el Owner tiene acceso al sistema Cuando accede a la gestión de clientes desde la plataforma. Y Selecciona el perfil de un cliente que ha hecho uso de su scooter. Luego el sistema le muestra la información detallada del cliente, como nombre, contacto, fotografía y comentarios. </td>
+    <td valign="top"> EP01 </td>
+  </tr>
   
 </table>
 
@@ -163,7 +184,35 @@
     <td valign="top"> 4 </td>
   </tr>
   <tr>
-    <td valign="top"> 05 </td>
+    <td valign="top"> 09 </td>
+    <td valign="top"> US05 </td>
+    <td valign="top"> Pago del servicio </td>
+    <td valign="top"> Como cliente, quiero poder pagar mi alquiler de scooter de manera rápida y segura para completar mi viaje. </td>
+    <td valign="top"> 4 </td>
+  </tr>
+  <tr>
+    <td valign="top"> 09 </td>
+    <td valign="top"> US05 </td>
+    <td valign="top"> Pago del servicio </td>
+    <td valign="top"> Como cliente, quiero poder pagar mi alquiler de scooter de manera rápida y segura para completar mi viaje. </td>
+    <td valign="top"> 4 </td>
+  </tr>
+  <tr>
+    <td valign="top"> 10 </td>
+    <td valign="top"> US05 </td>
+    <td valign="top"> Pago del servicio </td>
+    <td valign="top"> Como cliente, quiero poder pagar mi alquiler de scooter de manera rápida y segura para completar mi viaje. </td>
+    <td valign="top"> 4 </td>
+  </tr>
+  <tr>
+    <td valign="top"> 11 </td>
+    <td valign="top"> US05 </td>
+    <td valign="top"> Pago del servicio </td>
+    <td valign="top"> Como cliente, quiero poder pagar mi alquiler de scooter de manera rápida y segura para completar mi viaje. </td>
+    <td valign="top"> 4 </td>
+  </tr>
+  <tr>
+    <td valign="top"> 12 </td>
     <td valign="top"> US05 </td>
     <td valign="top"> Pago del servicio </td>
     <td valign="top"> Como cliente, quiero poder pagar mi alquiler de scooter de manera rápida y segura para completar mi viaje. </td>
