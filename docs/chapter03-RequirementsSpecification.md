@@ -106,6 +106,69 @@
     <td valign="top"> Descripción </td>
     <td valign="top"> StoryPoints (1/2/3/5/8 </td>
   </tr>
+  <tr>
+    <td valign="top"> 01 </td>
+    <td valign="top"> US01 </td>
+    <td valign="top"> Registro de usuarios </td>
+    <td valign="top"> Como cliente, quiero registrarme en la plataforma para poder alquilar scooters eléctricos. </td>
+    <td valign="top"> 3 </td>
+  </tr>
+  <tr>
+    <td valign="top"> 02 </td>
+    <td valign="top"> US02 </td>
+    <td valign="top"> Inicio de sesión </td>
+    <td valign="top"> Como cliente, quiero registrarme en la plataforma para poder alquilar scooters eléctricos. </td>
+    <td valign="top"> 3 </td>
+  </tr>
+  <tr>
+    <td valign="top"> 03 </td>
+    <td valign="top"> US03 </td>
+    <td valign="top"> Alquiler de scooter </td>
+    <td valign="top"> Como cliente registrado, quiero alquilar un scooter eléctrico desde mi ubicación actual para transportarme. </td>
+    <td valign="top"> 3 </td>
+  </tr>
+  <tr>
+    <td valign="top"> 04 </td>
+    <td valign="top"> US04 </td>
+    <td valign="top"> Finalización del alquiler </td>
+    <td valign="top"> Como cliente, quiero finalizar el alquiler del scooter cuando llegue a mi destino para detener el cobro. </td>
+    <td valign="top"> 3 </td>
+  </tr>
+  <tr>
+    <td valign="top"> 05 </td>
+    <td valign="top"> US05 </td>
+    <td valign="top"> Pago del servicio </td>
+    <td valign="top"> Como cliente, quiero poder pagar mi alquiler de scooter de manera rápida y segura para completar mi viaje. </td>
+    <td valign="top"> 4 </td>
+  </tr>
+  <tr>
+    <td valign="top"> 06 </td>
+    <td valign="top"> US06 </td>
+    <td valign="top"> Historial de viajes </td>
+    <td valign="top"> Como cliente, quiero ver un historial de mis alquileres para revisar mis gastos y destinos anteriores. </td>
+    <td valign="top"> 4 </td>
+  </tr>
+  <tr>
+    <td valign="top"> 07 </td>
+    <td valign="top"> US07 </td>
+    <td valign="top"> Registrar un vehículo </td>
+    <td valign="top"> Cómo Owner quiero registrar los detalles de mi vehículo en la aplicación web para que mis potenciales clientes puedan elegirlo para el alquiler </td>
+    <td valign="top"> 4 </td>
+  </tr>
+  <tr>
+    <td valign="top"> 08 </td>
+    <td valign="top"> US08 </td>
+    <td valign="top"> Pago del servicio </td>
+    <td valign="top"> Como cliente, quiero poder pagar mi alquiler de scooter de manera rápida y segura para completar mi viaje. </td>
+    <td valign="top"> 4 </td>
+  </tr>
+  <tr>
+    <td valign="top"> 05 </td>
+    <td valign="top"> US05 </td>
+    <td valign="top"> Pago del servicio </td>
+    <td valign="top"> Como cliente, quiero poder pagar mi alquiler de scooter de manera rápida y segura para completar mi viaje. </td>
+    <td valign="top"> 4 </td>
+  </tr>
 </table>
 
 ---
