@@ -2,7 +2,7 @@
 
 # Universidad Peruana de Ciencias Aplicadas
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></img><br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" width="150"></img><br>
 
 **Curso:** Aplicaciones Web
 
@@ -33,12 +33,9 @@
 | Quique Vladimir Jara Benites     | u202022365 |
 | Roy Linsh Fernandez Remon        | u20221B778 |
 
-
 </div>
 
-<div align="justify">
-
-<br>
+---
 
 # Project Report Collaboration Insights
 TB1: Las tareas asignadas para la entrega TB1 se han completado y están documentadas en el siguiente repositorio de Github perteneciente a la organización del equipo:
@@ -48,7 +45,7 @@ Durante la preparación del informe, se llevaron a cabo las siguientes actividad
 - Se crearon los artefactos necesarios utilizando las herramientas indicadas en el PDF del proyecto.
 - Se organizaron reuniones para asignar las tareas, para coordinar el progreso de los elementos del informe y para comunicar los avances del primer Sprint.
 
-<br>
+---
 
 # Contenido
 ## Tabla de contenidos
@@ -143,6 +140,37 @@ Durante la preparación del informe, se llevaron a cabo las siguientes actividad
     - [5.3.3. Evaluación según heurísticas](#532-evaluación-según-heurísticas)
 
 - [5.4. Video about the product](#54-video-about-the-product)
+
+---
+
+## ABET – EAC - Student Outcome 5
+
+Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros
+juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo,
+establecen objetivos, planifican tareas y cumplen objetivos.
+En el siguiente cuadro se describe las acciones realizadas y enunciados de
+conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro
+del ABET – EAC - Student Outcome 5.
+
+<table border="1px">
+	<tbody>
+		<tr>
+			<td>Criterio específico</td>
+			<td>Acciones realizadas</td>
+			<td>Conclusiones</td>
+		</tr>
+		<tr>
+			<td>Trabaja en equipo para proporcionar liderazgo en forma conjunta</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.</td>
+			<td></td>
+			<td></td>
+		</tr>
+	</tbody>
+</table>
 
 ## [Conclusiones](#conclusiones)
 - [Conclusiones y Recomendaciones](#conclusiones-y-recomendaciones)
