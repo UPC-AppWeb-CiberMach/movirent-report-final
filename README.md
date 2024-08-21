@@ -1,41 +1,60 @@
-﻿<div align="center">
+﻿<br/><br/>
+<center>
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" width="150">
+</center>
 
-# Universidad Peruana de Ciencias Aplicadas
+## <center> Universidad Peruana de Ciencias Aplicadas </center>
+### <center> **CURSO:** SI730 Aplicaciones Web </center>
+### <center> **SECCIÓN:** SI92 </center>
+### <center> **Profesor:** Naldo Reupo-Musayon Gastulo </center> 
+### <center> **Ingeniería de software** </center>
+### <center> **Ciclo:** Quinto </center>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" width="150"></img><br>
+<br/>
 
-**Curso:** Aplicaciones Web
+## <center> Informe de Trabajo Final </center> 
 
-**Sección:** SI92
+<br/>
 
-**Profesor:** Naldo Reupo-Musayon Gastulo
+### <center> **Nombre del startup:** CiberMach </center>
+### <center> **Nombre del producto:** MoviRent </center>
 
-**Carrera:** Ingeniería de Software
+## <center> **Integrantes** </center>
 
-**Ciclo:** 2024-02
+<table align="center", border="1px">
+	<tbody>
+		<tr>
+			<td><center>Nombre</center></td>
+			<td><center>Código</center></td>
+		</tr>
+		<tr>
+			<td>Adriana María Diestra Zambrano</td>
+			<td>u202218110</td>
+		</tr>
+		<tr>
+			<td>Bárbara Antonella Espinoza Delgado</td>
+			<td>u201911727</td>
+		</tr>
+		<tr>
+			<td>Mathias Adriano Hidalgo Lopez</td>
+			<td>u202213222</td>
+		</tr>
+		<tr>
+			<td>Velarde Gonzales, Néstor</td>
+			<td>u20211C221</td>
+		</tr>
+		<tr>
+			<td>Quique Vladimir Jara Benites</td>
+			<td>u202022365</td>
+		</tr>
+		<tr>
+			<td>Roy Linsh Fernandez Remon</td>
+			<td>u20221B778</td>
+		</tr>
+	</tbody>
+</table>
 
-**Startup:** CiberMach
-
-**Producto:** MoviRent
-
-### Integrantes:
-
-</div>
-
-<div align="center">
-
-| Nombre                           | Código       |
-|----------------------------------|--------------|
-| Adriana María Diestra Zambrano   | u202218110 |
-| Bárbara Antonella Espinoza Delgado | u201911727 |
-| Mathias Adriano Hidalgo Lopez    | u202213222 |
-| Velarde Gonzales, Néstor         | u20211C221 |
-| Quique Vladimir Jara Benites     | u202022365 |
-| Roy Linsh Fernandez Remon        | u20221B778 |
-
-</div>
-
----
+<div style="page-break-before: always;"></div>
 
 # Project Report Collaboration Insights
 TB1: Las tareas asignadas para la entrega TB1 se han completado y están documentadas en el siguiente repositorio de Github perteneciente a la organización del equipo:
@@ -45,7 +64,7 @@ Durante la preparación del informe, se llevaron a cabo las siguientes actividad
 - Se crearon los artefactos necesarios utilizando las herramientas indicadas en el PDF del proyecto.
 - Se organizaron reuniones para asignar las tareas, para coordinar el progreso de los elementos del informe y para comunicar los avances del primer Sprint.
 
----
+<div style="page-break-before: always;"></div>
 
 # Contenido
 ## Tabla de contenidos
@@ -141,7 +160,8 @@ Durante la preparación del informe, se llevaron a cabo las siguientes actividad
 
 - [5.4. Video about the product](#54-video-about-the-product)
 
----
+
+<div style="page-break-before: always;"></div> 
 
 ## ABET – EAC - Student Outcome 5
 
@@ -152,7 +172,7 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de
 conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro
 del ABET – EAC - Student Outcome 5.
 
-<table border="1px">
+<table align="center", border="1px">
 	<tbody>
 		<tr>
 			<td>Criterio específico</td>
@@ -172,11 +192,11 @@ del ABET – EAC - Student Outcome 5.
 	</tbody>
 </table>
 
+<div style="page-break-before: always;"></div> 
+
 ## [Conclusiones](#conclusiones)
 - [Conclusiones y Recomendaciones](#conclusiones-y-recomendaciones)
 - [Video about the team](#video-about-the-team)
 
 ## [Bibliografía](#bibliografía)
 ## [Anexos](#anexos)
-
----
