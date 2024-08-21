@@ -9,52 +9,102 @@ transporte como para personas que tienen un scooter y buscan generar ganacias al
 facilitar el acceso a scooters eléctricos de forma segura y conveniente para nuestros usuarios, nuestro sitio 
 web ofrece una experiencia excepcional, garantizando la disponibilidad y seguridad  de sus scooters.  
 
-**Misión:** Transformar la movilidad urbana y recreativa con un acceso conveniente, económico y seguro a scooters eléctricos.  
-**Visión:** Ser líderes en el mercado de desarrollo de aplicaciones orientadas al cuidado del medio ambiente.  
-**Valores:**
-- Innovación: La innovación constante para ofrecer soluciones creativas.
-- Calidad: Buscamos la exelencia en nuestro producto.  
+<table border="1px" style="text-align: center; width: 100%;">
+    <tbody>
+        <tr>
+            <td><strong>Misión</strong></td>
+            <td><strong>Visión</strong></td>
+            <td><strong>Valores</strong></td>
+        </tr>
+        <tr>
+            <td>Transformar la movilidad urbana y recreativa con un acceso conveniente, económico y seguro a scooters eléctricos.</td>
+            <td>Ser líderes en el mercado de desarrollo de aplicaciones orientadas al cuidado del medio ambiente.</td>
+            <td>
+                <ul style="list-style-type:none; padding-left: 0;">
+                    <li><strong>Innovación:</strong> La innovación constante para ofrecer soluciones creativas.</li>
+                    <li><strong>Calidad:</strong> Buscamos la excelencia en nuestro producto.</li>
+                </ul>
+            </td>
+        </tr>
+    </tbody>
+</table>  
 
 ### 1.1.2. Perfiles de integrantes del equipo
-| Integrante                         | Foto                                                                                | Descripción del Perfil                                                                                    |
-|------------------------------------|-------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
-| Adriana María Diestra Zambrano     | <img src="Link de la foto de Adriana" width="300"/>                                 |Estudiante de la carrera Ingeniería de Software de 6to ciclo. Con conocimientos en c++, Python, HTML y CSS. Así como también trabajo colaborativo y participación en grupo. |
-| Bárbara Antonella Espinoza Delgado | <img src="../assets/chapter-01/photos/Barbara.png" width="98"/>                     |Estudiante de Ingeniería de Software de 7mo ciclo. Experiencia en dirección de grupos, redacción, búsqueda de información, exposiciones y cumplimiento de tareas de manera estricta y puntual.|
-| Mathias Adriano Hidalgo Lopez      | <img src="../assets/chapter-01/photos/Mathias.jpeg" width="98"/>                    |Estudiante de Ingenieria de Software de 6to ciclo. Experiencia en direccion y trabajo en equipo, conocimientos y manejo de lenguajes como C++, C# entre otros.|
-| Néstor Velarde Gonzales            | <img src="../assets/chapter-01/photos/Nestor-Velarde.png" width="300" height="98"/> |Estudiante de la carrera de Ing. De Software de 6to ciclo en la UPC. Mi compromiso con mi grupo es mantener un ambiente colaborativo y trabajo en equipo. Me gusta aprender nuevas herramientas y tecnologíass de desarrollo, tengo experiencia desarrollando pequeños proyectos basados es sistemas de electrónica, sé programación en Python, C++, Arduino, Logo soft.|
-| Quique Vladimir Jara Benites       | <img src="../assets/chapter-01/photos/Vladimir.png" width="300" height="98"/>       |Estudiante de la carrera de ingenieria de software con conocimientos tecnicos en javascript, Vue, php y SQ. Asimismo, para el desarrollo en equipo cuento con habilidades como participacion comunicativa, creatividad, resolucion de problemas, adaptavilidad y toma de decisiones.                                                                                                                                                                                                          |
-| Roy Linsh Fernandez Remon          | <img src="../assets/chapter-01/photos/Roy-Fernandez.jpeg" width="300" height="98"/> |Me llamo Roy Fernández Remón y estudio la carrera de ingeniería de software, actualmente estoy en el 6to ciclo de la carrera. Soy una persona dedicada a mis estudios y trabajos y me gusta ser responsable con las actividades académicas|
+
+<table border="1px" style="width: 100%; text-align: center;">
+    <thead>
+        <tr>
+            <th>Integrante</th>
+            <th>Foto</th>
+            <th>Descripción del Perfil</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Adriana María Diestra Zambrano</td>
+            <td><img src="Link de la foto de Adriana" width="370"/></td>
+            <td>Estudiante de la carrera Ingeniería de Software de 6to ciclo. Con conocimientos en C++, Python, HTML y CSS. Así como también trabajo colaborativo y participación en grupo.</td>
+        </tr>
+        <tr>
+            <td>Bárbara Antonella Espinoza Delgado</td>
+            <td><img src="../assets/chapter-01/photos/Barbara.png" width="370"/></td>
+            <td>Estudiante de Ingeniería de Software de 7mo ciclo. Experiencia en dirección de grupos, redacción, búsqueda de información, exposiciones y cumplimiento de tareas de manera estricta y puntual.</td>
+        </tr>
+        <tr>
+            <td>Mathias Adriano Hidalgo Lopez</td>
+            <td><img src="../assets/chapter-01/photos/Mathias.jpeg" width="370"/></td>
+            <td>Estudiante de Ingeniería de Software de 6to ciclo. Experiencia en dirección y trabajo en equipo, conocimientos y manejo de lenguajes como C++, C#, entre otros.</td>
+        </tr>
+        <tr>
+            <td>Néstor Velarde Gonzales</td>
+            <td><img src="../assets/chapter-01/photos/Nestor-Velarde.png" width="370"/></td>
+            <td>Estudiante de la carrera de Ingeniería de Software de 6to ciclo en la UPC. Mi compromiso con mi grupo es mantener un ambiente colaborativo y trabajo en equipo. Me gusta aprender nuevas herramientas y tecnologías de desarrollo. Tengo experiencia desarrollando pequeños proyectos basados en sistemas de electrónica y sé programación en Python, C++, Arduino, Logo soft.</td>
+        </tr>
+        <tr>
+            <td>Quique Vladimir Jara Benites</td>
+            <td><img src="../assets/chapter-01/photos/Vladimir.png" width="370"/></td>
+            <td>Estudiante de la carrera de Ingeniería de Software con conocimientos técnicos en JavaScript, Vue, PHP y SQL. Asimismo, para el desarrollo en equipo, cuento con habilidades como participación comunicativa, creatividad, resolución de problemas, adaptabilidad y toma de decisiones.</td>
+        </tr>
+        <tr>
+            <td>Roy Linsh Fernandez Remon</td>
+            <td><img src="../assets/chapter-01/photos/Roy-Fernandez.jpeg" width="370"/></td>
+            <td>Me llamo Roy Fernández Remón y estudio la carrera de Ingeniería de Software, actualmente estoy en el 6to ciclo de la carrera. Soy una persona dedicada a mis estudios y trabajos, y me gusta ser responsable con las actividades académicas.</td>
+        </tr>
+    </tbody>
+</table>
+
 ## 1.2. Solution Profile
 
 ### 1.2.1. Antecedentes y problemática
 Nuestra capital Lima, es una de las ciudades con mayor tráfico del mundo, lo que genera grandes costos económicos para las millones de personas que transitan diariamente por la ciudad de lima y callao, el sistema de transporte se encuentran notablemente retrasados. En el 2023 nuestra ciudad de Lima pasó del quinto al segundo país en el ranking de ciudades con mayor tráfico a nivel mundial. Según TomTom Traffic, trasladarse 10 kilómetros (distancia entre plaza San Martín y el Óvalo Naranjal al norte o al Larcomar al sur) demora 24 a 30 minutos en promedio.  
 
-**What (Qué)**  
+- **What (Qué)**  
 El problema identificado radica en el tráfico de Lima, que es uno de los más congestionados del mundo, generando costos económicos significativos y afectando la calidad de vida de millones de personas.  
 
-**When (Cuándo)** ¿Cuándo estamos viendo el problema?  
 
+- **When (Cuándo)** ¿Cuándo estamos viendo el problema?
 El problema del tráfico se experimenta diariamente, especialmente durante las horas pico de la mañana y la tarde, afectando los desplazamientos laborales y personales.  
 
-**Where (Dónde)** ¿Dónde estamos viendo los problemas?  
 
+- **Where (Dónde)** ¿Dónde estamos viendo los problemas?
 El tráfico congestionado se encuentra generalmente en las avenidas principales, intersecciones críticas y puntos de entrada y salida de la ciudad.  
 
-**Who (Quiénes)** ¿A quien le sucede?  
 
+- **Who (Quiénes)** ¿A quien le sucede?
 El problema afecta a todos los residentes y usuarios de Lima, que dependen del transporte terrestre para sus actividades diarias, incluidos trabajadores, estudiantes y visitantes.  
 
-**Why (Por qué)** ¿Por qué sucede el problema?  
 
-La congestion vehicular se debe a una combinación de factores, como el crecimiento poblacional desmedido, la falta de infraestructura vial adecuada, el aumento del parque automotor, la falta de sistemas de transporte público eficientes y sobre todo el desconocimiento de transportes alternativos.  
+- **Why (Por qué)** ¿Por qué sucede el problema?
+La congestion vehicular se debe a una combinación de factores, como el crecimiento poblacional desmedido, la falta de infraestructura vial adecuada, el aumento del parque automotor, la falta de sistemas de transporte público eficientes y sobre todo el desconocimiento de transportes alternativos.
 
-**How (Cómo)** ¿Cómo se diferencia el problema del estado normal?  
 
+- **How (Cómo)** ¿Cómo se diferencia el problema del estado normal?
 Como una congestión constante en las vías principales, causando retrasos significativos en los tiempos de viaje y aumentando el estrés y la frustración de los usuarios. La congestión tiende a empeorar durante las horas pico y en días laborables.
 
-**How much (Cuánto)** ¿Cuánto dinero están implicando?  
 
+- **How much (Cuánto)** ¿Cuánto dinero están implicando?
 La congestión vehicular causa un impacto diario a millones de personas, provocando retraso en sus actividades diarias, pérdida de productividad y el aumento en el coste de transporte que asciende a mas de 500 soles anuales por manejar en horas pico o la alza de pasajes en el transporte público que a aumentado en casi 100 soles mensuales desde 2010.
+  
 
 ### 1.2.2. Lean UX Process
 
