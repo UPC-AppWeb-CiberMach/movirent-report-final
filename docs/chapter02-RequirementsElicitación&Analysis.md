@@ -176,7 +176,10 @@
 * Aprovecha la oportunidad de expandir nuestro servicio a otras áreas metropolitanas y turísticas, más allá de la ubicación actual de nuestros competidores. Esto nos permitirá alcanzar a una base de usuarios más amplia y capturar nuevos mercados.
 * Incluir a nuestro producto características como busqueda por zonas, notificaciones en tiempo real sobre disponibilidad de vehículos y opciones de pago seguras.
 
+--- 
+
 ## 2.2. Entrevistas
+
 ### 2.2.1. Diseño de entrevistas
 
 #### Entrevistas segmento 01: Owner
@@ -226,6 +229,7 @@
 16. ¿Qué tan importante es para ti la disponibilidad de vehículos en distintos puntos de la ciudad?
 17. ¿Hay alguna mejora o característica adicional que te gustaría ver en la aplicación en el futuro?
 
+<br>
 ### 2.2.2 Registro de entrevistas.
 
 En esta sección se presentan las entrevistas realizadas a los segmentos objetivo.
@@ -291,10 +295,10 @@ Los user persona que se muestran a continuación, fueron realizados a partir de 
 Estos nos ayudarán a describir de forma general nuestro segmento objetivo.
 
 **Segmento 1 - Owner:**
-![Imagen User Persona 1](/assets/chapter-02/user-persona/userpersona1.png)
+<img src="..//assets/chapter-02/user-persona/userpersona1.png" alt="Imagen User Persona 1">
 
 **Segmento 2 - Client:**
-![Imagen User Persona 2](/assets/chapter-02/user-persona/userpersona2.png)
+<img src="..//assets/chapter-02/user-persona/userpersona2.png" alt="Imagen User Persona 2">
 
 ### 2.3.2. User Task Matrix
 
@@ -302,20 +306,94 @@ En esta sección se presenta el user task matrix de los tres segmentos, con el f
 refleja la importancia de determinadas tareas.
 
 
-| 	                                                                          |   **Owner**  	    |  **Owner**    	   |  **Client**    	  |  **Client**   	   |
-|----------------------------------------------------------------------------|:-----------------:|:-----------------:|:-----------------:|:-----------------:|
-| **Task**                                                                 	 | **Frecuencia**  	 | **Importancia** 	 | **Frecuencia**  	 | **Importancia** 	 |
-| Pública servicio en redes                                            	     |  varias veces 	   |     alta    	     |     -       	     |     -      	      |
-| Realiza y recibe pagos mediante plataformas digitales                	     |  varias veces 	   |     alta    	     |  varicas veces 	  |     alta    	     | 
-| Buscar mecánico de confianza                                         	     |  varias veces 	   |     alta    	     |   rara vez   	    |    media    	     | 
-| Separar cita con mecánico                                            	     |  varias veces 	   |    media    	     |   rara vez   	    |    media    	     | 
-| Analizar costo y tiempo de mantenimiento                             	     |   rara vez   	    |    media    	     |   rara vez   	    |    media    	     | 
-| Comunicarse por whatsapp con la persona a la que ofreció el servicio 	     |  muchas veces 	   |     alta    	     |     -       	     |     -      	      |  
-| Búsqueda de servicio en redes                                        	     |     -      	      |     -      	      |   rara vez   	    |    media    	     |   
-| Salir mucho antes de casa para evitar el tráfico                     	     |  varias veces 	   |     alta    	     |  varias veces 	   |     alta    	     |
-| Llevar cuentas sobre gasto en pasajes en lo que va del mes           	     |    siempre   	    |     alta    	     |   siempre    	    |     alta    	     |
-| Llevar registro de recorrido en vehículo                             	     |   rara vez   	    |    media    	     |  varias veces 	   |    media    	     |
-
+<table border="1px">
+    <tbody>
+        <tr>
+            <td></td>
+            <td><strong>Owner</strong></td>
+            <td><strong>Owner</strong></td>
+            <td><strong>Client</strong></td>
+            <td><strong>Client</strong></td>
+        </tr>
+        <tr>
+            <td><strong>Task</strong></td>
+            <td><strong>Frecuencia</strong></td>
+            <td><strong>Importancia</strong></td>
+            <td><strong>Frecuencia</strong></td>
+            <td><strong>Importancia</strong></td>
+        </tr>
+        <tr>
+            <td>Pública servicio en redes</td>
+            <td>varias veces</td>
+            <td>alta</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Realiza y recibe pagos mediante plataformas digitales</td>
+            <td>varias veces</td>
+            <td>alta</td>
+            <td>varias veces</td>
+            <td>alta</td>
+        </tr>
+        <tr>
+            <td>Buscar mecánico de confianza</td>
+            <td>varias veces</td>
+            <td>alta</td>
+            <td>rara vez</td>
+            <td>media</td>
+        </tr>
+        <tr>
+            <td>Separar cita con mecánico</td>
+            <td>varias veces</td>
+            <td>media</td>
+            <td>rara vez</td>
+            <td>media</td>
+        </tr>
+        <tr>
+            <td>Analizar costo y tiempo de mantenimiento</td>
+            <td>rara vez</td>
+            <td>media</td>
+            <td>rara vez</td>
+            <td>media</td>
+        </tr>
+        <tr>
+            <td>Comunicarse por whatsapp con la persona a la que ofreció el servicio</td>
+            <td>muchas veces</td>
+            <td>alta</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Búsqueda de servicio en redes</td>
+            <td>-</td>
+            <td>-</td>
+            <td>rara vez</td>
+            <td>media</td>
+        </tr>
+        <tr>
+            <td>Salir mucho antes de casa para evitar el tráfico</td>
+            <td>varias veces</td>
+            <td>alta</td>
+            <td>varias veces</td>
+            <td>alta</td>
+        </tr>
+        <tr>
+            <td>Llevar cuentas sobre gasto en pasajes en lo que va del mes</td>
+            <td>siempre</td>
+            <td>alta</td>
+            <td>siempre</td>
+            <td>alta</td>
+        </tr>
+        <tr>
+            <td>Llevar registro de recorrido en vehículo</td>
+            <td>rara vez</td>
+            <td>media</td>
+            <td>varias veces</td>
+            <td>media</td>
+        </tr>
+    </tbody>
+</table>
 
 En base al User Task Matrix presentado, podemos destacar las siguientes tareas con mayor frecuencia e importancia para cada segmento de usuarios:
 ### Owner:
@@ -338,22 +416,20 @@ En esta sección se presentan los User Journey Mapping de los segmentos, que rea
 cómo se siente nuestro usuario al usar la aplicación, detallando cada paso que realiza y las emociones que experimenta.
 
 **Segmento 1 - Owner:**   
-![Imagen User Journey Mapping 1](/assets/chapter-02/user-journey-mapping/mapping1.jpg)
+<img src="..//assets/chapter-02/user-journey-mapping/mapping1.jpg" alt="Owner">
 
 **Segmento 2 - CLient:**   
-![Imagen User Journey Mapping 2](/assets/chapter-02/user-journey-mapping/mapping2.jpg)
+<img src="..//assets/chapter-02/user-journey-mapping/mapping2.jpg" alt="Client">
 
 ### 2.3.4. Empathy Mapping
 
 En esta sección mostramos los empathy mapping de los segmentos realizados con la información recopilada de componentes anteriores.
 
 **Segmento 1 - Owner:**
-
-![Empathy Map Segmento1](/assets/chapter-02/empathy-mapping/empathy1.png)
+<img src="..//assets/chapter-02/empathy-mapping/empathy1.png" alt="Owner">
 
 **Segmento 2 - CLient:**
-
-![Empathy Map Segmento1](/assets/chapter-02/empathy-mapping/empathy2.png)
+<img src="..//assets/chapter-02/empathy-mapping/empathy2.png" alt="Client">
 
 ### 2.3.5. As-is Scenario Mapping
 
@@ -363,26 +439,64 @@ para conseguir los As-is Scenario Mapping de los tres segmentos.
 objetivos.
 
 **Segmento 1 - Owner**  
-![As-IS Scenario Mapping 1](/assets/chapter-02/scenario-mapping/scenario1.jpg)
+<img src="..//assets/chapter-02/scenario-mapping/scenario1.jpg" alt="As-IS Scenario Mapping 1">
 
 **Segmento 2 - Client**  
-![As-IS Scenario Mapping 1](/assets/chapter-02/scenario-mapping/scenario2.jpg)
+<img src="..//assets/chapter-02/scenario-mapping/scenario2.jpg" alt="As-IS Scenario Mapping 2">
 
 ## 2.4. Ubiquitous Language.
 
-
-| Terms and definitions 	| Términos y definiciones                                                                              	|
-|----------------------	|------------------------------------------------------------------------------------------------------	|
-| Owner                 	| Cualquier persona que utiliza la plataforma para poner en alquiler su vehículo                       	|
-| Client               	| Cualquier persona que utiliza la plataforma para alquilar un vehículo                                	|
-| Go                    	| Comenzar a utilizar el servicio                                                                      	|
-| MyWallet              	| Ingreso obtenido por alquilar tu vehículo                                                            	|
-| Routes                	| Registro de rutas seguidas en trayecto del viaje                                                     	|
-| Benefits              	| Beneficios adicionales que obtienes por alquilar                                                     	|
-| Subscription plan     	| Modelo de pago que permiten a los usuarios acceder a los servicios ofrecidos                         	|
-| Device                	| Cualquier parte del vehículo que ha sido reportada por el técnico                                    	|
-| Service history       	| Registro de todas las solicitudes de servicio blindadas y ofrecidas por parte de los usuarios        	|
-| Issue                 	| Descripción detallada de falla en el vehículo                                                        	|
-| Warrantly             	| Compromiso de reparar o darle mantenimiento de un vehículo dentro de un periodo de tiempo específico 	|
+<table border="1px">
+    <tbody>
+        <tr>
+            <td>Término</td>
+            <td>Definición</td>
+        </tr>
+        <tr>
+            <td>Owner</td>
+            <td>Cualquier persona que utiliza la plataforma para poner en alquiler su vehículo</td>
+        </tr>
+        <tr>
+            <td>Client</td>
+            <td>Cualquier persona que utiliza la plataforma para alquilar un vehículo</td>
+        </tr>
+        <tr>
+            <td>Go</td>
+            <td>Comenzar a utilizar el servicio</td>
+        </tr>
+        <tr>
+            <td>MyWallet</td>
+            <td>Ingreso obtenido por alquilar tu vehículo</td>
+        </tr>
+        <tr>
+            <td>Routes</td>
+            <td>Registro de rutas seguidas en trayecto del viaje</td>
+        </tr>
+        <tr>
+            <td>Benefits</td>
+            <td>Beneficios adicionales que obtienes por alquilar</td>
+        </tr>
+        <tr>
+            <td>Subscription plan</td>
+            <td>Modelo de pago que permiten a los usuarios acceder a los servicios ofrecidos</td>
+        </tr>
+        <tr>
+            <td>Device</td>
+            <td>Cualquier parte del vehículo que ha sido reportada por el técnico</td>
+        </tr>
+        <tr>
+            <td>Service history</td>
+            <td>Registro de todas las solicitudes de servicio blindadas y ofrecidas por parte de los usuarios</td>
+        </tr>
+        <tr>
+            <td>Issue</td>
+            <td>Descripción detallada de falla en el vehículo</td>
+        </tr>
+        <tr>
+            <td>Warranty</td>
+            <td>Compromiso de reparar o darle mantenimiento de un vehículo dentro de un periodo de tiempo específico</td>
+        </tr>
+    </tbody>
+</table>
 
 ---
