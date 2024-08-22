@@ -64,20 +64,13 @@
 
 </div>
 
-<div style="page-break-before: always;"></div>
-
-# Project Report Collaboration Insights
-TB1: Las tareas asignadas para la entrega TB1 se han completado y están documentadas en el siguiente repositorio de Github perteneciente a la organización del equipo:
-
-Durante la preparación del informe, se llevaron a cabo las siguientes actividades:
-- Se escribieron y graficaron los contenidos asignados a cada miembro en formato Markdown, seguido de commits para monitorear el progreso de cada integrante en el repositorio.
-- Se crearon los artefactos necesarios utilizando las herramientas indicadas en el PDF del proyecto.
-- Se organizaron reuniones para asignar las tareas, para coordinar el progreso de los elementos del informe y para comunicar los avances del primer Sprint.
 
 <div style="page-break-before: always;"></div>
 
 # Contenido
+
 ## Tabla de contenidos
+
 ### [Registro de versiones del informe](#registro-de-versiones-del-informe)
 
 <br>
@@ -122,7 +115,16 @@ Durante la preparación del informe, se llevaron a cabo las siguientes actividad
 <br>
 <br>
 
+<div style="page-break-before: always;"></div>
+
 ### [Project Report Collaboration Insights](#project-report-collaboration-insights)
+
+TB1: Las tareas asignadas para la entrega TB1 se han completado y están documentadas en el siguiente repositorio de Github perteneciente a la organización del equipo:
+
+Durante la preparación del informe, se llevaron a cabo las siguientes actividades:
+- Se escribieron y graficaron los contenidos asignados a cada miembro en formato Markdown, seguido de commits para monitorear el progreso de cada integrante en el repositorio.
+- Se crearon los artefactos necesarios utilizando las herramientas indicadas en el PDF del proyecto.
+- Se organizaron reuniones para asignar las tareas, para coordinar el progreso de los elementos del informe y para comunicar los avances del primer Sprint.
 
 <div style="page-break-before: always;"></div> 
 
