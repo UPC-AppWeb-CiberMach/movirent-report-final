@@ -8,23 +8,23 @@
 
 <div align="center">
 	
-## <center> Universidad Peruana de Ciencias Aplicadas </center>
-### <center> **CURSO:** SI730 Aplicaciones Web </center>
-### <center> **SECCIÓN:** SI92 </center>
-### <center> **Profesor:** Naldo Reupo-Musayon Gastulo </center> 
-### <center> **Ingeniería de software** </center>
-### <center> **Ciclo:** Quinto </center>
+## Universidad Peruana de Ciencias Aplicadas 
+### **CURSO:** SI730 Aplicaciones Web 
+### **SECCIÓN:** SI92 
+### **Profesor:** Naldo Reupo-Musayon Gastulo 
+### **Ingeniería de software** 
+### **Ciclo:** Quinto 
 
 <br/>
 
-## <center> Informe de Trabajo Final </center> 
+## Informe de Trabajo Final 
 
 <br/>
 
-### <center> **Nombre del startup:** CiberMach </center>
-### <center> **Nombre del producto:** MoviRent </center>
+### **Nombre del startup:** CiberMach
+### **Nombre del producto:** MoviRent
 
-## <center> **Integrantes** </center>
+## **Integrantes** 
 
 <table align="center", border="1px">
 	<tbody>
@@ -79,8 +79,84 @@ Durante la preparación del informe, se llevaron a cabo las siguientes actividad
 # Contenido
 ## Tabla de contenidos
 ### [Registro de versiones del informe](#registro-de-versiones-del-informe)
+
+<br>
+
+# **Registro de Versiones**
+
+<table>
+  <thead>
+    <tr>
+        <th>Versión</th>
+        <th>Fecha</th>
+        <th>Autor</th>
+        <th>Descripción de modificación</th>
+    </tr>
+  </thead>
+  <tbody>
+  <tr>
+      <td><strong>TB1</strong></td>
+      <td>26 de Agosto</td>
+      <td>
+        <ul>
+          <li>Adriana María Diestra Zambrano</li>
+          <li>Bárbara Antonella Espinoza Delgado</li>
+          <li>Mathias Adriano Hidalgo Lopez</li>
+          <li>Quique Vladimir Jara Benites</li>
+          <li>Roy Linsh Fernandez Remon</li>
+          <li>Velarde Gonzales, Néstor Hernan</li>
+        </ul>
+      </td>
+      <td>
+        Se han incluído los siguientes capítulos:
+        <ul>
+          <li>Capítulo I: Introducción</li>
+          <li>Capítulo II: Requirements Elicitation & Analysis</li>
+          <li>Capítulo III: Requirements Specification</li>
+        </ul>
+      </td>
+  </tr>
+  </tbody>
+</table>
+
+<br>
+<br>
+
 ### [Project Report Collaboration Insights](#project-report-collaboration-insights)
+
+<div style="page-break-before: always;"></div> 
+
 ### [Student Outcome](#student-outcome)
+
+## ABET – EAC - Student Outcome 5
+
+Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros
+juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo,
+establecen objetivos, planifican tareas y cumplen objetivos.
+En el siguiente cuadro se describe las acciones realizadas y enunciados de
+conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro
+del ABET – EAC - Student Outcome 5.
+
+<table align="center", border="1px">
+	<tbody>
+		<tr>
+			<td>Criterio específico</td>
+			<td>Acciones realizadas</td>
+			<td>Conclusiones</td>
+		</tr>
+		<tr>
+			<td>Trabaja en equipo para proporcionar liderazgo en forma conjunta</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.</td>
+			<td></td>
+			<td></td>
+		</tr>
+	</tbody>
+</table>
+
 ## [Capítulo I: Introducción](#capítulo-i-introducción)
 - [1.1. Startup Profile](#11-startup-profile)
     - [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)
@@ -170,37 +246,6 @@ Durante la preparación del informe, se llevaron a cabo las siguientes actividad
 
 - [5.4. Video about the product](#54-video-about-the-product)
 
-
-<div style="page-break-before: always;"></div> 
-
-## ABET – EAC - Student Outcome 5
-
-Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros
-juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo,
-establecen objetivos, planifican tareas y cumplen objetivos.
-En el siguiente cuadro se describe las acciones realizadas y enunciados de
-conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro
-del ABET – EAC - Student Outcome 5.
-
-<table align="center", border="1px">
-	<tbody>
-		<tr>
-			<td>Criterio específico</td>
-			<td>Acciones realizadas</td>
-			<td>Conclusiones</td>
-		</tr>
-		<tr>
-			<td>Trabaja en equipo para proporcionar liderazgo en forma conjunta</td>
-			<td></td>
-			<td></td>
-		</tr>
-		<tr>
-			<td>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.</td>
-			<td></td>
-			<td></td>
-		</tr>
-	</tbody>
-</table>
 
 <div style="page-break-before: always;"></div> 
 
