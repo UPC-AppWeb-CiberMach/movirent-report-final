@@ -120,6 +120,18 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
   </tr>
 </table>
 
+| Epic/Story ID | Titulo                       | Descripcion | Criterios de Aceptacion | Epic ID |
+|---------------|------------------------------|-------------|-------------------------|---------|
+|US01| Landing page - Suscripciones | Como visitante interesado, quiero ver los diferentes planes para elegir el que mejor se adapte a mis necesidades|
+|US02| Landing page - About the team| Como viistante interesado, quiero conocer al equipo detras del producto para sentirme conectado y confiado en la empresa|
+|US03| Landing page - Testimonios | Como visitante interesado, quiero leer los testimonios de otros clientes para confiar en la calidad del producto|
+|US04| Landing page - About Product | Como vistante interesado, quiero ver una descripcion clara del producto para entender sus beneficios y caracteristicas|
+
+
+
+|#Orden|User Story Id|Titulo|Descripcion| StoryPoints (1/2/3/5/8)|
+|---|---|---|---|---|
+
 
 ## 3.3. Impact Mapping
 
