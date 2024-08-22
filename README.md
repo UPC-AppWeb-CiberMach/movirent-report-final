@@ -1,8 +1,13 @@
 ﻿<br/><br/>
-<center>
+ 
+<p align="center">
+	
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" width="150">
-</center>
 
+</p>
+
+<div align="center">
+	
 ## <center> Universidad Peruana de Ciencias Aplicadas </center>
 ### <center> **CURSO:** SI730 Aplicaciones Web </center>
 ### <center> **SECCIÓN:** SI92 </center>
@@ -53,6 +58,11 @@
 		</tr>
 	</tbody>
 </table>
+
+
+## Agosto, 2024.
+
+</div>
 
 <div style="page-break-before: always;"></div>
 
