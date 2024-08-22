@@ -6,7 +6,7 @@
 Aquí se expone el análisis de los escenarios, organizando una tabla que detalla la situación que necesita ser optimizada para el segmento objetivo. Se examinan los pasos a seguir y se describe cómo se perciben. 
 
 
-<img src="..//assets/chapter-03/to-bemapping/To-BeMapping.png" alt="Imagen To Be Mapping 1">
+<img src="..//assets/chapter-03/To-BeMapping.png" alt="Imagen To Be Mapping 1">
 
 
 ## 3.2. User Stories
