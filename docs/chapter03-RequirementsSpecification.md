@@ -2,6 +2,12 @@
 ---
 # Capítulo III: Requirements Specification
 ## 3.1. To-Be Scenario Mapping
+
+Aquí se expone el análisis de los escenarios, organizando una tabla que detalla la situación que necesita ser optimizada para el segmento objetivo. Se examinan los pasos a seguir y se describe cómo se perciben. 
+
+
+
+
 ## 3.2. User Stories
 
 <table border="1px" style="text-align: center; width: 100%;">
