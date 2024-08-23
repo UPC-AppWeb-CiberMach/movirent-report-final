@@ -13,9 +13,9 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
 
 | Epic/Story ID | Titulo                        | Descripcion                                                                                                                      | Criterios de Aceptacion | Epic ID |
 |---------------|-------------------------------|----------------------------------------------------------------------------------------------------------------------------------|------------------------|---------|
-| EP01          | Landing page                  | Como miembro de CiberMach quiero desarrollar una landing page para informar acerca del servicio a los posibles clientes          |                        |         |
-| EP02          | Gestion de cuenta             | Como usuario quiero gestionar mi cuenta para mantener actualizados mis datos y acceder a la cuenta de manera segura              |                        |         |
-| EP04          | Gestion de vehiculos          | Como Owner quiero agregar y gestionar mis vehiculos para asegurarme que esten disponibles y en buen estado para el alquiler      |                        |         |
+| EP01          | Landing page                  | **Como** miembro de Movitech **quiero** desarrollar una landing page **para** informar acerca del servicio a los posibles clientes          |                        |         |
+| EP02          | Gestion de cuenta             | **Como** usuario **quiero** gestionar mi cuenta para mantener actualizados mis datos y acceder a la cuenta de manera segura              |                        |         |
+| EP04          | Gestion de vehiculos          | **Como** Owner **quiero** agregar y gestionar mis vehiculos para asegurarme que esten disponibles y en buen estado para el alquiler      |                        |         |
 | EP05          | Gestion de reservas y uso     | Como cliente quiero gestionar mis reservas y el uso de vehiculos para planificar y controlar mis recorridos.                     |                        |         |
 | EP06          | Pagos y facturacion           | Como cliente quiero gestionar mis pagos y facturacion para realizar transacciones de manera segura y ver mi historial de pagos   |                        |         |
 | EP07          | Seguridad y soporte           | Como usuario quiero acceder a soporte y reportar proble,as para asegurarme de que mi experiencia sea segura y sin inconvenientes |                        |         |
@@ -24,8 +24,8 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
 | US03          | Landing page - Testimonios    | Como visitante interesado, quiero leer los testimonios de otros clientes para confiar en la calidad del producto                 |                        | EP01    |
 | US04          | Landing page - About Product  | Como vistante interesado, quiero ver una descripcion clara del producto para entender sus beneficios y caracteristicas           |                        | EP01    |
 | US05          | Registro de usuario           | Como usuario quiero crear una cuenta con mi correo electronico para representarme en la aplicacion                               || EP02    |
-| US06          |                               |                                                                                                                                  ||
-| US07          |                               |                                                                                                                                  ||
+| US06          | Iniciar sesión                | **Como** owner/cliente de Movitech, **quiero** iniciar sesión **para** acceder a los benificios que ofrece la aplicación         ||
+| US07          | Visualizar perfil de usuario  | **Como** owner/cliente de Movitech, **quiero** visualizar mi perfil personal **para** visualizar mis datos actuales                                                                                                                           ||
 | US08          |                               |                                                                                                                                  ||
 | US09          |                               |                                                                                                                                  ||
 | US10          |                               |                                                                                                                                  ||
