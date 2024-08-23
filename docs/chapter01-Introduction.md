@@ -133,15 +133,15 @@ En ocasiones pueden haber inconvenientes como robos o daños ¿Cómo podríamos 
 Utilizando la tecnica de Metrics Mountain se obtuvo lo siguiente:
 1. Adquisición:  
 Porcentaje de nuevos usuarios registrados como arrendatarios que se suscriben a un plan mensual.
-Porcentaje de propietarios que publican al menos un vehiculo en la plataforma
+Porcentaje de propietarios que publican al menos un vehículo en la plataforma
 
 2. Activación:  
-Porcentaje de usuarios que completan el proceso de reserva de un vehiculo en los primeros 7 dias de registro.
-Porcentaje de vehiclulos registrados que reciben al menos una solicitud de alquiler.
+Porcentaje de usuarios que completan el proceso de reserva de un vehículo en los primeros 7 dias de registro.
+Porcentaje de vehículos registrados que reciben al menos una solicitud de alquiler.
 
 3. Retención:  
 Porcentaje de usuarios que realizan al menos 3 solicitudes de alquiler por semana.
-Porcentaje de propietarios que mantienen al menos un vehiculo activo en la plataforma durante tres meses consecutivos.
+Porcentaje de propietarios que mantienen al menos un vehículo activo en la plataforma durante tres meses consecutivos.
 
 4. Ingresos:
 Ingresos mensuales por suscripciones de arrendatarios.
@@ -159,7 +159,7 @@ Usando estas métricas se evaluaron los siguientes outcomes:
 
 
 **Users**  
-Los usuarios de la plataforma serán principalmente arrendadores de scooters eléctricos que buscan generar un ingreso económico extra, así como arrendatarios que buscan alquilar un scooter eléctrico por horas o dias para transportarse de manera más rapida y económica.  
+Los usuarios de la plataforma serán principalmente arrendadores de scooters eléctricos que buscan generar un ingreso económico extra, así como arrendatarios que buscan alquilar un scooter eléctrico por horas o dias para transportarse de manera más rápida y económica.  
 
 **User outcomes**  
 
@@ -209,7 +209,7 @@ Nuestro producto se integra en la vida de los usuarios como una plataforma digit
 ¿Qué problema resuelve nuestro producto?  
 Nuestro producto aborda varios problemas:
 
-Pérdida de tiempo en el tráfico: Proporciona una plataforma donde las personas pueden alquilar scooters eléctricos y poder transportarse de manera rapida y económica.  
+Pérdida de tiempo en el tráfico: Proporciona una plataforma donde las personas pueden alquilar scooters eléctricos y poder transportarse de manera rápida y económica.  
 Búsqueda de ingresos extra: Aborda la dificultad que tienen las personas hoy en día para tener ingresos extras.
 
 ¿Cuándo y cómo es usado nuestro producto?  
@@ -226,7 +226,7 @@ Los arrendadores la utilizarán para alquilar un scooter cuando lo necesiten.
 - Transparencia en Compensación: Información clara sobre cómo se alquila un scooter.  
 
 **Business Assumptions**  
-1. Creemos que nuestros clientes necesitan una plataforma que les permita alquilar y dar en alquiler scooters eléctricos de manera rapida y sencilla. Los arrendadores buscan personas que alquilen sus scooters mientras que los arrendatarios buscan alquilar el scooter ideal para sus necesidades.
+1. Creemos que nuestros clientes necesitan una plataforma que les permita alquilar y dar en alquiler scooters eléctricos de manera rápida y sencilla. Los arrendadores buscan personas que alquilen sus scooters mientras que los arrendatarios buscan alquilar el scooter ideal para sus necesidades.
 
 2. Estas necesidades se pueden resolver con una aplicación web que de alquiler de scooters eléctricos y permita a las personas dueñas de uno o más scooters obtengan un ingreso extra.  
 
@@ -287,6 +287,6 @@ Aspectos geográficos:
 Nacionalidad: Peruana y extranjera residente en Perú.
 Zona geográfica en la que viven: Zonas urbanas.
 
-Aspecto psicográfico: Buscan alquilar scooters eléctricos para momentos específicos y no ven viablw comprar uno propio.
+Aspecto psicográfico: Buscan alquilar scooters eléctricos para momentos específicos y no ven viable comprar uno propio.
 
 
