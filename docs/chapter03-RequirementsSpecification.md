@@ -120,17 +120,19 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
   </tr>
 </table>
 
-| Epic/Story ID | Titulo                       | Descripcion | Criterios de Aceptacion | Epic ID |
-|---------------|------------------------------|-------------|-------------------------|---------|
-|US01| Landing page - Suscripciones | Como visitante interesado, quiero ver los diferentes planes para elegir el que mejor se adapte a mis necesidades|
-|US02| Landing page - About the team| Como viistante interesado, quiero conocer al equipo detras del producto para sentirme conectado y confiado en la empresa|
-|US03| Landing page - Testimonios | Como visitante interesado, quiero leer los testimonios de otros clientes para confiar en la calidad del producto|
-|US04| Landing page - About Product | Como vistante interesado, quiero ver una descripcion clara del producto para entender sus beneficios y caracteristicas|
+| Epic/Story ID | Titulo                        | Descripcion                                                                                                                      | Criterios de Aceptacion | Epic ID |
+|---------------|-------------------------------|----------------------------------------------------------------------------------------------------------------------------------|------------------------|---------|
+| EP01          | Landing page                  | Como miembro de CiberMach quiero desarrollar una landing page para informar acerca del servicio a los posibles clientes          |                        |                         |
+| EP02          | Gestion de cuenta   | Como usuario quiero gestionar mi cuenta para mantener actualizados mis datos y acceder a la cuenta de manera segura              |                        |                         |
+| EP04          | Gestion de vehiculos          | Como Owner quiero agregar y gestionar mis vehiculos para asegurarme que esten disponibles y en buen estado para el alquiler      |                        |                         |
+| EP05          | Gestion de reservas y uso     | Como cliente quiero gestionar mis reservas y el uso de vehiculos para planificar y controlar mis recorridos.                     |                        |                         |
+| EP06          | Pagos y facturacion           | Como cliente quiero gestionar mis pagos y facturacion para realizar transacciones de manera segura y ver mi historial de pagos   |                        |                         |
+| EP07          | Seguridad y soporte           | Como usuario quiero acceder a soporte y reportar proble,as para asegurarme de que mi experiencia sea segura y sin inconvenientes |                        |                         |
+| US01          | Landing page - Suscripciones  | Como visitante interesado, quiero ver los diferentes planes para elegir el que mejor se adapte a mis necesidades                 |                        ||
+| US02          | Landing page - About the team | Como viistante interesado, quiero conocer al equipo detras del producto para sentirme conectado y confiado en la empresa         |                        | |
+| US03          | Landing page - Testimonios    | Como visitante interesado, quiero leer los testimonios de otros clientes para confiar en la calidad del producto                 |                        ||
+| US04          | Landing page - About Product  | Como vistante interesado, quiero ver una descripcion clara del producto para entender sus beneficios y caracteristicas           |                        ||
 
-
-
-|#Orden|User Story Id|Titulo|Descripcion| StoryPoints (1/2/3/5/8)|
-|---|---|---|---|---|
 
 
 ## 3.3. Impact Mapping
@@ -237,5 +239,10 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
     <td valign="top"> 4 </td>
   </tr>
 </table>
+
+
+|#Orden|User Story Id|Titulo|Descripcion| StoryPoints (1/2/3/5/8)|
+|---|---|---|---|---|
+
 
 ---
