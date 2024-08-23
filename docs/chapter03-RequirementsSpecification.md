@@ -116,35 +116,35 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
   </tr>
   <tr>
     <td valign="top"> 09 </td>
-    <td valign="top"> US05 </td>
-    <td valign="top"> Pago del servicio </td>
-    <td valign="top"> Como cliente, quiero poder pagar mi alquiler de scooter de manera rápida y segura para completar mi viaje. </td>
-    <td valign="top"> 4 </td>
-  </tr>
-  <tr>
-    <td valign="top"> 09 </td>
-    <td valign="top"> US05 </td>
+    <td valign="top"> US09 </td>
     <td valign="top"> Pago del servicio </td>
     <td valign="top"> Como cliente, quiero poder pagar mi alquiler de scooter de manera rápida y segura para completar mi viaje. </td>
     <td valign="top"> 4 </td>
   </tr>
   <tr>
     <td valign="top"> 10 </td>
-    <td valign="top"> US05 </td>
+    <td valign="top"> US10 </td>
     <td valign="top"> Pago del servicio </td>
     <td valign="top"> Como cliente, quiero poder pagar mi alquiler de scooter de manera rápida y segura para completar mi viaje. </td>
     <td valign="top"> 4 </td>
   </tr>
   <tr>
     <td valign="top"> 11 </td>
-    <td valign="top"> US05 </td>
+    <td valign="top"> US11 </td>
     <td valign="top"> Pago del servicio </td>
     <td valign="top"> Como cliente, quiero poder pagar mi alquiler de scooter de manera rápida y segura para completar mi viaje. </td>
     <td valign="top"> 4 </td>
   </tr>
   <tr>
     <td valign="top"> 12 </td>
-    <td valign="top"> US05 </td>
+    <td valign="top"> US12 </td>
+    <td valign="top"> Pago del servicio </td>
+    <td valign="top"> Como cliente, quiero poder pagar mi alquiler de scooter de manera rápida y segura para completar mi viaje. </td>
+    <td valign="top"> 4 </td>
+  </tr>
+  <tr>
+    <td valign="top"> 13 </td>
+    <td valign="top"> US13 </td>
     <td valign="top"> Pago del servicio </td>
     <td valign="top"> Como cliente, quiero poder pagar mi alquiler de scooter de manera rápida y segura para completar mi viaje. </td>
     <td valign="top"> 4 </td>
