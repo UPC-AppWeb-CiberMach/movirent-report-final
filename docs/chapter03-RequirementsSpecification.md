@@ -177,7 +177,146 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
             <b>Dado que</b> el usuario quiera cambiar su foto <br/>
             <b>Cuando</b> ingrese la nueva foto, esta sea validada por el usuario y confirme su intención de proceder con el cambio<br/>
             <b>Entonces</b> la nueva foto será guardada y la información actualizada<br/>
+            <b>Scenario 4: Cambiar número de celular</b> <br/>
+            <b>Dado que</b> el usuario quiera cambiar su número de celular <br/>
+            <b>Cuando</b> ingrese el nuevo número, esta sea validada por el sistema y el usuario confirme su intención de proceder con el cambio <br/>
+            <b>Entonces</b> el nuevo número será guardado y la información actualizada<br/>
+            <b>Scenario 5: No cambiar información</b> <br/>
+            <b>Dado que</b> el usuario no quiera cambiar su información <br/>
+            <b>Cuando</b> aparezca el pop up para confirmar el cambio y seleccione la opción para cancelar cambio<br/>
+            <b>Entonces</b> el pop up desaparecerá y el cambio no se realizará<br/>
         <td>EP02</td>
+    </tr>
+    <tr>
+        <td>US07</td>
+        <td>Eliminar cuenta de usuario</td>
+        <td><b>Cómo</b>Owner/Cliente de MoviTech 
+        <b>Quiero</b> eliminar mi cuenta de usuario
+        <b>Para</b> dejar de usar los servicios de la aplicación</td>
+        <td>
+            <b>Scenario 1: Owner/Cliente elimina cuenta de usuario </b> <br/>
+            <b>Dado que</b> el Owner/Cliente desee eliminar su cuenta de usuario <br/>
+            <b>Cuando</b> seleccione la opción de eliminar cuenta en su perfil Y confirme su intención para proceder con la operación<br/>
+            <b>Entonces</b> el sistema eliminará la cuenta y todos los datos almacenados. <br/>
+            <b>Scenario 2: Owner/Cliente no elimina cuenta de usuario</b> <br/>
+            <b>Dado que</b> el Owner/Cliente desee eliminar su cuenta de usuario <br/>
+            <b>Cuando</b> niegue su intención para proceder con la operación<br/>
+            <b>Entonces</b> el sistema regresará a la vista de su cuenta sin eliminar los datos.<br/>
+        <td>EP02</td>
+    </tr>
+    <tr>
+        <td>US08</td>
+        <td>Publicar scooter en alquiler</td>
+        <td><b>Cómo</b> Owner de un scooter eléctrico  
+        <b>Quiero</b> crear publicaciones con la información y especificaciones de mi scooter
+        <b>Para</b> que pueda ser alquilado por un cliente</td>
+        <td>
+            <b>Scenario 1: Owner publica su scooter en MoviTech </b> <br/>
+            <b>Dado que</b> el Owner cuente con una cuenta en nuestra aplicación Y se encuentre el la opción de “Publicar scooter” <br/>
+            <b>Cuando</b> llene todas las casillas obligatorias para publicar su scooter Y le de al botón “Publicar”<br/>
+            <b>Entonces</b> el sistema le muestra un aviso de que su scooter ha sido publicado. <br/>
+           <b>Scenario 2: Owner cancela la publicación de su scooter en MoviTech</b> <br/>
+            <b>Dado que</b> el Owner cuente con una cuenta en nuestra aplicación Y se encuentre el la opción de “Publicar scooter”  <br/>
+            <b>Cuando</b> le de al botón de “Cancelar”<br/>
+            <b>Entonces</b> el sistema le muestra un aviso de que se ha cancelado la publicación.<br/>
+           <b>Scenario 3: Owner no publica su scooter en MoviTech </b> <br/>
+            <b>Dado que</b> el Owner cuente con una cuenta en nuestra aplicación Y se encuentre el la opción de “Publicar scooter” <br/>
+            <b>Cuando</b> no llene todas las casillas obligatorias para publicar su scooter Y le de al botón “Publicar”<br/>
+            <b>Entonces</b> el sistema le muestra un aviso de que se no ha completado la información requerida. Y no se publica su scooter<br/>
+        <td>EP03</td>
+    </tr>
+    <tr>
+        <td>US09</td>
+        <td>Visualizar un scooter en alquiler</td>
+        <td><b>Cómo</b>Owner de un scooter eléctrico 
+        <b>Quiero</b> visualizar las publicaciones con la información y especificaciones de mi scooter
+        <b>Para</b> verificar que toda la información ingresada es correcta y actualizada.</td>
+        <td>
+            <b>Scenario 1: Owner visualiza su scooter en MoviTech </b> <br/>
+            <b>Dado que</b> el Owner se encuentre en la aplicación de MoviTech <br/>
+            <b>Cuando</b> se dirija a la opción de “Ver mis scooters”<br/>
+            <b>Entonces</b> el sistema le mostrará la información de los scooters publicados.<br/>
+            <b>Scenario 2: Owner cancela la visualización de su scooter en MoviTech </b> <br/>
+            <b>Dado que</b> el Owner se encuentre en la aplicación de MoviTech<br/>
+            <b>Cuando</b> se dirija a la opción de “Ver mis scooters” Y le de al botón de “Salir” <br/>
+            <b>Entonces</b> el sistema lo sacará de la ventana de “Ver mis scooters”<br/>
+        <td>EP03</td>
+    </tr>
+    <tr>
+        <td>US10</td>
+        <td>Editar Scooter en alquiler</td>
+        <td><b>Cómo</b>Owner de un scooter eléctrico 
+        <b>Quiero</b> editar la publicación de mi scooter
+        <b>Para</b> que la información proporcionada a los clientes esté siempre actualizada.</td>
+        <td>
+            <b>Scenario 1: Owner edita la publicación de su scooter en MoviTech</b> <br/>
+            <b>Dado que</b> el Owner se encuentra en el apartado de “Mis scooters” Y le de al botón “Editar” de una publicación. <br/>
+            <b>Cuando</b> actualice correctamente la información<br/>
+            <b>Entonces</b> el sistema le muestra un aviso de que su scooter ha sido actualizado<br/>
+            <b>Scenario 2: Owner cancela la edición de la publicación de su scooter en MoviTech</b> <br/>
+            <b>Dado que</b> el Owner se encuentra en el apartado de “Mis scooters” Y le de al botón “Editar” de una publicación. <br/>
+            <b>Cuando</b> le de al botón de “Cancelar”<br/>
+            <b>Entonces</b> el sistema cierra la ventana de edición de publicación<br/>
+            <b>Scenario 3: Owner no edita la publicación de su scooter en MoviTech</b> <br/>
+            <b>Dado que</b> el Owner se encuentra en el apartado de “Mis scooters” Y le de al botón “Editar” de una publicación. <br/>
+            <b>Cuando</b> o ingrese incorrectamente la información Y le de al botón de “Aceptar”<br/>
+            <b>Entonces</b> el sistema le muestra un aviso de que su scooter no ha sido actualizado.<br/>
+        <td>EP03</td>
+    </tr>
+    <tr>
+        <td>US11</td>
+        <td>Eliminar scooter en alquiler</td>
+        <td><b>Cómo</b>Owner 
+        <b>Quiero</b> eliminar un scooter en alquiler
+        <b>Para</b> mantener la integridad de la información almacenada</td>
+        <td>
+            <b>Scenario 1: Owner borra scooter en alquiler</b> <br/>
+            <b>Dado que</b> el Owner se encuentra en el apartado de “Mis scooters” Y le de al botón “Eliminar” de una publicación. <br/>
+            <b>Cuando</b> confirme su intención de borrar los datos<br/>
+            <b>Entonces</b> el sistema eliminará de la base de datos toda la información almacenada de ese scooter<br/>
+            <b>Scenario 2: Owner decide no borrar scooter </b> <br/>
+            <b>Dado que</b> el Owner se encuentra en el apartado de “Mis scooters” Y le de al botón “Eliminar” de una publicación.<br/>
+            <b>Cuando</b> o niegue su intención de borrar los datos <br/>
+            <b>Entonces</b> el sistema no eliminará la información del scooter. <br/>
+        <td>EP03</td>
+    </tr>
+    <tr>
+        <td>US12</td>
+        <td>Alquiler Scooter</td>
+        <td><b>Cómo</b>Cliente de MoviTech 
+        <b>Quiero</b> alquilar un scooter
+        <b>Para</b> llegar rápido a mi destino</td>
+        <td>
+            <b>Scenario 1: Owner alquila un scooter en MoviTech</b> <br/>
+            <b>Dado que</b> el Cliente se encuentra en el apartado de “Scooters” Y le de al botón “Ver detalles” de una publicación. Y se dé al botón de “Alquilar” <br/>
+            <b>Cuando</b> el sistema le muestre la ventana de pago. Y se complete la información requerida <br/>
+            <b>Entonces</b> el sistema le mostrará un aviso de que el scooter ha sido alquilado con éxito y que puede ir a recogerlo para su uso.<br/>
+            <b>Scenario 2: Owner cancela el alquiler de un scooter en MoviTech </b> <br/>
+            <b>Dado que</b> el Cliente se encuentra en el apartado de “Scooters” Y le de al botón “Ver detalles”de una publicación. Y se dé al botón de “Alquilar” <br/>
+            <b>Cuando</b> el sistema le muestre la ventana de pago. Y le de al botón de “Cancelar” <br/>
+            <b>Entonces</b> el sistema le mostrará un aviso de que se ha cancelado la operación<br/>
+            <b>Scenario 3: Owner no alquila un scooter en MoviTech</b> <br/>
+            <b>Dado que</b> el Cliente se encuentra en el apartado de “Scooters” Y le de al botón “Ver detalles” de una publicación. Y se dé al botón de “Alquilar”<br/>
+            <b>Cuando</b> el sistema le muestre la ventana de pago. Y no se complete la información requerida<br/>
+            <b>Entonces</b> el sistema le mostrará un aviso de que no se ha podido proceder con el pago.<br/>
+        <td>EP04</td>
+    </tr>
+    <tr>
+        <td>US13</td>
+        <td>Visualizar historial de scooters alquilados</td>
+        <td><b>Cómo</b> Cliente de MoviTech
+        <b>Quiero</b> visualizar mi historial de scooters alquilados
+        <b>Para</b> acceder fácilmente a su información</td>
+        <td>
+            <b>Scenario 1: Cliente visualiza su historial de scooters alquilados </b> <br/>
+            <b>Dado que</b> el Cliente se encuentre en la aplicación de MoviTech Y ya ha alquilado scooters anteriormente<br/>
+            <b>Cuando</b> se dirija a la opción de “Ver historial”<br/>
+            <b>Entonces</b> el sistema le mostrará la información de los scooters que alquiló anteriormente.<br/>
+            <b>Scenario 2: Cliente no visualiza su historial de scooters alquilados</b> <br/>
+            <b>Dado que</b> el Cliente se encuentre en la aplicación de MoviTech Y no ha alquilado scooters anteriormente <br/>
+            <b>Cuando</b> se dirija a la opción de “Ver historial”<br/>
+            <b>Entonces</b> el sistema mostrará un mensaje de que aún no ha alquilado ningún scooter. <br/>
+        <td>EP05</td>
     </tr>
     <tr>
         <td>US0000</td>
