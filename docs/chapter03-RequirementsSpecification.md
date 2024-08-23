@@ -151,9 +151,4 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
   </tr>
 </table>
 
-
-|#Orden|User Story Id|Titulo|Descripcion| StoryPoints (1/2/3/5/8) |
-|---|---|---|---|------------------------|
-|||||                        |
-
 ---
