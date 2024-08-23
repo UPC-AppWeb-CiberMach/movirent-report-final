@@ -45,7 +45,7 @@
   <tr>
     <td rowspan="2" valign="top">Perfil de Marketing</td>
     <td valign="top">Mercado objetivo</td>
-    <td valign="top">Personas de entre 18 y 35 años que requieren movilizarse por la ciudad de Lima y personas de entre 18 y 60 para el alquiler.</td>
+    <td valign="top">Personas de entre 18 y 65 años que requieren movilizarse por la ciudad de Lima y personas de entre 18 y 65 para el alquiler.</td>
     <td valign="top">Personas mayores a 18 años, para habitantes de Lima, visitantes y turistas.</td>
     <td valign="top">Personas mayores de 15 años que se deben movilizar por Lima Metropolitana diariamente.</td>
     <td valign="top">Personas mayores de 18 años que busquen promover los vehículos de micromovilidad.</td>
@@ -60,7 +60,7 @@
   <tr>
     <td rowspan="3" valign="top">Perfil de Producto</td>
     <td valign="top">Productos & Servicios</td>
-    <td valign="top">Alquiler scooters.</td>
+    <td valign="top">Alquilerde scooters.</td>
     <td valign="top">Alquiler de bicicletas.</td>
     <td valign="top">Alquiler de scooters y mantenimiento.</td>
     <td valign="top">Alquiler de vehículos y servicio de reparaciones.</td>
@@ -190,11 +190,11 @@ MoviRent puede enfocarse en desarrollar caracteristicas y funcionalidades unicas
 MoviRent puede enfocarse en segmentos especificos del mercado donde pueda ofrecer un valor diferenciado y adaptado.
 Aprovecha la oportunidad de expandir nuestro servicio a otras áreas metropolitanas y turísticas, más allá de la ubicación actual de nuestros competidores. Esto nos permitirá alcanzar a una base de usuarios más amplia y capturar nuevos mercados.
 
-#### Tacticas especificas para MoviRent:
+#### Tácticas específicas para MoviRent:
 
 1. Estrategia de precios
 
-Ajustar estrategicamente los precios de suscripcion para competir de manera efectiva en el mercado
+Ajustar estrategicamente los precios de suscripción para competir de manera efectiva en el mercado
 
 2. Inversion en marketing diferenciado
 
@@ -421,7 +421,7 @@ cómo se siente nuestro usuario al usar la aplicación, detallando cada paso que
 **Segmento 1 - Owner:**   
 <img src="..//assets/chapter-02/user-journey-mapping/mapping1.jpg" alt="Owner">
 
-**Segmento 2 - CLient:**   
+**Segmento 2 - Client:**   
 <img src="..//assets/chapter-02/user-journey-mapping/mapping2.jpg" alt="Client">
 
 ### 2.3.4. Empathy Mapping
@@ -464,16 +464,12 @@ objetivos.
             <td>Cualquier persona que utiliza la plataforma para alquilar un vehículo</td>
         </tr>
         <tr>
-            <td>Go</td>
+            <td>Get Started</td>
             <td>Comenzar a utilizar el servicio</td>
         </tr>
         <tr>
-            <td>MyWallet</td>
-            <td>Ingreso obtenido por alquilar tu vehículo</td>
-        </tr>
-        <tr>
-            <td>Routes</td>
-            <td>Registro de rutas seguidas en trayecto del viaje</td>
+            <td>My Scooters</td>
+            <td>Lista de scooters puestos en alquiler por un Owner</td>
         </tr>
         <tr>
             <td>Benefits</td>
