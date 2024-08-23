@@ -42,7 +42,7 @@ web ofrece una experiencia excepcional, garantizando la disponibilidad y segurid
     <tbody>
         <tr>
             <td>Adriana María Diestra Zambrano</td>
-            <td><img src="Link de la foto de Adriana" width="370"/></td>
+            <td><img src="../assets/chapter-01/photos/Adriana.png" width="370"/></td>
             <td>Estudiante de la carrera Ingeniería de Software de 6to ciclo. Con conocimientos en C++, Python, HTML y CSS. Así como también trabajo colaborativo y participación en grupo.</td>
         </tr>
         <tr>
