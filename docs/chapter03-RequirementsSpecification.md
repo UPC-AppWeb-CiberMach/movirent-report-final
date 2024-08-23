@@ -11,40 +11,188 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
 
 ## 3.2. User Stories
 
-| Epic/Story ID | Titulo                        | Descripcion                                                                                                                      | Criterios de Aceptacion | Epic ID |
-|---------------|-------------------------------|----------------------------------------------------------------------------------------------------------------------------------|------------------------|---------|
-| EP01          | Landing page                  | **Como** miembro de MoviTech **quiero** desarrollar una landing page **para** informar acerca del servicio a los posibles clientes.          |                        |         |
-| EP02          | Gestion de cuenta             | **Como** usuario **quiero** gestionar mi cuenta **para** mantener actualizados mis datos y acceder a la cuenta de manera segura.              |                        |         |
-| EP04          | Gestion de vehiculos          | **Como** Owner **quiero** agregar y gestionar mis vehiculos **para** asegurarme que esten disponibles y en buen estado para el alquiler.      |                        |         |
-| EP05          | Gestion de reservas y uso     | **Como** cliente **quiero** gestionar mis reservas y el uso de vehiculos **para** planificar y controlar mis recorridos.                     |                        |         |
-| EP06          | Pagos y facturacion           | **Como** cliente **quiero** gestionar mis pagos y facturacion **para** realizar transacciones de manera segura y ver mi historial de pagos.   |                        |         |
-| EP07          | Seguridad y soporte           | **Como** usuario **quiero** acceder a soporte y reportar problemas **para** asegurarme de que mi experiencia sea segura y sin inconvenientes. |                        |         |
-| US01          | Landing page - Suscripciones  | **Como** visitante interesado, **quiero** ver los diferentes planes **para** elegir el que mejor se adapte a mis necesidades.                 |                        | EP01    |
-| US02          | Landing page - About the team | **Como** visitante interesado, **quiero** conocer al equipo detras del producto **para** sentirme conectado y confiado en la empresa.         |                        | EP01    |
-| US03          | Landing page - Testimonios    | **Como** visitante interesado, **quiero** leer los testimonios de otros clientes **para** confiar en la calidad del producto.                 |                        | EP01    |
-| US04          | Landing page - About Product  | **Como** visitante interesado, **quiero** ver una descripcion clara del producto **para** entender sus beneficios y caracteristicas.           |                        | EP01    |
-| US05          | Registro de usuario           | **Como** usuario **quiero** crear una cuenta con mi correo electronico **para** representarme en la aplicación.            || EP02    |
-| US06          | Iniciar sesión                | **Como** owner/cliente de MoviTech, **quiero** iniciar sesión **para** acceder a los benificios que ofrece la aplicación.         ||
-| US07          | Visualizar perfil de usuario  | **Como** owner/cliente de MoviTech, **quiero** visualizar mi perfil personal **para** visualizar mis datos actuales.                                                                                                                           ||
-| US08          | Cambiar datos personales      | **Como** owner/cliente de MoviTech, **quiero** cambiar los datos asociados a mi perfil **para** poder actualizar la información.    ||
-| US09          | Eliminar cuenta de usuario    | **Como** owner/cliente de MoviTech, **quiero** eliminar mi cuenta de usuario **para** dejar de usar los servicios de la aplicación. ||
-| US10          | Publicar scooter en alquiler  | **Como** owner de un scooter eléctrico, **quiero** crear publicaciones con la información y especificaciones de mi scooter **para** que pueda ser alquilado por un cliente.  ||
-| US11          | Visualizar un scooter en alquiler | **Como** owner de un scooter eléctrico, **quiero** visualizar las publicaciones con la información y especificaciones de mi scooter **para** verificar que toda la información ingresada es correcta y actualizada.  ||
-| US12          | Editar scooter en alquiler   | **Como** owner de un scooter eléctrico, **quiero** editar la publicación de mi scooter **para** que la información proporcionada a los clientes esté siempre actualizada.  ||
-| US13          | Eliminar scooter en alquiler | **Como** owner **quiero** eliminar un scooter en alquiler **para** mantener la integridad de la información almacenada.           ||
-| US14          | Alquiler scooter eléctrico   | **Como** cliente de MoviTech, **quiero** alquilar un scooter eléctrico **para** llegar rápido a mi destino. ||
-| US15          | Visualizar historial de scooters alquilados | **Como** cliente de Movitech, **quiero** visualizar mi historial de scooters alquilados **para** acceder fácilmente a su información.  ||
-| US16          | Borrar historial de scooters alquilados  | **Como** cliente de MoviTech, **quiero** borrar mi historial de scooters alquilados **para** ya no tener información que considere innecesaria. ||
-| US17          | Comprar membresía             | **Como** cliente de MoviTech, **quiero** comprar mi membresía **para** acceder a sus beneficios al usar la aplicación.           ||
-| US18          | Cancelar membresía            | **Como** cliente de MoviTech, **quiero** cancelar mi membresía **para** ya no seguir teniendo cobros de esta.                 ||
-| US19          |                               |                                                                                                                                  ||
-| US20          |                               |                                                                                                                                  ||
-| US21          |                               |                                                                                                                                  ||
-| US22          |                               |                                                                                                                                  ||
-| US23          |                               |                                                                                                                                  ||
-| US24          |                               |                                                                                                                                  ||
-| US25          |                               |                                                                                                                                  ||
-
+<table >
+    <tr>
+        <th>Epic / Story ID</th>
+        <th>Título</th>
+        <th>Descripción</th>
+        <th>Criterios de Aceptación</th>
+        <th>Relacionado con (Epic ID)</th>
+    </tr>
+    <tr>
+        <td>EP01</td>
+        <td>Landing page para la aplicacion MoviTech</td>
+        <td><b>Cómo</b> miembro de Movitech <b>Quiero</b> desarrollar una landing page <b>Para</b> informar acerca del servicio a los posibles clientes.</td>
+        <td>No corresponde</td>
+        <td>No corresponde</td>
+    </tr>
+    <tr>
+        <td>EP02</td>
+        <td>Gestion de cuenta de usuario</td>
+        <td><b>Cómo</b> Owner/Cliente de Movitech <b>Quiero</b> crear, visualizar, eliminar y editar mi cuenta <b>Para</b> tener mis datos actualizados y comenzar a hacer uso de la aplicacion correctamente.</td>
+        <td>No corresponde</td>
+        <td>No corresponde</td>
+    </tr>
+    <tr>
+        <td>EP03</td>
+        <td>Gestion de scooters en alquier</td>
+        <td><b>Cómo</b> Owner de Movitech <b>Quiero</b> agregar y gestionar mis vehiculos <b>Para</b> asegurarme que esten disponibles y en buen estado para el alquiler.</td>
+        <td>No corresponde</td>
+        <td>No corresponde</td>
+    </tr>
+    <tr>
+        <td>EP04</td>
+        <td>Gestion de reservas</td>
+        <td><b>Cómo</b> cliente de Movitech <b>Quiero</b> gestionar mis reservas y el uso de vehiculos <b>Para</b> planificar y controlar mis recorridos. </td>
+        <td>No corresponde</td>
+        <td>No corresponde</td>
+    </tr>
+    <tr>
+        <td>EP05</td>
+        <td>Gestionar historial de reservas</td>
+        <td><b>Cómo</b> usuario de Movitech <b>Quiero</b> poder ver el historial completo de las reservas realizadas<b>Para</b> consultar detalles como fechas de alquiler, tipo, lugar de recogida y devolucion. </td>
+        <td>No corresponde</td>
+        <td>No corresponde</td>
+    </tr>
+    <tr>
+        <td>EP06</td>
+        <td>Gestion de planes</td>
+        <td><b>Cómo</b> cliente de Movitech <b>Quiero</b> tener una gestion y control de mi plan <b>Para</b> poder adquirirlo y comprarlo cuando lo requiera</td>
+        <td>No corresponde</td>
+        <td>No corresponde</td>
+    </tr>
+    <tr>
+        <td>US01</td>
+        <td>Descripcion de la aplicacion y startup</td>
+        <td><b>Cómo</b>visitante interesado 
+        <b>Quiero</b> ver una descripcion clara del producto
+        <b>Para</b> entender sus beneficios y caracteristicas.</td>
+        <td>
+            <b>Scenario 1: Visualizar seccion Home</b> <br/>
+            <b>Dado que</b> el owner tiene acceso a la aplicación, <br/>
+            <b>Cuando</b> registra un nuevo vehículo <br/>
+            <b>Entonces</b> Ingresa los detalles o caracteristicas del vehículo, como marca, modelo, tipo (bicicleta, scooter, moto eléctrica, etc.), disponibilidad, ubicación del vehículo, <br/>
+            <b>Scenario 2: Acceder a la sección "About us</b> <br/>
+            <b>Dado que</b> el visitante se encuentre dentro de la landing page <br/>
+            <b>Cuando</b> navegue hasta la sección “About Us” <br/>
+            <b>Entonces</b> se muestra información importante sobre la startup. <br/>
+            <b>Scenario 3: Acceder a la sección "Services"</b> <br/>
+            <b>Dado que</b> el visitante se encuentre dentro de la landing page<br/>
+            <b>Cuando</b> navegue hasta la sección “Services” <br/>
+            <b>Entonces</b> se muestra información sobre los servicios que ofrece MoviTech<br/>
+            <b>Scenario 4: Explorar la sección "Pricing"</b> <br/>
+            <b>Dado que</b> el visitante se encuentre dentro de la landing page<br/>
+            <b>Cuando</b> navegue hasta la sección “Pricing” <br/>
+            <b>Entonces</b> se muestra la información relacionada a los planes de pago que se ofrecen y cuáles son los beneficios de cada uno de estos.<br/>
+            <b>Scenario 5: Conocer al equipo en "About The Team"</b> <br/>
+            <b>Dado que</b> el visitante se encuentre dentro de la landing page <br/>
+            <b>Cuando</b>  navegue hasta la sección “About The Team”<br/>
+            <b>Entonces</b> se muestra la información correspondiente a los videos about the project y about the team, además de la información de cada uno de los miembros.<br/>
+        <td>EP01</td>
+    </tr>
+    <tr>
+        <td>US02</td>
+        <td>Acceder a la aplicación desde la landing page </td>
+        <td><b>Cómo</b> visitante de la landing page 
+        <b>Quiero</b> poder acceder a la aplicación MoviTech desde la landing page
+        <b>Para</b> comenzar a utilizar las funcionalidades ofrecidas</td>
+        <td>
+            <b>Scenario 1: Usuario ingresa a aplicación</b> <br/>
+            <b>Dado que</b> el visitante se encuentra en la landing page <br/>
+            <b>Cuando</b> seleccione la opción que permite el acceso al software elaborado<br/>
+            <b>Entonces</b> es redirigido a la aplicación desplegada<br/>
+            <b>Scenario 2: Fallo en el acceso a la aplicación</b> <br/>
+            <b>Dado que</b> el visitante se encuentre en la landing page <br/>
+            <b>Cuando</b> seleccione la opción que permite el acceso al software elaborado y ocurra un error en el proceso de redirección<br/>
+            <b>Entonces</b> el usuario obtiene un mensaje de error.<br/>
+        <td>EP01</td>
+    </tr>
+    <tr>
+        <td>US03</td>
+        <td>Registrar usuario</td>
+        <td><b>Cómo</b>visitante de la aplicación web de MoviTech
+        <b>Quiero</b> poder crear una cuenta personal
+        <b>Para</b> comenzar a hacer uso de la aplicación como Owner/Cliente.</td>
+        <td>
+            <b>Scenario 1: Usuario ingresa credenciales válidas.</b> <br/>
+            <b>Dado que</b> el visitante desee crear una cuenta personal en la aplicación MoviTech <br/>
+            <b>Cuando</b> ingrese las credenciales de una cuenta inexistente en la base de datos MoviTech, una contraseña que cumple con todos los requisitos de seguridad, su DNI real y acepte los términos y condiciones de uso <br/>
+            <b>Entonces</b> se creará la cuenta de usuario.<br/>
+            <b>Scenario 2: Usuario ingresa credenciales incorrectas.</b> <br/>
+            <b>Dado que</b> Usuario ingresa credenciales incorrectas. <br/>
+            <b>Cuando</b> ingrese una dirección de correo electrónico o contraseña o DNI que no cumplen con los requisitos especificados<br/>
+            <b>Entonces</b> se le denegará la operación<br/>
+        <td>EP02</td>
+    </tr>
+    <tr>
+        <td>US04</td>
+        <td>Iniciar sesion</td>
+        <td><b>Cómo</b>Owner/Cliente de MoviTech 
+        <b>Quiero</b> iniciar sesión
+        <b>Para</b> acceder a los beneficios que ofrece la aplicación.</td>
+        <td>
+            <b>Scenario 1: Usuario ingresa credenciales válidas </b> <br/>
+            <b>Dado que</b> el usuario posee una cuenta en la aplicación MoviTech y desee iniciar sesión <br/>
+            <b>Cuando</b> ingrese las credenciales necesarias correctamente<br/>
+            <b>Entonces</b> el sistema permitirá el acceso a la aplicación<br/>
+            <b>Scenario 2: Usuario ingresa credenciales incorrectas</b> <br/>
+            <b>Dado que</b> el usuario posee una cuenta en la aplicación MoviTech y desea iniciar sesión <br/>
+            <b>Cuando</b> ingrese alguna credencial de manera incorrecta <br/>
+            <b>Entonces</b> el sistema denegará la solicitud<br/>
+        <td>EP04</td>
+    </tr>
+    <tr>
+        <td>US05</td>
+        <td>Visualizar perfil de usuario</td>
+        <td><b>Cómo</b>Owner/Cliente de MoviTech 
+        <b>Quiero</b> visualizar mi perfil personal 
+        <b>Para</b> visualizar mis datos actuales</td>
+        <td>
+            <b>Scenario 1: Acceder al perfil personal</b> <br/>
+            <b>Dado que</b> el usuario desee visualizar su información personal <br/>
+            <b>Cuando</b>  ingrese a su perfil <br/>
+            <b>Entonces</b> obtendrá toda la información que registró previamente<br/>
+            <b>Scenario 2: Problema al acceder al perfil personal </b> <br/>
+            <b>Dado que</b> el usuario desee visualizar su información personal  <br/>
+            <b>Cuando</b> intente ingresar a su perfil Y experimente un error de conexión o de servidor <br/>
+            <b>Entonces</b> no se visualizarán los datos del perfil <br/>
+        <td>EP02</td>
+    </tr>
+    <tr>
+        <td>US06</td>
+        <td>Cambiar datos personales </td>
+        <td><b>Cómo</b>Owner/Cliente de MoviTech 
+        <b>Quiero</b> cambiar los datos asociados a mi perfil
+        <b>Para</b>actualizar la información</td>
+        <td>
+            <b>Scenario 1: Cambiar contraseña</b> <br/>
+            <b>Dado que</b> el usuario quiera cambiar su contraseña <br/>
+            <b>Cuando</b> ingrese la nueva contraseña, esta sea validada por el sistema y el usuario confirme su intención de proceder con el cambio<br/>
+            <b>Entonces</b> la nueva clave será guardada y la información actualizada.<br/>
+            <b>Scenario 2: Cambiar nombre</b> <br/>
+            <b>Dado que</b> el usuario quiera cambiar su nombre<br/>
+            <b>Cuando</b> ingrese el nuevo nombre, esta sea validada por el usuario y confirme su intención de proceder con el cambio <br/>
+            <b>Entonces</b> el nuevo nombre será guardado y la información actualizada<br/>
+            <b>Scenario 3: Cambiar foto</b> <br/>
+            <b>Dado que</b> el usuario quiera cambiar su foto <br/>
+            <b>Cuando</b> ingrese la nueva foto, esta sea validada por el usuario y confirme su intención de proceder con el cambio<br/>
+            <b>Entonces</b> la nueva foto será guardada y la información actualizada<br/>
+        <td>EP02</td>
+    </tr>
+    <tr>
+        <td>US0000</td>
+        <td>CA</td>
+        <td><b>Cómo</b>CA 
+        <b>Quiero</b> CA
+        <b>Para</b> CA</td>
+        <td>
+            <b>Scenario CA: CA</b> <br/>
+            <b>Dado que</b> CA <br/>
+            <b>Cuando</b> CA<br/>
+            <b>Entonces</b> CA<br/>
+        <td>EP01</td>
+    </tr>
+</table>
 
 ## 3.3. Impact Mapping
 
