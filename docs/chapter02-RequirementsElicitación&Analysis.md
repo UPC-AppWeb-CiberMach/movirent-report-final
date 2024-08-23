@@ -16,13 +16,13 @@
   </tr>
   <tr>
     <td colspan="2" rowspan="2" valign="top">Startup y Competidores</td>
-    <td valign="top">MoviTech</td>
+    <td valign="top">MoviRent</td>
     <td valign="top">City Bike</td>
     <td valign="top">Grin</td>
     <td valign="top">Emove</td>
   </tr>
   <tr>
-    <td valign="top"><img src="../assets/chapter-02/competitors/citybike.png" alt="Logo of MoviTech" height="100px"></td>
+    <td valign="top"><img src="../assets/chapter-02/competitors/citybike.png" alt="Logo of MoviRent" height="100px"></td>
     <td valign="top"><img src="../assets/chapter-02/competitors/citybike.png" alt="Logo of City Bike" height="100px"></td>
     <td valign="top"><img src="../assets/chapter-02/competitors/grin.png" alt="Logo of Grin" height="100px"></td>
     <td valign="top"><img src="../assets/chapter-02/competitors/emove.png" alt="Logo of Emove" height="100px"></td>
@@ -37,15 +37,15 @@
   </tr>
   <tr>
     <td valign="top">Ventaja competitiva ¿Qué valor ofrece a los clientes?</td>
-    <td valign="top">Una plataforma que permite a los usuarios alquilar scooters por suscripción y a los propietarios ganar dinero al poner sus vehículos en alquiler.</td>
+    <td valign="top">Una plataforma que permite poner en alquiler scooters, ganar dinero con ello. Asimismo, se puede rentar mediante suscripcion</td>
     <td valign="top">La forma de alquiler es mediante registros por plataforma web o móvil, la suscripción está disponible desde pase diario, mensual y anual.</td>
     <td valign="top">Permite a los usuarios alquilar mediante suscripción sus scooters. Además, ofrece mantenimiento gratuito.</td>
     <td valign="top">Permite a los usuarios el alquiler de vehículos, la compra y venta de accesorios nuevos como de segunda mano, a través de su sitio web.</td>
-  </tr>
+  </tr>   
   <tr>
     <td rowspan="2" valign="top">Perfil de Marketing</td>
     <td valign="top">Mercado objetivo</td>
-    <td valign="top">Personas de entre 18 y 35 años que requieren los servicios solo para ciudad de Lima y personas de entre 18 y 60 para el mantenimiento y alquiler.</td>
+    <td valign="top">Personas de entre 18 y 35 años que requieren movilizarse por la ciudad de Lima y personas de entre 18 y 60 para el alquiler.</td>
     <td valign="top">Personas mayores a 18 años, para habitantes de Lima, visitantes y turistas.</td>
     <td valign="top">Personas mayores de 15 años que se deben movilizar por Lima Metropolitana diariamente.</td>
     <td valign="top">Personas mayores de 18 años que busquen promover los vehículos de micromovilidad.</td>
@@ -60,7 +60,7 @@
   <tr>
     <td rowspan="3" valign="top">Perfil de Producto</td>
     <td valign="top">Productos & Servicios</td>
-    <td valign="top">Alquiler de vehículos menores.</td>
+    <td valign="top">Alquiler scooters.</td>
     <td valign="top">Alquiler de bicicletas.</td>
     <td valign="top">Alquiler de scooters y mantenimiento.</td>
     <td valign="top">Alquiler de vehículos y servicio de reparaciones.</td>
@@ -69,9 +69,9 @@
     <td valign="top">Precios & Costos</td>
     <td valign="top">
       Planes de suscripción:<br/>
-      - Plan semanal: s/. 59<br/>
-      - Plan base: s/. 199<br/>
-      - Plan premium: s/. 499
+      - Plan mensual: s/. 39<br/>
+      - Plan trimestral: s/. 99<br/>
+      - Plan anual: s/. 199<br/>
     </td>
     <td valign="top">
       Planes de suscripción:<br/> 
@@ -120,7 +120,7 @@
   <tr>
     <td valign="top">Debilidades</td>
     <td valign="top">
-      Dependencia de la disponibilidad y mantenimiento de los vehículos por parte de los propietarios.<br/>
+      Dependencia de la disponibilidad de los vehículos por parte de los propietarios.<br/>
       No contamos con un sistema de rastreo sofisticado.
     </td>
     <td valign="top">
@@ -157,7 +157,7 @@
   <tr>
     <td valign="top">Amenazas</td>
     <td valign="top">
-      Las personas no confían en el servicio.
+      Creciente aumento de competidores en el mercado de alquiler de scooters.
     </td>
     <td valign="top">
       Las invasiones de motorizados a ciclovías y los robos de equipos (bicicletas) en lugares con poca seguridad.
