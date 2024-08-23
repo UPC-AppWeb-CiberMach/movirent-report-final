@@ -173,8 +173,32 @@
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
 
-* Aprovecha la oportunidad de expandir nuestro servicio a otras áreas metropolitanas y turísticas, más allá de la ubicación actual de nuestros competidores. Esto nos permitirá alcanzar a una base de usuarios más amplia y capturar nuevos mercados.
-* Incluir a nuestro producto características como busqueda por zonas, notificaciones en tiempo real sobre disponibilidad de vehículos y opciones de pago seguras.
+Teniendo en cuenta el analisis SWOT se propone las siguientes estrategias competitivas:
+
+#### Estrategias competitivas para MoviRent:
+
+1. Liderazgo en costos:
+
+Podemos buscar optimizar los procesos que permitan reducir los gastos de infraestructura y ofrecer los servicios a precios mas competitivos que los competidores. 
+
+2. Diferenciación:
+
+MoviRent puede enfocarse en desarrollar caracteristicas y funcionalidades unicas que destaquen en su plataforma como lider en innovacion.
+
+3. Enfoque en segmentos especificos del mercado:
+
+MoviRent puede enfocarse en segmentos especificos del mercado donde pueda ofrecer un valor diferenciado y adaptado.
+Aprovecha la oportunidad de expandir nuestro servicio a otras áreas metropolitanas y turísticas, más allá de la ubicación actual de nuestros competidores. Esto nos permitirá alcanzar a una base de usuarios más amplia y capturar nuevos mercados.
+
+#### Tacticas especificas para MoviRent:
+
+1. Estrategia de precios
+
+Ajustar estrategicamente los precios de suscripcion para competir de manera efectiva en el mercado
+
+2. Inversion en marketing diferenciado
+
+Desarrollar mensajes y campañas de marketing que resalten las fortalezas unicas y la propuesta de valor de MoviRent.
 
 --- 
 
@@ -337,27 +361,6 @@ refleja la importancia de determinadas tareas.
             <td>alta</td>
         </tr>
         <tr>
-            <td>Buscar mecánico de confianza</td>
-            <td>varias veces</td>
-            <td>alta</td>
-            <td>rara vez</td>
-            <td>media</td>
-        </tr>
-        <tr>
-            <td>Separar cita con mecánico</td>
-            <td>varias veces</td>
-            <td>media</td>
-            <td>rara vez</td>
-            <td>media</td>
-        </tr>
-        <tr>
-            <td>Analizar costo y tiempo de mantenimiento</td>
-            <td>rara vez</td>
-            <td>media</td>
-            <td>rara vez</td>
-            <td>media</td>
-        </tr>
-        <tr>
             <td>Comunicarse por whatsapp con la persona a la que ofreció el servicio</td>
             <td>muchas veces</td>
             <td>alta</td>
@@ -481,20 +484,8 @@ objetivos.
             <td>Modelo de pago que permiten a los usuarios acceder a los servicios ofrecidos</td>
         </tr>
         <tr>
-            <td>Device</td>
-            <td>Cualquier parte del vehículo que ha sido reportada por el técnico</td>
-        </tr>
-        <tr>
             <td>Service history</td>
             <td>Registro de todas las solicitudes de servicio blindadas y ofrecidas por parte de los usuarios</td>
-        </tr>
-        <tr>
-            <td>Issue</td>
-            <td>Descripción detallada de falla en el vehículo</td>
-        </tr>
-        <tr>
-            <td>Warranty</td>
-            <td>Compromiso de reparar o darle mantenimiento de un vehículo dentro de un periodo de tiempo específico</td>
         </tr>
     </tbody>
 </table>
