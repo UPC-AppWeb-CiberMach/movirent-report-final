@@ -319,6 +319,65 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
         <td>EP05</td>
     </tr>
     <tr>
+        <td>US14</td>
+        <td>Borrar historial de scooters alquilados</td>
+        <td><b>Cómo</b> Cliente de MoviTech 
+        <b>Quiero</b> o borrar mi historial de scooters alquilados
+        <b>Para</b> ya no tener información que considere innecesaria. </td>
+        <td>
+            <b>Scenario 1: Cliente elimina su historial de scooters alquilados</b> <br/>
+            <b>Dado que</b> el Cliente se encuentre en la aplicación de MoviTech Y ya ha alquilado scooters anteriormente <br/>
+            <b>Cuando</b> se dirija a la opción de “Ver historial” Y le de al botón de “Borrar historial”. Y confirme la acción<br/>
+            <b>Entonces</b> el sistema le mostrará un mensaje de que su historial ha sido borrado. Y ya no mostrará la información del historial<br/>
+            <b>Scenario 2: Cliente no elimina su historial de scooters alquilados</b> <br/>
+            <b>Dado que</b> el Cliente se encuentre en la aplicación de MoviTech Y ya ha alquilado scooters anteriormente <br/>
+            <b>Cuando</b> se dirija a la opción de “Ver historial” Y le de al botón de “Borrar historial”. Y cancele la acción. <br/>
+            <b>Entonces</b> el sistema le mostrará un mensaje de que su historial no ha sido borrado.Y seguirá mostrando la información del historial.<br/>
+        <td>EP05</td>
+    </tr>
+    <tr>
+        <td>US15</td>
+        <td>Adquirir plan</td>
+        <td><b>Cómo</b> Cliente de MoviTech 
+        <b>Quiero</b> Comprar un plan
+        <b>Para</b> acceder a sus beneficios al usar la aplicación. </td>
+        <td>
+            <b>Scenario 1: Cliente compra una membresía en MoviTech </b> <br/>
+            <b>Dado que</b> el Cliente se encuentra en el apartado de “Membresía” Y el Cliente no cuente con una membresía. Y le de al botón “Subscribe” de una membresía. <br/>
+            <b>Cuando</b> el sistema le muestre la ventana de pago. Y se complete la información requerida <br/>
+            <b>Entonces</b> el sistema le mostrará un aviso de que la membresía se ha comprado con éxito. <br/>
+            <b>Scenario 2: Cliente cancela compra una membresía en MoviTech </b> <br/>
+            <b>Dado que</b> el Cliente se encuentra en el apartado de “Membresía” Y el Cliente no cuente con una membresía. Y le de al botón “Subscribe” de una membresía. <br/>
+            <b>Cuando</b> el sistema le muestre la ventana de pago. Y se dé al botón de cancelar<br/>
+            <b>Entonces</b> el sistema le mostrará un aviso de que se ha cancelado la compra de la membresía<br/>
+            <b>Scenario 3: Cliente no compra una membresía en MoviTech</b> <br/>
+            <b>Dado que</b> el Cliente se encuentra en el apartado de “Membresía” Y le de al botón “Subscribe” de una membresía. Y el Cliente no cuente con una membresía <br/>
+            <b>Cuando</b> el sistema le muestre la ventana de pago. Y no se complete la información requerida <br/>
+            <b>Entonces</b> el sistema le mostrará un aviso de que la membresía no se ha adquirido<br/>
+            <b>Scenario 4: Cliente cambia de membresía en MoviTech</b> <br/>
+            <b>Dado que</b> el Cliente se encuentra en el apartado de “Membresía” Y el Cliente cuente con una membresía. Y le de al botón “Subscribe” de una membresía. Y seleccione otra membresia diferente <br/>
+            <b>Cuando</b> el sistema le muestre la ventana de pago. Y se complete la información requerida<br/>
+            <b>Entonces</b> el sistema le mostrará un aviso de que la membresía se ha comprado con éxito<br/>
+        <td>EP06</td>
+    </tr>
+    <tr>
+        <td>US16</td>
+        <td>Cancelar suscripcion </td>
+        <td><b>Cómo</b>Cliente de MoviTech 
+        <b>Quiero</b> cancelar mi suscripcion
+        <b>Para</b> ya no seguir teniendo cobros de esta. </td>
+        <td>
+            <b>Scenario 1: Cliente cancela una membresía en MoviTech</b> <br/>
+            <b>Dado que</b> el Cliente se encuentra en el apartado de “Membresía” Y el Cliente cuente con una membresía. Y le de al botón “Cancelar Membresía” de una membresía. <br/>
+            <b>Cuando</b> el sistema le muestre la ventana de cancelación. Y se confirme la acción<br/>
+            <b>Entonces</b> el sistema le mostrará un aviso de que la membresía se ha cancelado con éxito.<br/>
+            <b>Scenario 2: Cliente no cancela una membresía en MoviTech</b> <br/>
+            <b>Dado que</b> el Cliente se encuentra en el apartado de “Membresía” Y el Cliente cuente con una membresía. Y le de al botón “Cancelar Membresía” de una membresía.<br/>
+            <b>Cuando</b> el sistema le muestre la ventana de cancelación. Y no confirme la acción<br/>
+            <b>Entonces</b> el sistema le mostrará un aviso de que la membresía no se ha cancelado.<br/>
+        <td>EP06</td>
+    </tr>
+    <tr>
         <td>US0000</td>
         <td>CA</td>
         <td><b>Cómo</b>CA 
