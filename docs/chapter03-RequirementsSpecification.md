@@ -13,30 +13,31 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
 
 | Epic/Story ID | Titulo                        | Descripcion                                                                                                                      | Criterios de Aceptacion | Epic ID |
 |---------------|-------------------------------|----------------------------------------------------------------------------------------------------------------------------------|------------------------|---------|
-| EP01          | Landing page                  | **Como** miembro de Movitech **quiero** desarrollar una landing page **para** informar acerca del servicio a los posibles clientes          |                        |         |
-| EP02          | Gestion de cuenta             | **Como** usuario **quiero** gestionar mi cuenta para mantener actualizados mis datos y acceder a la cuenta de manera segura              |                        |         |
-| EP04          | Gestion de vehiculos          | **Como** Owner **quiero** agregar y gestionar mis vehiculos para asegurarme que esten disponibles y en buen estado para el alquiler      |                        |         |
-| EP05          | Gestion de reservas y uso     | Como cliente quiero gestionar mis reservas y el uso de vehiculos para planificar y controlar mis recorridos.                     |                        |         |
-| EP06          | Pagos y facturacion           | Como cliente quiero gestionar mis pagos y facturacion para realizar transacciones de manera segura y ver mi historial de pagos   |                        |         |
-| EP07          | Seguridad y soporte           | Como usuario quiero acceder a soporte y reportar proble,as para asegurarme de que mi experiencia sea segura y sin inconvenientes |                        |         |
-| US01          | Landing page - Suscripciones  | Como visitante interesado, quiero ver los diferentes planes para elegir el que mejor se adapte a mis necesidades                 |                        | EP01    |
-| US02          | Landing page - About the team | Como viistante interesado, quiero conocer al equipo detras del producto para sentirme conectado y confiado en la empresa         |                        | EP01    |
-| US03          | Landing page - Testimonios    | Como visitante interesado, quiero leer los testimonios de otros clientes para confiar en la calidad del producto                 |                        | EP01    |
-| US04          | Landing page - About Product  | Como vistante interesado, quiero ver una descripcion clara del producto para entender sus beneficios y caracteristicas           |                        | EP01    |
-| US05          | Registro de usuario           | Como usuario quiero crear una cuenta con mi correo electronico para representarme en la aplicacion                               || EP02    |
-| US06          | Iniciar sesión                | **Como** owner/cliente de Movitech, **quiero** iniciar sesión **para** acceder a los benificios que ofrece la aplicación         ||
-| US07          | Visualizar perfil de usuario  | **Como** owner/cliente de Movitech, **quiero** visualizar mi perfil personal **para** visualizar mis datos actuales                                                                                                                           ||
-| US08          |                               |                                                                                                                                  ||
-| US09          |                               |                                                                                                                                  ||
-| US10          |                               |                                                                                                                                  ||
-| US11          |                               |                                                                                                                                  ||
-| US12          |                               |                                                                                                                                  ||
-| US13          |                               |                                                                                                                                  ||
-| US14          |                               |                                                                                                                                  ||
-| US15          |                               |                                                                                                                                  ||
-| US16          |                               |                                                                                                                                  ||
-| US17          |                               |                                                                                                                                  ||
-| US18          |                               |                                                                                                                                  ||
+| EP01          | Landing page                  | **Como** miembro de MoviTech **quiero** desarrollar una landing page **para** informar acerca del servicio a los posibles clientes.          |                        |         |
+| EP02          | Gestion de cuenta             | **Como** usuario **quiero** gestionar mi cuenta **para** mantener actualizados mis datos y acceder a la cuenta de manera segura.              |                        |         |
+| EP04          | Gestion de vehiculos          | **Como** Owner **quiero** agregar y gestionar mis vehiculos **para** asegurarme que esten disponibles y en buen estado para el alquiler.      |                        |         |
+| EP05          | Gestion de reservas y uso     | **Como** cliente **quiero** gestionar mis reservas y el uso de vehiculos **para** planificar y controlar mis recorridos.                     |                        |         |
+| EP06          | Pagos y facturacion           | **Como** cliente **quiero** gestionar mis pagos y facturacion **para** realizar transacciones de manera segura y ver mi historial de pagos.   |                        |         |
+| EP07          | Seguridad y soporte           | **Como** usuario **quiero** acceder a soporte y reportar problemas **para** asegurarme de que mi experiencia sea segura y sin inconvenientes. |                        |         |
+| US01          | Landing page - Suscripciones  | **Como** visitante interesado, **quiero** ver los diferentes planes **para** elegir el que mejor se adapte a mis necesidades.                 |                        | EP01    |
+| US02          | Landing page - About the team | **Como** viistante interesado, **quiero** conocer al equipo detras del producto **para** sentirme conectado y confiado en la empresa.         |                        | EP01    |
+| US03          | Landing page - Testimonios    | **Como** visitante interesado, **quiero** leer los testimonios de otros clientes **para** confiar en la calidad del producto.                 |                        | EP01    |
+| US04          | Landing page - About Product  | **Como** vistante interesado, **quiero** ver una descripcion clara del producto **para** entender sus beneficios y caracteristicas.           |                        | EP01    |
+| US05          | Registro de usuario           | **Como** usuario **quiero** crear una cuenta con mi correo electronico **para** representarme en la aplicación.            || EP02    |
+| US06          | Iniciar sesión                | **Como** owner/cliente de MoviTech, **quiero** iniciar sesión **para** acceder a los benificios que ofrece la aplicación.         ||
+| US07          | Visualizar perfil de usuario  | **Como** owner/cliente de MoviTech, **quiero** visualizar mi perfil personal **para** visualizar mis datos actuales.                                                                                                                           ||
+| US08          | Cambiar datos personales      | **Como** owner/cliente de MoviTech, **quiero** cambiar los datos asociados a mi perfil **para** poder actualizar la información.    ||
+| US09          | Eliminar cuenta de usuario    | **Como** owner/cliente de MoviTech, **quiero** eliminar mi cuenta de usuario **para** dejar de usar los servicios de la aplicación. ||
+| US10          | Publicar scooter en alquiler  | **Como** owner de un scooter eléctrico, **quiero** crear publicaciones con la información y especificaciones de mi scooter **para** que pueda ser alquilado por un cliente.  ||
+| US11          | Visualizar un scooter en alquiler | **Como** owner de un scooter eléctrico, **quiero** visualizar las publicaciones con la información y especificaciones de mi scooter **para** verificar que toda la información ingresada es correcta y actualizada.  ||
+| US12          | Editar scooter en alquiler   | **Como** owner de un scooter eléctrico, **quiero** editar la publicación de mi scooter **para** que la información proporcionada a los clientes esté siempre actualizada.  ||
+| US13          | Eliminar scooter en alquiler | **Como** owner **quiero** eliminar un scooter en alquiler **para** mantener la integridad de la información almacenada.           ||
+| US14          | Alquiler scooter eléctrico   | **Como** cliente de MoviTech, **quiero** alquilar un scooter eléctrico **para** llegar rápido a mi destino. 
+                      ||
+| US15          | Visualizar historial de scooters alquilados | **Como** cliente de Movitech, **quiero** visualizar mi historial de scooters alquilados **para** acceder fácilmente a su información.  ||
+| US16          | Borrar historial de scooters alquilados  | **Como** cliente de MoviTech, **quiero** borrar mi historial de scooters alquilados **para** ya no tener información que considere innecesaria. ||
+| US17          | Comprar membresía             | **Como** cliente de MoviTech, **quiero** comprar mi membresía **para** acceder a sus beneficios al usar la aplicación.           ||
+| US18          | Cancelar membresía            | **Como** cliente de MoviTech, **quiero** cancelar mi membresía **para** ya no seguir teniendo cobros de esta.                 ||
 | US19          |                               |                                                                                                                                  ||
 | US20          |                               |                                                                                                                                  ||
 | US21          |                               |                                                                                                                                  ||
