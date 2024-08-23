@@ -3,7 +3,7 @@
 
 ### 1.1.1. Descripción de la Startup
 Somos CiberMach, un startup conformado por 6 estudiantes de la Universidad Peruana de Ciencias Aplicadas (UPC), 
-que trabajará en el desarrollo del producto MoviTech, dedicada a facilitar el alquiler de scooters eléctricos. 
+que trabajará en el desarrollo del producto MoviRent, dedicada a facilitar el alquiler de scooters eléctricos. 
 Nuestro enfoque se centra en brindar soluciones tanto para usuarios que buscan alquilar scooters para fines de 
 transporte como para personas que tienen un scooter y buscan generar ganacias alquilandolo, nuestro objetivo es 
 facilitar el acceso a scooters eléctricos de forma segura y conveniente para nuestros usuarios, nuestro sitio 
