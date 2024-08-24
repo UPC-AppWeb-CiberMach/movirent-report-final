@@ -605,13 +605,7 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
     <td valign="top"> Cómo cliente de MoviTech Quiero tener varias opciones de pago integradas en la aplicación Para pagar por el uso del scooter de manera conveniente. </td>
     <td valign="top"> 7 </td>
   </tr>
-        <tr>
-    <td valign="top"> 21 </td>
-    <td valign="top"> US21 </td>
-    <td valign="top"> Navegación por mapa </td>
-    <td valign="top"> Cómo cliente de MoviTech Quiero tener la opción de ver un mapa dentro de la aplicación que muestre la ubicación de los scooters Para poder encontrar rápidamente el scooter más cercano. </td>
-    <td valign="top"> 8 </td>
-  </tr>
+
 
 </table>
 
