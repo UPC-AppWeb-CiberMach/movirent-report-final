@@ -262,8 +262,8 @@ En esta sección se presentan las entrevistas realizadas a los segmentos objetiv
 ### Entrevista 1:
 
 Datos del entrevistador:
-* Nombres:
-* Apellidos:
+* Nombres: 
+* Apellidos: 
 
 Datos del entrevistado:
 * Nombres: 
@@ -283,16 +283,16 @@ Datos del entrevistado:
 ### Entrevista 1:
 
 Datos del entrevistador:
-* Nombres:
-* Apellidos:
+* Nombres: Mathias Adriano
+* Apellidos: Hidalgo Lopez
 
 Datos del entrevistado:
-* Nombres:
-* Apellidos:
-* Edad:
-* Distrito de residencia:
-* Enlace a la entrevista:
-* Duración de la entrevista:
+* Nombres: Brissa Arakemi
+* Apellidos: Hoyos Arevalo
+* Edad: 19
+* Distrito de residencia: Rimac 
+* Enlace a la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213222_upc_edu_pe/EYvfM5T1ScdBpoM4ZDAvlQgBLmbxD7DTIk_2O02DixCJBw?e=RxA0RV
+* Duración de la entrevista: 6:05 
 
 -----  FOTO de entrevistas ambos  ---
 
