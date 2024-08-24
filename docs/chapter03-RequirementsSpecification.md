@@ -403,17 +403,17 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
         <td>US18</td>
         <td>Visualización de disponibilidad</td>
         <td><b>Cómo</b> cliente de MoviTech
-        <b>Quiero</b> ver en tiempo real la disponibilidad de scooters en mi área 
+        <b>Quiero</b> seleccionar una zona o área específica para ver la disponibilidad de scooters 
         <b>Para</b> planificar mi viaje de manera eficiente. </td>
         <td>
             <b>Scenario 1: Visualización de disponibilidad</b> <br/>
-            <b>Dado que</b> el usuario se encuentre en la sección de búsqueda de scooters Y el usuario seleccione un scooter para verificar su disponibilidad <br/>
-            <b>Cuando</b> el usuario haga clic en la opción de verificar disponibilidad <br/>
-            <b>Entonces</b> se mostrará al usuario la disponibilidad del scooter solicitado. <br/>
+            <b>Dado que</b> el usuario se encuentra en la sección de búsqueda de scooters Y el usuario selecciona una zona específica <br/>
+            <b>Cuando</b> el usuario realiza la búsqueda <br/>
+            <b>Entonces</b> se muestra un listado de scooters disponibles en esa zona, incluyendo su ubicación aproximada dentro de la zona. <br/>
             <b>Scenario 2: No encuentra disponibilidad</b> <br/>
-            <b>Dado que</b> el usuario no encuentre scooters disponibles en su área <br/>
-            <b>Cuando</b> el usuario intente verificar la disponibilidad <br/>
-            <b>Entonces</b> se le mostrará un mensaje indicando que no hay scooters disponibles en este momento en su área. <br/>
+            <b>Dado que</b> el usuario selecciona una zona y no hay scooters disponibles en esa zona <br/>
+            <b>Cuando</b> el usuario realiza la búsqueda <br/>
+            <b>Entonces</b> e muestra un mensaje indicando que no hay scooters disponibles en la zona seleccionada en este momento. Se sugiere al usuario seleccionar otra zona. <br/>
         <td>EP04</td>
     </tr>
     <tr>
@@ -449,19 +449,6 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
             <b>Cuando</b> el usuario vaya a realizar el pago<br/>
             <b>Entonces</b> se mostrarán las opciones de pago disponibles para que el usuario elija la más conveniente. <br/>
         <td>EP06</td>
-    </tr>
-    <tr>
-        <td>US21</td>
-        <td>Navegación por mapa</td>
-        <td><b>Cómo</b> cliente de MoviTech 
-        <b>Quiero</b> tener la opción de ver un mapa dentro de la aplicación que muestre la ubicación de los scooters
-        <b>Para</b> poder encontrar rápidamente el scooter más cercano.</td>
-        <td>
-            <b>Scenario 1: Navegación por mapa </b> <br/>
-            <b>Dado que</b> el usuario tenga una cuenta registrada en la página web <br/>
-            <b>Cuando</b> el usuario de clic en la opción de buscar scooters cercanos <br/>
-            <b>Entonces</b> se mostrará al usuario los diferentes scooters en el mapa.<br/>
-        <td>EP04</td>
     </tr>
     
 </table>
