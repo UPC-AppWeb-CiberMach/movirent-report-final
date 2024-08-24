@@ -131,7 +131,7 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
     </tr>
     <tr>
         <td>US04</td>
-        <td>Iniciar sesion</td>
+        <td>Iniciar sesión</td>
         <td><b>Cómo</b>Owner/Cliente de MoviTech 
         <b>Quiero</b> iniciar sesión
         <b>Para</b> acceder a los beneficios que ofrece la aplicación.</td>
@@ -367,7 +367,7 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
     </tr>
     <tr>
         <td>US16</td>
-        <td>Cancelar suscripcion </td>
+        <td>Cancelar suscripción </td>
         <td><b>Cómo</b>Cliente de MoviTech 
         <b>Quiero</b> cancelar mi suscripcion
         <b>Para</b> ya no seguir teniendo cobros de esta. </td>
@@ -383,16 +383,118 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
         <td>EP06</td>
     </tr>
     <tr>
-        <td>US0000</td>
-        <td>CA</td>
-        <td><b>Cómo</b>CA 
-        <b>Quiero</b> CA
-        <b>Para</b> CA</td>
+        <td>US17</td>
+        <td>Búsqueda de scooters cercano</td>
+        <td><b>Cómo</b> cliente de MoviTech 
+        <b>Quiero</b> poder buscar scooters disponibles cerca de mi ubicación actual 
+        <b>Para</b> facilitar mi desplazamiento.</td>
         <td>
-            <b>Scenario CA: CA</b> <br/>
-            <b>Dado que</b> CA <br/>
-            <b>Cuando</b> CA<br/>
-            <b>Entonces</b> CA<br/>
+            <b>Scenario 1: Búsqueda de scooters cerca</b> <br/>
+            <b>Dado que</b> se encuentre en la sección de búsqueda de scooters <br/>
+            <b>Cuando</b> el usuario ingrese a la opción de buscar vehículos cercanos Y verifique su ubicación en el menú <br/>
+            <b>Entonces</b> se mostrará en una lista al usuario los vehículos cercanos<br/>
+            <b>Scenario 2: Cliente no tiene internet</b> <br/>
+            <b>Dado que</b> el usuario no tenga conexión a internet<br/>
+            <b>Cuando</b> el usuario intente buscar vehículos cercanos<br/>
+            <b>Entonces</b> se le mostrará un mensaje indicando que la función de búsqueda no está disponible sin conexión<br/>
+        <td>EP01</td>
+    </tr>
+    <tr>
+        <td>US18</td>
+        <td>Visualización de disponibilidad</td>
+        <td><b>Cómo</b> cliente de MoviTech
+        <b>Quiero</b> ver en tiempo real la disponibilidad de scooters en mi área 
+        <b>Para</b> planificar mi viaje de manera eficiente. </td>
+        <td>
+            <b>Scenario 1: Visualización de disponibilidad</b> <br/>
+            <b>Dado que</b> el usuario se encuentre en la sección de búsqueda de scooters Y el usuario seleccione un scooter para verificar su disponibilidad <br/>
+            <b>Cuando</b> el usuario haga clic en la opción de verificar disponibilidad <br/>
+            <b>Entonces</b> se mostrará al usuario la disponibilidad del scooter solicitado. <br/>
+            <b>Scenario 2: No encuentra disponibilidad</b> <br/>
+            <b>Dado que</b> el usuario no encuentre scooters disponibles en su área <br/>
+            <b>Cuando</b> el usuario intente verificar la disponibilidad <br/>
+            <b>Entonces</b> se le mostrará un mensaje indicando que no hay scooters disponibles en este momento en su área. <br/>
+        <td>EP01</td>
+    </tr>
+    <tr>
+        <td>US19</td>
+        <td>Calificación y reseñas</td>
+        <td><b>Cómo</b> cliente de MoviTech 
+        <b>Quiero</b> poder calificar y dejar reseñas sobre mi experiencia con scooters utilizados y la zona donde los tomé
+        <b>Para</b> ayudar a otros usuarios a tomar decisiones informadas.</td>
+        <td>
+            <b>Scenario 1: Calificación y reseñas </b> <br/>
+            <b>Dado que</b> el usuario tenga una cuenta registrada en la página web Y haya utilizado un vehículo recientemente <br/>
+            <b>Cuando</b> el usuario acceda a la opción de dejar reseña Y seleccione la zona o tipo de scooter donde quiera dejar su reseña Y escriba su reseña y haga clic en publicar <br/>
+            <b>Entonces</b> se creará la reseña del usuario y será visible para otros usuarios. <br/>
+            <b>Scenario 2: Ver reseñas de otros clientes </b> <br/>
+            <b>Dado que</b> el usuario esté viendo las reseñas de otros usuarios sobre un scooter o una zona específica<br/>
+            <b>Cuando</b> el usuario busque reseñas <br/>
+            <b>Entonces</b> se mostrarán las calificaciones promedio y las reseñas de otros usuarios para ayudar al usuario a tomar una decisión informada sobre su experiencia. <br/>
+        <td>EP01</td>
+    </tr>
+    <tr>
+        <td>US20</td>
+        <td>Opciones de pago</td>
+        <td><b>Cómo</b> cliente de MoviTech 
+        <b>Quiero</b>  tener varias opciones de pago integradas en la aplicación
+        <b>Para</b> pagar por el uso del scooter de manera conveniente.</td>
+        <td>
+            <b>Scenario 1: Opciones de pago </b> <br/>
+            <b>Dado que</b> el usuario tenga una cuenta registrada en la página web <br/>
+            <b>Cuando</b> el usuario acceda a la opción de pagar <br/>
+            <b>Entonces</b> se mostrarán al usuario las diferentes opciones de pago como tarjetas o monederos virtuales disponibles para realizar el pago. <br/>
+            <b>Scenario 2: Pago conveniente </b> <br/>
+            <b>Dado que</b> el usuario haya seleccionado un scooter y esté a punto de completar una reserva<br/>
+            <b>Cuando</b> el usuario vaya a realizar el pago<br/>
+            <b>Entonces</b> se mostrarán las opciones de pago disponibles para que el usuario elija la más conveniente. <br/>
+        <td>EP01</td>
+    </tr>
+    <tr>
+        <td>US21</td>
+        <td>Navegación por mapa</td>
+        <td><b>Cómo</b> cliente de MoviTech 
+        <b>Quiero</b> tener la opción de ver un mapa dentro de la aplicación que muestre la ubicación de los scooters
+        <b>Para</b> poder encontrar rápidamente el scooter más cercano.</td>
+        <td>
+            <b>Scenario 1: Navegación por mapa </b> <br/>
+            <b>Dado que</b> el usuario tenga una cuenta registrada en la página web <br/>
+            <b>Cuando</b> el usuario de clic en la opción de buscar scooters cercanos <br/>
+            <b>Entonces</b> se mostrará al usuario los diferentes scooters en el mapa.<br/>
+        <td>EP01</td>
+    </tr>
+    <tr>
+        <td>US22</td>
+        <td>Opciones de pago</td>
+        <td><b>Cómo</b> cliente de MoviTech 
+        <b>Quiero</b>  tener varias opciones de pago integradas en la aplicación
+        <b>Para</b> pagar por el uso del scooter de manera conveniente.</td>
+        <td>
+            <b>Scenario 1: Opciones de pago </b> <br/>
+            <b>Dado que</b> el usuario tenga una cuenta registrada en la página web <br/>
+            <b>Cuando</b> el usuario acceda a la opción de pagar <br/>
+            <b>Entonces</b> se mostrarán al usuario las diferentes opciones de pago como tarjetas o monederos virtuales disponibles para realizar el pago. <br/>
+            <b>Scenario 2: Pago conveniente </b> <br/>
+            <b>Dado que</b> el usuario haya seleccionado un scooter y esté a punto de completar una reserva<br/>
+            <b>Cuando</b> el usuario vaya a realizar el pago<br/>
+            <b>Entonces</b> se mostrarán las opciones de pago disponibles para que el usuario elija la más conveniente. <br/>
+        <td>EP01</td>
+    </tr>
+    <tr>
+        <td>US23</td>
+        <td>Opciones de pago</td>
+        <td><b>Cómo</b> cliente de MoviTech 
+        <b>Quiero</b>  tener varias opciones de pago integradas en la aplicación
+        <b>Para</b> pagar por el uso del scooter de manera conveniente.</td>
+        <td>
+            <b>Scenario 1: Opciones de pago </b> <br/>
+            <b>Dado que</b> el usuario tenga una cuenta registrada en la página web <br/>
+            <b>Cuando</b> el usuario acceda a la opción de pagar <br/>
+            <b>Entonces</b> se mostrarán al usuario las diferentes opciones de pago como tarjetas o monederos virtuales disponibles para realizar el pago. <br/>
+            <b>Scenario 2: Pago conveniente </b> <br/>
+            <b>Dado que</b> el usuario haya seleccionado un scooter y esté a punto de completar una reserva<br/>
+            <b>Cuando</b> el usuario vaya a realizar el pago<br/>
+            <b>Entonces</b> se mostrarán las opciones de pago disponibles para que el usuario elija la más conveniente. <br/>
         <td>EP01</td>
     </tr>
 </table>
