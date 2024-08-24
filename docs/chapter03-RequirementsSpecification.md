@@ -69,7 +69,7 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
     <tr>
         <td>US01</td>
         <td>Descripcion de la aplicacion y startup</td>
-        <td><b>Cómo</b>visitante interesado 
+        <td><b>Cómo</b> visitante interesado 
         <b>Quiero</b> ver una descripcion clara del producto
         <b>Para</b> entender sus beneficios y caracteristicas.</td>
         <td>
@@ -115,7 +115,7 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
     <tr>
         <td>US03</td>
         <td>Registrar usuario</td>
-        <td><b>Cómo</b>visitante de la aplicación web de MoviTech
+        <td><b>Cómo</b> visitante de la aplicación web de MoviTech
         <b>Quiero</b> poder crear una cuenta personal
         <b>Para</b> comenzar a hacer uso de la aplicación como Owner/Cliente.</td>
         <td>
@@ -132,7 +132,7 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
     <tr>
         <td>US04</td>
         <td>Iniciar sesión</td>
-        <td><b>Cómo</b>Owner/Cliente de MoviTech 
+        <td><b>Cómo</b> Owner/Cliente de MoviTech 
         <b>Quiero</b> iniciar sesión
         <b>Para</b> acceder a los beneficios que ofrece la aplicación.</td>
         <td>
@@ -149,7 +149,7 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
     <tr>
         <td>US05</td>
         <td>Visualizar perfil de usuario</td>
-        <td><b>Cómo</b>Owner/Cliente de MoviTech 
+        <td><b>Cómo</b> Owner/Cliente de MoviTech 
         <b>Quiero</b> visualizar mi perfil personal 
         <b>Para</b> visualizar mis datos actuales</td>
         <td>
@@ -166,9 +166,9 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
     <tr>
         <td>US06</td>
         <td>Cambiar datos personales </td>
-        <td><b>Cómo</b>Owner/Cliente de MoviTech 
+        <td><b>Cómo</b> Owner/Cliente de MoviTech 
         <b>Quiero</b> cambiar los datos asociados a mi perfil
-        <b>Para</b>actualizar la información</td>
+        <b>Para</b> actualizar la información</td>
         <td>
             <b>Scenario 1: Cambiar contraseña</b> <br/>
             <b>Dado que</b> el usuario quiera cambiar su contraseña <br/>
@@ -195,7 +195,7 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
     <tr>
         <td>US07</td>
         <td>Eliminar cuenta de usuario</td>
-        <td><b>Cómo</b>Owner/Cliente de MoviTech 
+        <td><b>Cómo</b> Owner/Cliente de MoviTech 
         <b>Quiero</b> eliminar mi cuenta de usuario
         <b>Para</b> dejar de usar los servicios de la aplicación</td>
         <td>
@@ -233,7 +233,7 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
     <tr>
         <td>US09</td>
         <td>Visualizar un scooter en alquiler</td>
-        <td><b>Cómo</b>Owner de un scooter eléctrico 
+        <td><b>Cómo</b> Owner de un scooter eléctrico 
         <b>Quiero</b> visualizar las publicaciones con la información y especificaciones de mi scooter
         <b>Para</b> verificar que toda la información ingresada es correcta y actualizada.</td>
         <td>
@@ -250,7 +250,7 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
     <tr>
         <td>US10</td>
         <td>Editar Scooter en alquiler</td>
-        <td><b>Cómo</b>Owner de un scooter eléctrico 
+        <td><b>Cómo</b> Owner de un scooter eléctrico 
         <b>Quiero</b> editar la publicación de mi scooter
         <b>Para</b> que la información proporcionada a los clientes esté siempre actualizada.</td>
         <td>
@@ -271,9 +271,9 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
     <tr>
         <td>US11</td>
         <td>Eliminar scooter en alquiler</td>
-        <td><b>Cómo</b>Owner 
+        <td><b>Cómo</b> Owner 
         <b>Quiero</b> eliminar un scooter en alquiler
-        <b>Para</b> mantener la integridad de la información almacenada</td>
+        <b>Para</b> mantener la integridad de la información almacenada.</td>
         <td>
             <b>Scenario 1: Owner borra scooter en alquiler</b> <br/>
             <b>Dado que</b> el Owner se encuentra en el apartado de “Mis scooters” Y le de al botón “Eliminar” de una publicación. <br/>
@@ -288,9 +288,9 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
     <tr>
         <td>US12</td>
         <td>Alquiler Scooter</td>
-        <td><b>Cómo</b>Cliente de MoviTech 
+        <td><b>Cómo</b> Cliente de MoviTech 
         <b>Quiero</b> alquilar un scooter
-        <b>Para</b> llegar rápido a mi destino</td>
+        <b>Para</b> llegar rápido a mi destino.</td>
         <td>
             <b>Scenario 1: Owner alquila un scooter en MoviTech</b> <br/>
             <b>Dado que</b> el Cliente se encuentra en el apartado de “Scooters” Y le de al botón “Ver detalles” de una publicación. Y se dé al botón de “Alquilar” <br/>
@@ -368,7 +368,7 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
     <tr>
         <td>US16</td>
         <td>Cancelar suscripción </td>
-        <td><b>Cómo</b>Cliente de MoviTech 
+        <td><b>Cómo</b> Cliente de MoviTech 
         <b>Quiero</b> cancelar mi suscripcion
         <b>Para</b> ya no seguir teniendo cobros de esta. </td>
         <td>
@@ -463,40 +463,7 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
             <b>Entonces</b> se mostrará al usuario los diferentes scooters en el mapa.<br/>
         <td>EP01</td>
     </tr>
-    <tr>
-        <td>US22</td>
-        <td>Opciones de pago</td>
-        <td><b>Cómo</b> cliente de MoviTech 
-        <b>Quiero</b>  tener varias opciones de pago integradas en la aplicación
-        <b>Para</b> pagar por el uso del scooter de manera conveniente.</td>
-        <td>
-            <b>Scenario 1: Opciones de pago </b> <br/>
-            <b>Dado que</b> el usuario tenga una cuenta registrada en la página web <br/>
-            <b>Cuando</b> el usuario acceda a la opción de pagar <br/>
-            <b>Entonces</b> se mostrarán al usuario las diferentes opciones de pago como tarjetas o monederos virtuales disponibles para realizar el pago. <br/>
-            <b>Scenario 2: Pago conveniente </b> <br/>
-            <b>Dado que</b> el usuario haya seleccionado un scooter y esté a punto de completar una reserva<br/>
-            <b>Cuando</b> el usuario vaya a realizar el pago<br/>
-            <b>Entonces</b> se mostrarán las opciones de pago disponibles para que el usuario elija la más conveniente. <br/>
-        <td>EP01</td>
-    </tr>
-    <tr>
-        <td>US23</td>
-        <td>Opciones de pago</td>
-        <td><b>Cómo</b> cliente de MoviTech 
-        <b>Quiero</b>  tener varias opciones de pago integradas en la aplicación
-        <b>Para</b> pagar por el uso del scooter de manera conveniente.</td>
-        <td>
-            <b>Scenario 1: Opciones de pago </b> <br/>
-            <b>Dado que</b> el usuario tenga una cuenta registrada en la página web <br/>
-            <b>Cuando</b> el usuario acceda a la opción de pagar <br/>
-            <b>Entonces</b> se mostrarán al usuario las diferentes opciones de pago como tarjetas o monederos virtuales disponibles para realizar el pago. <br/>
-            <b>Scenario 2: Pago conveniente </b> <br/>
-            <b>Dado que</b> el usuario haya seleccionado un scooter y esté a punto de completar una reserva<br/>
-            <b>Cuando</b> el usuario vaya a realizar el pago<br/>
-            <b>Entonces</b> se mostrarán las opciones de pago disponibles para que el usuario elija la más conveniente. <br/>
-        <td>EP01</td>
-    </tr>
+    
 </table>
 
 ## 3.3. Impact Mapping
@@ -530,21 +497,21 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
     <td valign="top"> US03 </td>
     <td valign="top"> Registrar usuario </td>
     <td valign="top"> Cómo visitante de la aplicación web de MoviTech Quiero poder crear una cuenta personal Para comenzar a hacer uso de la aplicación como Owner/Cliente. </td>
-    <td valign="top"> 3 </td>
+    <td valign="top"> 4 </td>
   </tr>
   <tr>
     <td valign="top"> 04 </td>
     <td valign="top"> US04 </td>
     <td valign="top"> Iniciar sesión </td>
     <td valign="top"> Cómo Owner/Cliente de MoviTech Quiero iniciar sesión Para acceder a los beneficios que ofrece la aplicación. </td>
-    <td valign="top"> 3 </td>
+    <td valign="top"> 5 </td>
   </tr>
   <tr>
     <td valign="top"> 05 </td>
     <td valign="top"> US05 </td>
     <td valign="top"> Visualizar perfil de usuario </td>
     <td valign="top"> Cómo Owner/Cliente de MoviTech Quiero visualizar mi perfil personal Para visualizar mis datos actuales. </td>
-    <td valign="top"> 4 </td>
+    <td valign="top"> 5 </td>
   </tr>
   <tr>
     <td valign="top"> 06 </td>
@@ -565,7 +532,7 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
     <td valign="top"> US08 </td>
     <td valign="top"> Publicar scooter en alquiler </td>
     <td valign="top"> Cómo Owner de un scooter eléctrico Quiero crear publicaciones con la información y especificaciones de mi scooter Para que pueda ser alquilado por un cliente. </td>
-    <td valign="top"> 4 </td>
+    <td valign="top"> 5 </td>
   </tr>
   <tr>
     <td valign="top"> 09 </td>
@@ -593,14 +560,14 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
     <td valign="top"> US12 </td>
     <td valign="top"> Alquiler Scooter </td>
     <td valign="top"> Cómo Cliente de MoviTech Quiero alquilar un scooter Para llegar rápido a mi destino. </td>
-    <td valign="top"> 4 </td>
+    <td valign="top"> 5 </td>
   </tr>
   <tr>
     <td valign="top"> 13 </td>
     <td valign="top"> US13 </td>
     <td valign="top"> Visualizar historial de scooters alquilados </td>
     <td valign="top"> Cómo Cliente de MoviTech Quiero visualizar mi historial de scooters alquilados Para acceder fácilmente a su información. </td>
-    <td valign="top"> 4 </td>
+    <td valign="top"> 5 </td>
   </tr>
       <tr>
     <td valign="top"> 14 </td>
@@ -614,7 +581,7 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
     <td valign="top"> US15 </td>
     <td valign="top"> Adquirir plan </td>
     <td valign="top"> Cómo Cliente de MoviTech Quiero Comprar un plan Para acceder a sus beneficios al usar la aplicación. </td>
-    <td valign="top"> 4 </td>
+    <td valign="top"> 6 </td>
   </tr>
       <tr>
     <td valign="top"> 16 </td>
@@ -628,14 +595,14 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
     <td valign="top"> US17 </td>
     <td valign="top"> Búsqueda de scooters cercano </td>
     <td valign="top"> Cómo cliente de MoviTech Quiero poder buscar scooters disponibles cerca de mi ubicación actual Para facilitar mi desplazamiento. </td>
-    <td valign="top"> 4 </td>
+    <td valign="top"> 6 </td>
   </tr>
       <tr>
     <td valign="top"> 18 </td>
     <td valign="top"> US18 </td>
     <td valign="top"> Visualización de disponibilidad </td>
     <td valign="top"> Cómo cliente de MoviTech Quiero ver en tiempo real la disponibilidad de scooters en mi área Para planificar mi viaje de manera eficiente. </td>
-    <td valign="top"> 4 </td>
+    <td valign="top"> 6 </td>
   </tr>
       <tr>
     <td valign="top"> 19 </td>
@@ -649,14 +616,14 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
     <td valign="top"> US20 </td>
     <td valign="top"> Opciones de pago </td>
     <td valign="top"> Cómo cliente de MoviTech Quiero tener varias opciones de pago integradas en la aplicación Para pagar por el uso del scooter de manera conveniente. </td>
-    <td valign="top"> 4 </td>
+    <td valign="top"> 7 </td>
   </tr>
         <tr>
     <td valign="top"> 21 </td>
     <td valign="top"> US21 </td>
     <td valign="top"> Navegación por mapa </td>
     <td valign="top"> Cómo cliente de MoviTech Quiero tener la opción de ver un mapa dentro de la aplicación que muestre la ubicación de los scooters Para poder encontrar rápidamente el scooter más cercano. </td>
-    <td valign="top"> 4 </td>
+    <td valign="top"> 8 </td>
   </tr>
 
 </table>
