@@ -294,7 +294,7 @@ Datos del entrevistado:
 * Enlace a la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213222_upc_edu_pe/EYvfM5T1ScdBpoM4ZDAvlQgBLmbxD7DTIk_2O02DixCJBw?e=RxA0RV
 * Duración de la entrevista: 6:05 
 
------  FOTO de entrevistas ambos  ---
+<img src="..//assets/chapter-02/EntrevistaBrissa.png" alt="Imagen Entrevista 1">
 
 **Informe del resumen de la entrevista:**
 
