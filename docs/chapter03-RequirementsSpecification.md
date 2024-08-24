@@ -397,7 +397,7 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
             <b>Dado que</b> el usuario no tenga conexión a internet<br/>
             <b>Cuando</b> el usuario intente buscar vehículos cercanos<br/>
             <b>Entonces</b> se le mostrará un mensaje indicando que la función de búsqueda no está disponible sin conexión<br/>
-        <td>EP01</td>
+        <td>EP03</td>
     </tr>
     <tr>
         <td>US18</td>
@@ -414,7 +414,7 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
             <b>Dado que</b> el usuario no encuentre scooters disponibles en su área <br/>
             <b>Cuando</b> el usuario intente verificar la disponibilidad <br/>
             <b>Entonces</b> se le mostrará un mensaje indicando que no hay scooters disponibles en este momento en su área. <br/>
-        <td>EP01</td>
+        <td>EP04</td>
     </tr>
     <tr>
         <td>US19</td>
@@ -431,7 +431,7 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
             <b>Dado que</b> el usuario esté viendo las reseñas de otros usuarios sobre un scooter o una zona específica<br/>
             <b>Cuando</b> el usuario busque reseñas <br/>
             <b>Entonces</b> se mostrarán las calificaciones promedio y las reseñas de otros usuarios para ayudar al usuario a tomar una decisión informada sobre su experiencia. <br/>
-        <td>EP01</td>
+        <td>EP02</td>
     </tr>
     <tr>
         <td>US20</td>
@@ -448,7 +448,7 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
             <b>Dado que</b> el usuario haya seleccionado un scooter y esté a punto de completar una reserva<br/>
             <b>Cuando</b> el usuario vaya a realizar el pago<br/>
             <b>Entonces</b> se mostrarán las opciones de pago disponibles para que el usuario elija la más conveniente. <br/>
-        <td>EP01</td>
+        <td>EP06</td>
     </tr>
     <tr>
         <td>US21</td>
@@ -461,7 +461,7 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
             <b>Dado que</b> el usuario tenga una cuenta registrada en la página web <br/>
             <b>Cuando</b> el usuario de clic en la opción de buscar scooters cercanos <br/>
             <b>Entonces</b> se mostrará al usuario los diferentes scooters en el mapa.<br/>
-        <td>EP01</td>
+        <td>EP04</td>
     </tr>
     
 </table>
