@@ -262,20 +262,21 @@ En esta sección se presentan las entrevistas realizadas a los segmentos objetiv
 ### Entrevista 1:
 
 Datos del entrevistador:
-* Nombres: 
-* Apellidos: 
+* Nombres: Quique Vladimir
+* Apellidos: Jara Benites
 
 Datos del entrevistado:
-* Nombres: 
-* Apellidos: 
-* Edad: 
-* Distrito de residencia: 
-* Enlace a la entrevista:
-* Duración de la entrevista: 
+* Nombres: David 
+* Apellidos: Beltran Burgos
+* Edad: 23
+* Distrito de residencia: San Borja
+* Enlace a la entrevista: *UNIR ENTREVISTA CON LAS DEMAS*
+* Duración de la entrevista: 5:55 
 
------  FOTO de entrevistas ambos  ---
+<img src="../assets/chapter-02/interviews/entrevista-David.png" alt="Entrevista David">
 
 **Informe del resumen de la entrevista:**
+David Beltrán un joven de 23 años, residente de San Borja. Actualmente trabaja en el sector financiero, sus funciones las cumple en el departamento de cobranzas del BCP. Sus sitemas operativos de preferencia son IOS en moviles y windows en ordenadores. El navegador que usa con mayor frecuencia es chrome. Tiene preferencia por la marca Apple y lenovo. Su canal informativo favorito es Twitter y de entretenimiento instagram. Beltrán posee un scooter eléctrico como vehiculo personal y no tiene experiencia previa en el alquiler de vehiculos. Considera que las tarifas de alquiler deberían depender del tiempo de uso de cada equipo y prefiere los pagos a través de transferencias bancarias o aplicativos móviles como YAPE o Plin. Sugiere que el límite de tiempo o distancia para el alquiler debería restringirse solo a Lima. En caso de daños durante el uso del vehículo, espera una compensación por parte de la empresa. Valora la posibilidad de visualizar la identidad y el historial de rentas de los clientes. Recomienda medidas de seguridad como el uso de casco y respetar las normas de tránsito. No tiene seguro vehicular y estaría interesado en que se le ofrezca uno. Prefiere entregar los vehículos en módulos con supervisión. Inicialmente, espera pocas reservas, pero prevé un aumento con el tiempo. La entrevista concluyó con la posibilidad de requerir feedback en el futuro y agradecimientos mutuos.
 
 --------------------- Descripción de la entrevista. --------------------
 
