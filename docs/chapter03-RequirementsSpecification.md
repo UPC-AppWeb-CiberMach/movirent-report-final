@@ -127,16 +127,17 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
         <td>EP01</td>
     </tr>
     <tr>
-        <td>US03</td>
+        <td>US04</td>
         <td>Registrar usuario</td>
-        <td><b>Cómo</b> visitante de la aplicación web de MoviTech
+        <td><b>Cómo</b> visitante de la aplicación web de MoviRent
         <b>Quiero</b> poder crear una cuenta personal
         <b>Para</b> comenzar a hacer uso de la aplicación como Owner/Cliente.</td>
         <td>
             <b>Scenario 1: Usuario ingresa credenciales válidas.</b> <br/>
-            <b>Dado que</b> el visitante desee crear una cuenta personal en la aplicación MoviTech <br/>
-            <b>Cuando</b> ingrese las credenciales de una cuenta inexistente en la base de datos MoviTech, una contraseña que cumple con todos los requisitos de seguridad, su DNI real y acepte los términos y condiciones de uso <br/>
+            <b>Dado que</b> el visitante desee crear una cuenta personal en la aplicación MoviRent <br/>
+            <b>Cuando</b> ingrese las credenciales de una cuenta inexistente en la base de datos MoviRent, una contraseña que cumple con todos los requisitos de seguridad, su DNI real y acepte los términos y condiciones de uso <br/>
             <b>Entonces</b> se creará la cuenta de usuario.<br/>
+            <br>
             <b>Scenario 2: Usuario ingresa credenciales incorrectas.</b> <br/>
             <b>Dado que</b> Usuario ingresa credenciales incorrectas. <br/>
             <b>Cuando</b> ingrese una dirección de correo electrónico o contraseña o DNI que no cumplen con los requisitos especificados<br/>
@@ -144,26 +145,27 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
         <td>EP02</td>
     </tr>
     <tr>
-        <td>US04</td>
+        <td>US05</td>
         <td>Iniciar sesión</td>
-        <td><b>Cómo</b> Owner/Cliente de MoviTech 
+        <td><b>Cómo</b> Owner/Cliente de MoviRent 
         <b>Quiero</b> iniciar sesión
         <b>Para</b> acceder a los beneficios que ofrece la aplicación.</td>
         <td>
             <b>Scenario 1: Usuario ingresa credenciales válidas </b> <br/>
-            <b>Dado que</b> el usuario posee una cuenta en la aplicación MoviTech y desee iniciar sesión <br/>
+            <b>Dado que</b> el usuario posee una cuenta en la aplicación MoviRent y desee iniciar sesión <br/>
             <b>Cuando</b> ingrese las credenciales necesarias correctamente<br/>
             <b>Entonces</b> el sistema permitirá el acceso a la aplicación<br/>
+            <br>
             <b>Scenario 2: Usuario ingresa credenciales incorrectas</b> <br/>
-            <b>Dado que</b> el usuario posee una cuenta en la aplicación MoviTech y desea iniciar sesión <br/>
+            <b>Dado que</b> el usuario posee una cuenta en la aplicación MoviRent y desea iniciar sesión <br/>
             <b>Cuando</b> ingrese alguna credencial de manera incorrecta <br/>
             <b>Entonces</b> el sistema denegará la solicitud<br/>
-        <td>EP04</td>
+        <td>EP02</td>
     </tr>
     <tr>
-        <td>US05</td>
+        <td>US06</td>
         <td>Visualizar perfil de usuario</td>
-        <td><b>Cómo</b> Owner/Cliente de MoviTech 
+        <td><b>Cómo</b> Owner/Cliente de MoviRent 
         <b>Quiero</b> visualizar mi perfil personal 
         <b>Para</b> visualizar mis datos actuales</td>
         <td>
@@ -171,6 +173,7 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
             <b>Dado que</b> el usuario desee visualizar su información personal <br/>
             <b>Cuando</b>  ingrese a su perfil <br/>
             <b>Entonces</b> obtendrá toda la información que registró previamente<br/>
+            <br>
             <b>Scenario 2: Problema al acceder al perfil personal </b> <br/>
             <b>Dado que</b> el usuario desee visualizar su información personal  <br/>
             <b>Cuando</b> intente ingresar a su perfil Y experimente un error de conexión o de servidor <br/>
@@ -178,9 +181,9 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
         <td>EP02</td>
     </tr>
     <tr>
-        <td>US06</td>
+        <td>US07</td>
         <td>Cambiar datos personales </td>
-        <td><b>Cómo</b> Owner/Cliente de MoviTech 
+        <td><b>Cómo</b> Owner/Cliente de MoviRent 
         <b>Quiero</b> cambiar los datos asociados a mi perfil
         <b>Para</b> actualizar la información</td>
         <td>
@@ -188,28 +191,37 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
             <b>Dado que</b> el usuario quiera cambiar su contraseña <br/>
             <b>Cuando</b> ingrese la nueva contraseña, esta sea validada por el sistema y el usuario confirme su intención de proceder con el cambio<br/>
             <b>Entonces</b> la nueva clave será guardada y la información actualizada.<br/>
+            <br>
             <b>Scenario 2: Cambiar nombre</b> <br/>
             <b>Dado que</b> el usuario quiera cambiar su nombre<br/>
             <b>Cuando</b> ingrese el nuevo nombre, esta sea validada por el usuario y confirme su intención de proceder con el cambio <br/>
             <b>Entonces</b> el nuevo nombre será guardado y la información actualizada<br/>
+            <br>
             <b>Scenario 3: Cambiar foto</b> <br/>
             <b>Dado que</b> el usuario quiera cambiar su foto <br/>
             <b>Cuando</b> ingrese la nueva foto, esta sea validada por el usuario y confirme su intención de proceder con el cambio<br/>
             <b>Entonces</b> la nueva foto será guardada y la información actualizada<br/>
+            <br>
             <b>Scenario 4: Cambiar número de celular</b> <br/>
             <b>Dado que</b> el usuario quiera cambiar su número de celular <br/>
             <b>Cuando</b> ingrese el nuevo número, esta sea validada por el sistema y el usuario confirme su intención de proceder con el cambio <br/>
             <b>Entonces</b> el nuevo número será guardado y la información actualizada<br/>
-            <b>Scenario 5: No cambiar información</b> <br/>
+            <br>
+            <b>Scenario 5: Ingreso de datos inválidos</b> <br/>
+            <b>Dado que</b> el usuario quiera cambiar su información <br/>
+            <b>Cuando</b> ingrese datos inválidos<br/>
+            <b>Entonces</b> se mostrará un mensaje de dato no válido<br/>
+            <br>
+            <b>Scenario 6: No cambiar información</b> <br/>
             <b>Dado que</b> el usuario no quiera cambiar su información <br/>
             <b>Cuando</b> aparezca el pop up para confirmar el cambio y seleccione la opción para cancelar cambio<br/>
             <b>Entonces</b> el pop up desaparecerá y el cambio no se realizará<br/>
         <td>EP02</td>
     </tr>
     <tr>
-        <td>US07</td>
+        <td>US08</td>
         <td>Eliminar cuenta de usuario</td>
-        <td><b>Cómo</b> Owner/Cliente de MoviTech 
+        <td><b>Cómo</b> Owner/Cliente de MoviRent 
         <b>Quiero</b> eliminar mi cuenta de usuario
         <b>Para</b> dejar de usar los servicios de la aplicación</td>
         <td>
@@ -217,6 +229,7 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
             <b>Dado que</b> el Owner/Cliente desee eliminar su cuenta de usuario <br/>
             <b>Cuando</b> seleccione la opción de eliminar cuenta en su perfil Y confirme su intención para proceder con la operación<br/>
             <b>Entonces</b> el sistema eliminará la cuenta y todos los datos almacenados. <br/>
+            <br>
             <b>Scenario 2: Owner/Cliente no elimina cuenta de usuario</b> <br/>
             <b>Dado que</b> el Owner/Cliente desee eliminar su cuenta de usuario <br/>
             <b>Cuando</b> niegue su intención para proceder con la operación<br/>
@@ -224,7 +237,7 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
         <td>EP02</td>
     </tr>
     <tr>
-        <td>US08</td>
+        <td>US09</td>
         <td>Publicar scooter en alquiler</td>
         <td><b>Cómo</b> Owner de un scooter eléctrico  
         <b>Quiero</b> crear publicaciones con la información y especificaciones de mi scooter
@@ -245,7 +258,7 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
         <td>EP03</td>
     </tr>
     <tr>
-        <td>US09</td>
+        <td>US10</td>
         <td>Visualizar un scooter en alquiler</td>
         <td><b>Cómo</b> Owner de un scooter eléctrico 
         <b>Quiero</b> visualizar las publicaciones con la información y especificaciones de mi scooter
@@ -262,7 +275,7 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
         <td>EP03</td>
     </tr>
     <tr>
-        <td>US10</td>
+        <td>US11</td>
         <td>Editar Scooter en alquiler</td>
         <td><b>Cómo</b> Owner de un scooter eléctrico 
         <b>Quiero</b> editar la publicación de mi scooter
@@ -283,7 +296,7 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
         <td>EP03</td>
     </tr>
     <tr>
-        <td>US11</td>
+        <td>US12</td>
         <td>Eliminar scooter en alquiler</td>
         <td><b>Cómo</b> Owner 
         <b>Quiero</b> eliminar un scooter en alquiler
@@ -300,7 +313,7 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
         <td>EP03</td>
     </tr>
     <tr>
-        <td>US12</td>
+        <td>US13</td>
         <td>Alquiler Scooter</td>
         <td><b>Cómo</b> Cliente de MoviTech 
         <b>Quiero</b> alquilar un scooter
@@ -321,7 +334,7 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
         <td>EP04</td>
     </tr>
     <tr>
-        <td>US13</td>
+        <td>US14</td>
         <td>Visualizar historial de scooters alquilados</td>
         <td><b>Cómo</b> Cliente de MoviTech
         <b>Quiero</b> visualizar mi historial de scooters alquilados
@@ -338,7 +351,7 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
         <td>EP05</td>
     </tr>
     <tr>
-        <td>US14</td>
+        <td>US15</td>
         <td>Borrar historial de scooters alquilados</td>
         <td><b>Cómo</b> Cliente de MoviTech 
         <b>Quiero</b> o borrar mi historial de scooters alquilados
@@ -355,7 +368,7 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
         <td>EP05</td>
     </tr>
     <tr>
-        <td>US15</td>
+        <td>US16</td>
         <td>Adquirir plan</td>
         <td><b>Cómo</b> Cliente de MoviTech 
         <b>Quiero</b> Comprar un plan
@@ -380,7 +393,7 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
         <td>EP06</td>
     </tr>
     <tr>
-        <td>US16</td>
+        <td>US17</td>
         <td>Cancelar suscripción </td>
         <td><b>Cómo</b> Cliente de MoviTech 
         <b>Quiero</b> cancelar mi suscripcion
@@ -397,7 +410,7 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
         <td>EP06</td>
     </tr>
     <tr>
-        <td>US17</td>
+        <td>US18</td>
         <td>Búsqueda de scooters cercano</td>
         <td><b>Cómo</b> cliente de MoviTech 
         <b>Quiero</b> poder buscar scooters disponibles cerca de mi ubicación actual 
@@ -414,7 +427,7 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
         <td>EP03</td>
     </tr>
     <tr>
-        <td>US18</td>
+        <td>US19</td>
         <td>Visualización de disponibilidad</td>
         <td><b>Cómo</b> cliente de MoviTech
         <b>Quiero</b> seleccionar una zona o área específica para ver la disponibilidad de scooters 
@@ -431,7 +444,7 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
         <td>EP04</td>
     </tr>
     <tr>
-        <td>US19</td>
+        <td>US20</td>
         <td>Calificación y reseñas</td>
         <td><b>Cómo</b> cliente de MoviTech 
         <b>Quiero</b> poder calificar y dejar reseñas sobre mi experiencia con scooters utilizados y la zona donde los tomé
@@ -448,7 +461,7 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
         <td>EP02</td>
     </tr>
     <tr>
-        <td>US20</td>
+        <td>US21</td>
         <td>Opciones de pago</td>
         <td><b>Cómo</b> cliente de MoviTech 
         <b>Quiero</b>  tener varias opciones de pago integradas en la aplicación
