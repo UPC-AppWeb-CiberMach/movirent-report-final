@@ -463,7 +463,7 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
 
 ## 3.3. Impact Mapping
 
-## 3.4. Product Backlog.
+## 3.4. Product Backlog
 
 <table border="1px" style="text-align: center; width: 100%;">
   <tr>
@@ -476,143 +476,138 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
   <tr>
     <td valign="top"> 01 </td>
     <td valign="top"> US01 </td>
-    <td valign="top"> Descripción de la aplicación y startup </td>
-    <td valign="top"> Cómo visitante interesado Quiero ver una descripción clara del producto Para entender sus beneficios y características. </td>
+    <td valign="top"> Descripción de la aplicación </td>
+    <td valign="top"> Como visitante de la landing page Quiero visualizar una descripción del producto ofrecido Para conocer los beneficios que puedo adquirir mediante el uso de la aplicación.</td>
     <td valign="top"> 3 </td>
   </tr>
-  <tr>
+    <tr>
     <td valign="top"> 02 </td>
     <td valign="top"> US02 </td>
-    <td valign="top"> Acceder a la aplicación desde la landing page </td>
-    <td valign="top"> Cómo visitante de la landing page Quiero poder acceder a la aplicación MoviTech desde la landing page Para comenzar a utilizar las funcionalidades ofrecidas. </td>
+    <td valign="top"> Descripción de la startup </td>
+    <td valign="top"> Cómo visitante interesado Quiero ver una descripción clara de la startup Para conocer a sus integrantes y su propósito como startup</td>
     <td valign="top"> 3 </td>
   </tr>
   <tr>
     <td valign="top"> 03 </td>
     <td valign="top"> US03 </td>
-    <td valign="top"> Registrar usuario </td>
-    <td valign="top"> Cómo visitante de la aplicación web de MoviTech Quiero poder crear una cuenta personal Para comenzar a hacer uso de la aplicación como Owner/Cliente. </td>
-    <td valign="top"> 4 </td>
+    <td valign="top"> Acceder a la aplicación desde la landing page </td>
+    <td valign="top"> Cómo visitante de la landing page Quiero poder acceder a la aplicación MoviRent desde la landing page Para comenzar a utilizar las funcionalidades ofrecidas </td>
+    <td valign="top"> 3 </td>
   </tr>
   <tr>
     <td valign="top"> 04 </td>
     <td valign="top"> US04 </td>
-    <td valign="top"> Iniciar sesión </td>
-    <td valign="top"> Cómo Owner/Cliente de MoviTech Quiero iniciar sesión Para acceder a los beneficios que ofrece la aplicación. </td>
-    <td valign="top"> 5 </td>
+    <td valign="top"> Registrar usuario </td>
+    <td valign="top"> Cómo visitante de la aplicación web de MoviRent Quiero poder crear una cuenta personal Para comenzar a hacer uso de la aplicación como Owner/Cliente. </td>
+    <td valign="top"> 4 </td>
   </tr>
   <tr>
     <td valign="top"> 05 </td>
     <td valign="top"> US05 </td>
-    <td valign="top"> Visualizar perfil de usuario </td>
-    <td valign="top"> Cómo Owner/Cliente de MoviTech Quiero visualizar mi perfil personal Para visualizar mis datos actuales. </td>
+    <td valign="top"> Iniciar sesión </td>
+    <td valign="top"> Cómo Owner/Cliente de MoviRent Quiero iniciar sesión Para acceder a los beneficios que ofrece la aplicación.</td>
     <td valign="top"> 5 </td>
   </tr>
   <tr>
     <td valign="top"> 06 </td>
     <td valign="top"> US06 </td>
-    <td valign="top"> Cambiar datos personales </td>
-    <td valign="top"> Cómo Owner/Cliente de MoviTech Quiero cambiar los datos asociados a mi perfil Para actualizar la información. </td>
-    <td valign="top"> 4 </td>
+    <td valign="top"> Visualizar perfil de usuario </td>
+    <td valign="top"> Cómo Owner/Cliente de MoviRent Quiero visualizar mi perfil personal Para visualizar mis datos actuales.</td>
+    <td valign="top"> 5 </td>
   </tr>
   <tr>
     <td valign="top"> 07 </td>
     <td valign="top"> US07 </td>
-    <td valign="top"> Eliminar cuenta de usuario </td>
-    <td valign="top"> Cómo Owner/Cliente de MoviTech Quiero eliminar mi cuenta de usuario Para dejar de usar los servicios de la aplicación. </td>
+    <td valign="top"> Cambiar datos personales </td>
+    <td valign="top"> Cómo Owner/Cliente de MoviRent Quiero cambiar los datos asociados a mi perfil Para actualizar la información. </td>
     <td valign="top"> 4 </td>
   </tr>
   <tr>
     <td valign="top"> 08 </td>
     <td valign="top"> US08 </td>
+    <td valign="top"> Eliminar cuenta de usuario </td>
+    <td valign="top"> Cómo Owner/Cliente de MoviRent Quiero eliminar mi cuenta de usuario Para dejar de usar los servicios de la aplicación. </td>
+    <td valign="top"> 4 </td>
+  </tr>
+  <tr>
+    <td valign="top"> 09 </td>
+    <td valign="top"> US09 </td>
     <td valign="top"> Publicar scooter en alquiler </td>
     <td valign="top"> Cómo Owner de un scooter eléctrico Quiero crear publicaciones con la información y especificaciones de mi scooter Para que pueda ser alquilado por un cliente. </td>
     <td valign="top"> 5 </td>
   </tr>
   <tr>
-    <td valign="top"> 09 </td>
-    <td valign="top"> US09 </td>
-    <td valign="top"> Visualizar un scooter en alquiler </td>
-    <td valign="top"> Cómo Owner de un scooter eléctrico Quiero visualizar las publicaciones con la información y especificaciones de mi scooter Para verificar que toda la información ingresada es correcta y actualizada. </td>
-    <td valign="top"> 4 </td>
-  </tr>
-  <tr>
     <td valign="top"> 10 </td>
     <td valign="top"> US10 </td>
-    <td valign="top"> Editar Scooter en alquiler </td>
-    <td valign="top"> Cómo Owner de un scooter eléctrico Quiero editar la publicación de mi scooter Para que la información proporcionada a los clientes esté siempre actualizada. </td>
+    <td valign="top"> Visualizar un scooter en alquiler </td>
+    <td valign="top"> Cómo Owner de un scooter eléctrico Quiero visualizar las publicaciones con la información y especificaciones de mi scooter Para verificar que toda la información ingresada es correcta y actualizada.</td>
     <td valign="top"> 4 </td>
   </tr>
   <tr>
     <td valign="top"> 11 </td>
     <td valign="top"> US11 </td>
-    <td valign="top"> Eliminar scooter en alquiler </td>
-    <td valign="top"> Cómo Owner Quiero eliminar un scooter en alquiler Para mantener la integridad de la información almacenada. </td>
+    <td valign="top"> Editar Scooter en alquiler </td>
+    <td valign="top"> Cómo Owner de un scooter eléctrico Quiero editar la publicación de mi scooter Para que la información proporcionada a los clientes esté siempre actualizada. </td>
     <td valign="top"> 4 </td>
   </tr>
   <tr>
     <td valign="top"> 12 </td>
     <td valign="top"> US12 </td>
-    <td valign="top"> Alquiler Scooter </td>
-    <td valign="top"> Cómo Cliente de MoviTech Quiero alquilar un scooter Para llegar rápido a mi destino. </td>
-    <td valign="top"> 5 </td>
+    <td valign="top"> Eliminar scooter en alquiler </td>
+    <td valign="top"> Cómo Owner Quiero eliminar un scooter en alquiler Para mantener la integridad de la información almacenada. </td>
+    <td valign="top"> 4 </td>
   </tr>
-  <tr>
+    <tr>
     <td valign="top"> 13 </td>
     <td valign="top"> US13 </td>
-    <td valign="top"> Visualizar historial de scooters alquilados </td>
-    <td valign="top"> Cómo Cliente de MoviTech Quiero visualizar mi historial de scooters alquilados Para acceder fácilmente a su información. </td>
-    <td valign="top"> 5 </td>
-  </tr>
-      <tr>
-    <td valign="top"> 14 </td>
-    <td valign="top"> US14 </td>
-    <td valign="top"> Borrar historial de scooters alquilados </td>
-    <td valign="top"> Cómo Cliente de MoviTech Quiero o borrar mi historial de scooters alquilados Para ya no tener información que considere innecesaria. </td>
-    <td valign="top"> 4 </td>
-  </tr>
-      <tr>
-    <td valign="top"> 15 </td>
-    <td valign="top"> US15 </td>
-    <td valign="top"> Adquirir plan </td>
-    <td valign="top"> Cómo Cliente de MoviTech Quiero Comprar un plan Para acceder a sus beneficios al usar la aplicación. </td>
+    <td valign="top"> Búsqueda de scooters cercano </td>
+    <td valign="top"> Cómo cliente de MoviRent Quiero poder buscar scooters disponibles en mi distrito Para facilitar mi desplazamiento. </td>
     <td valign="top"> 6 </td>
   </tr>
-      <tr>
+      <tr>   
+  <tr>
+    <td valign="top"> 14 </td>
+    <td valign="top"> US14 </td>
+    <td valign="top"> Alquiler Scooter </td>
+    <td valign="top"> Cómo Cliente de MoviRent Quiero alquilar un scooter Para llegar rápido a mi destino.</td>
+    <td valign="top"> 5 </td>
+  </tr>
+   <tr>
+    <td valign="top"> 15 </td>
+    <td valign="top"> US15 </td>
+    <td valign="top"> Calificación y reseñas </td>
+    <td valign="top"> Cómo cliente de MoviRent Quiero poder calificar y dejar reseñas sobre mi experiencia con scooters utilizados y la zona donde los tomé Para ayudar a otros usuarios a tomar decisiones informadas.</td>
+    <td valign="top"> 4 </td>
+  </tr>
+  <tr>
     <td valign="top"> 16 </td>
     <td valign="top"> US16 </td>
-    <td valign="top"> Cancelar suscripción </td>
-    <td valign="top"> Cómo Cliente de MoviTech Quiero cancelar mi suscripción Para ya no seguir teniendo cobros de esta. </td>
-    <td valign="top"> 4 </td>
+    <td valign="top"> Visualizar historial de scooters alquilados </td>
+    <td valign="top"> Cómo Cliente de MoviRent Quiero visualizar mi historial de scooters alquilados Para acceder fácilmente a su información. </td>
+    <td valign="top"> 5 </td>
   </tr>
       <tr>
     <td valign="top"> 17 </td>
     <td valign="top"> US17 </td>
-    <td valign="top"> Búsqueda de scooters cercano </td>
-    <td valign="top"> Cómo cliente de MoviTech Quiero poder buscar scooters disponibles cerca de mi ubicación actual Para facilitar mi desplazamiento. </td>
-    <td valign="top"> 6 </td>
+    <td valign="top"> Borrar historial de scooters alquilados </td>
+    <td valign="top"> Cómo Cliente de MoviRent Quiero o borrar mi historial de scooters alquilados Para ya no tener información que considere innecesaria.</td>
+    <td valign="top"> 4 </td>
   </tr>
       <tr>
     <td valign="top"> 18 </td>
     <td valign="top"> US18 </td>
-    <td valign="top"> Visualización de disponibilidad </td>
-    <td valign="top"> Cómo cliente de MoviTech Quiero ver en tiempo real la disponibilidad de scooters en mi área Para planificar mi viaje de manera eficiente. </td>
+    <td valign="top"> Adquirir plan </td>
+    <td valign="top"> Cómo Cliente de MoviRent Quiero Comprar un plan Para acceder a sus beneficios al usar la aplicación.</td>
     <td valign="top"> 6 </td>
   </tr>
       <tr>
     <td valign="top"> 19 </td>
     <td valign="top"> US19 </td>
-    <td valign="top"> Calificación y reseñas </td>
-    <td valign="top"> Cómo cliente de MoviTech Quiero poder calificar y dejar reseñas sobre mi experiencia con scooters utilizados y la zona donde los tomé Para ayudar a otros usuarios a tomar decisiones informadas. </td>
+    <td valign="top"> Cancelar suscripción </td>
+    <td valign="top"> Cómo Cliente de MoviRent Quiero cancelar mi suscripción Para ya no seguir teniendo cobros de esta.</td>
     <td valign="top"> 4 </td>
   </tr>
-        <tr>
-    <td valign="top"> 20 </td>
-    <td valign="top"> US20 </td>
-    <td valign="top"> Opciones de pago </td>
-    <td valign="top"> Cómo cliente de MoviTech Quiero tener varias opciones de pago integradas en la aplicación Para pagar por el uso del scooter de manera conveniente. </td>
-    <td valign="top"> 7 </td>
-  </tr>
+      
 
 
 </table>
