@@ -443,10 +443,10 @@ para conseguir los As-is Scenario Mapping de los tres segmentos.
 objetivos.
 
 **Segmento 1 - Owner**  
-<img src="..//assets/chapter-02/scenario-mapping/scenario1.jpg" alt="As-IS Scenario Mapping 1">
+<img src="..//assets/chapter-02/scenario-mapping/As-Is-Owner.jpg" alt="As-IS Scenario Mapping 1">
 
 **Segmento 2 - Client**  
-<img src="..//assets/chapter-02/scenario-mapping/scenario2.jpg" alt="As-IS Scenario Mapping 2">
+<img src="..//assets/chapter-02/scenario-mapping/As-Is-Client.jpg" alt="As-IS Scenario Mapping 2">
 
 ## 2.4. Ubiquitous Language.
 
