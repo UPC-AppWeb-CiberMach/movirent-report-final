@@ -176,7 +176,7 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
             <br>
             <b>Scenario 2: Problema al acceder al perfil personal </b> <br/>
             <b>Dado que</b> el usuario desee visualizar su información personal  <br/>
-            <b>Cuando</b> intente ingresar a su perfil Y experimente un error de conexión o de servidor <br/>
+            <b>Cuando</b> intente ingresar a su perfil <br><b>Y</b> experimente un error de conexión o de servidor <br/>
             <b>Entonces</b> no se visualizarán los datos del perfil <br/>
         <td>EP02</td>
     </tr>
@@ -189,7 +189,7 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
         <td>
             <b>Scenario 1: Cambiar contraseña</b> <br/>
             <b>Dado que</b> el usuario quiera cambiar su contraseña <br/>
-            <b>Cuando</b> ingrese la nueva contraseña, esta sea validada por el sistema y el usuario confirme su intención de proceder con el cambio<br/>
+            <b>Cuando</b> ingrese la nueva contraseña, esta sea validada por el sistema <br><b>Y</b> el usuario confirme su intención de proceder con el cambio<br/>
             <b>Entonces</b> la nueva clave será guardada y la información actualizada.<br/>
             <br>
             <b>Scenario 2: Cambiar nombre</b> <br/>
@@ -338,24 +338,6 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
     </tr>
     <tr>
         <td>US14</td>
-        <td>Calificación y reseñas</td>
-        <td><b>Cómo</b> cliente de MoviRent
-        <b>Quiero</b> poder calificar y dejar reseñas sobre mi experiencia con scooters utilizados y la zona donde los tomé
-        <b>Para</b> ayudar a otros usuarios a tomar decisiones informadas.</td>
-        <td>
-            <b>Scenario 1: Calificación y reseñas </b> <br/>
-            <b>Dado que</b> el usuario tenga una cuenta registrada en la página web <br><b>Y</b> haya utilizado un vehículo recientemente <br/>
-            <b>Cuando</b> el usuario acceda a la opción de dejar reseña Y seleccione la zona o tipo de scooter donde quiera dejar su reseña <br><b>Y</b> escriba su reseña <br><b>Y</b> haga clic en publicar <br/>
-            <b>Entonces</b> se creará la reseña del usuario <br><b>Y</b> será visible para otros usuarios. <br/>
-            <br>
-            <b>Scenario 2: Ver reseñas de otros clientes </b> <br/>
-            <b>Dado que</b> el usuario esté viendo las reseñas de otros usuarios sobre un scooter o una zona específica<br/>
-            <b>Cuando</b> el usuario busque reseñas <br/>
-            <b>Entonces</b> se mostrarán las calificaciones promedio y las reseñas de otros usuarios para ayudar al usuario a tomar una decisión informada sobre su experiencia. <br/>
-        <td>EP04</td>
-    </tr>
-    <tr>
-        <td>US15</td>
         <td>Alquiler Scooter</td>
         <td><b>Cómo</b> Cliente de MoviRent
         <b>Quiero</b> alquilar un scooter
@@ -378,6 +360,24 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
         <td>EP04</td>
     </tr>
     <tr>
+        <td>US15</td>
+        <td>Calificación y reseñas</td>
+        <td><b>Cómo</b> cliente de MoviRent
+        <b>Quiero</b> poder calificar y dejar reseñas sobre mi experiencia con scooters utilizados y la zona donde los tomé
+        <b>Para</b> ayudar a otros usuarios a tomar decisiones informadas.</td>
+        <td>
+            <b>Scenario 1: Calificación y reseñas </b> <br/>
+            <b>Dado que</b> el usuario tenga una cuenta registrada en la página web <br><b>Y</b> haya utilizado un vehículo recientemente <br/>
+            <b>Cuando</b> el usuario acceda a la opción de dejar reseña Y seleccione la zona o tipo de scooter donde quiera dejar su reseña <br><b>Y</b> escriba su reseña <br><b>Y</b> haga clic en publicar <br/>
+            <b>Entonces</b> se creará la reseña del usuario <br><b>Y</b> será visible para otros usuarios. <br/>
+            <br>
+            <b>Scenario 2: Ver reseñas de otros clientes </b> <br/>
+            <b>Dado que</b> el usuario esté viendo las reseñas de otros usuarios sobre un scooter o una zona específica<br/>
+            <b>Cuando</b> el usuario busque reseñas <br/>
+            <b>Entonces</b> se mostrarán las calificaciones promedio y las reseñas de otros usuarios para ayudar al usuario a tomar una decisión informada sobre su experiencia. <br/>
+        <td>EP04</td>
+    </tr>
+    <tr>
         <td>US16</td>
         <td>Visualizar historial de scooters alquilados</td>
         <td><b>Cómo</b> Cliente de MoviRent
@@ -385,11 +385,12 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
         <b>Para</b> acceder fácilmente a su información</td>
         <td>
             <b>Scenario 1: Cliente visualiza su historial de scooters alquilados </b> <br/>
-            <b>Dado que</b> el Cliente se encuentre en la aplicación de MoviRent Y ya ha alquilado scooters anteriormente<br/>
+            <b>Dado que</b> el Cliente se encuentre en la aplicación de MoviRent <br><b>Y</b> ya ha alquilado scooters anteriormente<br/>
             <b>Cuando</b> se dirija a la opción de “Ver historial”<br/>
             <b>Entonces</b> el sistema le mostrará la información de los scooters que alquiló anteriormente.<br/>
+            <br>
             <b>Scenario 2: Cliente no visualiza su historial de scooters alquilados</b> <br/>
-            <b>Dado que</b> el Cliente se encuentre en la aplicación de MoviTech Y no ha alquilado scooters anteriormente <br/>
+            <b>Dado que</b> el Cliente se encuentre en la aplicación de MoviRent <br><b>Y</b> no ha alquilado scooters anteriormente <br/>
             <b>Cuando</b> se dirija a la opción de “Ver historial”<br/>
             <b>Entonces</b> el sistema mostrará un mensaje de que aún no ha alquilado ningún scooter. <br/>
         <td>EP05</td>
@@ -397,18 +398,19 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
     <tr>
         <td>US17</td>
         <td>Borrar historial de scooters alquilados</td>
-        <td><b>Cómo</b> Cliente de MoviTech 
+        <td><b>Cómo</b> Cliente de MoviRent
         <b>Quiero</b> o borrar mi historial de scooters alquilados
         <b>Para</b> ya no tener información que considere innecesaria. </td>
         <td>
             <b>Scenario 1: Cliente elimina su historial de scooters alquilados</b> <br/>
-            <b>Dado que</b> el Cliente se encuentre en la aplicación de MoviTech Y ya ha alquilado scooters anteriormente <br/>
-            <b>Cuando</b> se dirija a la opción de “Ver historial” Y le de al botón de “Borrar historial”. Y confirme la acción<br/>
+            <b>Dado que</b> el Cliente se encuentre en la aplicación de MoviRent <br><b>Y</b> ya ha alquilado scooters anteriormente <br/>
+            <b>Cuando</b> se dirija a la opción de “Ver historial” <br><b>Y</b> le de al botón de “Borrar historial”. Y confirme la acción<br/>
             <b>Entonces</b> el sistema le mostrará un mensaje de que su historial ha sido borrado. Y ya no mostrará la información del historial<br/>
+            <br>
             <b>Scenario 2: Cliente no elimina su historial de scooters alquilados</b> <br/>
-            <b>Dado que</b> el Cliente se encuentre en la aplicación de MoviTech Y ya ha alquilado scooters anteriormente <br/>
-            <b>Cuando</b> se dirija a la opción de “Ver historial” Y le de al botón de “Borrar historial”. Y cancele la acción. <br/>
-            <b>Entonces</b> el sistema le mostrará un mensaje de que su historial no ha sido borrado.Y seguirá mostrando la información del historial.<br/>
+            <b>Dado que</b> el Cliente se encuentre en la aplicación de MoviRent <br><b>Y</b> ya ha alquilado scooters anteriormente <br/>
+            <b>Cuando</b> se dirija a la opción de “Ver historial” <br><b>Y</b> le de al botón de “Borrar historial” <br><b>Y</b> cancele la acción. <br/>
+            <b>Entonces</b> el sistema le mostrará un mensaje de que su historial no ha sido borrado <br><b>Y</b> seguirá mostrando la información del historial.<br/>
         <td>EP05</td>
     </tr>
     <tr>
