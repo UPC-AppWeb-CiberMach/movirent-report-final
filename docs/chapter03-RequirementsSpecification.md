@@ -26,86 +26,100 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
     </tr>
     <tr>
         <td>EP01</td>
-        <td>Landing page para la aplicacion MoviTech</td>
-        <td><b>Cómo</b> miembro de Movitech <b>Quiero</b> desarrollar una landing page <b>Para</b> informar acerca del servicio a los posibles clientes.</td>
+        <td>Landing page para la aplicacion MoviRent</td>
+        <td><b>Como</b> Owner/Cliente MoviRent <b>Quiero</b> ingresar una landing page <b>Para</b> informarme sobre la aplicación y su equipo de desarrollo.</td>
         <td>No corresponde</td>
         <td>No corresponde</td>
     </tr>
     <tr>
         <td>EP02</td>
-        <td>Gestion de cuenta de usuario</td>
-        <td><b>Cómo</b> Owner/Cliente de Movitech <b>Quiero</b> crear, visualizar, eliminar y editar mi cuenta <b>Para</b> tener mis datos actualizados y comenzar a hacer uso de la aplicacion correctamente.</td>
+        <td>Gestión de cuenta de usuario</td>
+        <td><b>Como</b> Owner/Cliente de MoviRent <b>Quiero</b> crear, visualizar, eliminar y editar mi cuenta <b>Para</b> tener mis datos actualizados y comenzar a hacer uso de la aplicación correctamente.</td>
         <td>No corresponde</td>
         <td>No corresponde</td>
     </tr>
     <tr>
         <td>EP03</td>
-        <td>Gestion de scooters en alquier</td>
-        <td><b>Cómo</b> Owner de Movitech <b>Quiero</b> agregar y gestionar mis vehiculos <b>Para</b> asegurarme que esten disponibles y en buen estado para el alquiler.</td>
+        <td>Gestión de scooters en alquiler</td>
+        <td><b>Como</b> Owner en MoviRent <b>Quiero</b> agregar y gestionar mis scooters <b>Para</b> asegurarme que estén disponibles y en buen estado para el alquiler.</td>
         <td>No corresponde</td>
         <td>No corresponde</td>
     </tr>
     <tr>
         <td>EP04</td>
-        <td>Gestion de reservas</td>
-        <td><b>Cómo</b> cliente de Movitech <b>Quiero</b> gestionar mis reservas y el uso de vehiculos <b>Para</b> planificar y controlar mis recorridos. </td>
+        <td>Gestión de reservas</td>
+        <td><b>Como</b> cliente de MoviRent <b>Quiero</b> gestionar mis reservas y el uso de scooters <b>Para</b> planificar y controlar mis alquileres. </td>
         <td>No corresponde</td>
         <td>No corresponde</td>
     </tr>
     <tr>
         <td>EP05</td>
         <td>Gestionar historial de reservas</td>
-        <td><b>Cómo</b> usuario de Movitech <b>Quiero</b> poder ver el historial completo de las reservas realizadas<b>Para</b> consultar detalles como fechas de alquiler, tipo, lugar de recogida y devolucion. </td>
+        <td><b>Cómo</b> Cliente de Movitech <b>Quiero</b> poder ver el historial completo de las reservas realizadas<b> Para</b> acceder a la información de estos de manera sencilla.
+        <b>Y</b> tener un control de mi historial</td>
         <td>No corresponde</td>
         <td>No corresponde</td>
     </tr>
     <tr>
         <td>EP06</td>
-        <td>Gestion de planes</td>
-        <td><b>Cómo</b> cliente de Movitech <b>Quiero</b> tener una gestion y control de mi plan <b>Para</b> poder adquirirlo y comprarlo cuando lo requiera</td>
+        <td>Gestión de planes</td>
+        <td><b>Cómo</b> cliente de MoviRent <b>Quiero</b> tener una gestión y control de mi plan <b>Para</b> poder adquirirlo y coancelarlo cuando lo requiera</td>
         <td>No corresponde</td>
         <td>No corresponde</td>
     </tr>
     <tr>
         <td>US01</td>
-        <td>Descripcion de la aplicacion y startup</td>
-        <td><b>Cómo</b> visitante interesado 
-        <b>Quiero</b> ver una descripcion clara del producto
-        <b>Para</b> entender sus beneficios y caracteristicas.</td>
+        <td>Descripción de la aplicación</td>
+        <td><b>Como</b> visitante de la landing page
+        <b>Quiero</b> visualizar una descripción del producto ofrecido
+        <b>Para</b> conocer los beneficios que puedo adquirir mediante el uso de la aplicación.</td>
         <td>
-            <b>Scenario 1: Visualizar seccion Home</b> <br/>
-            <b>Dado que</b> el owner tiene acceso a la aplicación, <br/>
-            <b>Cuando</b> registra un nuevo vehículo <br/>
-            <b>Entonces</b> Ingresa los detalles o caracteristicas del vehículo, como marca, modelo, tipo (bicicleta, scooter, moto eléctrica, etc.), disponibilidad, ubicación del vehículo, <br/>
-            <b>Scenario 2: Acceder a la sección "About us</b> <br/>
-            <b>Dado que</b> el visitante se encuentre dentro de la landing page <br/>
-            <b>Cuando</b> navegue hasta la sección “About Us” <br/>
-            <b>Entonces</b> se muestra información importante sobre la startup. <br/>
-            <b>Scenario 3: Acceder a la sección "Services"</b> <br/>
+            <b>Scenario 1: Visualizar sección Home</b> <br/>
+            <b>Dado que</b> el visitante ingresa a la página<br/>
+            <b>Cuando</b>la página cargue <br/>
+            <b>Entonces</b> se muestra una sección llamativa que anime al usuario a usar la aplicación.<br/>
+            <br>
+            <b>Scenario 2: Acceder a la sección "Services"</b> <br/>
             <b>Dado que</b> el visitante se encuentre dentro de la landing page<br/>
             <b>Cuando</b> navegue hasta la sección “Services” <br/>
-            <b>Entonces</b> se muestra información sobre los servicios que ofrece MoviTech<br/>
-            <b>Scenario 4: Explorar la sección "Pricing"</b> <br/>
+            <b>Entonces</b> se muestra información sobre los servicios que ofrece MoviRent<br/>
+            <br>
+            <b>Scenario 3: Explorar la sección "Pricing"</b> <br/>
             <b>Dado que</b> el visitante se encuentre dentro de la landing page<br/>
             <b>Cuando</b> navegue hasta la sección “Pricing” <br/>
             <b>Entonces</b> se muestra la información relacionada a los planes de pago que se ofrecen y cuáles son los beneficios de cada uno de estos.<br/>
-            <b>Scenario 5: Conocer al equipo en "About The Team"</b> <br/>
-            <b>Dado que</b> el visitante se encuentre dentro de la landing page <br/>
-            <b>Cuando</b>  navegue hasta la sección “About The Team”<br/>
-            <b>Entonces</b> se muestra la información correspondiente a los videos about the project y about the team, además de la información de cada uno de los miembros.<br/>
         <td>EP01</td>
     </tr>
     <tr>
         <td>US02</td>
+        <td>Descripción de la startup</td>
+        <td><b>Cómo</b> visitante interesado 
+        <b>Quiero</b> ver una descripción clara de la startup
+        <b>Para</b> conocer a sus integrantes y su propósito como startup</td>
+        <td>
+            <b>Scenario 1: Acceder a la sección "About us</b> <br/>
+            <b>Dado que</b> el visitante se encuentre dentro de la landing page <br/>
+            <b>Cuando</b> navegue hasta la sección “About Us” <br/>
+            <b>Entonces</b> se muestra información importante sobre la startup. <br/>
+            <br>
+            <b>Scenario 2: Conocer al equipo en "About The Team"</b> <br/>
+            <b>Dado que</b> el visitante se encuentre dentro de la landing page <br/>
+            <b>Cuando</b> navegue hasta la sección “About The Team”<br/>
+            <b>Entonces</b> se muestra la información correspondiente a los videos about the project y about the team, además de la información de cada uno de los miembros.<br/>
+        <td>EP01</td>
+    </tr>
+    <tr>
+        <td>US03</td>
         <td>Acceder a la aplicación desde la landing page </td>
         <td><b>Cómo</b> visitante de la landing page 
-        <b>Quiero</b> poder acceder a la aplicación MoviTech desde la landing page
+        <b>Quiero</b> poder acceder a la aplicación MoviRent desde la landing page
         <b>Para</b> comenzar a utilizar las funcionalidades ofrecidas</td>
         <td>
             <b>Scenario 1: Usuario ingresa a aplicación</b> <br/>
             <b>Dado que</b> el visitante se encuentra en la landing page <br/>
             <b>Cuando</b> seleccione la opción que permite el acceso al software elaborado<br/>
             <b>Entonces</b> es redirigido a la aplicación desplegada<br/>
+            <br>
             <b>Scenario 2: Fallo en el acceso a la aplicación</b> <br/>
             <b>Dado que</b> el visitante se encuentre en la landing page <br/>
             <b>Cuando</b> seleccione la opción que permite el acceso al software elaborado y ocurra un error en el proceso de redirección<br/>
