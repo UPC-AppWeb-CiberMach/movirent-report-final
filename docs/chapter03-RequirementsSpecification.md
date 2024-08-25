@@ -349,7 +349,7 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
             <b>Entonces</b> el sistema le mostrará un aviso de que el scooter ha sido alquilado con éxito y que puede ir a recogerlo para su uso.<br/>
             <br>
             <b>Scenario 2: Owner cancela el alquiler de un scooter en MoviRent </b> <br/>
-            <b>Dado que</b> el Cliente se encuentra en el apartado de “Scooters” <br><b>Y</b> le de al botón “Ver detalles”de una publicación. Y se dé al botón de “Alquilar” <br/>
+            <b>Dado que</b> el Cliente se encuentra en el apartado de “Scooters” <br><b>Y</b> le de al botón “Ver detalles”de una publicación <br><b>Y</b> se dé al botón de “Alquilar” <br/>
             <b>Cuando</b> el sistema le muestre la ventana de pago <br><b>Y</b> le de al botón de “Cancelar” <br/>
             <b>Entonces</b> el sistema le mostrará un aviso de que se ha cancelado la operación<br/>
             <br>
@@ -368,7 +368,7 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
         <td>
             <b>Scenario 1: Calificación y reseñas </b> <br/>
             <b>Dado que</b> el usuario tenga una cuenta registrada en la página web <br><b>Y</b> haya utilizado un vehículo recientemente <br/>
-            <b>Cuando</b> el usuario acceda a la opción de dejar reseña Y seleccione la zona o tipo de scooter donde quiera dejar su reseña <br><b>Y</b> escriba su reseña <br><b>Y</b> haga clic en publicar <br/>
+            <b>Cuando</b> el usuario acceda a la opción de dejar reseña <br><b>Y</b> seleccione la zona o tipo de scooter donde quiera dejar su reseña <br><b>Y</b> escriba su reseña <br><b>Y</b> haga clic en publicar <br/>
             <b>Entonces</b> se creará la reseña del usuario <br><b>Y</b> será visible para otros usuarios. <br/>
             <br>
             <b>Scenario 2: Ver reseñas de otros clientes </b> <br/>
@@ -404,8 +404,8 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
         <td>
             <b>Scenario 1: Cliente elimina su historial de scooters alquilados</b> <br/>
             <b>Dado que</b> el Cliente se encuentre en la aplicación de MoviRent <br><b>Y</b> ya ha alquilado scooters anteriormente <br/>
-            <b>Cuando</b> se dirija a la opción de “Ver historial” <br><b>Y</b> le de al botón de “Borrar historial”. Y confirme la acción<br/>
-            <b>Entonces</b> el sistema le mostrará un mensaje de que su historial ha sido borrado. Y ya no mostrará la información del historial<br/>
+            <b>Cuando</b> se dirija a la opción de “Ver historial” <br><b>Y</b> le de al botón de “Borrar historial” <br><b>Y</b> confirme la acción<br/>
+            <b>Entonces</b> el sistema le mostrará un mensaje de que su historial ha sido borrado <br><b>Y</b> ya no mostrará la información del historial<br/>
             <br>
             <b>Scenario 2: Cliente no elimina su historial de scooters alquilados</b> <br/>
             <b>Dado que</b> el Cliente se encuentre en la aplicación de MoviRent <br><b>Y</b> ya ha alquilado scooters anteriormente <br/>
@@ -416,63 +416,49 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
     <tr>
         <td>US18</td>
         <td>Adquirir plan</td>
-        <td><b>Cómo</b> Cliente de MoviTech 
+        <td><b>Cómo</b> Cliente de MoviRent 
         <b>Quiero</b> Comprar un plan
         <b>Para</b> acceder a sus beneficios al usar la aplicación. </td>
         <td>
             <b>Scenario 1: Cliente compra una membresía en MoviTech </b> <br/>
-            <b>Dado que</b> el Cliente se encuentra en el apartado de “Membresía” Y el Cliente no cuente con una membresía. Y le de al botón “Subscribe” de una membresía. <br/>
-            <b>Cuando</b> el sistema le muestre la ventana de pago. Y se complete la información requerida <br/>
+            <b>Dado que</b> el Cliente se encuentra en el apartado de “Membresía” <br><b>Y</b> el Cliente no cuente con una membresía <br><b>Y</b> le de al botón “Subscribe” de una membresía. <br/>
+            <b>Cuando</b> el sistema le muestre la ventana de pago <br><b>Y</b> se complete la información requerida <br/>
             <b>Entonces</b> el sistema le mostrará un aviso de que la membresía se ha comprado con éxito. <br/>
-            <b>Scenario 2: Cliente cancela compra una membresía en MoviTech </b> <br/>
-            <b>Dado que</b> el Cliente se encuentra en el apartado de “Membresía” Y el Cliente no cuente con una membresía. Y le de al botón “Subscribe” de una membresía. <br/>
-            <b>Cuando</b> el sistema le muestre la ventana de pago. Y se dé al botón de cancelar<br/>
+            <br>
+            <b>Scenario 2: Cliente cancela compra una membresía en MoviRent </b> <br/>
+            <b>Dado que</b> el Cliente se encuentra en el apartado de “Membresía” <br><b>Y</b> el Cliente no cuente con una membresía <br><b>Y</b> le de al botón “Subscribe” de una membresía. <br/>
+            <b>Cuando</b> el sistema le muestre la ventana de pago <br><b>Y</b> se dé al botón de cancelar<br/>
             <b>Entonces</b> el sistema le mostrará un aviso de que se ha cancelado la compra de la membresía<br/>
-            <b>Scenario 3: Cliente no compra una membresía en MoviTech</b> <br/>
-            <b>Dado que</b> el Cliente se encuentra en el apartado de “Membresía” Y le de al botón “Subscribe” de una membresía. Y el Cliente no cuente con una membresía <br/>
-            <b>Cuando</b> el sistema le muestre la ventana de pago. Y no se complete la información requerida <br/>
+            <br>
+            <b>Scenario 3: Cliente no compra una membresía en MoviRent</b> <br/>
+            <b>Dado que</b> el Cliente se encuentra en el apartado de “Membresía” Y le de al botón “Subscribe” de una membresía <br><b>Y</b> el Cliente no cuente con una membresía <br/>
+            <b>Cuando</b> el sistema le muestre la ventana de pago <br><b>Y</b> no se complete la información requerida <br/>
             <b>Entonces</b> el sistema le mostrará un aviso de que la membresía no se ha adquirido<br/>
-            <b>Scenario 4: Cliente cambia de membresía en MoviTech</b> <br/>
-            <b>Dado que</b> el Cliente se encuentra en el apartado de “Membresía” Y el Cliente cuente con una membresía. Y le de al botón “Subscribe” de una membresía. Y seleccione otra membresia diferente <br/>
-            <b>Cuando</b> el sistema le muestre la ventana de pago. Y se complete la información requerida<br/>
+            <br>
+            <b>Scenario 4: Cliente cambia de membresía en MoviRent</b> <br/>
+            <b>Dado que</b> el Cliente se encuentra en el apartado de “Membresía” <br><b>Y</b> el Cliente cuente con una membresía <br><b>Y</b> le de al botón “Subscribe” de una membresía <br><b>Y</b> seleccione otra membresia diferente <br/>
+            <b>Cuando</b> el sistema le muestre la ventana de pago <br><b>Y</b> se complete la información requerida<br/>
             <b>Entonces</b> el sistema le mostrará un aviso de que la membresía se ha comprado con éxito<br/>
         <td>EP06</td>
     </tr>
     <tr>
         <td>US19</td>
         <td>Cancelar suscripción </td>
-        <td><b>Cómo</b> Cliente de MoviTech 
-        <b>Quiero</b> cancelar mi suscripcion
+        <td><b>Cómo</b> Cliente de MoviRent
+        <b>Quiero</b> cancelar mi suscripción
         <b>Para</b> ya no seguir teniendo cobros de esta. </td>
         <td>
-            <b>Scenario 1: Cliente cancela una membresía en MoviTech</b> <br/>
-            <b>Dado que</b> el Cliente se encuentra en el apartado de “Membresía” Y el Cliente cuente con una membresía. Y le de al botón “Cancelar Membresía” de una membresía. <br/>
-            <b>Cuando</b> el sistema le muestre la ventana de cancelación. Y se confirme la acción<br/>
+            <b>Scenario 1: Cliente cancela una membresía en MoviRent</b> <br/>
+            <b>Dado que</b> el Cliente se encuentra en el apartado de “Membresía” <br><b>Y</b> el Cliente cuente con una membresía <br><b>Y</b> le de al botón “Cancelar Membresía” de una membresía. <br/>
+            <b>Cuando</b> el sistema le muestre la ventana de cancelación <br><b>Y</b> se confirme la acción<br/>
             <b>Entonces</b> el sistema le mostrará un aviso de que la membresía se ha cancelado con éxito.<br/>
+            <br>
             <b>Scenario 2: Cliente no cancela una membresía en MoviTech</b> <br/>
-            <b>Dado que</b> el Cliente se encuentra en el apartado de “Membresía” Y el Cliente cuente con una membresía. Y le de al botón “Cancelar Membresía” de una membresía.<br/>
-            <b>Cuando</b> el sistema le muestre la ventana de cancelación. Y no confirme la acción<br/>
+            <b>Dado que</b> el Cliente se encuentra en el apartado de “Membresía” <br><b>Y</b> el Cliente cuente con una membresía <br><b>Y</b> le de al botón “Cancelar Membresía” de una membresía.<br/>
+            <b>Cuando</b> el sistema le muestre la ventana de cancelación <br><b>Y</b> no confirme la acción<br/>
             <b>Entonces</b> el sistema le mostrará un aviso de que la membresía no se ha cancelado.<br/>
         <td>EP06</td>
     </tr>
-    <tr>
-        <td>US20</td>
-        <td>Opciones de pago</td>
-        <td><b>Cómo</b> cliente de MoviTech 
-        <b>Quiero</b>  tener varias opciones de pago integradas en la aplicación
-        <b>Para</b> pagar por el uso del scooter de manera conveniente.</td>
-        <td>
-            <b>Scenario 1: Opciones de pago </b> <br/>
-            <b>Dado que</b> el usuario tenga una cuenta registrada en la página web <br/>
-            <b>Cuando</b> el usuario acceda a la opción de pagar <br/>
-            <b>Entonces</b> se mostrarán al usuario las diferentes opciones de pago como tarjetas o monederos virtuales disponibles para realizar el pago. <br/>
-            <b>Scenario 2: Pago conveniente </b> <br/>
-            <b>Dado que</b> el usuario haya seleccionado un scooter y esté a punto de completar una reserva<br/>
-            <b>Cuando</b> el usuario vaya a realizar el pago<br/>
-            <b>Entonces</b> se mostrarán las opciones de pago disponibles para que el usuario elija la más conveniente. <br/>
-        <td>EP06</td>
-    </tr>
-    
 </table>
 
 ## 3.3. Impact Mapping
