@@ -243,18 +243,20 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
         <b>Quiero</b> crear publicaciones con la información y especificaciones de mi scooter
         <b>Para</b> que pueda ser alquilado por un cliente</td>
         <td>
-            <b>Scenario 1: Owner publica su scooter en MoviTech </b> <br/>
-            <b>Dado que</b> el Owner cuente con una cuenta en nuestra aplicación Y se encuentre el la opción de “Publicar scooter” <br/>
-            <b>Cuando</b> llene todas las casillas obligatorias para publicar su scooter Y le de al botón “Publicar”<br/>
+            <b>Scenario 1: Owner publica su scooter en MoviRent </b> <br/>
+            <b>Dado que</b> el Owner cuente con una cuenta en nuestra aplicación <b>Y</b> se encuentre el la opción de “Publicar scooter” <br/>
+            <b>Cuando</b> llene todas las casillas obligatorias para publicar su scooter <b>Y</b> le de al botón “Publicar”<br/>
             <b>Entonces</b> el sistema le muestra un aviso de que su scooter ha sido publicado. <br/>
-           <b>Scenario 2: Owner cancela la publicación de su scooter en MoviTech</b> <br/>
-            <b>Dado que</b> el Owner cuente con una cuenta en nuestra aplicación Y se encuentre el la opción de “Publicar scooter”  <br/>
+            <br>
+           <b>Scenario 2: Owner cancela la publicación de su scooter en MoviRent</b> <br/>
+            <b>Dado que</b> el Owner cuente con una cuenta en nuestra aplicación <b>Y</b> se encuentre el la opción de “Publicar scooter”  <br/>
             <b>Cuando</b> le de al botón de “Cancelar”<br/>
             <b>Entonces</b> el sistema le muestra un aviso de que se ha cancelado la publicación.<br/>
-           <b>Scenario 3: Owner no publica su scooter en MoviTech </b> <br/>
-            <b>Dado que</b> el Owner cuente con una cuenta en nuestra aplicación Y se encuentre el la opción de “Publicar scooter” <br/>
-            <b>Cuando</b> no llene todas las casillas obligatorias para publicar su scooter Y le de al botón “Publicar”<br/>
-            <b>Entonces</b> el sistema le muestra un aviso de que se no ha completado la información requerida. Y no se publica su scooter<br/>
+            <br>
+           <b>Scenario 3: Owner no publica su scooter en MoviRent </b> <br/>
+            <b>Dado que</b> el Owner cuente con una cuenta en nuestra aplicación <b>Y</b> se encuentre el la opción de “Publicar scooter” <br/>
+            <b>Cuando</b> no llene todas las casillas obligatorias para publicar su scooter <b>Y</b> le de al botón “Publicar”<br/>
+            <b>Entonces</b> el sistema le muestra un aviso de que se no ha completado la información requerida <b>Y</b> no se publica su scooter<br/>
         <td>EP03</td>
     </tr>
     <tr>
@@ -265,12 +267,13 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
         <b>Para</b> verificar que toda la información ingresada es correcta y actualizada.</td>
         <td>
             <b>Scenario 1: Owner visualiza su scooter en MoviTech </b> <br/>
-            <b>Dado que</b> el Owner se encuentre en la aplicación de MoviTech <br/>
+            <b>Dado que</b> el Owner se encuentre en la aplicación de MoviRent <br/>
             <b>Cuando</b> se dirija a la opción de “Ver mis scooters”<br/>
             <b>Entonces</b> el sistema le mostrará la información de los scooters publicados.<br/>
-            <b>Scenario 2: Owner cancela la visualización de su scooter en MoviTech </b> <br/>
-            <b>Dado que</b> el Owner se encuentre en la aplicación de MoviTech<br/>
-            <b>Cuando</b> se dirija a la opción de “Ver mis scooters” Y le de al botón de “Salir” <br/>
+            <br>
+            <b>Scenario 2: Owner cancela la visualización de su scooter en MoviRent </b> <br/>
+            <b>Dado que</b> el Owner se encuentre en la aplicación de MoviRent<br/>
+            <b>Cuando</b> se dirija a la opción de “Ver mis scooters” <b>Y</b> le de al botón de “Salir” <br/>
             <b>Entonces</b> el sistema lo sacará de la ventana de “Ver mis scooters”<br/>
         <td>EP03</td>
     </tr>
@@ -281,17 +284,19 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
         <b>Quiero</b> editar la publicación de mi scooter
         <b>Para</b> que la información proporcionada a los clientes esté siempre actualizada.</td>
         <td>
-            <b>Scenario 1: Owner edita la publicación de su scooter en MoviTech</b> <br/>
-            <b>Dado que</b> el Owner se encuentra en el apartado de “Mis scooters” Y le de al botón “Editar” de una publicación. <br/>
+            <b>Scenario 1: Owner edita la publicación de su scooter en MoviRent</b> <br/>
+            <b>Dado que</b> el Owner se encuentra en el apartado de “Mis scooters” <b>Y</b> le de al botón “Editar” de una publicación. <br/>
             <b>Cuando</b> actualice correctamente la información<br/>
             <b>Entonces</b> el sistema le muestra un aviso de que su scooter ha sido actualizado<br/>
-            <b>Scenario 2: Owner cancela la edición de la publicación de su scooter en MoviTech</b> <br/>
-            <b>Dado que</b> el Owner se encuentra en el apartado de “Mis scooters” Y le de al botón “Editar” de una publicación. <br/>
+            <br>
+            <b>Scenario 2: Owner cancela la edición de la publicación de su scooter en MoviRent</b> <br/>
+            <b>Dado que</b> el Owner se encuentra en el apartado de “Mis scooters” <b>Y</b> le de al botón “Editar” de una publicación. <br/>
             <b>Cuando</b> le de al botón de “Cancelar”<br/>
             <b>Entonces</b> el sistema cierra la ventana de edición de publicación<br/>
-            <b>Scenario 3: Owner no edita la publicación de su scooter en MoviTech</b> <br/>
-            <b>Dado que</b> el Owner se encuentra en el apartado de “Mis scooters” Y le de al botón “Editar” de una publicación. <br/>
-            <b>Cuando</b> o ingrese incorrectamente la información Y le de al botón de “Aceptar”<br/>
+            <br>
+            <b>Scenario 3: Owner no edita la publicación de su scooter en MoviRent</b> <br/>
+            <b>Dado que</b> el Owner se encuentra en el apartado de “Mis scooters” <b>Y</b> le de al botón “Editar” de una publicación. <br/>
+            <b>Cuando</b> ingrese incorrectamente la información <b>Y</b> le de al botón de “Aceptar”<br/>
             <b>Entonces</b> el sistema le muestra un aviso de que su scooter no ha sido actualizado.<br/>
         <td>EP03</td>
     </tr>
@@ -303,11 +308,12 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
         <b>Para</b> mantener la integridad de la información almacenada.</td>
         <td>
             <b>Scenario 1: Owner borra scooter en alquiler</b> <br/>
-            <b>Dado que</b> el Owner se encuentra en el apartado de “Mis scooters” Y le de al botón “Eliminar” de una publicación. <br/>
+            <b>Dado que</b> el Owner se encuentra en el apartado de “Mis scooters” <b>Y</b> le de al botón “Eliminar” de una publicación. <br/>
             <b>Cuando</b> confirme su intención de borrar los datos<br/>
             <b>Entonces</b> el sistema eliminará de la base de datos toda la información almacenada de ese scooter<br/>
+            <br>
             <b>Scenario 2: Owner decide no borrar scooter </b> <br/>
-            <b>Dado que</b> el Owner se encuentra en el apartado de “Mis scooters” Y le de al botón “Eliminar” de una publicación.<br/>
+            <b>Dado que</b> el Owner se encuentra en el apartado de “Mis scooters” <b>Y</b> le de al botón “Eliminar” de una publicación.<br/>
             <b>Cuando</b> o niegue su intención de borrar los datos <br/>
             <b>Entonces</b> el sistema no eliminará la información del scooter. <br/>
         <td>EP03</td>
