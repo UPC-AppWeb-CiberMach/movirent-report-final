@@ -1,19 +1,18 @@
 ﻿<br/><br/>
  
 <p align="center">
-	
+
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" width="150">
 
 </p>
 
 <div align="center">
-	
+
 ## Universidad Peruana de Ciencias Aplicadas 
-### **CURSO:** SI730 Aplicaciones Web 
+### Ingeniería de Software
+### **CURSO:** SI730 Aplicaciones Web - SI92
 ### **SECCIÓN:** SI92 
-### **Profesor:** Naldo Reupo-Musayon Gastulo 
-### **Ingeniería de software** 
-### **Ciclo:** Quinto 
+### **Profesor:** Naldo Reupo-Musayon Gastulo
 
 <br/>
 
@@ -24,7 +23,7 @@
 ### **Nombre del startup:** CiberMach
 ### **Nombre del producto:** MoviRent
 
-## **Integrantes** 
+## **Integrantes**
 
 <table align="center", border="1px">
 	<tbody>
@@ -59,17 +58,11 @@
 	</tbody>
 </table>
 
-
 ## Agosto, 2024.
 
 </div>
 
-
 <div style="page-break-before: always;"></div>
-
-# Contenido
-
-## Tabla de contenidos
 
 ### [Registro de versiones del informe](#registro-de-versiones-del-informe)
 
@@ -126,7 +119,7 @@ Durante la preparación del informe, se llevaron a cabo las siguientes actividad
 - Se crearon los artefactos necesarios utilizando las herramientas indicadas en el PDF del proyecto.
 - Se organizaron reuniones para asignar las tareas, para coordinar el progreso de los elementos del informe y para comunicar los avances del primer Sprint.
 
-<div style="page-break-before: always;"></div> 
+<div style="page-break-before: always;"></div>
 
 ### [Student Outcome](#student-outcome)
 
@@ -139,7 +132,7 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de
 conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro
 del ABET – EAC - Student Outcome 5.
 
-<table align="center", border="1px">
+<table align="center" border="1px">
 	<tbody>
 		<tr>
 			<td>Criterio específico</td>
@@ -159,7 +152,12 @@ del ABET – EAC - Student Outcome 5.
 	</tbody>
 </table>
 
-## [Capítulo I: Introducción](#capítulo-i-introducción)
+## Project Report Online
+URL Project Report (Github): https://github.com/UPC-AppWeb-CiberMach/Final-Report 
+
+## Tabla de contenidos
+
+### [Capítulo I: Introducción](#capítulo-i-introducción)
 - [1.1. Startup Profile](#11-startup-profile)
     - [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)
     - [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
@@ -172,7 +170,7 @@ del ABET – EAC - Student Outcome 5.
         - [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)
 - [1.3. Segmentos objetivo](#13-segmentos-objetivo)
 
-## [Capítulo II: Requirements Elicitation & Analysis](#capítulo-ii-requirements-elicitation--analysis)
+### [Capítulo II: Requirements Elicitation & Analysis](#capítulo-ii-requirements-elicitation--analysis)
 - [2.1. Competidores](#21-competidores)
     - [2.1.1. Análisis competitivo](#211-análisis-competitivo)
     - [2.1.2. Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)
@@ -189,13 +187,13 @@ del ABET – EAC - Student Outcome 5.
 - [2.4. Ubiquitous Language](#24-ubiquitous-language)
 
 
-## [Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification)
+### [Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification)
 - [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)
 - [3.2. User Stories](#32-user-stories)
 - [3.3. Impact Mapping](#33-impact-mapping)
 - [3.4. Product Backlog](#34-product-backlog)
 
-## [Capítulo IV: Product Design](#capítulo-iv-product-design)
+### [Capítulo IV: Product Design](#capítulo-iv-product-design)
 - [4.1. Style Guidelines](#41-style-guidelines)
     - [4.1.1. General Style Guidelines](#411-general-style-guidelines)
     - [4.1.2. Web Style Guidelines](#412-web-style-guidelines)
@@ -224,7 +222,7 @@ del ABET – EAC - Student Outcome 5.
 - [4.8. Database Design](#48-database-design)
     - [4.8.1. Database Diagram](#481-database-diagram)
 
-## [Capítulo V: Product Implementation, Validation & Deployment](#capítulo-v-product-implementation-validation--deployment)
+### [Capítulo V: Product Implementation, Validation & Deployment](#capítulo-v-product-implementation-validation--deployment)
 - [5.1. Software Configuration Management](#51-software-configuration-management)
     - [5.1.1. Software Development Environment Configuration](#511-software-development-environment-configuration)
     - [5.1.2. Source Code Management](#512-source-code-management)
@@ -251,9 +249,9 @@ del ABET – EAC - Student Outcome 5.
 
 <div style="page-break-before: always;"></div> 
 
-## [Conclusiones](#conclusiones)
+### [Conclusiones](#conclusiones)
 - [Conclusiones y Recomendaciones](#conclusiones-y-recomendaciones)
 - [Video about the team](#video-about-the-team)
 
-## [Bibliografía](#bibliografía)
-## [Anexos](#anexos)
+### [Bibliografía](#bibliografía)
+### [Anexos](#anexos)
