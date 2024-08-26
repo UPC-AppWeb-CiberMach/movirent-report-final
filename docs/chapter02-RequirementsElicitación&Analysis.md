@@ -22,7 +22,7 @@
     <td valign="top">Emove</td>
   </tr>
   <tr>
-    <td valign="top"><img src="../assets/chapter-02/competitors/citybike.png" alt="Logo of MoviRent" height="100px"></td>
+    <td valign="top"><img src="../assets/chapter-02/competitors/Logo-MoviRent.png" alt="Logo of MoviRent" height="100px"></td>
     <td valign="top"><img src="../assets/chapter-02/competitors/citybike.png" alt="Logo of City Bike" height="100px"></td>
     <td valign="top"><img src="../assets/chapter-02/competitors/grin.png" alt="Logo of Grin" height="100px"></td>
     <td valign="top"><img src="../assets/chapter-02/competitors/emove.png" alt="Logo of Emove" height="100px"></td>
