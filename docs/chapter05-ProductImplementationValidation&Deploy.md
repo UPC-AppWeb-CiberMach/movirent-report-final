@@ -95,7 +95,6 @@ Markdown: Este es un lenguaje de marcado ligero, el cual nos permite documentar 
         <tr>
         <td style="font-weight: bold;"> Attendees (to planning meeting) </td>
         <td> 
-        <br>
          Adriana María Diestra Zambrano
            <br>
          Bárbara Espinoza Espinoza Delgado 
@@ -135,7 +134,12 @@ Markdown: Este es un lenguaje de marcado ligero, el cual nos permite documentar 
 
 
   </table>
-#### 5.2.1.2. Sprint Backlog 1   
+  
+#### 5.2.1.2. Sprint Backlog 1
+
+<img src="https://github.com/UPC-AppWeb-CiberMach/Final-Report/blob/bcf2a8744e2aa6d6ffc796f7a9796660338452f7/assets/chapter-05/Trellos/Trello%20Sprint%201.png">
+
+Link de Trello: https://trello.com/invite/b/66ccf1855ff6c24fe148a766/ATTI34b50c784e97d0a7ba15dd3b49b56ca5D82CFA4B/sprint-1 
 
 <table style="width:400px; height:100px;"> 
    <tr>
@@ -177,7 +181,7 @@ Markdown: Este es un lenguaje de marcado ligero, el cual nos permite documentar 
    </tr>
     <tr>
       <th> EP01-US03 </th>
-     <th colspan="3"> E1-US03 Landing Page Responsiva a Diferentes tamaños de pantalla</th>
+     <th colspan="3">Landing Page Responsiva a Diferentes tamaños de pantalla</th>
       <th> W03  </th>
      <th> Landing Page Responsive </th>
      <th> Implementación de diseño responsivo a la landing page para que se adapte a diferentes tamaños de pantalla </th>
