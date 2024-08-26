@@ -64,11 +64,7 @@
 
 <div style="page-break-before: always;"></div>
 
-### [Registro de versiones del informe](#registro-de-versiones-del-informe)
-
-<br>
-
-# **Registro de Versiones**
+## Registro de versiones del informe
 
 <table>
   <thead>
@@ -110,20 +106,13 @@
 
 <div style="page-break-before: always;"></div>
 
-### [Project Report Collaboration Insights](#project-report-collaboration-insights)
-
-TB1: Las tareas asignadas para la entrega TB1 se han completado y están documentadas en el siguiente repositorio de Github perteneciente a la organización del equipo:
-
-Durante la preparación del informe, se llevaron a cabo las siguientes actividades:
-- Se escribieron y graficaron los contenidos asignados a cada miembro en formato Markdown, seguido de commits para monitorear el progreso de cada integrante en el repositorio.
-- Se crearon los artefactos necesarios utilizando las herramientas indicadas en el PDF del proyecto.
-- Se organizaron reuniones para asignar las tareas, para coordinar el progreso de los elementos del informe y para comunicar los avances del primer Sprint.
+## Project Report Collaboration Insights
 
 <div style="page-break-before: always;"></div>
 
-### [Student Outcome](#student-outcome)
+## Student Outcome
 
-## ABET – EAC - Student Outcome 5
+### ABET – EAC - Student Outcome 5
 
 Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros
 juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo,
@@ -141,13 +130,39 @@ del ABET – EAC - Student Outcome 5.
 		</tr>
 		<tr>
 			<td>Trabaja en equipo para proporcionar liderazgo en forma conjunta</td>
-			<td></td>
-			<td></td>
+			<td>
+            TB1:
+                <ul>
+                  <li>Adriana María Diestra Zambrano</li>
+                  <li>Bárbara Antonella Espinoza Delgado</li>
+                  <li>Mathias Adriano Hidalgo Lopez</li>
+                  <li>Quique Vladimir Jara Benites</li>
+                  <li>Roy Linsh Fernandez Remon</li>
+                  <li>Velarde Gonzales, Néstor Hernan</li>
+                </ul>
+            </td>
+			<td>
+                TB1:
+                Se logró realizar un trabajo sobresaliente, cumpliendo con todos los segmentos del trabajo y entregando un documento que sirve como sustento escrito para comprender los pasos seguidos en la planificación, desarrollo y envío del proyecto a producción.
+            </td>
 		</tr>
 		<tr>
 			<td>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.</td>
-			<td></td>
-			<td></td>
+			<td width="300">
+                TB1:
+                    <ul>
+                      <li>Adriana María Diestra Zambrano</li>
+                      <li>Bárbara Antonella Espinoza Delgado</li>
+                      <li>Mathias Adriano Hidalgo Lopez</li>
+                      <li>Quique Vladimir Jara Benites</li>
+                      <li>Roy Linsh Fernandez Remon</li>
+                      <li>Velarde Gonzales, Néstor Hernan</li>
+                    </ul>
+            </td>
+			<td>
+                TB1
+                El equipo estableció medios de comunicación efectivos para entregar un trabajo completo dentro de los cortos períodos de tiempo para la entrega del proyecto. Además, se comunicaron los resultados obtenidos a los stakeholders, quienes demostraron su satisfacción con el programa. Cada miembro realizó presentaciones detalladas de sus avances y colaboró en la comunicación constante con los segmentos objetivo y clientes.
+            </td>
 		</tr>
 	</tbody>
 </table>
@@ -250,8 +265,17 @@ URL Project Report (Github): https://github.com/UPC-AppWeb-CiberMach/Final-Repor
 <div style="page-break-before: always;"></div> 
 
 ### [Conclusiones](#conclusiones)
-- [Conclusiones y Recomendaciones](#conclusiones-y-recomendaciones)
-- [Video about the team](#video-about-the-team)
+TB1: Las tareas asignadas para la entrega TB1 se han completado y están documentadas en el siguiente repositorio de Github perteneciente a la organización del equipo:
+
+Durante la preparación del informe, se llevaron a cabo las siguientes actividades:
+- Se escribieron y graficaron los contenidos asignados a cada miembro en formato Markdown, seguido de commits para monitorear el progreso de cada integrante en el repositorio.
+- Se crearon los artefactos necesarios utilizando las herramientas indicadas en el PDF del proyecto.
+- Se organizaron reuniones para asignar las tareas, para coordinar el progreso de los elementos del informe y para comunicar los avances del primer Sprint.
+
+
+### [Conclusiones y Recomendaciones](#conclusiones-y-recomendaciones)
+
+### [Video about the team](#video-about-the-team)
 
 ### [Bibliografía](#bibliografía)
 ### [Anexos](#anexos)
