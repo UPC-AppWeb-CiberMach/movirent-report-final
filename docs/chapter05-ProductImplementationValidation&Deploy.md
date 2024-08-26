@@ -68,7 +68,125 @@ Markdown: Este es un lenguaje de marcado ligero, el cual nos permite documentar 
 ## 5.2. Landing Page, Services & Applications Implementation
 ### 5.2.1. Sprint 1
 #### 5.2.1.1. Sprint Planning 1
-#### 5.2.1.2. Sprint Backlog 1
+<table>
+     <tr> 
+        <th>  Sprint #  </th>
+        <th> Sprint 1 </th>
+     </tr>
+     <tr> 
+        <td style="font-weight: bold;" colspan="7"> Sprint Planing Background</td>
+     </tr>
+     <tr>
+       <td style="font-weight: bold;"> Date </td>
+       <td> 27/08/2024 </td>
+     </tr>
+     <tr>
+       <td style="font-weight: bold;"> Time </td>
+       <td> 20:00 pm - 02:00 am </td>
+     </tr>
+     <tr>
+       <td style="font-weight: bold;"> Location </td>
+       <td> Modalidad remota a través de WhatsApp y Google Meets <td>
+     </tr>
+      <tr>
+        <td style="font-weight: bold;"> Prepared By </td>
+        <td> Bárbara Espinoza Espinoza Delgado <td>
+     </tr>
+        <tr>
+        <td style="font-weight: bold;"> Attendees (to planning meeting) </td>
+        <td> 
+        <br>
+         Adriana María Diestra Zambrano
+           <br>
+         Bárbara Espinoza Espinoza Delgado 
+          <br>
+         Mathias Adriano Hidalgo López 
+          <br>
+         Néstor Velarde Gonzales 
+          <br>
+         Quique Vladimir Jara Benites
+          <br>
+         Roy Linsh Fernandez Remon
+         <td>
+     </tr>
+     <tr>
+        <td style="font-weight: bold;"> Sprint 0 Review Summary </td>
+        <td> No existe.<td>
+     </tr>
+     <tr>
+        <td style="font-weight: bold;"> Sprint 0 Retrospective Summary </td>
+        <td> No existe. <td>
+     </tr>
+     <tr> 
+        <td style="font-weight: bold;" colspan="7"> Sprint Goal & User Stories</td>
+     </tr>
+       <tr>
+          <td style="font-weight: bold;"> Sprint 1 Goal</td>
+          <td>  En este sprint se espera la implementación y deployado de la landing page con las secciones funcionales, el footer y el diseño responsivo. En el grupo acordamos usar html y css para hacer la landing page. Al finalizar este sprint la landing page se desplegó en Netlifly para que sea accesible por culaquier usuario desde su navegador de preferencia. <td>
+      </tr>
+       <tr>
+          <td style="font-weight: bold;"> Sprint 1 Velocity </td>
+          <td>  9  <td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;"> Sum of Story Points </td>
+          <td> 9 <td>
+      </tr>
+
+
+  </table>
+#### 5.2.1.2. Sprint Backlog 1   
+
+<table style="width:400px; height:100px;"> 
+   <tr>
+      <th colspan="4"> Sprint # </th>
+      <th colspan="7"> Sprint 1 </th>
+   </tr>
+   <tr >
+     <th colspan="4"> User Story </th>
+     <th colspan="7"> Work-Item /Task</th>
+   </tr>
+   <tr>
+     <th > Id </th>
+     <th colspan="3"> Title </th>
+     <th> Id </th>
+     <th > Title </th>
+     <th> Description </th>
+     <th> Estimation (Hours) </th>
+     <th> Assigned To </th> 
+     <th> Status (To-do / In-Process / To- Review / Done) </th>
+    <tr>
+      <th> EP01-US01 </th>
+     <th colspan="3"> Descripción de la aplicación</th>
+      <th> W01  </th>
+     <th> Sección "About Us" y "About the Team" </th>
+     <th> Implementar las secciones principales en la landing page </th>
+     <th> 3  </th>
+     <th> Néstor Velarde / Bárbara Espinoza </th> 
+     <th> Done </th>
+   </tr>
+    <tr>
+      <th> EP01-US02 </th>
+     <th colspan="3"> Descripción de la startup</th>
+      <th> W02  </th>
+     <th> Sección "About Us" y "About the Team" </th>
+     <th> Implementar las secciones "About Us" y "About the Team" en la landing page </th>
+     <th> 3  </th>
+     <th> Adriana Diestra / Mathias Hidalgo </th> 
+     <th> Done </th>
+   </tr>
+    <tr>
+      <th> EP01-US03 </th>
+     <th colspan="3"> E1-US03 Landing Page Responsiva a Diferentes tamaños de pantalla</th>
+      <th> W03  </th>
+     <th> Landing Page Responsive </th>
+     <th> Implementación de diseño responsivo a la landing page para que se adapte a diferentes tamaños de pantalla </th>
+     <th> 3  </th>
+     <th> Vladimir Jara / Roy Fernandez </th> 
+     <th> Done </th>
+   </tr>
+</table>
+    
 #### 5.2.1.3. Development Evidence for Sprint Review
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
 #### 5.2.1.5. Execution Evidence for Sprint Review
