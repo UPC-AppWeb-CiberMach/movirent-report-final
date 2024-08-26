@@ -7,12 +7,12 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
 
 **Segmento 1: Owner**
 
-<img src="..//assets/chapter-03/To-BeMapping1.png" alt="Imagen To Be Mapping 1">
+<img src="../assets/chapter-03/To-be-Owner.jpg" alt="Imagen To Be Mapping 1">
 
 
 **Segmento 2: User**
 
-<img src="..//assets/chapter-03/To-BeMapping2.png" alt="Imagen To Be Mapping 2">
+<img src="../assets/chapter-03/To-be-Client.jpg" alt="Imagen To Be Mapping 2">
 
 ## 3.2. User Stories
 
