@@ -86,11 +86,11 @@ Markdown: Este es un lenguaje de marcado ligero, el cual nos permite documentar 
      </tr>
      <tr>
        <td style="font-weight: bold;"> Location </td>
-       <td> Modalidad remota a través de WhatsApp y Google Meets <td>
+       <td> Modalidad remota a través de WhatsApp y Google Meets </td>
      </tr>
       <tr>
         <td style="font-weight: bold;"> Prepared By </td>
-        <td> Bárbara Espinoza Espinoza Delgado <td>
+        <td> Bárbara Espinoza Espinoza Delgado </td>
      </tr>
         <tr>
         <td style="font-weight: bold;"> Attendees (to planning meeting) </td>
@@ -106,30 +106,30 @@ Markdown: Este es un lenguaje de marcado ligero, el cual nos permite documentar 
          Quique Vladimir Jara Benites
           <br>
          Roy Linsh Fernandez Remon
-         <td>
+     </td>
      </tr>
      <tr>
         <td style="font-weight: bold;"> Sprint 0 Review Summary </td>
-        <td> No existe.<td>
+        <td> No existe.</td>
      </tr>
      <tr>
         <td style="font-weight: bold;"> Sprint 0 Retrospective Summary </td>
-        <td> No existe. <td>
+        <td> No existe. </td>
      </tr>
      <tr> 
         <td style="font-weight: bold;" colspan="7"> Sprint Goal & User Stories</td>
      </tr>
        <tr>
           <td style="font-weight: bold;"> Sprint 1 Goal</td>
-          <td>  En este sprint se espera la implementación y deployado de la landing page con las secciones funcionales, el footer y el diseño responsivo. En el grupo acordamos usar html y css para hacer la landing page. Al finalizar este sprint la landing page se desplegó en Netlifly para que sea accesible por culaquier usuario desde su navegador de preferencia. <td>
+          <td>  En este sprint se espera la implementación y deployado de la landing page con las secciones funcionales, el footer y el diseño responsivo. En el grupo acordamos usar html y css para hacer la landing page. Al finalizar este sprint la landing page se desplegó en Netlifly para que sea accesible por culaquier usuario desde su navegador de preferencia. </td>
       </tr>
        <tr>
           <td style="font-weight: bold;"> Sprint 1 Velocity </td>
-          <td>  9  <td>
+          <td>  9  </td>
       </tr>
       <tr>
           <td style="font-weight: bold;"> Sum of Story Points </td>
-          <td> 9 <td>
+          <td> 9 </td>
       </tr>
 
 
