@@ -131,7 +131,7 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
         <b>Quiero</b> visualizar la sección "Pricing"
         <b>Para</b> tener información de las membresías de la aplicación</td>
         <td>
-            <b>Scenario 3: Acceder a la sección "Pricing"</b> <br/>
+            <b>Scenario 1: Acceder a la sección "Pricing"</b> <br/>
             <b>Dado que</b> el visitante se encuentre dentro de la landing page<br/>
             <b>Cuando</b> navegue hasta la sección “Pricing” <br/>
             <b>Entonces</b> se muestra la información relacionada a los planes de pago que se ofrecen y cuáles son los beneficios de cada uno de estos.<br/>
@@ -174,7 +174,7 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
             <b>Cuando</b> ingrese a la landing page <br/>
             <b>Entonces</b> se muestra la landing page adaptada correctamente a la pantalla del ordenador. <br/>
             <br>
-            <b>Scenario 1: Acceder a la landing page desde un dispositivo móvil</b> <br/>
+            <b>Scenario 2: Acceder a la landing page desde un dispositivo móvil</b> <br/>
             <b>Dado que</b> el visitante se encuentre usando un dispositivo móvil <br/>
             <b>Cuando</b> ingrese a la landing page <br/>
             <b>Entonces</b> se muestra la landing page adaptada correctamente a la pantalla del dispositivo móvil. <br/>
@@ -535,153 +535,174 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
 
 ## 3.3. Impact Mapping
 
-## 3.4. Product Backlog
-
+## 3.4. Product Backlog    
+        
 <table border="1px" style="text-align: center; width: 100%;">
-  <tr>
+<tr>
     <td valign="top"> #Orden </td>
     <td valign="top"> User Story Id </td>
     <td valign="top"> Título </td>
     <td valign="top"> Descripción </td>
     <td valign="top"> StoryPoints (1/2/3/5/8 </td>
   </tr>
-  <tr>
+    <tr>
     <td valign="top"> 01 </td>
     <td valign="top"> US01 </td>
-    <td valign="top"> Descripción de la aplicación </td>
-    <td valign="top"> Como visitante de la landing page Quiero visualizar una descripción del producto ofrecido Para conocer los beneficios que puedo adquirir mediante el uso de la aplicación.</td>
-    <td valign="top"> 3 </td>
+    <td valign="top"> Sección "Home" de la Landing Page </td>
+    <td valign="top"> Como visitante de la landing page Quiero visualizar la sección "Home" Para tener una primera vista del producto.</td>
+    <td valign="top"> 2 </td>
   </tr>
-    <tr>
+  <tr>
     <td valign="top"> 02 </td>
     <td valign="top"> US02 </td>
-    <td valign="top"> Descripción de la startup </td>
-    <td valign="top"> Cómo visitante interesado Quiero ver una descripción clara de la startup Para conocer a sus integrantes y su propósito como startup</td>
-    <td valign="top"> 3 </td>
+    <td valign="top"> Sección "About us" </td>
+    <td valign="top"> Como visitante de la landing page Quiero visualizar la sección "About us" Para tener información de la startup CiberMach.</td>
+    <td valign="top"> 1 </td>
   </tr>
   <tr>
     <td valign="top"> 03 </td>
     <td valign="top"> US03 </td>
-    <td valign="top"> Landing Page Responsiva a diferentes tamaños de pantalla</td>
-    <td valign="top"> Como visitante interesado Quiero que la landing page tenga un diseño responsivo Para acceder a ella desde cualquier dispositivo.</td>
-    <td valign="top"> 3 </td>
+    <td valign="top"> Sección "Services" de la Landing Page </td>
+    <td valign="top"> Como visitante de la landing page Quiero visualizar la sección "Services" Para tener información de los servicios ofrecidos por la aplicación.</td>
+    <td valign="top"> 2 </td>
   </tr>
   <tr>
     <td valign="top"> 04 </td>
     <td valign="top"> US04 </td>
-    <td valign="top"> Acceder a la aplicación desde la landing page </td>
-    <td valign="top"> Cómo visitante de la landing page Quiero poder acceder a la aplicación MoviRent desde la landing page Para comenzar a utilizar las funcionalidades ofrecidas </td>
+    <td valign="top"> Sección "Pricing" de la Landing Page </td>
+    <td valign="top"> Como visitante de la landing page Quiero visualizar la sección "Pricing" Para tener información de las membresías de la aplicación</td>
     <td valign="top"> 3 </td>
   </tr>
-  <tr>
+<tr>
     <td valign="top"> 05 </td>
     <td valign="top"> US05 </td>
-    <td valign="top"> Registrar usuario </td>
-    <td valign="top"> Cómo visitante de la aplicación web de MoviRent Quiero poder crear una cuenta personal Para comenzar a hacer uso de la aplicación como Owner/Cliente. </td>
-    <td valign="top"> 4 </td>
+    <td valign="top"> Sección "About the Team" de la Landing Page </td>
+    <td valign="top"> Como visitante de la landing page Quiero visualizar la sección "About the Team" Para tener información de los miembros que conforman la startup.</td>
+    <td valign="top"> 3 </td>
   </tr>
   <tr>
     <td valign="top"> 06 </td>
     <td valign="top"> US06 </td>
-    <td valign="top"> Iniciar sesión </td>
-    <td valign="top"> Cómo Owner/Cliente de MoviRent Quiero iniciar sesión Para acceder a los beneficios que ofrece la aplicación.</td>
+    <td valign="top"> Landing Page Responsiva a diferentes tamaños de pantalla</td>
+    <td valign="top"> Como visitante interesado Quiero que la landing page tenga un diseño responsivo Para acceder a ella desde cualquier dispositivo.</td>
     <td valign="top"> 5 </td>
   </tr>
   <tr>
     <td valign="top"> 07 </td>
     <td valign="top"> US07 </td>
-    <td valign="top"> Visualizar perfil de usuario </td>
-    <td valign="top"> Cómo Owner/Cliente de MoviRent Quiero visualizar mi perfil personal Para visualizar mis datos actuales.</td>
-    <td valign="top"> 5 </td>
+    <td valign="top"> Acceder a la aplicación desde la landing page </td>
+    <td valign="top"> Cómo visitante de la landing page Quiero poder acceder a la aplicación MoviRent desde la landing page Para comenzar a utilizar las funcionalidades ofrecidas </td>
+    <td valign="top"> 3 </td>
   </tr>
   <tr>
     <td valign="top"> 08 </td>
     <td valign="top"> US08 </td>
-    <td valign="top"> Cambiar datos personales </td>
-    <td valign="top"> Cómo Owner/Cliente de MoviRent Quiero cambiar los datos asociados a mi perfil Para actualizar la información. </td>
+    <td valign="top"> Registrar usuario </td>
+    <td valign="top"> Cómo visitante de la aplicación web de MoviRent Quiero poder crear una cuenta personal Para comenzar a hacer uso de la aplicación como Owner/Cliente. </td>
     <td valign="top"> 4 </td>
   </tr>
   <tr>
     <td valign="top"> 09 </td>
     <td valign="top"> US09 </td>
-    <td valign="top"> Eliminar cuenta de usuario </td>
-    <td valign="top"> Cómo Owner/Cliente de MoviRent Quiero eliminar mi cuenta de usuario Para dejar de usar los servicios de la aplicación. </td>
-    <td valign="top"> 4 </td>
+    <td valign="top"> Iniciar sesión </td>
+    <td valign="top"> Cómo Owner/Cliente de MoviRent Quiero iniciar sesión Para acceder a los beneficios que ofrece la aplicación.</td>
+    <td valign="top"> 5 </td>
   </tr>
   <tr>
     <td valign="top"> 10 </td>
     <td valign="top"> US10 </td>
-    <td valign="top"> Publicar scooter en alquiler </td>
-    <td valign="top"> Cómo Owner de un scooter eléctrico Quiero crear publicaciones con la información y especificaciones de mi scooter Para que pueda ser alquilado por un cliente. </td>
+    <td valign="top"> Visualizar perfil de usuario </td>
+    <td valign="top"> Cómo Owner/Cliente de MoviRent Quiero visualizar mi perfil personal Para visualizar mis datos actuales.</td>
     <td valign="top"> 5 </td>
   </tr>
   <tr>
     <td valign="top"> 11 </td>
     <td valign="top"> US11 </td>
-    <td valign="top"> Visualizar un scooter en alquiler </td>
-    <td valign="top"> Cómo Owner de un scooter eléctrico Quiero visualizar las publicaciones con la información y especificaciones de mi scooter Para verificar que toda la información ingresada es correcta y actualizada.</td>
+    <td valign="top"> Cambiar datos personales </td>
+    <td valign="top"> Cómo Owner/Cliente de MoviRent Quiero cambiar los datos asociados a mi perfil Para actualizar la información. </td>
     <td valign="top"> 4 </td>
   </tr>
   <tr>
     <td valign="top"> 12 </td>
     <td valign="top"> US12 </td>
-    <td valign="top"> Editar Scooter en alquiler </td>
-    <td valign="top"> Cómo Owner de un scooter eléctrico Quiero editar la publicación de mi scooter Para que la información proporcionada a los clientes esté siempre actualizada. </td>
+    <td valign="top"> Eliminar cuenta de usuario </td>
+    <td valign="top"> Cómo Owner/Cliente de MoviRent Quiero eliminar mi cuenta de usuario Para dejar de usar los servicios de la aplicación. </td>
     <td valign="top"> 4 </td>
   </tr>
   <tr>
     <td valign="top"> 13 </td>
     <td valign="top"> US13 </td>
+    <td valign="top"> Publicar scooter en alquiler </td>
+    <td valign="top"> Cómo Owner de un scooter eléctrico Quiero crear publicaciones con la información y especificaciones de mi scooter Para que pueda ser alquilado por un cliente. </td>
+    <td valign="top"> 5 </td>
+  </tr>
+  <tr>
+    <td valign="top"> 14 </td>
+    <td valign="top"> US14 </td>
+    <td valign="top"> Visualizar un scooter en alquiler </td>
+    <td valign="top"> Cómo Owner de un scooter eléctrico Quiero visualizar las publicaciones con la información y especificaciones de mi scooter Para verificar que toda la información ingresada es correcta y actualizada.</td>
+    <td valign="top"> 4 </td>
+  </tr>
+  <tr>
+    <td valign="top"> 15 </td>
+    <td valign="top"> US15 </td>
+    <td valign="top"> Editar Scooter en alquiler </td>
+    <td valign="top"> Cómo Owner de un scooter eléctrico Quiero editar la publicación de mi scooter Para que la información proporcionada a los clientes esté siempre actualizada. </td>
+    <td valign="top"> 4 </td>
+  </tr>
+  <tr>
+    <td valign="top"> 16 </td>
+    <td valign="top"> US16 </td>
     <td valign="top"> Eliminar scooter en alquiler </td>
     <td valign="top"> Cómo Owner Quiero eliminar un scooter en alquiler Para mantener la integridad de la información almacenada. </td>
     <td valign="top"> 4 </td>
   </tr>
     <tr>
-    <td valign="top"> 14 </td>
-    <td valign="top"> US14 </td>
+    <td valign="top"> 17 </td>
+    <td valign="top"> US17 </td>
     <td valign="top"> Búsqueda de scooters cercano </td>
     <td valign="top"> Cómo cliente de MoviRent Quiero poder buscar scooters disponibles en mi distrito Para facilitar mi desplazamiento. </td>
     <td valign="top"> 6 </td>
   </tr>
       <tr>   
   <tr>
-    <td valign="top"> 15 </td>
-    <td valign="top"> US15 </td>
+    <td valign="top"> 18 </td>
+    <td valign="top"> US18 </td>
     <td valign="top"> Alquiler Scooter </td>
     <td valign="top"> Cómo Cliente de MoviRent Quiero alquilar un scooter Para llegar rápido a mi destino.</td>
     <td valign="top"> 5 </td>
   </tr>
    <tr>
-    <td valign="top"> 16 </td>
-    <td valign="top"> US16 </td>
+    <td valign="top"> 19 </td>
+    <td valign="top"> US19 </td>
     <td valign="top"> Calificación y reseñas </td>
     <td valign="top"> Cómo cliente de MoviRent Quiero poder calificar y dejar reseñas sobre mi experiencia con scooters utilizados y la zona donde los tomé Para ayudar a otros usuarios a tomar decisiones informadas.</td>
     <td valign="top"> 4 </td>
   </tr>
   <tr>
-    <td valign="top"> 17 </td>
-    <td valign="top"> US17 </td>
+    <td valign="top"> 20 </td>
+    <td valign="top"> US20 </td>
     <td valign="top"> Visualizar historial de scooters alquilados </td>
     <td valign="top"> Cómo Cliente de MoviRent Quiero visualizar mi historial de scooters alquilados Para acceder fácilmente a su información. </td>
     <td valign="top"> 5 </td>
   </tr>
       <tr>
-    <td valign="top"> 18 </td>
-    <td valign="top"> US18 </td>
+    <td valign="top"> 21 </td>
+    <td valign="top"> US21 </td>
     <td valign="top"> Borrar historial de scooters alquilados </td>
     <td valign="top"> Cómo Cliente de MoviRent Quiero o borrar mi historial de scooters alquilados Para ya no tener información que considere innecesaria.</td>
     <td valign="top"> 4 </td>
   </tr>
       <tr>
-    <td valign="top"> 19 </td>
-    <td valign="top"> US19 </td>
+    <td valign="top"> 22 </td>
+    <td valign="top"> US22 </td>
     <td valign="top"> Adquirir plan </td>
     <td valign="top"> Cómo Cliente de MoviRent Quiero Comprar un plan Para acceder a sus beneficios al usar la aplicación.</td>
     <td valign="top"> 6 </td>
   </tr>
       <tr>
-    <td valign="top"> 20 </td>
-    <td valign="top"> US20 </td>
+    <td valign="top"> 23 </td>
+    <td valign="top"> US23 </td>
     <td valign="top"> Cancelar suscripción </td>
     <td valign="top"> Cómo Cliente de MoviRent Quiero cancelar mi suscripción Para ya no seguir teniendo cobros de esta.</td>
     <td valign="top"> 4 </td>
