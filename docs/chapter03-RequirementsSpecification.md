@@ -88,7 +88,7 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
     </tr>
     <tr>
         <td>US02</td>
-        <td>Implementación de la sección "About us"</td>
+        <td>Implementación de la sección "About us" de la Landing Page</td>
         <td><b>Como</b> visitante de la landing page
         <b>Quiero</b> visualizar la sección "About us"
         <b>Para</b> tener información de la startup CiberMach.</td>
@@ -145,7 +145,7 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
     </tr>
     <tr>
         <td>US05</td>
-        <td>Implementación de la sección "About the Team"</td>
+        <td>Implementación de la sección "About the Team" de la Landing Page</td>
         <td><b>Como</b> visitante de la landing page
         <b>Quiero</b> visualizar la sección "About the Team"
         <b>Para</b> tener información de los miembros que conforman la startup.</td>
@@ -555,7 +555,7 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
   <tr>
     <td valign="top"> 02 </td>
     <td valign="top"> US02 </td>
-    <td valign="top"> Implementación de la sección "About us" </td>
+    <td valign="top"> Implementación de la sección "About us" de la Landing Page </td>
     <td valign="top"> Como visitante de la landing page Quiero visualizar la sección "About us" Para tener información de la startup CiberMach.</td>
     <td valign="top"> 1 </td>
   </tr>
