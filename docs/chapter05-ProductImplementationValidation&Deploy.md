@@ -141,7 +141,7 @@ Markdown: Este es un lenguaje de marcado ligero, el cual nos permite documentar 
 
 Link de Trello: https://trello.com/invite/b/66ccf1855ff6c24fe148a766/ATTI34b50c784e97d0a7ba15dd3b49b56ca5D82CFA4B/sprint-1 
 
-<table style="width:400px; height:100px;"> 
+<table> 
    <tr>
       <th colspan="4"> Sprint # </th>
       <th colspan="7"> Sprint 1 </th>
@@ -161,32 +161,62 @@ Link de Trello: https://trello.com/invite/b/66ccf1855ff6c24fe148a766/ATTI34b50c7
      <th> Status (To-do / In-Process / To- Review / Done) </th>
     <tr>
       <th> EP01-US01 </th>
-     <th colspan="3"> Descripción de la aplicación</th>
+     <th colspan="3"> Implementación de la sección Home de la Landing Page</th>
       <th> W01  </th>
-     <th> Sección "About Us" y "About the Team" </th>
-     <th> Implementar las secciones principales en la landing page </th>
-     <th> 3  </th>
-     <th> Néstor Velarde / Bárbara Espinoza </th> 
+     <th> Sección Home </th>
+     <th> Implementar la seccion Home de la Landing Page. </th>
+     <th> 2  </th>
+     <th> Néstor Velarde </th> 
      <th> Done </th>
    </tr>
     <tr>
       <th> EP01-US02 </th>
-     <th colspan="3"> Descripción de la startup</th>
+     <th colspan="3">Implementación de la sección "About us" de la Landing Page</th>
       <th> W02  </th>
-     <th> Sección "About Us" y "About the Team" </th>
-     <th> Implementar las secciones "About Us" y "About the Team" en la landing page </th>
+     <th> Sección "About Us"</th>
+     <th> Implementar la seccion "About Us" de la landing page. </th>
+     <th> 1  </th>
+     <th> Bárbara Espinoza  </th> 
+     <th> Done </th>
+   </tr>
+     <tr>
+      <th> EP01-US03 </th>
+     <th colspan="3"> Implementación de la sección "Services" de la Landing Page</th>
+      <th> W03  </th>
+     <th> Sección "Services" </th>
+     <th> Implementar la sección "Services" de la landing page. </th>
+     <th> 2  </th>
+     <th> Vladimir Jara </th> 
+     <th> Done </th>
+   </tr>
+     <tr>
+      <th> EP01-US04 </th>
+     <th colspan="3">Implementación de la sección "Pricing" de la Landing Page</th>
+      <th> W04  </th>
+     <th> Sección "Pricing" </th>
+     <th> Implementar las secciones principales en la landing page </th>
      <th> 3  </th>
-     <th> Adriana Diestra / Mathias Hidalgo </th> 
+     <th> Mathias Hidalgo </th> 
+     <th> Done </th>
+   </tr>
+     <tr>
+      <th> EP01-US05 </th>
+     <th colspan="3"> Implementación de la sección "About the Team" de la Landing Page</th>
+      <th> W05  </th>
+     <th> Sección "About the Team" </th>
+     <th> Implementar la sección "Services" de la landing page</th>
+     <th> 3  </th>
+     <th> Adriana Diestra </th> 
      <th> Done </th>
    </tr>
     <tr>
-      <th> EP01-US03 </th>
+      <th> EP01-US06 </th>
      <th colspan="3">Landing Page Responsiva a Diferentes tamaños de pantalla</th>
       <th> W03  </th>
      <th> Landing Page Responsive </th>
      <th> Implementación de diseño responsivo a la landing page para que se adapte a diferentes tamaños de pantalla </th>
-     <th> 3  </th>
-     <th> Vladimir Jara / Roy Fernandez </th> 
+     <th> 5  </th>
+     <th> Roy Fernandez </th> 
      <th> Done </th>
    </tr>
 </table>
