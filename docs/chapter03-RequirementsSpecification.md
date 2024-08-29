@@ -69,47 +69,101 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
     </tr>
     <tr>
         <td>US01</td>
-        <td>Descripción de la aplicación</td>
+        <td>Sección Home de la Landing Page</td>
         <td><b>Como</b> visitante de la landing page
-        <b>Quiero</b> visualizar una descripción del producto ofrecido
-        <b>Para</b> conocer los beneficios que puedo adquirir mediante el uso de la aplicación.</td>
+        <b>Quiero</b> visualizar la sección "Home"
+        <b>Para</b> tener una primera vista del producto</td>
         <td>
             <b>Scenario 1: Visualizar sección Home</b> <br/>
             <b>Dado que</b> el visitante ingresa a la página<br/>
-            <b>Cuando</b>la página cargue <br/>
+            <b>Cuando</b> la página cargue <br/>
             <b>Entonces</b> se muestra una sección llamativa que anime al usuario a usar la aplicación.<br/>
             <br>
-            <b>Scenario 2: Acceder a la sección "Services"</b> <br/>
+            <b>Scenario 2: Error en el sistema </b> <br/>
             <b>Dado que</b> el visitante se encuentre dentro de la landing page<br/>
-            <b>Cuando</b> navegue hasta la sección “Services” <br/>
-            <b>Entonces</b> se muestra información sobre los servicios que ofrece MoviRent<br/>
-            <br>
-            <b>Scenario 3: Explorar la sección "Pricing"</b> <br/>
-            <b>Dado que</b> el visitante se encuentre dentro de la landing page<br/>
-            <b>Cuando</b> navegue hasta la sección “Pricing” <br/>
-            <b>Entonces</b> se muestra la información relacionada a los planes de pago que se ofrecen y cuáles son los beneficios de cada uno de estos.<br/>
+            <b>Cuando</b> ocurra algún problema con el sistema <br/>
+            <b>Entonces</b> no se muestra la sección Home<br/>
+            <b>Y</b> se muestra un mensaje de error.<br/>
         <td>EP01</td>
     </tr>
     <tr>
         <td>US02</td>
-        <td>Descripción de la startup</td>
-        <td><b>Cómo</b> visitante interesado 
-        <b>Quiero</b> ver una descripción clara de la startup
-        <b>Para</b> conocer a sus integrantes y su propósito como startup</td>
+        <td>Sección "About us"</td>
+        <td><b>Como</b> visitante de la landing page
+        <b>Quiero</b> visualizar la sección "About us"
+        <b>Para</b> tener información de la startup CiberMach.</td>
         <td>
             <b>Scenario 1: Acceder a la sección "About us</b> <br/>
             <b>Dado que</b> el visitante se encuentre dentro de la landing page <br/>
             <b>Cuando</b> navegue hasta la sección “About Us” <br/>
             <b>Entonces</b> se muestra información importante sobre la startup. <br/>
             <br>
-            <b>Scenario 2: Conocer al equipo en "About The Team"</b> <br/>
-            <b>Dado que</b> el visitante se encuentre dentro de la landing page <br/>
-            <b>Cuando</b> navegue hasta la sección “About The Team”<br/>
-            <b>Entonces</b> se muestra la información correspondiente a los videos about the project y about the team, además de la información de cada uno de los miembros.<br/>
+            <b>Scenario 2: Error en el sistema </b> <br/>
+            <b>Dado que</b> el visitante se encuentre dentro de la landing page<br/>
+            <b>Cuando</b> ocurra algún problema con el sistema <br/>
+            <b>Entonces</b> no se muestra la sección Home<br/>
+            <b>Y</b> se muestra un mensaje de error.<br/>
         <td>EP01</td>
     </tr>
     <tr>
         <td>US03</td>
+        <td>Sección "Services" de la Landing Page</td>
+        <td><b>Como</b> visitante de la landing page
+        <b>Quiero</b> visualizar la sección "Services"
+        <b>Para</b> tener información de los servicios ofrecidos por la aplicación</td>
+        <td>
+            <b>Scenario 1: Acceder a la sección "Services"</b> <br/>
+            <b>Dado que</b> el visitante se encuentre dentro de la landing page<br/>
+            <b>Cuando</b> navegue hasta la sección “Services” <br/>
+            <b>Entonces</b> se muestra información sobre los servicios que ofrece MoviRent<br/>
+            <br>
+            <b>Scenario 2: Error en el sistema </b> <br/>
+            <b>Dado que</b> el visitante se encuentre dentro de la landing page<br/>
+            <b>Cuando</b> ocurra algún problema con el sistema <br/>
+            <b>Entonces</b> no se muestra la sección Home<br/>
+            <b>Y</b> se muestra un mensaje de error.<br/>
+        <td>EP01</td>
+    </tr>
+    <tr>
+        <td>US04</td>
+        <td>Sección "Pricing" de la Landing Page</td>
+        <td><b>Como</b> visitante de la landing page
+        <b>Quiero</b> visualizar la sección "Pricing"
+        <b>Para</b> tener información de las membresías de la aplicación</td>
+        <td>
+            <b>Scenario 3: Acceder a la sección "Pricing"</b> <br/>
+            <b>Dado que</b> el visitante se encuentre dentro de la landing page<br/>
+            <b>Cuando</b> navegue hasta la sección “Pricing” <br/>
+            <b>Entonces</b> se muestra la información relacionada a los planes de pago que se ofrecen y cuáles son los beneficios de cada uno de estos.<br/>
+            <br>
+            <b>Scenario 2: Error en el sistema </b> <br/>
+            <b>Dado que</b> el visitante se encuentre dentro de la landing page<br/>
+            <b>Cuando</b> ocurra algún problema con el sistema <br/>
+            <b>Entonces</b> no se muestra la sección Home<br/>
+            <b>Y</b> se muestra un mensaje de error.<br/>
+        <td>EP01</td>
+    </tr>
+    <tr>
+        <td>US05</td>
+        <td>Sección "About the Team"</td>
+        <td><b>Como</b> visitante de la landing page
+        <b>Quiero</b> visualizar la sección "About the Team"
+        <b>Para</b> tener información de los miembros que conforman la startup.</td>
+        <td>
+            <b>Scenario 1: Conocer al equipo en "About the Team"</b> <br/>
+            <b>Dado que</b> el visitante se encuentre dentro de la landing page <br/>
+            <b>Cuando</b> navegue hasta la sección “About the Team”<br/>
+            <b>Entonces</b> se muestra la información correspondiente a los videos about the project y about the team, además de la información de cada uno de los miembros.<br/>
+            <br>
+            <b>Scenario 2: Error en el sistema </b> <br/>
+            <b>Dado que</b> el visitante se encuentre dentro de la landing page<br/>
+            <b>Cuando</b> ocurra algún problema con el sistema <br/>
+            <b>Entonces</b> no se muestra la sección Home<br/>
+            <b>Y</b> se muestra un mensaje de error.<br/>
+        <td>EP01</td>
+    </tr>
+    <tr>
+        <td>US06</td>
         <td> Landing Page Responsiva a diferentes tamaños de pantalla </td>
         <td><b>Cómo</b> visitante interesado 
         <b>Quiero</b> que la landing page tenga un diseño responsivo
@@ -127,7 +181,7 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
         <td>EP01</td>
     </tr>
     <tr>
-        <td>US04</td>
+        <td>US07</td>
         <td>Acceder a la aplicación desde la landing page </td>
         <td><b>Cómo</b> visitante de la landing page 
         <b>Quiero</b> poder acceder a la aplicación MoviRent desde la landing page
@@ -145,7 +199,7 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
         <td>EP01</td>
     </tr>
     <tr>
-        <td>US05</td>
+        <td>US08</td>
         <td>Registrar usuario</td>
         <td><b>Cómo</b> visitante de la aplicación web de MoviRent
         <b>Quiero</b> poder crear una cuenta personal
@@ -163,7 +217,7 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
         <td>EP02</td>
     </tr>
     <tr>
-        <td>US06</td>
+        <td>US09</td>
         <td>Iniciar sesión</td>
         <td><b>Cómo</b> Owner/Cliente de MoviRent 
         <b>Quiero</b> iniciar sesión
@@ -181,7 +235,7 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
         <td>EP02</td>
     </tr>
     <tr>
-        <td>US07</td>
+        <td>US10</td>
         <td>Visualizar perfil de usuario</td>
         <td><b>Cómo</b> Owner/Cliente de MoviRent 
         <b>Quiero</b> visualizar mi perfil personal 
@@ -199,7 +253,7 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
         <td>EP02</td>
     </tr>
     <tr>
-        <td>US08</td>
+        <td>US11</td>
         <td>Cambiar datos personales </td>
         <td><b>Cómo</b> Owner/Cliente de MoviRent 
         <b>Quiero</b> cambiar los datos asociados a mi perfil
@@ -237,7 +291,7 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
         <td>EP02</td>
     </tr>
     <tr>
-        <td>US09</td>
+        <td>US12</td>
         <td>Eliminar cuenta de usuario</td>
         <td><b>Cómo</b> Owner/Cliente de MoviRent 
         <b>Quiero</b> eliminar mi cuenta de usuario
@@ -255,7 +309,7 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
         <td>EP02</td>
     </tr>
     <tr>
-        <td>US10</td>
+        <td>US13</td>
         <td>Publicar scooter en alquiler</td>
         <td><b>Cómo</b> Owner de un scooter eléctrico  
         <b>Quiero</b> crear publicaciones con la información y especificaciones de mi scooter
@@ -278,7 +332,7 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
         <td>EP03</td>
     </tr>
     <tr>
-        <td>US11</td>
+        <td>US14</td>
         <td>Visualizar un scooter en alquiler</td>
         <td><b>Cómo</b> Owner de un scooter eléctrico 
         <b>Quiero</b> visualizar las publicaciones con la información y especificaciones de mi scooter
@@ -296,7 +350,7 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
         <td>EP03</td>
     </tr>
     <tr>
-        <td>US12</td>
+        <td>US15</td>
         <td>Editar Scooter en alquiler</td>
         <td><b>Cómo</b> Owner de un scooter eléctrico 
         <b>Quiero</b> editar la publicación de mi scooter
@@ -319,7 +373,7 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
         <td>EP03</td>
     </tr>
     <tr>
-        <td>US13</td>
+        <td>US16</td>
         <td>Eliminar scooter en alquiler</td>
         <td><b>Cómo</b> Owner 
         <b>Quiero</b> eliminar un scooter en alquiler
@@ -337,7 +391,7 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
         <td>EP03</td>
     </tr>
     <tr>
-        <td>US14</td>
+        <td>US17</td>
         <td>Búsqueda de scooters cercano</td>
         <td><b>Cómo</b> cliente de MoviRent 
         <b>Quiero</b> poder buscar scooters disponibles en mi distrito
@@ -355,7 +409,7 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
         <td>EP04</td>
     </tr>
     <tr>
-        <td>US15</td>
+        <td>US18</td>
         <td>Alquiler Scooter</td>
         <td><b>Cómo</b> Cliente de MoviRent
         <b>Quiero</b> alquilar un scooter
@@ -378,7 +432,7 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
         <td>EP04</td>
     </tr>
     <tr>
-        <td>US16</td>
+        <td>US19</td>
         <td>Calificación y reseñas</td>
         <td><b>Cómo</b> cliente de MoviRent
         <b>Quiero</b> poder calificar y dejar reseñas sobre mi experiencia con scooters utilizados y la zona donde los tomé
@@ -396,7 +450,7 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
         <td>EP04</td>
     </tr>
     <tr>
-        <td>US17</td>
+        <td>US20</td>
         <td>Visualizar historial de scooters alquilados</td>
         <td><b>Cómo</b> Cliente de MoviRent
         <b>Quiero</b> visualizar mi historial de scooters alquilados
@@ -414,7 +468,7 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
         <td>EP05</td>
     </tr>
     <tr>
-        <td>US18</td>
+        <td>US21</td>
         <td>Borrar historial de scooters alquilados</td>
         <td><b>Cómo</b> Cliente de MoviRent
         <b>Quiero</b> o borrar mi historial de scooters alquilados
@@ -432,7 +486,7 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
         <td>EP05</td>
     </tr>
     <tr>
-        <td>US19</td>
+        <td>US22</td>
         <td>Adquirir plan</td>
         <td><b>Cómo</b> Cliente de MoviRent 
         <b>Quiero</b> Comprar un plan
@@ -460,7 +514,7 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
         <td>EP06</td>
     </tr>
     <tr>
-        <td>US20</td>
+        <td>US23</td>
         <td>Cancelar suscripción </td>
         <td><b>Cómo</b> Cliente de MoviRent
         <b>Quiero</b> cancelar mi suscripción
