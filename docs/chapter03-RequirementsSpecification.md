@@ -69,7 +69,7 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
     </tr>
     <tr>
         <td>US01</td>
-        <td>Sección Home de la Landing Page</td>
+        <td>Implementación de la sección Home de la Landing Page</td>
         <td><b>Como</b> visitante de la landing page
         <b>Quiero</b> visualizar la sección "Home"
         <b>Para</b> tener una primera vista del producto</td>
@@ -88,7 +88,7 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
     </tr>
     <tr>
         <td>US02</td>
-        <td>Sección "About us"</td>
+        <td>Implementación de la sección "About us"</td>
         <td><b>Como</b> visitante de la landing page
         <b>Quiero</b> visualizar la sección "About us"
         <b>Para</b> tener información de la startup CiberMach.</td>
@@ -107,7 +107,7 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
     </tr>
     <tr>
         <td>US03</td>
-        <td>Sección "Services" de la Landing Page</td>
+        <td>Implementación de la sección "Services" de la Landing Page</td>
         <td><b>Como</b> visitante de la landing page
         <b>Quiero</b> visualizar la sección "Services"
         <b>Para</b> tener información de los servicios ofrecidos por la aplicación</td>
@@ -126,7 +126,7 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
     </tr>
     <tr>
         <td>US04</td>
-        <td>Sección "Pricing" de la Landing Page</td>
+        <td>Implementación de la sección "Pricing" de la Landing Page</td>
         <td><b>Como</b> visitante de la landing page
         <b>Quiero</b> visualizar la sección "Pricing"
         <b>Para</b> tener información de las membresías de la aplicación</td>
@@ -145,7 +145,7 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
     </tr>
     <tr>
         <td>US05</td>
-        <td>Sección "About the Team"</td>
+        <td>Implementación de la sección "About the Team"</td>
         <td><b>Como</b> visitante de la landing page
         <b>Quiero</b> visualizar la sección "About the Team"
         <b>Para</b> tener información de los miembros que conforman la startup.</td>
@@ -548,35 +548,35 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
     <tr>
     <td valign="top"> 01 </td>
     <td valign="top"> US01 </td>
-    <td valign="top"> Sección "Home" de la Landing Page </td>
+    <td valign="top"> Implementación de la sección "Home" de la Landing Page </td>
     <td valign="top"> Como visitante de la landing page Quiero visualizar la sección "Home" Para tener una primera vista del producto.</td>
     <td valign="top"> 2 </td>
   </tr>
   <tr>
     <td valign="top"> 02 </td>
     <td valign="top"> US02 </td>
-    <td valign="top"> Sección "About us" </td>
+    <td valign="top"> Implementación de la sección "About us" </td>
     <td valign="top"> Como visitante de la landing page Quiero visualizar la sección "About us" Para tener información de la startup CiberMach.</td>
     <td valign="top"> 1 </td>
   </tr>
   <tr>
     <td valign="top"> 03 </td>
     <td valign="top"> US03 </td>
-    <td valign="top"> Sección "Services" de la Landing Page </td>
+    <td valign="top"> Implementación de la sección "Services" de la Landing Page </td>
     <td valign="top"> Como visitante de la landing page Quiero visualizar la sección "Services" Para tener información de los servicios ofrecidos por la aplicación.</td>
     <td valign="top"> 2 </td>
   </tr>
   <tr>
     <td valign="top"> 04 </td>
     <td valign="top"> US04 </td>
-    <td valign="top"> Sección "Pricing" de la Landing Page </td>
+    <td valign="top"> Implementación de la sección "Pricing" de la Landing Page </td>
     <td valign="top"> Como visitante de la landing page Quiero visualizar la sección "Pricing" Para tener información de las membresías de la aplicación</td>
     <td valign="top"> 3 </td>
   </tr>
 <tr>
     <td valign="top"> 05 </td>
     <td valign="top"> US05 </td>
-    <td valign="top"> Sección "About the Team" de la Landing Page </td>
+    <td valign="top"> Implementación de la sección "About the Team" de la Landing Page </td>
     <td valign="top"> Como visitante de la landing page Quiero visualizar la sección "About the Team" Para tener información de los miembros que conforman la startup.</td>
     <td valign="top"> 3 </td>
   </tr>
