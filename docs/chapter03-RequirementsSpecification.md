@@ -538,10 +538,16 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
 En este apartado se muestra los impact mapping de nuestros segmentos objetivos:
 
 
-**Owner**
+**OWNER:**
+
+
 <img src="../assets/chapter-03/Impactmap1.png" alt="Imagen Impact Mapping 1">
 
 
+**USER:**
+
+
+<img src="../assets/chapter-03/Impactmap2.png" alt="Imagen Impact Mapping 2">
 
 
 ## 3.4. Product Backlog    
