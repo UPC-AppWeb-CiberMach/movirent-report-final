@@ -125,11 +125,11 @@ Markdown: Este es un lenguaje de marcado ligero, el cual nos permite documentar 
       </tr>
        <tr>
           <td style="font-weight: bold;"> Sprint 1 Velocity </td>
-          <td>  9  </td>
+          <td>  18  </td>
       </tr>
       <tr>
           <td style="font-weight: bold;"> Sum of Story Points </td>
-          <td> 9 </td>
+          <td> 18 </td>
       </tr>
 
 
@@ -137,7 +137,7 @@ Markdown: Este es un lenguaje de marcado ligero, el cual nos permite documentar 
   
 #### 5.2.1.2. Sprint Backlog 1
 
-<img src="https://github.com/UPC-AppWeb-CiberMach/Final-Report/blob/bcf2a8744e2aa6d6ffc796f7a9796660338452f7/assets/chapter-05/Trellos/Trello%20Sprint%201.png">
+<img src="https://github.com/UPC-AppWeb-CiberMach/Final-Report/blob/1458fe6568e7e97fb94cb331a06474b9de543730/assets/chapter-05/Trellos/TrelloSprint1.png">
 
 Link de Trello: https://trello.com/invite/b/66ccf1855ff6c24fe148a766/ATTI34b50c784e97d0a7ba15dd3b49b56ca5D82CFA4B/sprint-1 
 
@@ -161,20 +161,20 @@ Link de Trello: https://trello.com/invite/b/66ccf1855ff6c24fe148a766/ATTI34b50c7
      <th> Status (To-do / In-Process / To- Review / Done) </th>
     <tr>
       <th> EP01-US01 </th>
-     <th colspan="3"> Implementación de la sección Home de la Landing Page</th>
+     <th colspan="3"> Implementación de la sección Inicio de la Landing Page</th>
       <th> W01  </th>
      <th> Sección Inicio </th>
      <th> Implementar la seccion Inicio de la Landing Page. </th>
-     <th> 2  </th>
+     <th> 3  </th>
      <th> Néstor Velarde </th> 
      <th> Done </th>
    </tr>
     <tr>
       <th> EP01-US02 </th>
-     <th colspan="3">Implementación de la sección "About us" de la Landing Page</th>
+     <th colspan="3">Implementación de la sección "Sobre Nosotros" de la Landing Page</th>
       <th> W02  </th>
      <th> Sección "Sobre nosotros"</th>
-     <th> Implementar la seccion "About Us" de la landing page. </th>
+     <th> Implementar la seccion "Sobre Nosotros" de la landing page. </th>
      <th> 1  </th>
      <th> Bárbara Espinoza  </th> 
      <th> Done </th>
@@ -185,16 +185,16 @@ Link de Trello: https://trello.com/invite/b/66ccf1855ff6c24fe148a766/ATTI34b50c7
       <th> W03  </th>
      <th> Sección "Services" </th>
      <th> Implementar la sección "Servicios" de la landing page. </th>
-     <th> 2  </th>
+     <th> 3  </th>
      <th> Vladimir Jara </th> 
      <th> Done </th>
    </tr>
      <tr>
       <th> EP01-US04 </th>
-     <th colspan="3">Implementación de la sección "Pricing" de la Landing Page</th>
+     <th colspan="3">Implementación de la sección "Planes" de la Landing Page</th>
       <th> W04  </th>
-     <th> Sección "Membresías" </th>
-     <th> Implementar la seccion "Membresías" en la landing page </th>
+     <th> Sección "Planes" </th>
+     <th> Implementar la seccion "Planes" en la landing page </th>
      <th> 3  </th>
      <th> Mathias Hidalgo </th> 
      <th> Done </th>
