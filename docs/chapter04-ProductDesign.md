@@ -4,7 +4,33 @@
 # Capítulo IV: Product Design
 ## 4.1. Style Guidelines
 ### 4.1.1. General Style Guidelines
-### 4.1.2. Web Style Guidelines
+Es fundamental considerar las decisiones y elementos visuales que respaldan los principios generales
+de diseño para MoviRent. Por esta razón, resulta esencial definir aspectos clave como la identidad
+de marca, la paleta de colores y la tipografía. Además, es necesario establecer el tono de comunicación
+y el lenguaje utilizado, que abarcan características como divertido o serio, formal o casual, respetuoso
+o irreverente, y entusiasta o sereno
+
+Branding
+
+Logotipo
+
+Colores
+
+Tipografía
+
+Tonos de Comunicación
+
+
+### 4.1.2. Web Style Guidelines 
+
+Fuentes
+
+Colores
+
+Graficos 
+
+Componentes
+
 Nuestro sitio web presenta una barra de navegación con rutas a "Home", "About Us", "Services", "Plans", "Contact Us" y "Get Started". En dispositivos moviles, nuestra barra de navegacion se convierte en un icono de 3 rayas que, al ser seleccionado, muestra las rutas en el lateral de la pantalla del dispositivo.
 
 Además, la informacion que se proporciona en las rutas pasa a ordenarse verticalmente. Para el inicio de sesión y registro de cuenta, se adapta a la pantalla ordenando los espacios para colocar los datos solicitados de manera vertical reduciendo ligeramente el tamaño de la letra.
