@@ -69,12 +69,12 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
     </tr>
     <tr>
         <td>US01</td>
-        <td>Implementación de la sección Home de la Landing Page</td>
+        <td>Implementación de la sección Inicio de la Landing Page</td>
         <td><b>Como</b> visitante de la landing page
-        <b>Quiero</b> visualizar la sección "Home"
+        <b>Quiero</b> visualizar la sección "Inicio"
         <b>Para</b> tener una primera vista del producto</td>
         <td>
-            <b>Scenario 1: Visualizar sección Home</b> <br/>
+            <b>Scenario 1: Visualizar sección Inicio</b> <br/>
             <b>Dado que</b> el visitante ingresa a la página<br/>
             <b>Cuando</b> la página cargue <br/>
             <b>Entonces</b> se muestra una sección llamativa que anime al usuario a usar la aplicación.<br/>
@@ -88,14 +88,14 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
     </tr>
     <tr>
         <td>US02</td>
-        <td>Implementación de la sección "About us" de la Landing Page</td>
+        <td>Implementación de la sección "Sobre Nosotros" de la Landing Page</td>
         <td><b>Como</b> visitante de la landing page
-        <b>Quiero</b> visualizar la sección "About us"
+        <b>Quiero</b> visualizar la sección "Sobre Nosotros"
         <b>Para</b> tener información de la startup CiberMach.</td>
         <td>
-            <b>Scenario 1: Acceder a la sección "About us</b> <br/>
+            <b>Scenario 1: Acceder a la sección "Sobre Nosotros"</b> <br/>
             <b>Dado que</b> el visitante se encuentre dentro de la landing page <br/>
-            <b>Cuando</b> navegue hasta la sección “About Us” <br/>
+            <b>Cuando</b> navegue hasta la sección “Sobre Nosotros” <br/>
             <b>Entonces</b> se muestra información importante sobre la startup. <br/>
             <br>
             <b>Scenario 2: Error en el sistema </b> <br/>
@@ -107,14 +107,14 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
     </tr>
     <tr>
         <td>US03</td>
-        <td>Implementación de la sección "Services" de la Landing Page</td>
+        <td>Implementación de la sección "Servicios" de la Landing Page</td>
         <td><b>Como</b> visitante de la landing page
-        <b>Quiero</b> visualizar la sección "Services"
+        <b>Quiero</b> visualizar la sección "Servicios"
         <b>Para</b> tener información de los servicios ofrecidos por la aplicación</td>
         <td>
-            <b>Scenario 1: Acceder a la sección "Services"</b> <br/>
+            <b>Scenario 1: Acceder a la sección "Servicios"</b> <br/>
             <b>Dado que</b> el visitante se encuentre dentro de la landing page<br/>
-            <b>Cuando</b> navegue hasta la sección “Services” <br/>
+            <b>Cuando</b> navegue hasta la sección “Servicios” <br/>
             <b>Entonces</b> se muestra información sobre los servicios que ofrece MoviRent<br/>
             <br>
             <b>Scenario 2: Error en el sistema </b> <br/>
@@ -126,14 +126,14 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
     </tr>
     <tr>
         <td>US04</td>
-        <td>Implementación de la sección "Pricing" de la Landing Page</td>
+        <td>Implementación de la sección "Membresías" de la Landing Page</td>
         <td><b>Como</b> visitante de la landing page
-        <b>Quiero</b> visualizar la sección "Pricing"
+        <b>Quiero</b> visualizar la sección "Membresías"
         <b>Para</b> tener información de las membresías de la aplicación</td>
         <td>
-            <b>Scenario 1: Acceder a la sección "Pricing"</b> <br/>
+            <b>Scenario 1: Acceder a la sección "Membresías"</b> <br/>
             <b>Dado que</b> el visitante se encuentre dentro de la landing page<br/>
-            <b>Cuando</b> navegue hasta la sección “Pricing” <br/>
+            <b>Cuando</b> navegue hasta la sección “Membresías” <br/>
             <b>Entonces</b> se muestra la información relacionada a los planes de pago que se ofrecen y cuáles son los beneficios de cada uno de estos.<br/>
             <br>
             <b>Scenario 2: Error en el sistema </b> <br/>
@@ -548,29 +548,29 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
     <tr>
     <td valign="top"> 01 </td>
     <td valign="top"> US01 </td>
-    <td valign="top"> Implementación de la sección "Home" de la Landing Page </td>
-    <td valign="top"> Como visitante de la landing page Quiero visualizar la sección "Home" Para tener una primera vista del producto.</td>
+    <td valign="top"> Implementación de la sección "Inicio" de la Landing Page </td>
+    <td valign="top"> Como visitante de la landing page Quiero visualizar la sección "Inicio" Para tener una primera vista del producto.</td>
     <td valign="top"> 2 </td>
   </tr>
   <tr>
     <td valign="top"> 02 </td>
     <td valign="top"> US02 </td>
-    <td valign="top"> Implementación de la sección "About us" de la Landing Page </td>
-    <td valign="top"> Como visitante de la landing page Quiero visualizar la sección "About us" Para tener información de la startup CiberMach.</td>
+    <td valign="top"> Implementación de la sección "Sobre nosotros" de la Landing Page </td>
+    <td valign="top"> Como visitante de la landing page Quiero visualizar la sección "Sobre nosotros" Para tener información de la startup CiberMach.</td>
     <td valign="top"> 1 </td>
   </tr>
   <tr>
     <td valign="top"> 03 </td>
     <td valign="top"> US03 </td>
-    <td valign="top"> Implementación de la sección "Services" de la Landing Page </td>
-    <td valign="top"> Como visitante de la landing page Quiero visualizar la sección "Services" Para tener información de los servicios ofrecidos por la aplicación.</td>
+    <td valign="top"> Implementación de la sección "Servicios" de la Landing Page </td>
+    <td valign="top"> Como visitante de la landing page Quiero visualizar la sección "Servicios" Para tener información de los servicios ofrecidos por la aplicación.</td>
     <td valign="top"> 2 </td>
   </tr>
   <tr>
     <td valign="top"> 04 </td>
     <td valign="top"> US04 </td>
-    <td valign="top"> Implementación de la sección "Pricing" de la Landing Page </td>
-    <td valign="top"> Como visitante de la landing page Quiero visualizar la sección "Pricing" Para tener información de las membresías de la aplicación</td>
+    <td valign="top"> Implementación de la sección "Membresías" de la Landing Page </td>
+    <td valign="top"> Como visitante de la landing page Quiero visualizar la sección "Membresías" Para tener información de las membresías de la aplicación</td>
     <td valign="top"> 3 </td>
   </tr>
 <tr>
