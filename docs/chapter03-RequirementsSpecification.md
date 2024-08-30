@@ -126,14 +126,14 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
     </tr>
     <tr>
         <td>US04</td>
-        <td>Implementación de la sección "Membresías" de la Landing Page</td>
+        <td>Implementación de la sección "Planes" de la Landing Page</td>
         <td><b>Como</b> visitante de la landing page
-        <b>Quiero</b> visualizar la sección "Membresías"
+        <b>Quiero</b> visualizar la sección "Planes"
         <b>Para</b> tener información de las membresías de la aplicación</td>
         <td>
-            <b>Scenario 1: Acceder a la sección "Membresías"</b> <br/>
+            <b>Scenario 1: Acceder a la sección "Planes"</b> <br/>
             <b>Dado que</b> el visitante se encuentre dentro de la landing page<br/>
-            <b>Cuando</b> navegue hasta la sección “Membresías” <br/>
+            <b>Cuando</b> navegue hasta la sección “Planes” <br/>
             <b>Entonces</b> se muestra la información relacionada a los planes de pago que se ofrecen y cuáles son los beneficios de cada uno de estos.<br/>
             <br>
             <b>Scenario 2: Error en el sistema </b> <br/>
@@ -569,8 +569,8 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
   <tr>
     <td valign="top"> 04 </td>
     <td valign="top"> US04 </td>
-    <td valign="top"> Implementación de la sección "Membresías" de la Landing Page </td>
-    <td valign="top"> Como visitante de la landing page Quiero visualizar la sección "Membresías" Para tener información de las membresías de la aplicación</td>
+    <td valign="top"> Implementación de la sección "Planes" de la Landing Page </td>
+    <td valign="top"> Como visitante de la landing page Quiero visualizar la sección "Planes" Para tener información de las membresías de la aplicación</td>
     <td valign="top"> 3 </td>
   </tr>
 <tr>
