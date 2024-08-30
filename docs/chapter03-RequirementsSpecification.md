@@ -550,7 +550,7 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
     <td valign="top"> US01 </td>
     <td valign="top"> Implementación de la sección "Inicio" de la Landing Page </td>
     <td valign="top"> Como visitante de la landing page Quiero visualizar la sección "Inicio" Para tener una primera vista del producto.</td>
-    <td valign="top"> 2 </td>
+    <td valign="top"> 3 </td>
   </tr>
   <tr>
     <td valign="top"> 02 </td>
@@ -564,7 +564,7 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
     <td valign="top"> US03 </td>
     <td valign="top"> Implementación de la sección "Servicios" de la Landing Page </td>
     <td valign="top"> Como visitante de la landing page Quiero visualizar la sección "Servicios" Para tener información de los servicios ofrecidos por la aplicación.</td>
-    <td valign="top"> 2 </td>
+    <td valign="top"> 3 </td>
   </tr>
   <tr>
     <td valign="top"> 04 </td>
