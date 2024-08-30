@@ -5,30 +5,30 @@
 ## 4.1. Style Guidelines
 ### 4.1.1. General Style Guidelines
 ### 4.1.2. Web Style Guidelines
-Nuestro sitio web presenta una barra de navegación con rutas a "Home", "About Us", "Services", "Plans", "Contact Us" y "Get Started". En dispositivos moviles, nuestra barra de navegacion se convierte en un icono de 3 rayas que, al ser seleccionado, muestra las rutas en el lateral de la pantalla del dispositivo.
+Nuestro sitio web presenta una barra de navegación con rutas a "Home", "About Us", "Services", "Pricing", "Team" y "Get Started". En dispositivos moviles, nuestra barra de navegacion se convierte en un icono de 3 rayas que, al ser seleccionado, muestra las rutas en el lateral de la pantalla del dispositivo.
 
 Además, la informacion que se proporciona en las rutas pasa a ordenarse verticalmente. Para el inicio de sesión y registro de cuenta, se adapta a la pantalla ordenando los espacios para colocar los datos solicitados de manera vertical reduciendo ligeramente el tamaño de la letra.
 
 ## 4.2. Information Architecture
 ### 4.2.1. Organization Systems
-Para el caso de organización visual utilizaremos el sistema jerárquico, lo que nos permitirá resaltar los componentes a los que deseamos que el usuario preste mayor atención. Esto dirigirá la atención del usuario a componentes de suma importancia como son: “About us”, “Services”, “Plans”, “Contact Us” y “Get Started”.
+Para el caso de organización visual utilizaremos el sistema jerárquico, lo que nos permitirá resaltar los componentes a los que deseamos que el usuario preste mayor atención. Esto dirigirá la atención del usuario a componentes de suma importancia como son: "Home", "About Us", "Services", "Pricing", "Team" y "Get Started".
 
-Para el proceso de reservas de vehículos haremos uso de la organización secuencial:
-- Solicitud de reserva(clientes):
-  - Búsqueda de vehículos
-  - Elección del tipo de vehículo
-  - Solicitud de reserva
-  - Entrega del vehículo
-  - Devolución del vehículo
+Para el proceso de reservas de scooters haremos uso de la organización secuencial:
+- Solicitud de reserva (clientes):
+  - Búsqueda de scooter.
+  - Elección del scooter.
+  - Solicitud de reserva.
+  - Entrega del scooter.
+  - Devolución del scooter.
 
-- Solicitud de la inscripción de vehículos(owner):
-  - Inscripción de vehículo a la plataforma
-  - Establecer tarifa y disponibilidad del vehículo
-  - Publicar disponibilidad del vehículo
+- Solicitud de la inscripción de scooters (owner):
+  - Inscripción de scooter a la plataforma.
+  - Establecer tarifa y disponibilidad del scooter.
+  - Publicar disponibilidad del scooter.
 
 Para los esquemas de organización utilizaremos los siguientes tipos:
 - Organización por orden cronológico para el historial de reservas de los clientes.
-- Organización por orden alfabético para la sección “Mis vehículos” del Owner.
+- Organización por orden alfabético para la sección “Mis scooters” del Owner.
 
 ### 4.2.2. Labeling Systems
 Para el uso de etiquetas de nuestro landing page, se ha elegido un lenguaje sencillo lo que permite a los usuarios familiarizarse con facilidad a las opciones proporcionadas. Esto logrará que los usuarios puedan navegar de manera intuitiva.
@@ -37,12 +37,12 @@ En el Landing Page:
 
 | Etiqueta       | Descripción                                                                               |
 |----------------|-------------------------------------------------------------------------------------------|
-| Inicio         | Apartado donde se muestra la información de la aplicación explicando sus características. |  
-| Sobre nosotros | Apartado donde se informa al usuario sobre el equipo y el propósito.                      |  
-| Servicios      | Apartado donde se muestra el tipo de usuario que puede ser y sus ventajas.                |  
-| Planes         | Apartado donde se muestran todos los planes de suscripción.                               |  
-| Contactanos    | Apartado donde el usuario puede comunicarse con nosotros.                                 |  
-| Iniciar Sesion | Apartado para ingresar a la cuenta de usuario.                                            |  
+| Home           | Apartado donde se muestra la información de la aplicación explicando sus características. |  
+| About Us       | Apartado donde se informa al usuario sobre el equipo y el propósito.                      |  
+| Services       | Apartado donde se muestra el tipo de usuario que puede ser y sus ventajas.                |  
+| Pricing        | Apartado donde se muestran todos los planes de suscripción.                               |  
+| Team           | Apartado donde el usuario puede comunicarse con nosotros.                                 |  
+| Get Started    | Apartado redirigir ir a la aplicación web.                                                |  
 
 Para la página es importante, un sistema de etiquetado efectivo para permitir que los usuarios encuentren fácilmente la información y los servicios que necesitan. Nuestro sistema de etiquetado considera cuidadosamente cómo presentar la información en el sitio web. Después de establecer la organización visual y los esquemas de categorización del contenido, se elegirá etiquetas claras y concisas que reflejan el lenguaje común y la comprensión del usuario con palabras comunes no pasan de tres palabras. Nos aseguraremos de
 utilizar etiquetas intuitivas y fáciles de recordar para representar los diferentes conjuntos de información y asociaciones entre ellos. También se utilizarán diferentes colores y diseños para resaltar y diferenciar las etiquetas y conjuntos de información en mi sitio web. Para evitar confusiones y asegurar la coherencia visual en todo el sitio web, se mantendrá un sistema de etiquetado consistente y se evitará el uso de términos técnicos o jerga que podría ser confuso para los usuarios.
@@ -65,9 +65,10 @@ Con la implementación de estos sistemas de búsqueda y filtros, esperamos mejor
 
 ### 4.2.5. Navigation Systems
 Como sistema de navegación optamos emplear una barra de menú horizontal que guiará al usuario por las diferentes secciones con títulos claves y estáticos, esto facilitará al usuario a tener todas las herramientas a la mano y así disfrutar de una mejor navegación. Nuestra barra de menú contará con las siguientes secciones:
-- About us: El usuario podrá visualizar a qué se dedica nuestra Startup, su misión y visión, y el equipo detrás de esta aplicación web.
+- About us: El usuario podrá visualizar a qué se dedica nuestra Startup, su misión y visión.
 - Services: El usuario podrá visualizar los servicios que estamos ofreciendo, si en caso quiera ser un Owner o un Client.
 - Plans: Aquí podrá obtener toda la información de los planes que la aplicación le ofrece.
+- Team: El usuario podrá visualizar al equipo detrás de esta aplicación web.
 - Contact us: Donde los usuarios a través de un formulario podrán ponerse en contacto con nosotros.
   
 ## 4.3. Landing Page UI Design
