@@ -163,8 +163,8 @@ Link de Trello: https://trello.com/invite/b/66ccf1855ff6c24fe148a766/ATTI34b50c7
       <th> EP01-US01 </th>
      <th colspan="3"> Implementación de la sección Home de la Landing Page</th>
       <th> W01  </th>
-     <th> Sección Home </th>
-     <th> Implementar la seccion Home de la Landing Page. </th>
+     <th> Sección Inicio </th>
+     <th> Implementar la seccion Inicio de la Landing Page. </th>
      <th> 2  </th>
      <th> Néstor Velarde </th> 
      <th> Done </th>
@@ -173,7 +173,7 @@ Link de Trello: https://trello.com/invite/b/66ccf1855ff6c24fe148a766/ATTI34b50c7
       <th> EP01-US02 </th>
      <th colspan="3">Implementación de la sección "About us" de la Landing Page</th>
       <th> W02  </th>
-     <th> Sección "About Us"</th>
+     <th> Sección "Sobre nosotros"</th>
      <th> Implementar la seccion "About Us" de la landing page. </th>
      <th> 1  </th>
      <th> Bárbara Espinoza  </th> 
@@ -181,10 +181,10 @@ Link de Trello: https://trello.com/invite/b/66ccf1855ff6c24fe148a766/ATTI34b50c7
    </tr>
      <tr>
       <th> EP01-US03 </th>
-     <th colspan="3"> Implementación de la sección "Services" de la Landing Page</th>
+     <th colspan="3"> Implementación de la sección "Servicios" de la Landing Page</th>
       <th> W03  </th>
      <th> Sección "Services" </th>
-     <th> Implementar la sección "Services" de la landing page. </th>
+     <th> Implementar la sección "Servicios" de la landing page. </th>
      <th> 2  </th>
      <th> Vladimir Jara </th> 
      <th> Done </th>
@@ -193,8 +193,8 @@ Link de Trello: https://trello.com/invite/b/66ccf1855ff6c24fe148a766/ATTI34b50c7
       <th> EP01-US04 </th>
      <th colspan="3">Implementación de la sección "Pricing" de la Landing Page</th>
       <th> W04  </th>
-     <th> Sección "Pricing" </th>
-     <th> Implementar las secciones principales en la landing page </th>
+     <th> Sección "Membresías" </th>
+     <th> Implementar la seccion "Membresías" en la landing page </th>
      <th> 3  </th>
      <th> Mathias Hidalgo </th> 
      <th> Done </th>
@@ -204,7 +204,7 @@ Link de Trello: https://trello.com/invite/b/66ccf1855ff6c24fe148a766/ATTI34b50c7
      <th colspan="3"> Implementación de la sección "About the Team" de la Landing Page</th>
       <th> W05  </th>
      <th> Sección "About the Team" </th>
-     <th> Implementar la sección "Services" de la landing page</th>
+     <th> Implementar la sección "About the Team" de la landing page</th>
      <th> 3  </th>
      <th> Adriana Diestra </th> 
      <th> Done </th>
