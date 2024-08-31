@@ -541,7 +541,7 @@ En este apartado se muestra los impact mapping de nuestros segmentos objetivos:
 **Segmento 1: Owner**
 
 
-<img src="../assets/chapter-03/Impactmap1.png" alt="Imagen Impact Mapping 1">
+<img src="../assets/chapter-03/Impactmap3.png" alt="Imagen Impact Mapping 1">
 
 
 **Segmento 2: User**
