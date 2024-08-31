@@ -1,6 +1,6 @@
 # Capítulo II: Requirements Elicitation & Analysis
-## 2.1. Competidores
-dsasf
+## 2.1. Competidores.
+
 <div style="margin-left: 30px;">
 
 ### 2.1.1. Análisis competitivo
