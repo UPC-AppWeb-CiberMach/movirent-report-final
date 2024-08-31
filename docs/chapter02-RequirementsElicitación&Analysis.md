@@ -345,6 +345,22 @@ Datos del entrevistado:
 
 **Informe del resumen de la entrevista:**
 
+### Entrevista 2:
+
+Datos del entrevistador:
+* Nombres: Roy Linsh
+* Apellidos: Fernández Remón
+
+Datos del entrevistado:
+* Nombres: Maryori
+* Apellidos: Atanacio Cruces
+* Edad: 23
+* Distrito de residencia: San Juan de Lurigancho
+* Enlace a la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b778_upc_edu_pe/ESrNi2J7CPxCmG1crP6I85gBDxv_9VtZJzbnSfIrn9WDqA?e=5e70nZ
+* Duración de la entrevista: 7:58
+
+<img src="..//assets/chapter-02/Entrevista Maryori.png" alt="Imagen Entrevista 1">
+
 ### 2.2.3 Análisis de entrevistas.
 
 **Segmento 1: Owner**
