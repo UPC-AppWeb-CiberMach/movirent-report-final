@@ -395,6 +395,41 @@ El mayor desafío que enfrento sería el trato de los cobradores de bus que no s
 
 Actualmente por semana gasto un aproximado de 30 soles que por mes puede llegar a ser más de 100 soles porque los cobradores no quieren cumplir con el medio pasaje universitario.
 
+**- ¿Qué te parecería contar con un servicio de vehículos alternativos como las bicicletas o scooters?**
+
+Me parecería muy bien, es más, eh pensando que en un futuro es lo que más se utilizaría para el transporte.
+
+**- ¿Qué tipo de vehículos preferirías alquilar (bicicletas, scooters, patinetas eléctricas, etc.)?**
+
+Soy fan de lo eléctrico, tengo una patineta eléctrica porque es muy cómoda de usar así que alquilaría cualquier vehículo que sea cómodo.
+
+**- ¿Qué aspectos consideras más importantes al elegir un servicio de alquiler de vehículos?**
+
+Podría ser la atención al adquirir el servicio, me gustaría que fuera personalizada como el mantenimiento por ejemplo.
+
+**- ¿Estarías dispuesto(a) a pagar una suscripción mensual por este servicio?**
+
+Sí, me vendría bien una suscripción por el servicio.
+
+**- ¿Qué te parece la idea de incluir el mantenimiento del vehículo en la suscripción?**
+
+Me parecería genial porque sería un buen plus a la suscripción y algo que pueda retener a los clientes.
+
+**- ¿Crees que este servicio podría ayudarte a reducir tus costos mensuales de transporte y el tiempo perdido en el tráfico?**
+
+Claro, porque podría usar vías alternas a las pistas para poder evitar el tráfico y reducir costos.
+
+**- ¿Con qué frecuencia crees que utilizarías este servicio de alquiler de vehículos?**
+
+Lo usaría diariamente porque voy a la universidad muy seguido y me facilitaría el transportarme.
+
+**- ¿Qué tan importante es para ti la disponibilidad de vehículos en distintos puntos de la ciudad?**
+
+Cuando fui a otro distrito que es Miraflores, me pareció bonito ver que por unos cuantos soles puedas tener un vehículo para poder desplazarte. Así que si lo incorporarían en mi distrito sería genial.
+
+**- ¿Hay alguna mejora o característica adicional que te gustaría ver en la aplicación en el futuro?**
+
+Bueno, que esté asociado a un método de pago por yape, porque facilitaría los pagos de alquiler y que puedan incluir promociones mediante esa plataforma de pago.
 
 ### 2.2.3 Análisis de entrevistas.
 
