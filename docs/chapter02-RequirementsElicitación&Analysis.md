@@ -356,10 +356,45 @@ Datos del entrevistado:
 * Apellidos: Atanacio Cruces
 * Edad: 23
 * Distrito de residencia: San Juan de Lurigancho
-* Enlace a la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b778_upc_edu_pe/ESrNi2J7CPxCmG1crP6I85gBDxv_9VtZJzbnSfIrn9WDqA?e=5e70nZ
+* Enlace a la entrevista: [Ver Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b778_upc_edu_pe/ESrNi2J7CPxCmG1crP6I85gBDxv_9VtZJzbnSfIrn9WDqA?e=5e70nZ)
 * Duración de la entrevista: 7:58
 
 <img src="..//assets/chapter-02/Entrevista Maryori.png" alt="Imagen Entrevista 1">
+
+**Informe del resumen de la entrevista:**
+
+**- ¿Cual es tu nombre? ¿Cuántos años tienes? ¿Dónde vives actualmente? ¿A qué te dedicas?**
+
+Mi nombre es Maryori Atanacio Cruces y tengo 23 años, vivo en San Juan de Lurigancho y actualmente soy estudiante.
+
+**- ¿Qué dispositivos de escritorio usas mayormente? ¿Y de móvil? ¿Por que? ¿Que marca es?**
+
+Uso una computadora y un dispositivo móvil Xiaomi porque me gusta su accesibilidad y e interfaz.
+
+**- ¿Que navegador web prefiere utilizar en su dia a dia y por qué?**
+
+Uso mucho el navegador de Google Chrome porque me acostumbre a su método de búsqueda.
+
+**- ¿Que medios informativos usa con mayor frecuencia? ¿Y de entretenimiento?**
+
+Uso con mayor frecuencia la red Facebook.
+
+**- ¿Qué medios de transporte utilizas con mayor frecuencia?**
+
+El medio de transporte que uso con mayor frecuencia es el bus.
+
+**- ¿Cuánto tiempo dedicas a desplazarte en el transporte diariamente?¿Qué tipo de transporte es?**
+
+Para ir a la universidad diariamente me toma alrededor de 2 horas y media el poder desplazarme.
+
+**- ¿Cuáles son los mayores desafíos que enfrentas con tu transporte actual?**
+
+El mayor desafío que enfrento sería el trato de los cobradores de bus que no suelen ser muy gratos al momento de atenderte.
+
+**- ¿Cuánto dinero aproximadamente gasta al mes en transporte convencional?¿Qué tan satisfecho estás con el servicio que este te ofrece?**
+
+Actualmente por semana gasto un aproximado de 30 soles que por mes puede llegar a ser más de 100 soles porque los cobradores no quieren cumplir con el medio pasaje universitario.
+
 
 ### 2.2.3 Análisis de entrevistas.
 
