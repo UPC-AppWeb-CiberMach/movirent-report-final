@@ -42,7 +42,7 @@ web ofrece una experiencia excepcional, garantizando la disponibilidad y segurid
     <tbody>
         <tr>
             <td>Adriana María Diestra Zambrano</td>
-            <td><img src="../assets/chapter-01/photos/Adriana.png" width="370"/></td>
+            <td><img src="../assets/chapter-01/photos/Adriana.png" height="110px" width="120px"/></td>
             <td>Estudiante de la carrera Ingeniería de Software de 6to ciclo. Con conocimientos en C++, Python, HTML y CSS. Así como también trabajo colaborativo y participación en grupo.</td>
         </tr>
         <tr>
@@ -52,7 +52,7 @@ web ofrece una experiencia excepcional, garantizando la disponibilidad y segurid
         </tr>
         <tr>
             <td>Mathias Adriano Hidalgo Lopez</td>
-            <td><img src="../assets/chapter-01/photos/Mathias.jpeg" width="370"/></td>
+            <td><img src="../assets/chapter-01/photos/Mathias.jpeg" height="110px" width="370"/></td>
             <td>Estudiante de Ingeniería de Software de 6to ciclo. Experiencia en dirección y trabajo en equipo, conocimientos y manejo de lenguajes como C++, C#, entre otros.</td>
         </tr>
         <tr>
@@ -62,12 +62,12 @@ web ofrece una experiencia excepcional, garantizando la disponibilidad y segurid
         </tr>
         <tr>
             <td>Quique Vladimir Jara Benites</td>
-            <td><img src="../assets/chapter-01/photos/Vladimir.png" width="370"/></td>
+            <td><img src="../assets/chapter-01/photos/Vladimir.png" height="110px" width="370"/></td>
             <td>Estudiante de la carrera de Ingeniería de Software con conocimientos técnicos en JavaScript, Vue, PHP y SQL. Asimismo, para el desarrollo en equipo, cuento con habilidades como participación comunicativa, creatividad, resolución de problemas, adaptabilidad y toma de decisiones.</td>
         </tr>
         <tr>
             <td>Roy Linsh Fernandez Remon</td>
-            <td><img src="../assets/chapter-01/photos/Roy-Fernandez.jpeg" width="370"/></td>
+            <td><img src="../assets/chapter-01/photos/Roy-Fernandez.jpeg" height="110px" width="370"/></td>
             <td>Me llamo Roy Fernández Remón y estudio la carrera de Ingeniería de Software, actualmente estoy en el 6to ciclo de la carrera. Soy una persona dedicada a mis estudios y trabajos, y me gusta ser responsable con las actividades académicas.</td>
         </tr>
     </tbody>
