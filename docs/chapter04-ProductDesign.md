@@ -192,13 +192,3 @@ Para desarrollar la estructura de diagrama de base de datos usamos la herramient
 <img src= "https://github.com/UPC-AppWeb-CiberMach/Final-Report/blob/7be1e6a30abd9e59b4ffb3f568c8781acf94eca3/assets/chapter-04/DataBase/DatabaseDiagram.png">
 
 ---
-
-
-
-Nuestro sitio web presenta una barra de navegación con rutas a "Home", "About Us", "Services", "Plans", "Contact Us" 
-y "Get Started". En dispositivos moviles, nuestra barra de navegacion se convierte en un icono de 3 rayas que, 
-al ser seleccionado, muestra las rutas en el lateral de la pantalla del dispositivo.
-
-Además, la informacion que se proporciona en las rutas pasa a ordenarse verticalmente. 
-Para el inicio de sesión y registro de cuenta, se adapta a la pantalla ordenando los espacios para colocar 
-los datos solicitados de manera vertical reduciendo ligeramente el tamaño de la letra.
