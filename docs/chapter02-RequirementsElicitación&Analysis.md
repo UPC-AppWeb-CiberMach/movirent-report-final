@@ -440,7 +440,7 @@ Solo el 33.33% cuenta con experiencia en el alquiler de vehículos. Por último,
 
 **Segmento 2: Cliente**
 
-De las entrevistas realizadas se obtuvo que el 100% de los participantes gasta más de 200 soles  mensuales en transporte. Asimismo, mencionaron que su mayor desafío son los tiempos de viaje largos y la congestión vehicular. El 100% muestra cierto interés en un servicio de alquiler de vehículos menores y el 66.66% estaría dispuesto a pagar por el servicio.
+De las entrevistas realizadas se obtuvo que el 100% de los participantes gasta más de 100 soles  mensuales en transporte público. Asimismo, mencionaron que sus mayores desafíos durante sus viajes son los tiempos largos que toma la congestión vehicular en la ciudad. El 100% muestra cierto interés en un servicio de alquiler de vehículos menores y el 66.66% estaría dispuesto a pagar por el servicio.
 
 </div>
 
