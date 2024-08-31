@@ -178,7 +178,7 @@ Como sistema de navegación optamos emplear una barra de menú horizontal que gu
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Software Architecture Context Diagram
 
-<img src= "../assets/chapter-04/DataBase/DiagramaC4-Context.png">
+<img src= "png">
 
 ### 4.6.2. Software Architecture Container Diagrams
 ### 4.6.3. Software Architecture Components Diagrams
