@@ -49,13 +49,13 @@ Nuestra plataforma difunde información que es recibida por nuestros usuarios co
 específico según la demanda. Por lo tanto, es importante tener en cuenta las características
 con las que se generan nuestros títulos, subtítulos, párrafos, entre otros.
 
--- **Alineación:**
+- **Alineación:**
 
 En nuestra plataforma, nuestras imágenes y botones se encuentran alineados siempre de
 manera vertical y horizontal. Permitiendo así agrupar varios objetos de diversos tipos con la
 misma información.
 
--- **Color y Contraste:**
+- **Color y Contraste:**
 A la vista de nuestros segmentos objetivos, el color cumple un rol muy importante en nuestra aplicación, promueve
 las correctas composiciones del color, para dirigir diversas emociones y del contraste para
 enfatizar aquellos objetos de mayor importancia.
