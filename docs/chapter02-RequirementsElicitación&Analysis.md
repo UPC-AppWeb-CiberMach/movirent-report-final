@@ -1,6 +1,8 @@
 # Capítulo II: Requirements Elicitation & Analysis
 ## 2.1. Competidores
 
+<div style="margin-left: 30px;">
+
 ### 2.1.1. Análisis competitivo
 
 <table border="1px" style="text-align: center; width: 100%;">
@@ -19,10 +21,10 @@
     <td valign="top">Emove</td>
   </tr>
   <tr>
-    <td valign="top"><img src="../assets/chapter-02/competitors/Logo-MoviRent.png" alt="Logo of MoviRent" height="100px"></td>
-    <td valign="top"><img src="../assets/chapter-02/competitors/citybike.png" alt="Logo of City Bike" height="100px"></td>
-    <td valign="top"><img src="../assets/chapter-02/competitors/grin.png" alt="Logo of Grin" height="100px"></td>
-    <td valign="top"><img src="../assets/chapter-02/competitors/emove.png" alt="Logo of Emove" height="100px"></td>
+    <td valign="top"><img src="../assets/chapter-02/competitors/Logo-MoviRent.png" alt="Logo of MoviRent" height="70px"></td>
+    <td valign="top"><img src="../assets/chapter-02/competitors/citybike.png" alt="Logo of City Bike" height="70px"></td>
+    <td valign="top"><img src="../assets/chapter-02/competitors/grin.png" alt="Logo of Grin" height="70px"></td>
+    <td valign="top"><img src="../assets/chapter-02/competitors/emove.png" alt="Logo of Emove" height="70px"></td>
   </tr>
   <tr>
     <td rowspan="2" valign="top">Perfil</td>
@@ -176,7 +178,7 @@ Teniendo en cuenta el analisis SWOT se propone las siguientes estrategias compet
 
 1. Liderazgo en costos:
 
-Podemos buscar optimizar los procesos que permitan reducir los gastos de infraestructura y ofrecer los servicios a precios mas competitivos que los competidores. 
+Podemos buscar optimizar los procesos que permitan reducir los gastos de infraestructura y ofrecer los servicios a precios mas competitivos que los competidores.
 
 2. Diferenciación:
 
@@ -197,9 +199,11 @@ Ajustar estrategicamente los precios de suscripción para competir de manera efe
 
 Desarrollar mensajes y campañas de marketing que resalten las fortalezas unicas y la propuesta de valor de MoviRent.
 
---- 
+</div>
 
 ## 2.2. Entrevistas
+
+<div style="margin-left: 30px;">
 
 ### 2.2.1. Diseño de entrevistas
 
@@ -251,6 +255,7 @@ Desarrollar mensajes y campañas de marketing que resalten las fortalezas unicas
 17. ¿Hay alguna mejora o característica adicional que te gustaría ver en la aplicación en el futuro?
 
 <br>
+
 ### 2.2.2 Registro de entrevistas.
 
 En esta sección se presentan las entrevistas realizadas a los segmentos objetivo.
@@ -263,44 +268,44 @@ Datos del entrevistador:
 * Apellidos: Jara Benites
 
 Datos del entrevistado:
-* Nombres: David 
+* Nombres: David
 * Apellidos: Beltran Burgos
 * Edad: 23
 * Distrito de residencia: San Borja
 * Enlace a la entrevista: *UNIR ENTREVISTA CON LAS DEMAS*
-* Duración de la entrevista: 5:55 
+* Duración de la entrevista: 5:55
 
 <img src="../assets/chapter-02/interviews/entrevista-David.png" alt="Entrevista David">
 
 **Informe del resumen de la entrevista:**
-David Beltrán un joven de 23 años, residente de San Borja. Actualmente trabaja en el sector 
-financiero, sus funciones las cumple en el departamento de cobranzas del BCP. Sus sitemas 
-operativos de preferencia son IOS en moviles y windows en ordenadores. El navegador que usa 
-con mayor frecuencia es chrome. Tiene preferencia por la marca Apple y lenovo. Su canal 
-informativo favorito es Twitter y de entretenimiento instagram. Beltrán posee un scooter 
-eléctrico como vehiculo personal y no tiene experiencia previa en el alquiler de vehiculos. 
-Considera que las tarifas de alquiler deberían depender del tiempo de uso de cada equipo y 
-prefiere los pagos a través de transferencias bancarias o aplicativos móviles como YAPE o Plin. 
-Sugiere que el límite de tiempo o distancia para el alquiler debería restringirse solo a Lima. 
-En caso de daños durante el uso del vehículo, espera una compensación por parte de la empresa. 
-Valora la posibilidad de visualizar la identidad y el historial de rentas de los clientes. 
-Recomienda medidas de seguridad como el uso de casco y respetar las normas de tránsito. 
-No tiene seguro vehicular y estaría interesado en que se le ofrezca uno. Prefiere entregar los 
-vehículos en módulos con supervisión. Inicialmente, espera pocas reservas, pero prevé un aumento 
-con el tiempo. La entrevista concluyó con la posibilidad de requerir feedback en el futuro y 
+David Beltrán un joven de 23 años, residente de San Borja. Actualmente trabaja en el sector
+financiero, sus funciones las cumple en el departamento de cobranzas del BCP. Sus sitemas
+operativos de preferencia son IOS en moviles y windows en ordenadores. El navegador que usa
+con mayor frecuencia es chrome. Tiene preferencia por la marca Apple y lenovo. Su canal
+informativo favorito es Twitter y de entretenimiento instagram. Beltrán posee un scooter
+eléctrico como vehiculo personal y no tiene experiencia previa en el alquiler de vehiculos.
+Considera que las tarifas de alquiler deberían depender del tiempo de uso de cada equipo y
+prefiere los pagos a través de transferencias bancarias o aplicativos móviles como YAPE o Plin.
+Sugiere que el límite de tiempo o distancia para el alquiler debería restringirse solo a Lima.
+En caso de daños durante el uso del vehículo, espera una compensación por parte de la empresa.
+Valora la posibilidad de visualizar la identidad y el historial de rentas de los clientes.
+Recomienda medidas de seguridad como el uso de casco y respetar las normas de tránsito.
+No tiene seguro vehicular y estaría interesado en que se le ofrezca uno. Prefiere entregar los
+vehículos en módulos con supervisión. Inicialmente, espera pocas reservas, pero prevé un aumento
+con el tiempo. La entrevista concluyó con la posibilidad de requerir feedback en el futuro y
 agradecimientos mutuos.
 
 #### Entrevista 2:
 
 Datos del entrevistador:
-* Nombres: Néstor H.  
+* Nombres: Néstor H.
 * Apellidos: Velarde Gonzales
 
 Datos del entrevistado:
-* Nombres: Sebastian 
-* Apellidos: Flores Mendez. 
+* Nombres: Sebastian
+* Apellidos: Flores Mendez.
 * Edad: 25
-* Distrito de residencia: Villa Maria del Triunfo. 
+* Distrito de residencia: Villa Maria del Triunfo.
 * Enlace a la entrevista: [Ver Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c221_upc_edu_pe/EcJxI89tEyVKqjwAXpUzEfQBPCIByK7wqXOgZCX6WY3K_g?e=PHNrCW)
 * Duración de la entrevista: 5:55
 
@@ -311,14 +316,14 @@ Datos del entrevistado:
 Sebastián Flores, un joven de 25 años, residente de Villa María del Triunfo. Actualmente trabaja
 en una empresa de logística, desempeñando funciones de sistemas y soporte técnico. El usa dispositivos
 como Android y Windows, y prefiere el navegador Chrome. Su marca preferida es Samsung y Lenovo.
-Los fines de semana le gusta salir de paseo a los parques con su familia en scooter, a veces de 
-caminata por el distrito, siempre a poseido desde muchos años mas de un Scooter electrico en su casa, 
+Los fines de semana le gusta salir de paseo a los parques con su familia en scooter, a veces de
+caminata por el distrito, siempre a poseido desde muchos años mas de un Scooter electrico en su casa,
 de hecho el a veces alquila su scooter a sus amigos o conocidos, pero nunca a tenenido la experiencia
 de alquilar mediante aplicaciones web o plataformas que ofrezcan este serviccio, el considera que las
 el alquiler es una oportunidad por que le permite ganar dinero extra, y le gustaria que las tarifas
 de alquiler sean flexibles y dependan del tiempo de uso, esta tambien a el le permite recuperar lo
 invertido en su scooter, basado en nuestro proyecto, le parece una idea interesante, y estaria dispuesto
-a usar nuestra aplicacion web, le gustaria visualizar las operaciones necesarias para el alquiler. 
+a usar nuestra aplicacion web, le gustaria visualizar las operaciones necesarias para el alquiler.
 
 
 ### Entrevistas segmento 2: Clientes
@@ -332,9 +337,9 @@ Datos del entrevistado:
 * Nombres: Brissa Arakemi
 * Apellidos: Hoyos Arevalo
 * Edad: 19
-* Distrito de residencia: Rimac 
+* Distrito de residencia: Rimac
 * Enlace a la entrevista: [Ver Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213222_upc_edu_pe/EYvfM5T1ScdBpoM4ZDAvlQgBLmbxD7DTIk_2O02DixCJBw?e=RxA0RV)
-* Duración de la entrevista: 6:05 
+* Duración de la entrevista: 6:05
 
 <img src="..//assets/chapter-02/EntrevistaBrissa.png" alt="Imagen Entrevista 1">
 
@@ -351,7 +356,11 @@ Solo el 33.33% cuenta con experiencia en el alquiler de vehículos. Por último,
 
 De las entrevistas realizadas se obtuvo que el 100% de los participantes gasta más de 200 soles  mensuales en transporte. Asimismo, mencionaron que su mayor desafío son los tiempos de viaje largos y la congestión vehicular. El 100% muestra cierto interés en un servicio de alquiler de vehículos menores y el 66.66% estaría dispuesto a pagar por el servicio.
 
+</div>
+
 ## 2.3. Needfinding
+
+<div style="margin-left: 30px;">
 
 En esta sección analizamos la información recopilada en las entrevistas realizadas a nuestros segmentos objetivos.
 
@@ -489,6 +498,9 @@ objetivos.
 **Segmento 2 - Client**  
 <img src="..//assets/chapter-02/scenario-mapping/As-Is-Client.jpg" alt="As-IS Scenario Mapping 2">
 
+</div> 
+
+
 ## 2.4. Ubiquitous Language.
 
 <table border="1px">
@@ -527,5 +539,3 @@ objetivos.
         </tr>
     </tbody>
 </table>
-
----
