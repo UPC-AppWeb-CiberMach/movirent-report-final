@@ -97,15 +97,33 @@ Para desarrollar nuestro proyecto hemos requerido de algunas nomenclaturas, refe
 **Convenciones de idioma:** Uso del idioma ingles para elaborar nuestro codigo, incluyendo la parte de la landing page.
 
 **Conventional commits**
-Se utilizo este estandar para garantizar una facil comprension de nuestros registros. Por lo tanto, nos regimos por la siguiente estructura:<br/>
+Se utilizó este estandar para garantizar una facil comprension de nuestros registros. Por lo tanto, nos regimos por la siguiente estructura:<br/>
 `
 <Type>[Scope opcional]:<Descripcion>`
 
 - Type: indica el tipo de commit que se realizó.
 - Scope: define el alcance del commit.
-- Descripcion: describe brevemente el cambio realizado.
+- Descripción: describe brevemente el cambio realizado.
 
 ### 5.1.4. Software Deployment Configuration
+Para desplegar la solución se realizó los siguientes pasos:
+
+- Ingresar a los repositorios de la organizacion de GitHub a través del URL: [github.com/UPC-AppWeb-CiberMach](https://github.com/orgs/UPC-AppWeb-CiberMach/repositories) 
+
+![Organizacion CiberMatch](../assets/chapter-05/Deployment-Config/Paso-N1.png)
+
+- Seleccionar el repositorio de la landing page del proyecto.
+![Repositorio Landing Page](../assets/chapter-05/Deployment-Config/Paso-N2.png)
+
+- Clonar el repositorio en Webstorm utilizando la URL del repositorio.
+![Clonar Repositorio](../assets/chapter-05/Deployment-Config/Paso-N3.png)
+
+![Clonar Repositorio](../assets/chapter-05/Deployment-Config/Paso-N4.png)
+
+- Ejecutar el archivo index.html para visualizar la landing page en el navegador.
+![Visualizar Landing Page](../assets/chapter-05/Deployment-Config/Paso-N5.png)
+![Visualizar Landing Page](../assets/chapter-05/Deployment-Config/Paso-N6.png)
+
 ## 5.2. Landing Page, Services & Applications Implementation
 ### 5.2.1. Sprint 1
 #### 5.2.1.1. Sprint Planning 1
