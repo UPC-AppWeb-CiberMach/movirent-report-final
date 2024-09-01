@@ -42,32 +42,32 @@ web ofrece una experiencia excepcional, garantizando la disponibilidad y segurid
     <tbody>
         <tr>
             <td>Adriana María Diestra Zambrano</td>
-            <td><img src="../assets/chapter-01/photos/Adriana.png" height="110px" width="120px"/></td>
+            <td><img src="https://github.com/user-attachments/assets/17bec8b4-8a80-4eb7-8342-12fafbe12249" height="110px" width="120px"/></td>
             <td>Estudiante de la carrera Ingeniería de Software de 6to ciclo. Con conocimientos en C++, Python, HTML y CSS. Así como también trabajo colaborativo y participación en grupo.</td>
         </tr>
         <tr>
             <td>Bárbara Antonella Espinoza Delgado</td>
-            <td><img src="../assets/chapter-01/photos/Barbara.png" width="370"/></td>
+            <td><img src="https://github.com/user-attachments/assets/505fe0d4-a7f7-431d-a381-db32cfc7316a" width="370"/></td>
             <td>Estudiante de Ingeniería de Software de 7mo ciclo. Experiencia en dirección de grupos, redacción, búsqueda de información, exposiciones y cumplimiento de tareas de manera estricta y puntual.</td>
         </tr>
         <tr>
             <td>Mathias Adriano Hidalgo Lopez</td>
-            <td><img src="../assets/chapter-01/photos/Mathias.jpeg" height="110px" width="370"/></td>
+            <td><img src="https://github.com/user-attachments/assets/bc368440-103b-42ca-9147-4ae03ae625fb" height="110px" width="370"/></td>
             <td>Estudiante de Ingeniería de Software de 6to ciclo. Experiencia en dirección y trabajo en equipo, conocimientos y manejo de lenguajes como C++, C#, entre otros.</td>
         </tr>
         <tr>
             <td>Néstor Velarde Gonzales</td>
-            <td><img src="../assets/chapter-01/photos/Nestor-Velarde.png" width="370"/></td>
+            <td><img src="https://github.com/user-attachments/assets/8a35c1d8-e680-4e8a-9072-d05d96a4e4bd" width="370"/></td>
             <td>Estudiante de la carrera de Ingeniería de Software de 6to ciclo en la UPC. Mi compromiso con mi grupo es mantener un ambiente colaborativo y trabajo en equipo. Me gusta aprender nuevas herramientas y tecnologías de desarrollo. Tengo experiencia desarrollando pequeños proyectos basados en sistemas de electrónica y sé programación en Python, C++, Arduino, Logo soft.</td>
         </tr>
         <tr>
             <td>Quique Vladimir Jara Benites</td>
-            <td><img src="../assets/chapter-01/photos/Vladimir.png" height="110px" width="370"/></td>
+            <td><img src="https://github.com/user-attachments/assets/a604e148-6313-4c61-9056-605d0d12ba14" height="110px" width="370"/></td>
             <td>Estudiante de la carrera de Ingeniería de Software con conocimientos técnicos en JavaScript, Vue, PHP y SQL. Asimismo, para el desarrollo en equipo, cuento con habilidades como participación comunicativa, creatividad, resolución de problemas, adaptabilidad y toma de decisiones.</td>
         </tr>
         <tr>
             <td>Roy Linsh Fernandez Remon</td>
-            <td><img src="../assets/chapter-01/photos/Roy-Fernandez.jpeg" height="110px" width="370"/></td>
+            <td><img src="https://github.com/user-attachments/assets/e133f2a6-6aeb-40d3-9015-8173d0cba438" height="110px" width="370"/></td>
             <td>Me llamo Roy Fernández Remón y estudio la carrera de Ingeniería de Software, actualmente estoy en el 6to ciclo de la carrera. Soy una persona dedicada a mis estudios y trabajos, y me gusta ser responsable con las actividades académicas.</td>
         </tr>
     </tbody>
@@ -259,7 +259,7 @@ Utilizando los bussines outcomes, user outcomes y solutions se formularon las si
 
 #### 1.2.2.4. Lean UX Canvas
 
-<img src="../assets/chapter-01/LeanUX/Lean-UX-Canvas.png"/>
+![Lean UX Canvas](https://github.com/user-attachments/assets/cf260007-279c-463a-9ed3-f6399dc5bad9)
 
 ## 1.3. Segmentos Objetivo
 Según Huamanraime y Echevarría (2022) Se ha observado a adultos y adultos mayores hacer uso de los e-scooters, principalmente en distritos con un alto índice de desarrollo humano, como Miraflores o San Isidro, por lo que nuestros segmentos objetivo del proyecto propuesto son dos, a continuación los presentamos:  
