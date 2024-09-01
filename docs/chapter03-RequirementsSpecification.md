@@ -614,7 +614,7 @@ En este apartado se muestra los impact mapping de nuestros segmentos objetivos:
     <td valign="top"> US08 </td>
     <td valign="top"> Registrar usuario </td>
     <td valign="top"> Cómo visitante de la aplicación web de MoviRent Quiero poder crear una cuenta personal Para comenzar a hacer uso de la aplicación como Owner/Cliente. </td>
-    <td valign="top"> 4 </td>
+    <td valign="top"> 3 </td>
   </tr>
   <tr>
     <td valign="top"> 09 </td>
@@ -635,14 +635,14 @@ En este apartado se muestra los impact mapping de nuestros segmentos objetivos:
     <td valign="top"> US11 </td>
     <td valign="top"> Cambiar datos personales </td>
     <td valign="top"> Cómo Owner/Cliente de MoviRent Quiero cambiar los datos asociados a mi perfil Para actualizar la información. </td>
-    <td valign="top"> 4 </td>
+    <td valign="top"> 3 </td>
   </tr>
   <tr>
     <td valign="top"> 12 </td>
     <td valign="top"> US12 </td>
     <td valign="top"> Eliminar cuenta de usuario </td>
     <td valign="top"> Cómo Owner/Cliente de MoviRent Quiero eliminar mi cuenta de usuario Para dejar de usar los servicios de la aplicación. </td>
-    <td valign="top"> 4 </td>
+    <td valign="top"> 3 </td>
   </tr>
   <tr>
     <td valign="top"> 13 </td>
@@ -656,28 +656,28 @@ En este apartado se muestra los impact mapping de nuestros segmentos objetivos:
     <td valign="top"> US14 </td>
     <td valign="top"> Visualizar un scooter en alquiler </td>
     <td valign="top"> Cómo Owner de un scooter eléctrico Quiero visualizar las publicaciones con la información y especificaciones de mi scooter Para verificar que toda la información ingresada es correcta y actualizada.</td>
-    <td valign="top"> 4 </td>
+    <td valign="top"> 3 </td>
   </tr>
   <tr>
     <td valign="top"> 15 </td>
     <td valign="top"> US15 </td>
     <td valign="top"> Editar Scooter en alquiler </td>
     <td valign="top"> Cómo Owner de un scooter eléctrico Quiero editar la publicación de mi scooter Para que la información proporcionada a los clientes esté siempre actualizada. </td>
-    <td valign="top"> 4 </td>
+    <td valign="top"> 3 </td>
   </tr>
   <tr>
     <td valign="top"> 16 </td>
     <td valign="top"> US16 </td>
     <td valign="top"> Eliminar scooter en alquiler </td>
     <td valign="top"> Cómo Owner Quiero eliminar un scooter en alquiler Para mantener la integridad de la información almacenada. </td>
-    <td valign="top"> 4 </td>
+    <td valign="top"> 3 </td>
   </tr>
     <tr>
     <td valign="top"> 17 </td>
     <td valign="top"> US17 </td>
     <td valign="top"> Búsqueda de scooters cercano </td>
     <td valign="top"> Cómo cliente de MoviRent Quiero poder buscar scooters disponibles en mi distrito Para facilitar mi desplazamiento. </td>
-    <td valign="top"> 6 </td>
+    <td valign="top"> 8 </td>
   </tr>
       <tr>   
   <tr>
@@ -692,7 +692,7 @@ En este apartado se muestra los impact mapping de nuestros segmentos objetivos:
     <td valign="top"> US19 </td>
     <td valign="top"> Calificación y reseñas </td>
     <td valign="top"> Cómo cliente de MoviRent Quiero poder calificar y dejar reseñas sobre mi experiencia con scooters utilizados y la zona donde los tomé Para ayudar a otros usuarios a tomar decisiones informadas.</td>
-    <td valign="top"> 4 </td>
+    <td valign="top"> 3 </td>
   </tr>
   <tr>
     <td valign="top"> 20 </td>
@@ -706,21 +706,21 @@ En este apartado se muestra los impact mapping de nuestros segmentos objetivos:
     <td valign="top"> US21 </td>
     <td valign="top"> Borrar historial de scooters alquilados </td>
     <td valign="top"> Cómo Cliente de MoviRent Quiero o borrar mi historial de scooters alquilados Para ya no tener información que considere innecesaria.</td>
-    <td valign="top"> 4 </td>
+    <td valign="top"> 3 </td>
   </tr>
       <tr>
     <td valign="top"> 22 </td>
     <td valign="top"> US22 </td>
     <td valign="top"> Adquirir plan </td>
     <td valign="top"> Cómo Cliente de MoviRent Quiero Comprar un plan Para acceder a sus beneficios al usar la aplicación.</td>
-    <td valign="top"> 6 </td>
+    <td valign="top"> 5 </td>
   </tr>
       <tr>
     <td valign="top"> 23 </td>
     <td valign="top"> US23 </td>
     <td valign="top"> Cancelar suscripción </td>
     <td valign="top"> Cómo Cliente de MoviRent Quiero cancelar mi suscripción Para ya no seguir teniendo cobros de esta.</td>
-    <td valign="top"> 4 </td>
+    <td valign="top"> 3 </td>
   </tr>
       
 
