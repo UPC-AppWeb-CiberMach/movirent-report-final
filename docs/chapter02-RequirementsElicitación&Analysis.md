@@ -477,7 +477,7 @@ Estos nos ayudarán a describir de forma general nuestro segmento objetivo.
 <img src="..//assets/chapter-02/user-persona/MarcosRivera.png" alt="Imagen User Persona 1">
 
 **Segmento 2 - Client:**
-<img src="..//assets/chapter-02/user-persona/JuanLópez.png" alt="Imagen User Persona 2">
+<img src="..//assets/chapter-02/user-persona/JuanLopez.png" alt="Imagen User Persona 2">
 
 ### 2.3.2. User Task Matrix
 
