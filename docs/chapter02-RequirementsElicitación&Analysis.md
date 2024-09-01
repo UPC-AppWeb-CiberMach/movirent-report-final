@@ -594,34 +594,36 @@ En base al User Task Matrix presentado, podemos destacar las siguientes tareas c
 
 ### Owner:
 
-*Gestión de inventario: Realizada con alta frecuencia y es de alta importancia, ya que los Owners deben mantener actualizada la disponibilidad y estado de sus scooters para maximizar las oportunidades de alquiler o venta.<br><br/>
+-Gestión de inventario: Realizada con alta frecuencia y es de alta importancia, ya que los Owners deben mantener actualizada la disponibilidad y estado de sus scooters para maximizar las oportunidades de alquiler o venta.
 
-*Historial de transacciones: También tiene alta frecuencia e importancia porque permite a los Owners rastrear todas las actividades relacionadas con sus scooters.
+-Historial de transacciones: También tiene alta frecuencia e importancia porque permite a los Owners rastrear todas las actividades relacionadas con sus scooters.
 
-*Notificaciones sobre estado de scooter: Frecuencia alta, ya que los Owners necesitan estar al tanto de cambios en el estado de sus scooters para gestionar sus inventarios eficientemente.
+-Notificaciones sobre estado de scooter: Frecuencia alta, ya que los Owners necesitan estar al tanto de cambios en el estado de sus scooters para gestionar sus inventarios eficientemente.
 
-*Pago y facturación: Crítica para la gestión financiera y administrativa de los Owners.
+-Pago y facturación: Crítica para la gestión financiera y administrativa de los Owners.
 
 ### Client:
 
-*Consulta de disponibilidad de scooters: Tarea realizada con alta frecuencia y de alta importancia, ya que los usuarios necesitan encontrar scooters disponibles rápidamente.
-*Notificaciones sobre estado de scooter: Alta frecuencia y alta importancia para estar informados de cambios o confirmaciones en sus reservas.
-*Pago y facturación: Fundamental para completar el proceso de alquiler o compra de scooters.
+-Consulta de disponibilidad de scooters: Tarea realizada con alta frecuencia y de alta importancia, ya que los usuarios necesitan encontrar scooters disponibles rápidamente.
+
+-Notificaciones sobre estado de scooter: Alta frecuencia y alta importancia para estar informados de cambios o confirmaciones en sus reservas.
+
+-Pago y facturación: Fundamental para completar el proceso de alquiler o compra de scooters.
 
 ### Principales diferencias y coincidencias entre los User Personas:
 
 **Diferencias entre los Segmentos**
 
-Owner se enfoca más en tareas administrativas y de gestión de scooters, como gestionar inventarios y verificar historial de transacciones, que son cruciales para mantener el negocio operativo y eficiente.
+-Owner se enfoca más en tareas administrativas y de gestión de scooters, como gestionar inventarios y verificar historial de transacciones, que son cruciales para mantener el negocio operativo y eficiente.
 
-User se centra más en tareas de búsqueda y reserva, como consultar disponibilidad de scooters y realizar reservas, reflejando su rol como consumidores del servicio.
+-User se centra más en tareas de búsqueda y reserva, como consultar disponibilidad de scooters y realizar reservas, reflejando su rol como consumidores del servicio.
 
 
 **Coincidencias entre los Segmentos**
 
-Ambos segmentos consideran que las notificaciones y pago y facturación son tareas de alta importancia y frecuencia, ya que estas actividades son esenciales para la operatividad tanto desde el lado del ofertante (Owner) como del demandante (User).
+-Ambos segmentos consideran que las notificaciones y pago y facturación son tareas de alta importancia y frecuencia, ya que estas actividades son esenciales para la operatividad tanto desde el lado del ofertante (Owner) como del demandante (User).
 
-Ambos también asignan importancia a la seguridad y verificación de identidad, asegurando confianza y fiabilidad en las transacciones.
+-Ambos también asignan importancia a la seguridad y verificación de identidad, asegurando confianza y fiabilidad en las transacciones.
 
 ### 2.3.3. User Journey Mapping
 
