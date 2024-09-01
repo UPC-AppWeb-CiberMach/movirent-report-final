@@ -187,6 +187,9 @@ Como sistema de navegación optamos emplear una barra de menú horizontal que gu
 ### 4.6.3. Software Architecture Components Diagrams
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
+
+<img src="/assets/chapter-04/Diagram/Diagram.png"/>
+
 ### 4.7.2. Class Dictionary
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
