@@ -162,60 +162,60 @@ Link de Trello: https://trello.com/invite/b/66ccf1855ff6c24fe148a766/ATTI34b50c7
    </tr>
    <tr>
       <td> EP01-US01 </td>
-      <td colspan="3"> Implementación de la sección Inicio de la Landing Page</td>
+      <td colspan="3">Implementación de la sección Inicio de la Landing Page</td>
       <td> W01  </td>
       <td> Sección Inicio </td>
-      <td> Implementar la sección Inicio de la Landing Page. </td>
+      <td>Implementar la sección Inicio de la Landing Page. </td>
       <td> 3  </td>
       <td> Néstor Velarde </td> 
       <td> Done </td>
    </tr>
    <tr>
       <td> EP01-US02 </td>
-      <td colspan="3"> Implementación de la sección "Sobre Nosotros" de la Landing Page</td>
+      <td colspan="3">Implementación de la sección "Sobre Nosotros" de la Landing Page</td>
       <td> W02  </td>
       <td> Sección "Sobre nosotros"</td>
-      <td> Implementar la sección "Sobre Nosotros" de la landing page. </td>
+      <td>Implementar la sección "Sobre Nosotros" de la landing page. </td>
       <td> 1  </td>
       <td> Bárbara Espinoza  </td> 
       <td> Done </td>
    </tr>
    <tr>
       <td> EP01-US03 </td>
-      <td colspan="3"> Implementación de la sección "Servicios" de la Landing Page</td>
+      <td colspan="3">Implementación de la sección "Servicios" de la Landing Page</td>
       <td> W03  </td>
       <td> Sección "Services" </td>
-      <td> Implementar la sección "Servicios" de la landing page. </td>
+      <td>Implementar la sección "Servicios" de la landing page. </td>
       <td> 3  </td>
       <td> Vladimir Jara </td> 
       <td> Done </td>
    </tr>
    <tr>
       <td> EP01-US04 </td>
-      <td colspan="3"> Implementación de la sección "Planes" de la Landing Page</td>
+      <td colspan="3">Implementación de la sección "Planes" de la Landing Page</td>
       <td> W04  </td>
       <td> Sección "Planes" </td>
-      <td> Implementar la sección "Planes" en la landing page </td>
+      <td>Implementar la sección "Planes" en la landing page </td>
       <td> 3  </td>
       <td> Mathias Hidalgo </td> 
       <td> Done </td>
    </tr>
    <tr>
       <td> EP01-US05 </td>
-      <td colspan="3"> Implementación de la sección "About the Team" de la Landing Page</td>
+      <td colspan="3">Implementación de la sección "About the Team" de la Landing Page</td>
       <td> W05  </td>
       <td> Sección "About the Team" </td>
-      <td> Implementar la sección "About the Team" de la landing page</td>
+      <td>Implementar la sección "About the Team" de la landing page</td>
       <td> 3  </td>
       <td> Adriana Diestra </td> 
       <td> Done </td>
    </tr>
    <tr>
       <td> EP01-US06 </td>
-      <td colspan="3"> Landing Page Responsiva a Diferentes tamaños de pantalla</td>
+      <td colspan="3">Landing Page Responsiva a Diferentes tamaños de pantalla</td>
       <td> W03  </td>
       <td> Landing Page Responsive </td>
-      <td> Implementación de diseño responsivo a la landing page para que se adapte a diferentes tamaños de pantalla </td>
+      <td>Implementación de diseño responsivo a la landing page para que se adapte a diferentes tamaños de pantalla </td>
       <td> 5  </td>
       <td> Roy Fernandez </td> 
       <td> Done </td>
