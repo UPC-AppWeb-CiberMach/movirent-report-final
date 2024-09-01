@@ -90,8 +90,21 @@ Se utilizó el estándar de commits convencionales para mantener un historial de
 - **chore**: Se utiliza para cambios en el código que no afectan la funcionalidad.
 - **refactor**: Se utiliza para cambios en el código que no afectan la funcionalidad.
 
-
 ### 5.1.3. Source Code Style Guide & Conventions
+Para desarrollar nuestro proyecto hemos requerido de algunas nomenclaturas, referencias y lenguajes para la solucion.
+**Tecnologias:** Utilizamos HTML5, CSS3 y JavaScript para el desarrollo de la landing page. 
+**Herramientas:** Nos apoyamos de las tecnologias mas utilziadas y recomendadeas para el desarrollo web, como los son Webstorm, Git, GitHub, LudcidChart, Figma y Miro.
+**Convenciones de idioma:** Uso del idioma ingles para elaborar nuestro codigo, incluyendo la parte de la landing page.
+
+**Conventional commits**
+Se utilizo este estandar para garantizar una facil comprension de nuestros registros. Por lo tanto, nos regimos por la siguiente estructura:<br/>
+`
+<Type>[Scope opcional]:<Descripcion>`
+
+- Type: indica el tipo de commit que se realizó.
+- Scope: define el alcance del commit.
+- Descripcion: describe brevemente el cambio realizado.
+
 ### 5.1.4. Software Deployment Configuration
 ## 5.2. Landing Page, Services & Applications Implementation
 ### 5.2.1. Sprint 1
