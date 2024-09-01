@@ -1,38 +1,40 @@
 # Capítulo IV: Product Design
 ## 4.1. Style Guidelines
 ### 4.1.1. General Style Guidelines
-Es fundamental considerar las decisiones y elementos visuales que respaldan los principios generales
-de diseño para MoviRent. Por esta razón, resulta esencial definir aspectos clave como la identidad
-de marca, la paleta de colores y la tipografía. Además, es necesario establecer el tono de comunicación
-y el lenguaje utilizado, que abarcan características como divertido o serio, formal o casual, respetuoso
-o irreverente, y entusiasta o sereno. Nuestro prototipo web integrará ciertos ajustes de colores, fuente 
-de letra o tipografía y creación de un diseño estructural de la plataforma.
-El color verde limon de nuestro logo que tiene como representación de la naturaleza, este color fue seleccionado para 
-fomentar el transporte ecológico en nuestra ciudad. 
-La tipografía que aplicamos en nuestro prototipo es Open Sans, por su legibilidad textual.
+
+<b>Misión</b>  
+Proporcionar a nuestros clientes una plataforma donde puedan alquilar de manera rápida, sencilla y segura scooters eléctricos que se adecúen a sus necesidades.
+
+<b>Visión</b>  
+Ser la aplicación web líder en el alquiler de scooters eléctricos, promoción del transporte ecoamigable y reconocidos por grupos y asociaciones de emprendimiento y medio ambiente.
+
+<b>Brand Name</b>  
+El nombre del producto es MoviRent, el cual cuenta con un logo representado por el icono de un scooter y un rayo que simboliza que el vehículo funciona electricamente con el color verde como el más predominante simbolizando el medio ambiente.
+FALTA IMAGEN DEL LOGO
+
+<b>Colores</b>  
+Decidimos elegir los colores verde claro, lila y azul al ser una combinación ligera y agradable a la vista de usuarios de diversad edades.
+FALTA IMAGEN DE LA PALETA DE COLORES
+
+<b>Tipografía</b>
+Elegimos la fuente Open Sans porque es legible y popular en el diseño de aplicaciones web, por lo que nos aseguramos de que nuestros clientes con toda clase de necesidades visuales logren leer facilmente el contenido de nuestra web.
+FALTA IMAGEN DE LA TIPOGRAFÍA Y ESPACIADO
+
+<b>Espaciado</b>  
+Para nuestra aplicación usaremos el espaciado x1.3, el cual es un poco mas amplio que el usual, lo que evitará que el texto se sienta pesado o genere complicaciones de legibilidad
+
+Tamaño de letra: 20px
+
+Interlineado: 1px
+
+<b>Tono de comunicación y lenguaje aplicado</b>  
+Usaremos un tono  de comunicación entusiasta y amigable en toda la web, puesto que consideramos que sería adecuado para nuestro tipo de aplicación al buscar incentivar el uso concurrido de esta. Además haremos uso de un lenguaje popular para ser inclusivos con todo tipo de nivel de lenguaje entre nuestros usuarios.
 
 ### 4.1.2. Web Style Guidelines 
 
-- **Color primario:**
-El color verde lima se adapta bien a nuestro modelo de negocio, ya que, al ser una aplicación 
-enfocado de fomentar vehiculos ecológicos nos motiva seleccionar el dicho color, queremos que nuestro 
-público objetivo se asocie a la imaginación, la diversidad y la creatividad.
+MoviRent está diseñado para proporcionar la mejor experiencia en todo el proceso de alquilar y dar en alquiler un scooter eléctrico desde cualquier dispositivio. Como patrón de diseño decidimos que usaremos el patrón F, el cual permitirá que los usuarios tengan una lectura de izquierda a derecha y su concentración este mayormente en el lado izquierdo de la pantalla.
 
-<div align="center">
-  <img src= "../assets/chapter-04/Colours/Colour-primary.png" width="280">
-</div>
-
-- **Color secundario:** El color azul grisáceo oscuro como color secundario. 
-
-<div align="center">
-  <img src= "../assets/chapter-04/Colours/colours-second.png" width="280">
-</div>
-
-- **Color de fondo:** El color blanco como color de fondo.
-
-<div align="center">
-  <img src= "../assets/chapter-04/Colours/colours-op.png" width="280">
-</div>
+Al ser nuestros usuarios adultos de diversas edades pusimos mayor énfasis en crear un entorno intuitivo y sencillo de usar hasta para personas sin muchos conocimientos en el uso de aplicaciones web.
 
 ## 4.2. Information Architecture
 ### 4.2.1. Organization Systems
