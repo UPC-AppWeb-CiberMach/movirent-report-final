@@ -481,92 +481,143 @@ Estos nos ayudarán a describir de forma general nuestro segmento objetivo.
 
 ### 2.3.2. User Task Matrix
 
-En esta sección se presenta el user task matrix de los tres segmentos, con el fin de indentificar la frecuencia de las actividades realizadas por los usuarios, y de esta manera se
-refleja la importancia de determinadas tareas.
+Para lograr sus objetivos en la plataforma, este User Task Matrix muestra las tareas que realizan los User Persona de dos segmentos objetivos: el Owner (que publica y gestiona scooters para alquiler o venta) y el User (que busca alquilar o comprar un scooter). Es importante destacar que estas tareas son actividades que los usuarios deben realizar independientemente de si existe una solución digital para facilitarlas; no deben confundirse con funcionalidades de software.
 
 
 <table border="1px">
+    <thead>
+        <tr>
+            <th>Tarea / Funcionalidad</th>
+            <th>Owner - Frecuencia</th>
+            <th>Owner - Importancia</th>
+            <th>User - Frecuencia</th>
+            <th>User - Importancia</th>
+        </tr>
+    </thead>
     <tbody>
         <tr>
-            <td></td>
-            <td><strong>Owner</strong></td>
-            <td><strong>Owner</strong></td>
-            <td><strong>Client</strong></td>
-            <td><strong>Client</strong></td>
+            <td><strong>Publicar scooter</strong></td>
+            <td>Media</td>
+            <td>Alta</td>
+            <td>N/A</td>
+            <td>N/A</td>
         </tr>
         <tr>
-            <td><strong>Task</strong></td>
-            <td><strong>Frecuencia</strong></td>
-            <td><strong>Importancia</strong></td>
-            <td><strong>Frecuencia</strong></td>
-            <td><strong>Importancia</strong></td>
+            <td><strong>Editar detalles del scooter</strong></td>
+            <td>Media</td>
+            <td>Alta</td>
+            <td>N/A</td>
+            <td>N/A</td>
         </tr>
         <tr>
-            <td>Pública servicio en redes</td>
-            <td>varias veces</td>
-            <td>alta</td>
-            <td>-</td>
-            <td>-</td>
+            <td><strong>Gestión de inventario</strong></td>
+            <td>Alta</td>
+            <td>Alta</td>
+            <td>N/A</td>
+            <td>N/A</td>
         </tr>
         <tr>
-            <td>Realiza y recibe pagos mediante plataformas digitales</td>
-            <td>varias veces</td>
-            <td>alta</td>
-            <td>varias veces</td>
-            <td>alta</td>
+            <td><strong>Historial de transacciones</strong></td>
+            <td>Alta</td>
+            <td>Alta</td>
+            <td>Baja</td>
+            <td>Media</td>
         </tr>
         <tr>
-            <td>Comunicarse por whatsapp con la persona a la que ofreció el servicio</td>
-            <td>muchas veces</td>
-            <td>alta</td>
-            <td>-</td>
-            <td>-</td>
+            <td><strong>Notificaciones sobre estado de scooter</strong></td>
+            <td>Alta</td>
+            <td>Alta</td>
+            <td>Alta</td>
+            <td>Alta</td>
         </tr>
         <tr>
-            <td>Búsqueda de servicio en redes</td>
-            <td>-</td>
-            <td>-</td>
-            <td>rara vez</td>
-            <td>media</td>
+            <td><strong>Calificaciones y reseñas de scooters y Owners</strong></td>
+            <td>Media</td>
+            <td>Alta</td>
+            <td>Media</td>
+            <td>Alta</td>
         </tr>
         <tr>
-            <td>Salir mucho antes de casa para evitar el tráfico</td>
-            <td>varias veces</td>
-            <td>alta</td>
-            <td>varias veces</td>
-            <td>alta</td>
+            <td><strong>Consulta de disponibilidad de scooters</strong></td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>Alta</td>
+            <td>Alta</td>
         </tr>
         <tr>
-            <td>Llevar cuentas sobre gasto en pasajes en lo que va del mes</td>
-            <td>siempre</td>
-            <td>alta</td>
-            <td>siempre</td>
-            <td>alta</td>
+            <td><strong>Reservar un scooter</strong></td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>Media</td>
+            <td>Alta</td>
         </tr>
         <tr>
-            <td>Llevar registro de recorrido en vehículo</td>
-            <td>rara vez</td>
-            <td>media</td>
-            <td>varias veces</td>
-            <td>media</td>
+            <td><strong>Confirmar o rechazar reservas</strong></td>
+            <td>Media</td>
+            <td>Alta</td>
+            <td>N/A</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <td><strong>Pago y facturación</strong></td>
+            <td>Alta</td>
+            <td>Alta</td>
+            <td>Alta</td>
+            <td>Alta</td>
+        </tr>
+        <tr>
+            <td><strong>Centro de ayuda y asistencia</strong></td>
+            <td>Baja</td>
+            <td>Media</td>
+            <td>Baja</td>
+            <td>Media</td>
+        </tr>
+        <tr>
+            <td><strong>Administración de perfil y preferencias</strong></td>
+            <td>Baja</td>
+            <td>Media</td>
+            <td>Baja</td>
+            <td>Media</td>
+        </tr>
+        <tr>
+            <td><strong>Verificación de identidad y seguridad</strong></td>
+            <td>Baja</td>
+            <td>Alta</td>
+            <td>Baja</td>
+            <td>Alta</td>
         </tr>
     </tbody>
 </table>
 
+
 En base al User Task Matrix presentado, podemos destacar las siguientes tareas con mayor frecuencia e importancia para cada segmento de usuarios:
+
 ### Owner:
-* Comunicarse por WhatsApp con la persona a la que ofreció el servicio: Es muy frecuente y de alta importancia para coordinar detalles y mantener una comunicación fluida.
-* Llevar cuentas sobre gasto en pasajes: Es una tarea constante y de alta importancia para controlar sus gastos y optimizar sus recursos.
+*Gestión de inventario: Realizada con alta frecuencia y es de alta importancia, ya que los Owners deben mantener actualizada la disponibilidad y estado de sus scooters para maximizar las oportunidades de alquiler o venta.
+*Historial de transacciones: También tiene alta frecuencia e importancia porque permite a los Owners rastrear todas las actividades relacionadas con sus scooters.
+*Notificaciones sobre estado de scooter: Frecuencia alta, ya que los Owners necesitan estar al tanto de cambios en el estado de sus scooters para gestionar sus inventarios eficientemente.
+*Pago y facturación: Crítica para la gestión financiera y administrativa de los Owners.
 
 ### Client:
-* Llevar cuentas sobre gasto en pasajes: Es una tarea constante y de alta importancia para controlar sus gastos y optimizar sus recursos.
-* Salir mucho antes de casa para evitar el tráfico: Es frecuente y de alta importancia, ya que el tráfico puede afectar su tiempo y generar estrés.
+
+*Consulta de disponibilidad de scooters: Tarea realizada con alta frecuencia y de alta importancia, ya que los usuarios necesitan encontrar scooters disponibles rápidamente.
+*Notificaciones sobre estado de scooter: Alta frecuencia y alta importancia para estar informados de cambios o confirmaciones en sus reservas.
+*Pago y facturación: Fundamental para completar el proceso de alquiler o compra de scooters.
 
 ### Principales diferencias y coincidencias entre los User Personas:
 
-* Coincidencias: 
-* Diferencias: 
+**Diferencias entre los Segmentos**
 
+Owner se enfoca más en tareas administrativas y de gestión de scooters, como gestionar inventarios y verificar historial de transacciones, que son cruciales para mantener el negocio operativo y eficiente.
+
+User se centra más en tareas de búsqueda y reserva, como consultar disponibilidad de scooters y realizar reservas, reflejando su rol como consumidores del servicio.
+
+
+**Coincidencias entre los Segmentos**
+
+Ambos segmentos consideran que las notificaciones y pago y facturación son tareas de alta importancia y frecuencia, ya que estas actividades son esenciales para la operatividad tanto desde el lado del ofertante (Owner) como del demandante (User).
+
+Ambos también asignan importancia a la seguridad y verificación de identidad, asegurando confianza y fiabilidad en las transacciones.
 
 ### 2.3.3. User Journey Mapping
 
