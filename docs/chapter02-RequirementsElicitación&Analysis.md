@@ -474,10 +474,10 @@ Los user persona que se muestran a continuación, fueron realizados a partir de 
 Estos nos ayudarán a describir de forma general nuestro segmento objetivo.
 
 **Segmento 1 - Owner:**
-<img src="..//assets/chapter-02/user-persona/userpersona1.png" alt="Imagen User Persona 1">
+<img src="..//assets/chapter-02/user-persona/MarcosRivera.png" alt="Imagen User Persona 1">
 
 **Segmento 2 - Client:**
-<img src="..//assets/chapter-02/user-persona/userpersona2.png" alt="Imagen User Persona 2">
+<img src="..//assets/chapter-02/user-persona/JuanLópez.png" alt="Imagen User Persona 2">
 
 ### 2.3.2. User Task Matrix
 
