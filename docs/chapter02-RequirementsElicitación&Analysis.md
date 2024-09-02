@@ -672,11 +672,11 @@ objetivos.
         </tr>
         <tr>
             <td>Owner</td>
-            <td>Cualquier persona que utiliza la plataforma para poner en alquiler su vehículo</td>
+            <td>Cualquier persona que utiliza la plataforma para poner en alquiler su scooter</td>
         </tr>
         <tr>
             <td>Client</td>
-            <td>Cualquier persona que utiliza la plataforma para alquilar un vehículo</td>
+            <td>Cualquier persona que utiliza la plataforma para alquilar un scooter</td>
         </tr>
         <tr>
             <td>Get Started</td>
