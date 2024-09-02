@@ -354,12 +354,23 @@ Para el despliegue de la landing page se utilizó github pages, a continuación 
 
 **Pasos**
 
-- Nos dirigimos a los settings del repositorio de la landing page.
-  ![Landing Page](../assets/chapter-05/Software-Deployment-Evidence/)
-- Nos dirigimos al apartado de GitHub Pages. 
+- Terminado de realizar los cambios y unirlos en la rama main.
+![Landing Page](../assets/chapter-05/Software-Deployment-Evidence/DeployN1.jpeg)
 
-- Seleccionamos la rama Main para el despliegue.
+- Nos dirigimos a los settings del repositorio y seleccionamos el apartado de pages .
+![Landing Page](../assets/chapter-05/Software-Deployment-Evidence/DeployN2.jpeg)
 
+- Seleccionamos la rama main para ejecutar el deploy y damos a guardar
+![Landing Page](../assets/chapter-05/Software-Deployment-Evidence/DeployN3.jpeg)
+![Landing Page](../assets/chapter-05/Software-Deployment-Evidence/DeployN4.jpeg)
+
+- Ingresamos el dominio de la landing page y damos a guardar.
+![Landing Page](../assets/chapter-05/Software-Deployment-Evidence/DeployN5.jpeg)
+
+- Esperamos a que termine el despliegue y accedemos al enlace generado. 
+![Landing Page](../assets/chapter-05/Software-Deployment-Evidence/DeployN6.jpeg)
+![Landing Page](../assets/chapter-05/Software-Deployment-Evidence/DeployN7.jpeg)
+![Landing Page](../assets/chapter-05/Software-Deployment-Evidence/DeployN8.jpeg)
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
 
