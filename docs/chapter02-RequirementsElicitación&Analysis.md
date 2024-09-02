@@ -343,6 +343,23 @@ Datos del entrevistado:
 <img src="../assets/chapter-02/interviews/EntrevistaBrissa.png" alt="Imagen Entrevista 1">
 
 **Informe del resumen de la entrevista:**
+Brisa, una joven de 19 años, residente en Rímac, estudiante de Administración de Empresas. Utiliza
+principalmente una laptop y un iPhone como dispositivos personales. Su navegador web preferido es Safari,
+ya que es el que viene con su celular. Para informarse, usa Instagram, y para entretenimiento, Prime
+Video. Su medio de transporte más utilizado es el carro, dedicando aproximadamente 2 horas diarias a
+desplazarse. Sus principales preocupaciones con el transporte actual son la inseguridad y no llegar a
+tiempo. Gasta alrededor de 50 a 60 soles mensuales en transporte convencional, y se siente insatisfecha
+con el servicio que recibe.
+
+Brisa considera una buena opción contar con servicios de vehículos alternativos. Los aspectos más
+importantes para ella al elegir un servicio de alquiler de vehículos son la accesibilidad, la disponibilidad cercana, la facilidad de comunicación con el propietario, la opción de pagar con tarjeta, y que el vehículo esté en buen estado. Estaría dispuesta a pagar una suscripción mensual por este servicio.
+
+Cree que este servicio podría ayudarla a reducir su tiempo en el tráfico, aunque no lo ve como una opción
+más económica. Espera usar el servicio con mucha frecuencia y considera muy importante la disponibilidad
+de vehículos en distintos puntos de la ciudad. Le gustaría que la aplicación proporcionara información
+detallada sobre el estado del vehículo, su historial, mantenimiento, y características específicas. La
+entrevista concluyó con agradecimientos mutuos y despedida.
+
 
 ### Entrevista 2:
 
