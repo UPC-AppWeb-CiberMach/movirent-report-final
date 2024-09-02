@@ -272,8 +272,8 @@ Datos del entrevistado:
 * Apellidos: Beltran Burgos
 * Edad: 23
 * Distrito de residencia: San Borja
-* Enlace a la entrevista: *UNIR ENTREVISTA CON LAS DEMAS*
-* Duración de la entrevista: 5:55
+* Enlace a la entrevista: [Ver Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202022365_upc_edu_pe/EZSdPhz59ytBr7yjIHvAProBDVrmA4ru6q7oZv2RxS74Ww?e=a118uE&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+* Duración de la entrevista: 5:51
 
 <img src="../assets/chapter-02/interviews/entrevista-David.png" alt="Entrevista David">
 
@@ -290,8 +290,7 @@ Sugiere que el límite de tiempo o distancia para el alquiler debería restringi
 En caso de daños durante el uso del vehículo, espera una compensación por parte de la empresa.
 Valora la posibilidad de visualizar la identidad y el historial de rentas de los clientes.
 Recomienda medidas de seguridad como el uso de casco y respetar las normas de tránsito.
-No tiene seguro vehicular y estaría interesado en que se le ofrezca uno. Prefiere entregar los
-vehículos en módulos con supervisión. Inicialmente, espera pocas reservas, pero prevé un aumento
+Prefiere entregar los vehículos en módulos con supervisión. Inicialmente, espera pocas reservas, pero prevé un aumento
 con el tiempo. La entrevista concluyó con la posibilidad de requerir feedback en el futuro y
 agradecimientos mutuos.
 
