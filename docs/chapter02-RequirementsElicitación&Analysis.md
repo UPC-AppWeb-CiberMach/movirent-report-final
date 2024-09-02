@@ -696,11 +696,6 @@ objetivos.
             <td>Mensaje automatizado enviado para informar sobre eventos importantes en la plataforma.</td>
         </tr>
         <tr>
-            <td>Insurance</td>
-            <td>Seguro</td>
-            <td>Protección financiera opcional que cubre daños o robos del scooter durante el alquiler.</td>
-        </tr>
-        <tr>
             <td>Cancellation Policy</td>
             <td>Política de Cancelación</td>
             <td>Reglas que definen las condiciones para cancelar una reserva y los reembolsos asociados.</td>
