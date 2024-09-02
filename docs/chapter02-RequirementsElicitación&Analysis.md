@@ -340,7 +340,7 @@ Datos del entrevistado:
 * Enlace a la entrevista: [Ver Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213222_upc_edu_pe/EYvfM5T1ScdBpoM4ZDAvlQgBLmbxD7DTIk_2O02DixCJBw?e=RxA0RV)
 * Duración de la entrevista: 6:05
 
-<img src="..//assets/chapter-02/EntrevistaBrissa.png" alt="Imagen Entrevista 1">
+<img src="../assets/chapter-02/interviews/EntrevistaBrissa.png" alt="Imagen Entrevista 1">
 
 **Informe del resumen de la entrevista:**
 
@@ -358,7 +358,7 @@ Datos del entrevistado:
 * Enlace a la entrevista: [Ver Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b778_upc_edu_pe/ESrNi2J7CPxCmG1crP6I85gBDxv_9VtZJzbnSfIrn9WDqA?e=5e70nZ)
 * Duración de la entrevista: 7:58
 
-<img src="..//assets/chapter-02/Entrevista Maryori.png" alt="Imagen Entrevista 1">
+<img src="../assets/chapter-02/interviews/Entrevista-Maryori.png" alt="Imagen Entrevista 1">
 
 **Informe del resumen de la entrevista:**
 Maryori Atanacio Cruces, una joven de 23 años, residente de San Juan de Lurigancho. Actualmente es
