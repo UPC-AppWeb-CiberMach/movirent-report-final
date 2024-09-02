@@ -335,8 +335,32 @@ Descripción:
 Estas estrategias de prueba garantizaron la funcionalidad, la estética y la adaptabilidad de la landing page en diversos dispositivos y navegadores, contribuyendo así a una experiencia de usuario excepcional. 
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
+
+Durante el primer Sprint se logró implementar la landing page con las secciones funcionales, el footer y el diseño responsivo. A continuación se muestra la landing page implementada tanto la version web para escritorio como la version mobile:
+
+![Landing Page](../assets/chapter-05/Execution-Evidence/Landing01.png)
+![Landing Page](../assets/chapter-05/Execution-Evidence/Landing02.png)
+![Landing Page](../assets/chapter-05/Execution-Evidence/Landing03.png)
+![Landing Page](../assets/chapter-05/Execution-Evidence/Landing04.png)
+![Landing Page](../assets/chapter-05/Execution-Evidence/Landing05.png)
+![Landing Page](../assets/chapter-05/Execution-Evidence/Landing06.png)
+
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
+**No aplica para esta entrega**
+
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
+Para el despliegue de la landing page se utilizó github pages, a continuación se muestra el link de la landing page desplegada junto a los pasos realizados para publicarla:
+[github.com/UPC-AppWeb-CiberMach](https://github.com/orgs/UPC-AppWeb-CiberMach/repositories)
+
+**Pasos**
+
+- Nos dirigimos a los settings del repositorio de la landing page.
+
+- Nos dirigimos al apartado de GitHub Pages. 
+
+- Seleccionamos la rama Main para el despliegue.
+
+
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
 
 ---
