@@ -399,8 +399,29 @@ Jeremy Escudero un joven de 19 años, residente del distrito del Rímac. Actualm
 
 **Segmento 1: Owner**
 
-De las entrevistas se obtuvo que el 66.66% de los participantes prefiere que los pagos se realicen a través de plataformas digitales. Asimismo, todos indican que gastan mas de 200 soles mensuales en transporte.
-Solo el 33.33% cuenta con experiencia en el alquiler de vehículos. Por último, todos los participantes consideran  importante el uso de casco y la implementación de un seguro para daños y desgaste.
+Dado que la mayoría de los entrevistados viven en áreas céntricas de Lima, hay una demanda potencial en estas zonas, donde la infraestructura y el tránsito pueden favorecer el uso de scooters como alternativa de transporte
+![Imagen Owner](../assets/chapter-02/interview-analysis/Owners/Analisis-Entrevistas-01.png)
+
+Con un 66.7% de usuarios en el rango de 18-23 años, el negocio debe enfocarse en estrategias de marketing dirigidas a un público joven, que está más abierto a adoptar nuevas tecnologías y servicios de movilidad. Asimismo como trabajan en el sector de negocios, es probable que estos usuarios busquen formas de rentabilizar sus activos, como scooters, de manera eficiente. Esto sugiere que un enfoque en la facilidad de gestión y en la maximización de ingresos podría atraer a estos profesionales a usar la plataforma para rentar sus vehículos a otros.
+![Imagen Owner](../assets/chapter-02/interview-analysis/Owners/Analisis-Entrevistas-02.png)
+![Imagen Owner](../assets/chapter-02/interview-analysis/Owners/Analisis-Entrevistas-03.png)
+
+La preferencia por iOS y Windows 10 entre el 66.7% de los encuestados indica que la aplicación de alquiler de scooters debe ser optimizada para estos sistemas operativos para mejorar la experiencia del usuario. Asimismo, Con el 66.7% prefiriendo Apple y el 100% Lenovo, es importante que el diseño y la calidad del servicio reflejen los altos estándares asociados con estas marcas, para alinearse con las expectativas de los usuarios.
+![Imagen Owner](../assets/chapter-02/interview-analysis/Owners/Analisis-Entrevistas-04.png)
+
+Dado que el 66% prefiere Instagram, esta plataforma debería ser un canal clave para la promoción del servicio de alquiler de scooters. Por otro lado, con un 66.7% que no ha rentado scooters previamente, existe un mercado significativo de potenciales nuevos usuarios que podrían beneficiarse de promociones iniciales
+![Imagen Owner](../assets/chapter-02/interview-analysis/Owners/Analisis-Entrevistas-05.png)
+
+El 66% de los encuestados prefiere una tarifa basada en el tiempo de uso, lo que sugiere que este modelo de negocio podría ser más atractivo. Tambien, con el 100% de los usuarios queriendo reglas de uso claras, es crucial establecer normas y condiciones estrictas para garantizar la seguridad y la confianza
+![Imagen Owner](../assets/chapter-02/interview-analysis/Owners/Analisis-Entrevistas-06.png)
+
+
+El hecho de que el 100% de los encuestados calificaran su interés en usar la aplicación con un 7 o más indica una alta disposición a adoptar el servicio
+![Imagen Owner](../assets/chapter-02/interview-analysis/Owners/Analisis-Entrevistas-07.png)
+
+Finalmente la preferencia del 100% por ver la identidad y el historial de reservas de otros usuarios subraya la importancia de integrar funciones de transparencia y confianza en la aplicación para aumentar la seguridad percibida y la satisfacción del usuario.
+![Imagen Owner](../assets/chapter-02/interview-analysis/Owners/Analisis-Entrevistas-08.png)
+
 
 **Segmento 2: Cliente**
 
