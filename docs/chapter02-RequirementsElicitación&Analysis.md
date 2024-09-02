@@ -664,39 +664,115 @@ objetivos.
 
 ## 2.4. Ubiquitous Language.
 
-<table border="1px">
+<table border="1">
+    <thead>
+        <tr>
+            <th>Término (Inglés)</th>
+            <th>Término (Español)</th>
+            <th>Definición</th>
+        </tr>
+    </thead>
     <tbody>
         <tr>
-            <td>Término</td>
-            <td>Definición</td>
-        </tr>
-        <tr>
             <td>Owner</td>
-            <td>Cualquier persona que utiliza la plataforma para poner en alquiler su scooter</td>
+            <td>Propietario</td>
+            <td>Persona o entidad que posee scooters y los ofrece para alquiler o venta en la plataforma.</td>
         </tr>
         <tr>
-            <td>Client</td>
-            <td>Cualquier persona que utiliza la plataforma para alquilar un scooter</td>
+            <td>User</td>
+            <td>Usuario</td>
+            <td>Persona que utiliza la plataforma para alquilar o comprar scooters.</td>
         </tr>
         <tr>
-            <td>Get Started</td>
-            <td>Comenzar a utilizar el servicio</td>
+            <td>Scooter</td>
+            <td>Scooter</td>
+            <td>Vehículo de movilidad personal de dos ruedas impulsado por electricidad, disponible para alquiler o venta.</td>
         </tr>
         <tr>
-            <td>My Scooters</td>
-            <td>Lista de scooters puestos en alquiler por un Owner</td>
+            <td>Listing</td>
+            <td>Publicación</td>
+            <td>Anuncio creado por un Owner para ofrecer un scooter en alquiler o venta.</td>
         </tr>
         <tr>
-            <td>Benefits</td>
-            <td>Beneficios adicionales que obtienes por alquilar</td>
+            <td>Booking</td>
+            <td>Reserva</td>
+            <td>Acción de alquilar un scooter por un periodo de tiempo específico.</td>
         </tr>
         <tr>
-            <td>Subscription plan</td>
-            <td>Modelo de pago que permiten a los usuarios acceder a los servicios ofrecidos</td>
+            <td>Transaction</td>
+            <td>Transacción</td>
+            <td>Proceso de intercambio monetario entre un User y un Owner por la compra o alquiler de un scooter.</td>
         </tr>
         <tr>
-            <td>Service history</td>
-            <td>Registro de todas las solicitudes de servicio blindadas y ofrecidas por parte de los usuarios</td>
+            <td>Inventory Management</td>
+            <td>Gestión de Inventario</td>
+            <td>Procesos que un Owner utiliza para administrar sus scooters disponibles en la plataforma.</td>
+        </tr>
+        <tr>
+            <td>Rating</td>
+            <td>Calificación</td>
+            <td>Valoración numérica proporcionada por un User sobre un scooter o servicio.</td>
+        </tr>
+        <tr>
+            <td>Review</td>
+            <td>Reseña</td>
+            <td>Comentario descriptivo proporcionado por un User acerca de su experiencia con un scooter o Owner.</td>
+        </tr>
+        <tr>
+            <td>Availability</td>
+            <td>Disponibilidad</td>
+            <td>Estado de un scooter que indica si está libre para ser reservado o no.</td>
+        </tr>
+        <tr>
+            <td>Notification</td>
+            <td>Notificación</td>
+            <td>Mensaje automatizado enviado para informar sobre eventos importantes en la plataforma.</td>
+        </tr>
+        <tr>
+            <td>Insurance</td>
+            <td>Seguro</td>
+            <td>Protección financiera opcional que cubre daños o robos del scooter durante el alquiler.</td>
+        </tr>
+        <tr>
+            <td>Cancellation Policy</td>
+            <td>Política de Cancelación</td>
+            <td>Reglas que definen las condiciones para cancelar una reserva y los reembolsos asociados.</td>
+        </tr>
+        <tr>
+            <td>Customer Support</td>
+            <td>Soporte al Cliente</td>
+            <td>Servicio de asistencia para resolver problemas o responder preguntas de Users y Owners.</td>
+        </tr>
+        <tr>
+            <td>Terms of Service</td>
+            <td>Términos del Servicio</td>
+            <td>Reglas y condiciones que rigen el uso de la plataforma y las responsabilidades de los Users y Owners.</td>
+        </tr>
+        <tr>
+            <td>Fleet Management</td>
+            <td>Gestión de Flota</td>
+            <td>Administración de múltiples scooters por un Owner para optimizar su uso y rendimiento.</td>
+        </tr>
+        <tr>
+            <td>User Profile</td>
+            <td>Perfil del Usuario</td>
+            <td>Información personal y preferencias de un User almacenadas en la plataforma.</td>
+        </tr>
+        <tr>
+            <td>Trust & Safety</td>
+            <td>Confianza y Seguridad</td>
+            <td>Estrategias y políticas para garantizar un ambiente seguro y de confianza en la plataforma.</td>
+        </tr>
+        <tr>
+            <td>Return Policy</td>
+            <td>Política de Devolución</td>
+            <td>Normas que especifican las condiciones para devolver un scooter después de la compra o alquiler.</td>
+        </tr>
+        <tr>
+            <td>Payment Gateway</td>
+            <td>Pasarela de Pago</td>
+            <td>Servicio que facilita el procesamiento de pagos en línea entre Users y Owners.</td>
         </tr>
     </tbody>
 </table>
+
