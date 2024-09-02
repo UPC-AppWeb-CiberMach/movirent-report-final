@@ -350,7 +350,7 @@ Durante el primer Sprint se logró implementar la landing page con las secciones
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 Para el despliegue de la landing page se utilizó github pages, a continuación se muestra el link de la landing page desplegada junto a los pasos realizados para publicarla:
-[github.com/UPC-AppWeb-CiberMach](https://github.com/orgs/UPC-AppWeb-CiberMach/repositories)
+[Link](https://upc-appweb-cibermach.github.io/Landing-Page/)
 
 **Pasos**
 
