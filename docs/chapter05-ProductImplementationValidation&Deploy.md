@@ -355,7 +355,7 @@ Para el despliegue de la landing page se utilizó github pages, a continuación 
 **Pasos**
 
 - Nos dirigimos a los settings del repositorio de la landing page.
-
+  ![Landing Page](../assets/chapter-05/Software-Deployment-Evidence/)
 - Nos dirigimos al apartado de GitHub Pages. 
 
 - Seleccionamos la rama Main para el despliegue.
