@@ -32,9 +32,19 @@ Usaremos un tono  de comunicación entusiasta y amigable en toda la web, puesto 
 
 ### 4.1.2. Web Style Guidelines 
 
-MoviRent está diseñado para proporcionar la mejor experiencia en todo el proceso de alquilar y dar en alquiler un scooter eléctrico desde cualquier dispositivio. Como patrón de diseño decidimos que usaremos el patrón F, el cual permitirá que los usuarios tengan una lectura de izquierda a derecha y su concentración este mayormente en el lado izquierdo de la pantalla.
+Paleta de colores: Asignamos al color verde y lila como los colores más representativos de la web a demás del color blanco para mostrar una disminución en la recarga de colores para que la atención de los usuarios vaya hacia los servicios y no se desvíe a otra parte menos relevante.
 
-Al ser nuestros usuarios adultos de diversas edades pusimos mayor énfasis en crear un entorno intuitivo y sencillo de usar hasta para personas sin muchos conocimientos en el uso de aplicaciones web.
+Diseño Responsivo: La aplicación debe ser compatible con diferentes dispositivos y tamaños de pantalla para una experiencia de usuario consistente en todos los dispositivos.
+
+Navegación Intuitiva: Estructura de navegación clara y fácil de usar que permita a los usuarios encontrar rápidamente la información que están buscando, se prioriza la simplicidad.
+
+Carga Rápida: Optimización del rendimiento de la aplicación para tiempos de carga rápidos, lo que incluye la optimización de imágenes y el uso de técnicas de almacenamiento en caché así como los scripts cargados al inicio de la página.
+
+Diseño de Tarjetas: Diseños de tarjetas para mostrar la información de manera visualmente atractiva y organizada, especialmente para la presentación de destinos y detalles de viajes.
+
+Botones de la web: Los botones utilizados para la web serán botones rectangulares con esquinas circulares, ademas de tener botones en forma de texto en la navbar para una mejor navegación en la aplicación.
+
+FALTA IMAGEN DE LOS BOTONES
 
 ## 4.2. Information Architecture
 ### 4.2.1. Organization Systems
@@ -74,7 +84,7 @@ organizaremos se visualizarán la lista de Scooter para los User mientras.
 
 Para el caso de organización visual utilizaremos el sistema jerárquico, lo que nos permitirá resaltar los componentes 
 a los que deseamos que el usuario preste mayor atención. Esto dirigirá la atención del usuario a componentes de 
-suma importancia como son: "Inicio", "Sobre Nosotros", "Servicios", "Planes", "Team" y "Empieza Ya!".
+suma importancia.
 Para el proceso de reservas de scooters haremos uso de la organización secuencial:
 - Solicitud de reserva (clientes):
   - Búsqueda de scooter.
@@ -142,12 +152,10 @@ resaltar y diferenciar las etiquetas y conjuntos de información en mi sitio web
 coherencia visual en todo el sitio web, se mantendrá un sistema de etiquetado consistente y se evitará el uso de términos 
 técnicos o jerga que podría ser confuso para los usuarios.
 
-En el parte superior derecho del home page contando con tres botones: 
-- Sobre Nosotros: Muestra quiénes somos, nuestro propósito y equipo.
-- Servicios: Muestra lo que ofrecemos al usuario para mejorar financieramente.
-- Planes: Muestra el plan que quiere adquirir lo cual le llevará a registrarse.
-- Team: Muestra el equipo detrás de la aplicación.
-- Empieza Ya!: Muestra el botón para redirigir al usuario a la aplicación web.
+En el parte superior derecho del home page de la aplicación web contando con tres botones: 
+- Mi perfil: Muestrael perfil del usuario.
+- Suscripción: Muestra las suscripciones disponibles o la suscripción que el usuario ha comprado.
+- Scooters: Muestra tanto los scooters en alquiler como los scooters que el usuario ha puesto en alquiler.
 
 ### 4.2.3. SEO Tags and Meta Tags
 ### 4.2.4. Searching Systems
@@ -159,14 +167,11 @@ Además, se incluirán filtros para refinar las búsquedas de la siguiente maner
 - Disponibilidad de Ubicación: Este filtro permitirá a los usuarios buscar vehículos disponibles en ubicaciones específicas, lo que será útil para aquellos que deseen encontrar opciones cercanas a ellos.
 
 Con la implementación de estos sistemas de búsqueda y filtros, esperamos mejorar significativamente la experiencia de nuestros usuarios al encontrar el vehículo perfecto para sus necesidades.
+FALTA FOTO DEL FILTRO
 
 ### 4.2.5. Navigation Systems
-Como sistema de navegación optamos emplear una barra de menú horizontal que guiará al usuario por las diferentes secciones con títulos claves y estáticos, esto facilitará al usuario a tener todas las herramientas a la mano y así disfrutar de una mejor navegación. Nuestra barra de menú contará con las siguientes secciones:
-- Sobre Nosotros: El usuario podrá visualizar a qué se dedica nuestra Startup, su misión y visión.
-- Servicios: El usuario podrá visualizar los servicios que estamos ofreciendo, si en caso quiera ser un Owner o un Client.
-- Planes: Aquí podrá obtener toda la información de los planes que la aplicación le ofrece.
-- Team: El usuario podrá visualizar al equipo detrás de esta aplicación web.
-- Contáctanos: Donde los usuarios a través de un formulario podrán ponerse en contacto con nosotros.
+Como sistema de navegación en pantallas desktop optamos emplear una barra de menú horizontal que guiará al usuario por las diferentes secciones con títulos claves y estáticos, esto facilitará al usuario a tener todas las herramientas a la mano y así disfrutar de una mejor navegación. Mientras que en dispositivos móviles se optó por emplear una barra de navegación desplegable.
+FOTO DE LA BARRA DE NAVEGACION
   
 ## 4.3. Landing Page UI Design
 ### 4.3.1. Landing Page Wireframe
