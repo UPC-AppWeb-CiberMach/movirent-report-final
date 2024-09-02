@@ -361,74 +361,20 @@ Datos del entrevistado:
 <img src="..//assets/chapter-02/Entrevista Maryori.png" alt="Imagen Entrevista 1">
 
 **Informe del resumen de la entrevista:**
+Maryori Atanacio Cruces, una joven de 23 años, residente de San Juan de Lurigancho. Actualmente es
+estudiante. Utiliza una computadora de escritorio y un dispositivo móvil Xiaomi. Su navegador web
+preferido es Google Chrome debido a su familiaridad con el método de búsqueda. 
+Maryori usa con mayor frecuencia Facebook como medio informativo y de 
+entretenimiento. Se desplaza mayormente en bus, dedicando alrededor de 2 horas y media diarias para 
+llegar a la universidad, gastando un aproximado de 100 soles al mes en transporte.
 
-**- ¿Cual es tu nombre? ¿Cuántos años tienes? ¿Dónde vives actualmente? ¿A qué te dedicas?**
+Considera positivo contar con un servicio de vehículos alternativos como bicicletas o scooters, y
+menciona que es fan de lo eléctrico, prefiriendo vehículos cómodos como su patineta eléctrica. Está dispuesta a pagar una suscripción mensual. Cree que este servicio podría ayudarla a
+reducir costos y tiempo en el tráfico, y lo usaría diariamente para ir a la universidad. La
+disponibilidad de vehículos en distintos puntos de la ciudad es importante para ella, sugiriendo además
+que la aplicación podría facilitar el pago mediante YAPE y ofrecer promociones a través de esa plataforma.
 
-Mi nombre es Maryori Atanacio Cruces y tengo 23 años, vivo en San Juan de Lurigancho y actualmente soy estudiante.
-
-**- ¿Qué dispositivos de escritorio usas mayormente? ¿Y de móvil? ¿Por que? ¿Que marca es?**
-
-Uso una computadora y un dispositivo móvil Xiaomi porque me gusta su accesibilidad y e interfaz.
-
-**- ¿Que navegador web prefiere utilizar en su dia a dia y por qué?**
-
-Uso mucho el navegador de Google Chrome porque me acostumbre a su método de búsqueda.
-
-**- ¿Que medios informativos usa con mayor frecuencia? ¿Y de entretenimiento?**
-
-Uso con mayor frecuencia la red Facebook.
-
-**- ¿Qué medios de transporte utilizas con mayor frecuencia?**
-
-El medio de transporte que uso con mayor frecuencia es el bus.
-
-**- ¿Cuánto tiempo dedicas a desplazarte en el transporte diariamente?¿Qué tipo de transporte es?**
-
-Para ir a la universidad diariamente me toma alrededor de 2 horas y media el poder desplazarme.
-
-**- ¿Cuáles son los mayores desafíos que enfrentas con tu transporte actual?**
-
-El mayor desafío que enfrento sería el trato de los cobradores de bus que no suelen ser muy gratos al momento de atenderte.
-
-**- ¿Cuánto dinero aproximadamente gasta al mes en transporte convencional?¿Qué tan satisfecho estás con el servicio que este te ofrece?**
-
-Actualmente por semana gasto un aproximado de 30 soles que por mes puede llegar a ser más de 100 soles porque los cobradores no quieren cumplir con el medio pasaje universitario.
-
-**- ¿Qué te parecería contar con un servicio de vehículos alternativos como las bicicletas o scooters?**
-
-Me parecería muy bien, es más, eh pensando que en un futuro es lo que más se utilizaría para el transporte.
-
-**- ¿Qué tipo de vehículos preferirías alquilar (bicicletas, scooters, patinetas eléctricas, etc.)?**
-
-Soy fan de lo eléctrico, tengo una patineta eléctrica porque es muy cómoda de usar así que alquilaría cualquier vehículo que sea cómodo.
-
-**- ¿Qué aspectos consideras más importantes al elegir un servicio de alquiler de vehículos?**
-
-Podría ser la atención al adquirir el servicio, me gustaría que fuera personalizada como el mantenimiento por ejemplo.
-
-**- ¿Estarías dispuesto(a) a pagar una suscripción mensual por este servicio?**
-
-Sí, me vendría bien una suscripción por el servicio.
-
-**- ¿Qué te parece la idea de incluir el mantenimiento del vehículo en la suscripción?**
-
-Me parecería genial porque sería un buen plus a la suscripción y algo que pueda retener a los clientes.
-
-**- ¿Crees que este servicio podría ayudarte a reducir tus costos mensuales de transporte y el tiempo perdido en el tráfico?**
-
-Claro, porque podría usar vías alternas a las pistas para poder evitar el tráfico y reducir costos.
-
-**- ¿Con qué frecuencia crees que utilizarías este servicio de alquiler de vehículos?**
-
-Lo usaría diariamente porque voy a la universidad muy seguido y me facilitaría el transportarme.
-
-**- ¿Qué tan importante es para ti la disponibilidad de vehículos en distintos puntos de la ciudad?**
-
-Cuando fui a otro distrito que es Miraflores, me pareció bonito ver que por unos cuantos soles puedas tener un vehículo para poder desplazarte. Así que si lo incorporarían en mi distrito sería genial.
-
-**- ¿Hay alguna mejora o característica adicional que te gustaría ver en la aplicación en el futuro?**
-
-Bueno, que esté asociado a un método de pago por yape, porque facilitaría los pagos de alquiler y que puedan incluir promociones mediante esa plataforma de pago.
+La entrevista concluyó con la posibilidad de mejoras en la aplicación y agradecimientos mutuos.
 
 #### Entrevista 3:
 
@@ -447,6 +393,7 @@ Datos del entrevistado:
 <img src="..//assets/chapter-02/Entrevista Cliente.png" alt="Imagen Entrevista 1">
 
 **Informe del resumen de la entrevista:**
+
 Jeremy Escudero un joven de 19 años, residente del distrito del Rímac. Actualmente trabaja y estudia. Estudia en la Universidad Nacional Federico Villarreal en la carrera de contabilidad. El navegador que usa con mayor frecuencia es google. Su canal informativo son los noticieros y de entretenimiento los videojuegos. Jeremy es un joven que desea alquilar un scooter para llegar a sus destinos de manera rápida. Considera que las tarifas de los buses es accesible pero se le hace incomodo por la cantidad de gente. Le gustaria alquilar un scooter que sea menor presupuesto de lo que gasta al mes en los buses.
 ### 2.2.3 Análisis de entrevistas.
 
