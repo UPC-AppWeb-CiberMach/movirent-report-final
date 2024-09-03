@@ -242,7 +242,7 @@ Como sistema de navegación en pantallas desktop optamos emplear una barra de me
 			<td>Date</td>
 		</tr>
 		<tr>
-			<td rowspan="3">Calificación</td>
+			<td rowspan="3">Calificacion</td>
 			<td>id: Es el identificador de cada calificación brindada por los usuarios</td>
 			<td>Int</td>
 		</tr>
@@ -255,55 +255,55 @@ Como sistema de navegación en pantallas desktop optamos emplear una barra de me
 			<td>String</td>
 		</tr>
 		<tr>
-			<td rowspan="4"></td>
-			<td></td>
-			<td></td>
+			<td rowspan="4">Plan</td>
+			<td>id: Es el identificador de cada plan de suscripción</td>
+			<td>Int</td>
 		</tr>
 		<tr>
-			<td></td>
-			<td></td>
+			<td>precio: Muestra los precios de cada plan de suscripción</td>
+			<td>Double</td>
 		</tr>
 		<tr>
-			<td></td>
-			<td></td>
+			<td>beneficios: Brinda la información de los beneficios que contiene cada plan</td>
+			<td>String</td>
 		</tr>
 		<tr>
-			<td></td>
-			<td></td>
+			<td>cancelarSuscripcion(): Permitirá a los usuarios cancelar el plan de suscripción cuando lo deseen</td>
+			<td>Void</td>
 		</tr>
 		<tr>
-			<td rowspan="4"></td>
-			<td></td>
-			<td></td>
+			<td rowspan="4">Reserva</td>
+			<td>id: Identificador de cada reserva realizada por el usuario</td>
+			<td>Int</td>
 		</tr>
 		<tr>
-			<td></td>
-			<td></td>
+			<td>solicitarReserva(): Permitirá a los usuarios el poder realizar una reserva por un vehículo</td>
+			<td>Void</td>
 		</tr>
 		<tr>
-			<td></td>
-			<td></td>
+			<td>estado: Mostrará al usuario si la reserva fue realizada exitosamente</td>
+			<td>String</td>
 		</tr>
 		<tr>
-			<td></td>
-			<td></td>
+			<td>devolverScooter(): Permitirá al usuario poder devolver un vehículo al finalizar un alquiler</td>
+			<td>Void</td>
 		</tr>
 		<tr>
-			<td rowspan="4"></td>
-			<td></td>
-			<td></td>
+			<td rowspan="4">Cliente</td>
+			<td>buscarScooters(): Mostrará a los usuarios una lista de vehículos con detalles técnicos específicos y precios de alquiler</td>
+			<td>Lista</td>
 		</tr>
 		<tr>
-			<td></td>
-			<td></td>
+			<td>alquilarScooter: Permitirá a los usuarios el poder alquilar un vehículo brindando algunos datos</td>
+			<td>Void</td>
 		</tr>
 		<tr>
-			<td></td>
-			<td></td>
+			<td>calificarScooter(): El usuario podrá dejar calificaciones para cada vehículo que haya utilizado</td>
+			<td>Void</td>
 		</tr>
 		<tr>
-			<td></td>
-			<td></td>
+			<td>visualizarHistorial(): El usuario podrá visualizar su historial de alquiler</td>
+			<td>Void</td>
 		</tr>
 		<tr>
 			<td rowspan="5">Usuario</td>
@@ -327,33 +327,33 @@ Como sistema de navegación en pantallas desktop optamos emplear una barra de me
 			<td>String</td>
 		</tr>
 		<tr>
-			<td rowspan="7"></td>
-			<td></td>
-			<td></td>
+			<td rowspan="7">Vehiculo</td>
+			<td>id: Identificador para cada vehículo añadido al sistema</td>
+			<td>Int</td>
 		</tr>
 		<tr>
-			<td></td>
-			<td></td>
+			<td>tipoVehiculo: Menciona el tipo de vehículo añadido al sistema</td>
+			<td>String</td>
 		</tr>
 		<tr>
-			<td></td>
-			<td></td>
+			<td>marca: Es la marca de fabricante que tendrá cada tipo de vehículo</td>
+			<td>String</td>
 		</tr>
 		<tr>
-			<td></td>
-			<td></td>
+			<td>modelo: Es el modelo que tendra cada tipo de vehiculo</td>
+			<td>String</td>
 		</tr>
 		<tr>
-			<td></td>
-			<td></td>
+			<td>año: Menciona el año de fabricación de cada modelo de vehículo</td>
+			<td>Int</td>
 		</tr>
 		<tr>
-			<td></td>
-			<td></td>
+			<td>estado: Menciona el estado de disponibilidad del vehículo</td>
+			<td>String</td>
 		</tr>
 		<tr>
-			<td></td>
-			<td></td>
+			<td>tarifa: Mostrará el precio de alquiler de cada vehículo</td>
+			<td>Double</td>
 		</tr>
 	</tbody>
 </table>
