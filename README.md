@@ -168,7 +168,7 @@ del ABET – EAC - Student Outcome 5.
 </table>
 
 ## Project Report Online
-URL Project Report (Github): https://github.com/UPC-AppWeb-CiberMach/Final-Report 
+URL Project Report en Github: https://github.com/UPC-AppWeb-CiberMach/Final-Report 
 
 ## Tabla de contenidos
 
@@ -278,4 +278,7 @@ Durante la preparación del informe, se llevaron a cabo las siguientes actividad
 ### [Video about the team](#video-about-the-team)
 
 ### [Bibliografía](#bibliografía)
+
+
+
 ### [Anexos](#anexos)
