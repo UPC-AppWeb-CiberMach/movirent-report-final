@@ -261,11 +261,11 @@ Link del prototipo: https://www.figma.com/proto/cQuS3bFffjnBjo9RGwcl2D/Web-Appli
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Software Architecture Context Diagram
 
-<img src="/assets/chapter-04/DataBase/DiagramaC4-Context.png"/>
+<img src="/assets/chapter-04/DataBase/DiagramC4-Context.png"/>
 
 ### 4.6.2. Software Architecture Container Diagrams.
 
-<img src="/assets/chapter-04/DataBase/C4-DiagramContainer..png"/>
+<img src="/assets/chapter-04/DataBase/DiagramC4-Container.png"/>
 
 ### 4.6.3. Software Architecture Components Diagrams
 ## 4.7. Software Object-Oriented Design
