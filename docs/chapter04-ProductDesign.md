@@ -207,6 +207,157 @@ Como sistema de navegación en pantallas desktop optamos emplear una barra de me
 <img src="/assets/chapter-04/Diagram/Diagram.png"/>
 
 ### 4.7.2. Class Dictionary
+
+<table>
+	<tbody>
+		<tr>
+			<td>Clase</td>
+			<td>Descripción</td>
+			<td>Tipo de dato</td>
+		</tr>
+		<tr>
+			<td rowspan="3">Owner</td>
+			<td>id: Es el indentificador único del usuario</td>
+			<td>Int</td>
+		</tr>
+		<tr>
+			<td>nombre: Es el nombre del usuario</td>
+			<td>String</td>
+		</tr>
+		<tr>
+			<td>correo: Dirección de correo electrónico del usuario</td>
+			<td>String</td>
+		</tr>
+		<tr>
+			<td rowspan="3"></td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td rowspan="3"></td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td rowspan="4"></td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td rowspan="4"></td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td rowspan="4"></td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td rowspan="5">Usuario</td>
+			<td>id: Es el indentificador único del usuario</td>
+			<td>Int</td>
+		</tr>
+		<tr>
+			<td>nombre: Es el nombre del usuario</td>
+			<td>String</td>
+		</tr>
+		<tr>
+			<td>correo: Dirección de correo electrónico del usuario</td>
+			<td>String</td>
+		</tr>
+		<tr>
+			<td>contraseña: Es la contraseña del usuario para acceder al sistema</td>
+			<td>String</td>
+		</tr>
+		<tr>
+			<td>tipo: Se encarga de identificar al tipo de usuario</td>
+			<td>String</td>
+		</tr>
+		<tr>
+			<td rowspan="7"></td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+		</tr>
+	</tbody>
+</table>
+
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
 Para desarrollar la estructura de diagrama de base de datos usamos la herramienta de Vertabelo. A continuación, muestra las tabla de diseño de base de datos.
