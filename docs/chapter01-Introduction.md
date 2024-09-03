@@ -275,9 +275,14 @@ Aspectos geográficos:
 Nacionalidad: Peruana y extranjera residente en Perú.
 Zona geográfica en la que viven: Zonas urbanas.
 
-Aspecto psicográfico: Buscan generar ingresos extra con la compra de un scooter eléctrico que no usan recurrentemente.
+Aspecto psicográfico: Buscan generar ingresos extra con la compra de 
+un scooter eléctrico que no usan recurrentemente.
 
-**Segmento 2** Segmento arrendador (User): Personas que desean optar un scooter eléctrico para fines de transporte sea hacia sus labores, universidades, fines deportivos u otros pero que no cuentan con el dinero necesario en el momento para comprar uno. Donde podrán optar por alquilar un scooter por horas a un precio muy accesible.
+**Segmento 2** Segmento arrendador (User): Personas que desean optar 
+un scooter eléctrico para fines de transporte sea hacia sus labores, 
+universidades, fines deportivos u otros pero que no cuentan con el dinero 
+necesario en el momento para comprar uno. Donde podrán optar por alquilar 
+un scooter por horas a un precio muy accesible.
 
 Sexo: Ambos sexos.
 Edades: de 18 a 65 años.
