@@ -547,7 +547,7 @@ En este apartado se muestra los impact mapping de nuestros segmentos objetivos:
 **Segmento 2: User**
 
 
-<img src="../assets/chapter-03/ImpactMapClient.png" alt="Imagen Impact Mapping 2">
+![ImpactMapClient](https://github.com/user-attachments/assets/0854b4b7-a3f7-423a-85b8-f1d1b53c85ef)
 
 
 ## 3.4. Product Backlog    
