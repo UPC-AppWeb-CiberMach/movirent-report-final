@@ -177,20 +177,87 @@ Como sistema de navegación en pantallas desktop optamos emplear una barra de me
 ### 4.3.1. Landing Page Wireframe
 ### 4.3.2. Landing Page Mock-up
 ## 4.4. Web Applications UX/UI Design
-### 4.4.1. Web Applications Wireframes
-### 4.4.2. Web Applications Wireflow Diagrams
+### 4.4.1. Web Applications Wireframes  
+<b>Wireframes Web versión desktop</b>  
+![Wireframe web 1](https://github.com/user-attachments/assets/8498438b-4835-46e7-9ea3-677c93550d90)
+![Wireframe web 2](https://github.com/user-attachments/assets/4118ff06-bef6-42d0-a961-2226aa89093c)
+
+ <b>Wireframes Web versión móvil</b>  
+![Wireframes movil 1](https://github.com/user-attachments/assets/1e9155a4-ebd7-4c85-bc18-7c2dac62fb00)
+![Wireframes movil 2](https://github.com/user-attachments/assets/eb0ddf92-2991-422f-90d1-f5e5c3a0a217)
+![Wireframes movil 3](https://github.com/user-attachments/assets/060ac813-5bd7-4f44-82e2-3d79cab09f9e)
+
+### 4.4.2. Web Applications Wireflow Diagrams  
+<b>User Goal 01:</b> El usuario quiere Registrarse, iniciar sesión, ver, editar y eliminar su cuenta.  
+![WF_UserGoal1](https://github.com/user-attachments/assets/b33c90dc-bce2-4c2f-80d5-80fd10b455b8)
+
+<b>User Goal 02:</b> El usuario quiere ver, crear, editar y eliminar sus scooters.  
+![WF_UserGoal2](https://github.com/user-attachments/assets/632e6147-82d9-4bf7-a53f-bdd31e9e659a)
+
+<b>User Goal 03:</b> EL usuario quiere buscar y alquilar un scooter.  
+![WF_UserGoal3](https://github.com/user-attachments/assets/e4324249-8197-403b-aebf-07c7aefb6a36)
+
+<b>User Goal 04:</b> El usuario quiere ver reseñas y dejar una reseña.  
+![WF_UserGoal4](https://github.com/user-attachments/assets/7d33036d-9b78-469d-8d56-bc4be96ebccc)  
+
+<b>User Goal 05:</b> El usuario quiere ver su historial y volver a alquilar un scooter.  
+![WF_UserGoal5](https://github.com/user-attachments/assets/e444ce03-d704-4366-b7cb-505f9e2dd8c1)
+
+<b>User Goal 06:</b> El usuario quiere eliminar su historial.  
+![WF_UserGoal6](https://github.com/user-attachments/assets/ea3181fd-bd68-4268-baa5-ef2e4de78866)
+
+<b>User Goal 07:</b> El usuario quiere compar, ver, cambiar y cancelar suscripción.  
+![WF_UserGoal7](https://github.com/user-attachments/assets/5b6346c1-d349-49bf-bd8a-599be88fbbb6)
+
 ### 4.4.3. Web Applications Mock-ups  
 <b>Mockups Web versión desktop</b>  
-![Mockups web 1](https://github.com/user-attachments/assets/d87499a3-28d1-4f2b-a4c4-4ee9ebfc346f)
-![Mockups web 2](https://github.com/user-attachments/assets/5d4b462d-38b2-44fb-9ef3-eea04d4cf6af)
+![Mockups web 1](https://github.com/user-attachments/assets/0073e3c0-435b-483b-9e7a-03f4d31bf51a)
+![Mockups web 2](https://github.com/user-attachments/assets/3f28e05a-693f-4e48-a867-aab717aa4a52)
 
 <b>Mockups Web versión móvil</b>  
-![Mockups movil 1](https://github.com/user-attachments/assets/b348156e-ecc3-40ca-b1d6-4bce866194df)
-![Mockups movil 2](https://github.com/user-attachments/assets/e21ee357-f122-4ed0-97e6-d22d2b1c7867)
-![Mockups movil 3](https://github.com/user-attachments/assets/89080d9d-ddbd-4602-86bf-12405794a04a)
+![Mockups movil 1](https://github.com/user-attachments/assets/a9378be2-1e44-4f0e-96bb-d530f7573c4b)
+![Mockups movil 2](https://github.com/user-attachments/assets/262d6134-47b2-4870-847a-61ded8d4abae)
+![Mockups movil 3](https://github.com/user-attachments/assets/bc0d70dc-636e-4256-9f67-c8f62f9459c4)
 
-### 4.4.4. Web Applications User Flow Diagrams
-## 4.5. Web Applications Prototyping
+### 4.4.4. Web Applications User Flow Diagrams  
+
+<b>User Goal 01:</b> El usuario quiere Registrarse, iniciar sesión, ver, editar y eliminar su cuenta.  
+Cuando el usuario quiera registrarse ingresa sus datos y se registra, cuando quiera iniciar sesión, ingresa su correo y contraseña y se lo redirigirá a su perfil, el cual tendra las opciones de editar sus datos y eliminar su cuenta con un previa confirmación. Cuenta con la opción de cancelar las operaciones.  
+![UF_UserGoal1](https://github.com/user-attachments/assets/7065a576-560c-4ee5-b2a7-f7fbc3d923b9)
+
+
+<b>User Goal 02:</b> El Owner quiere ver, crear, editar y eliminar sus scooters.  
+Cuando el Owner se encuentre en la sección de sus scooters podrá verlos, publicar uno nuevo, editarlos y eliminarlos.  Cuenta con la opción de cancelar las operaciones.  
+![UF_UserGoal2](https://github.com/user-attachments/assets/fe80df66-b6a5-4dda-99c7-08cc2c5a69b7)
+
+
+<b>User Goal 03:</b> El Cliente quiere buscar y alquilar un scooter.  
+Cuando el Cliente quiera alquilar un scooter, puede buscarlo con el filtro por distrito, ver una lista de todos los scooters disponibles, seleccionar el de su preferencia, alquilarlo y pagarlo. Cuenta con la opción de cancelar las operaciones.  
+![UF_UserGoal3](https://github.com/user-attachments/assets/57b44f93-04dd-4a4f-825f-78cff41bb273)
+
+
+<b>User Goal 04:</b> El Cliente quiere ver reseñas y dejar una reseña.  
+Cuando el Cliente quiera ver reseñas de un scooter puede ingresar a ellas entrando a detalles del scooter, tambien puede dejar su reseña luego de alquilar un scooter. Cuenta con la opción de cancelarla.  
+![UF_UserGoal4](https://github.com/user-attachments/assets/f194398a-95ce-4e75-ba52-4bc1cc90868c)
+
+
+<b>User Goal 05:</b> El Cliente quiere ver su historial y volver a alquilar un scooter.  
+Cuando el Cliente quiera ver su historial, puede acceder a esta opción desde su perfil y ver la lista de todos los scooters que fueron alquilados por uno mismo, también puede volver a alquilar un scooter. Cuenta con la opción de cancelar las operaciones.  
+![UF_UserGoal5](https://github.com/user-attachments/assets/4c0efcd2-a931-446f-bae8-bb882ef445db)
+
+
+<b>User Goal 06:</b> El Cliente quiere eliminar su historial.  
+Cuando el Cliente quiera eliminar su historial puede hacerlo dando click a eliminar historial. Cuenta con la opción de cancelar la operación.  
+![UF_UserGoal6](https://github.com/user-attachments/assets/dcc7533c-ab7a-4883-9534-7d5ca947be7e)
+
+
+<b>User Goal 07:</b> El usuario quiere compar, ver, cambiar y cancelar suscripción.  
+Cuando el usuario quiere ver su suscripción, se dirigirá a Mi Sucripción y podrá verla, cambiarla y cancelarla. Cuenta con la opción de cancelar las operaciones.  
+![UF_UserGoal7](https://github.com/user-attachments/assets/35282287-cdcb-4d62-a3b3-ee9abf45e71e)
+
+## 4.5. Web Applications Prototyping  
+
+Link del prototipo: https://www.figma.com/proto/cQuS3bFffjnBjo9RGwcl2D/Web-Application---MoviRent?node-id=30-7401&node-type=CANVAS&t=Lxw2yVCYl0Cy3vm2-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=30%3A7401&show-proto-sidebar=1 
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Software Architecture Context Diagram
 
