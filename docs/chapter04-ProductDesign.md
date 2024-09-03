@@ -217,42 +217,42 @@ Como sistema de navegación en pantallas desktop optamos emplear una barra de me
 		</tr>
 		<tr>
 			<td rowspan="3">Owner</td>
-			<td>id: Es el indentificador único del usuario</td>
+			<td>publicarScooter(): Permitirá al Owner publicar su vehiculo en el sistema</td>
+			<td>Void</td>
+		</tr>
+		<tr>
+			<td>editarScooter(): Permitirá poder editar el vehículo agregado</td>
+			<td>Void</td>
+		</tr>
+		<tr>
+			<td>eliminarScooter(): Le permitirá al Owner eliminar su vehículo del sistema</td>
+			<td>Void</td>
+		</tr>
+		<tr>
+			<td rowspan="3">Historial</td>
+			<td>id: Es la identificación personal del historial para cada usuario</td>
 			<td>Int</td>
 		</tr>
 		<tr>
-			<td>nombre: Es el nombre del usuario</td>
+			<td>visualizarHistorial(): Permitirá a los usuarios poder visualizar su historial</td>
+			<td>Void</td>
+		</tr>
+		<tr>
+			<td>fecha: Mostrará a los usuarios las fechas de cada interacción que tuvieron en el sistema</td>
+			<td>Date</td>
+		</tr>
+		<tr>
+			<td rowspan="3">Calificación</td>
+			<td>id: Es el identificador de cada calificación brindada por los usuarios</td>
+			<td>Int</td>
+		</tr>
+		<tr>
+			<td>calificar(): Mostrará a los usuarios las calificaciones que tiene cada vehículo que haya sido utilizado por otros usuarios</td>
+			<td>Void</td>
+		</tr>
+		<tr>
+			<td>comentario: Permitirá a los usuarios dejar sus comentarios de satisfacción al haber utilizado algún vehículo</td>
 			<td>String</td>
-		</tr>
-		<tr>
-			<td>correo: Dirección de correo electrónico del usuario</td>
-			<td>String</td>
-		</tr>
-		<tr>
-			<td rowspan="3"></td>
-			<td></td>
-			<td></td>
-		</tr>
-		<tr>
-			<td></td>
-			<td></td>
-		</tr>
-		<tr>
-			<td></td>
-			<td></td>
-		</tr>
-		<tr>
-			<td rowspan="3"></td>
-			<td></td>
-			<td></td>
-		</tr>
-		<tr>
-			<td></td>
-			<td></td>
-		</tr>
-		<tr>
-			<td></td>
-			<td></td>
 		</tr>
 		<tr>
 			<td rowspan="4"></td>
