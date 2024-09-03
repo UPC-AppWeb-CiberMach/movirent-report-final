@@ -198,7 +198,7 @@ Como sistema de navegación en pantallas desktop optamos emplear una barra de me
 
 ### 4.6.2. Software Architecture Container Diagrams
 
-<img src="/assets/chapter-04/DataBase/DiagramaC4-Container.png"/>
+<img src="/assets/chapter-04/DataBase/C4-DiagramContainer..png"/>
 
 ### 4.6.3. Software Architecture Components Diagrams
 ## 4.7. Software Object-Oriented Design
