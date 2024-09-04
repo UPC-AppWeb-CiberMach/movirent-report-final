@@ -615,7 +615,7 @@ En esta sección se presentan los User Journey Mapping de los segmentos, que rea
 cómo se siente nuestro usuario al usar la aplicación, detallando cada paso que realiza y las emociones que experimenta.
 
 **Segmento 1 - Owner:**   
-<img src="..//assets/chapter-02/user-journey-mapping/mapping1.jpg" alt="Owner">
+<img src="..//assets/chapter-02/user-journey-mapping/Customer-journey-map-1.png" alt="Owner">
 
 **Segmento 2 - Client:**   
 <img src="..//assets/chapter-02/user-journey-mapping/mapping2.jpg" alt="Client">
