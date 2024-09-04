@@ -113,14 +113,17 @@ Para desplegar la solución se realizó los siguientes pasos:
 ![Organizacion CiberMatch](../assets/chapter-05/Deployment-Config/Paso-N1.png)
 
 - Seleccionar el repositorio de la landing page del proyecto.
+  
 ![Repositorio Landing Page](../assets/chapter-05/Deployment-Config/Paso-N2.png)
 
 - Clonar el repositorio en Webstorm utilizando la URL del repositorio.
+
 ![Clonar Repositorio](../assets/chapter-05/Deployment-Config/Paso-N3.png)
 
 ![Clonar Repositorio](../assets/chapter-05/Deployment-Config/Paso-N4.png)
 
 - Ejecutar el archivo index.html para visualizar la landing page en el navegador.
+
 ![Visualizar Landing Page](../assets/chapter-05/Deployment-Config/Paso-N5.png)
 ![Visualizar Landing Page](../assets/chapter-05/Deployment-Config/Paso-N6.png)
 
