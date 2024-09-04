@@ -68,6 +68,13 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
         <td>No corresponde</td>
     </tr>
     <tr>
+        <td>EP07</td>
+        <td>Desarrollo de la aplicación web</td>
+        <td><b>Cómo</b> desarrollador de MoviRent <b>Quiero</b> hacer consultas desde los endpoints de la api rest <b>Para</b> poder probar las respuestas del servicio de la aplicación.</td>
+        <td>No corresponde</td>
+        <td>No corresponde</td>
+    </tr>
+    <tr>
         <td>US01</td>
         <td>Implementación de la sección Inicio de la Landing Page</td>
         <td><b>Como</b> visitante de la landing page
@@ -531,6 +538,30 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
             <b>Entonces</b> el sistema le mostrará un aviso de que la membresía no se ha cancelado.<br/>
         <td>EP06</td>
     </tr>
+    <tr>
+        <td>TS01</td>
+        <td>Acceso a endpoints </td>
+        <td><b>Cómo</b> Desarrollador de MoviRent
+        <b>Quiero</b> contar con acceso a los endpoints
+        <b>Para</b> poder realizar pruebas en la funcionalidad
+        <b>Y</b> corregir errores.</td>
+        <td>
+            <b>Scenario 1: Desarrollador accede a la interfaz de swagger</b> <br/>
+            <b>Dado que</b> el desarrollador se encuentra en el apartado de swagger <br>
+            <b>Cuando</b> el desarrollador quiera probar las funcionalidades del servicio<br/>
+            <b>Entonces</b> el desarrollador observa el acceso a los endpoints.<br/>
+            <br>
+            <b>Scenario 2: Desarrollador realiza una petición al servicio de MoviRent</b> <br/>
+            <b>Dado que</b> el desarrollador acaba de realizar una petición al servicio de MoviRent desde la plataforma swagger <br>
+            <b>Cuando</b> el desarrollador requiera probar las peticiones en el servicio<br/>
+            <b>Entonces</b>el desarrollador observa la respuesta de la petición solicitada.<br/>
+            <br>
+            <b>Scenario 3: Desarrollador recibe una respuesta de error desde el servicio de MoviRent</b> <br/>
+            <b>Dado que</b> el desarrollador acaba de realizar una petición al servicio de MoviRent desde la plataforma swagger <br>
+            <b>Cuando</b> el desarrollador reciba una respuesta de error<br/>
+            <b>Entonces</b> el desarrollador podrá notificar al equipo de desarrollo sobre el problema en la petición.<br/>
+        <td>EP07</td>
+    </tr>
 </table>
 
 ## 3.3. Impact Mapping
@@ -541,7 +572,7 @@ En este apartado se muestra los impact mapping de nuestros segmentos objetivos:
 **Segmento 1: Owner**
 
 
-![ImpactMappingOwner]<img src="../assets/chapter-03/ImpactMap6.png" alt="Imagen Impact Mapping 1">
+<img src="../assets/chapter-03/ImpactMap6.png" alt="Imagen Impact Mapping 1">
 
 
 **Segmento 2: User**
