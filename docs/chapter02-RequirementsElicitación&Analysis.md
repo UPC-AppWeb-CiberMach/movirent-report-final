@@ -661,7 +661,7 @@ cómo se siente nuestro usuario al usar la aplicación, detallando cada paso que
 <img src="..//assets/chapter-02/user-journey-mapping/Customer-journey-map-1.png" alt="Owner">
 
 **Segmento 2 - Client:**   
-<img src="..//assets/chapter-02/user-journey-mapping/mapping2.jpg" alt="Client">
+<img src="..//assets/chapter-02/user-journey-mapping/Customer-journey-map-2.png" alt="Client">
 
 ### 2.3.4. Empathy Mapping
 
