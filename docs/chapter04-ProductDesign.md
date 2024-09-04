@@ -268,6 +268,9 @@ Link del prototipo: https://www.figma.com/proto/cQuS3bFffjnBjo9RGwcl2D/Web-Appli
 <img src="/assets/chapter-04/DataBase/DiagramC4-Container.png"/>
 
 ### 4.6.3. Software Architecture Components Diagrams
+
+<img src="/assets/chapter-04/DataBase/DiagramC4-Component.png"/>
+
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
 
