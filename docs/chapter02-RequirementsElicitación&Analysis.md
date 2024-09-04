@@ -412,6 +412,37 @@ Datos del entrevistado:
 **Informe del resumen de la entrevista:**
 
 Jeremy Escudero un joven de 19 años, residente del distrito del Rímac. Actualmente trabaja y estudia. Estudia en la Universidad Nacional Federico Villarreal en la carrera de contabilidad. El navegador que usa con mayor frecuencia es google. Su canal informativo son los noticieros y de entretenimiento los videojuegos. Jeremy es un joven que desea alquilar un scooter para llegar a sus destinos de manera rápida. Considera que las tarifas de los buses es accesible pero se le hace incomodo por la cantidad de gente. Le gustaria alquilar un scooter que sea menor presupuesto de lo que gasta al mes en los buses.
+
+### Entrevista 4:
+
+Datos del entrevistador:
+* Nombres: Roy Linsh
+* Apellidos: Fernández Remón
+
+Datos del entrevistado:
+* Nombres: Jefrey
+* Apellidos: Prado
+* Edad: 23
+* Distrito de residencia: San Juan de Lurigancho
+* Enlace a la entrevista: [Ver Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b778_upc_edu_pe/ESYHQW3mA-hDq81S5Vbto-ABpfXj_7VY_dmt5rjmBeJ-Rw?e=YpnHj6&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+* Duración de la entrevista: 7:21
+
+<img src="../assets/chapter-02/interviews/Entrevista Jefrey.png" alt="Imagen Entrevista 1">
+
+**Informe del resumen de la entrevista:**
+Jefrey Prado, es un joven de 23 años, residente de San Juan de Lurigancho. Actualmente es
+estudiante de la carrera de Arquitectura. Utiliza una laptop y un dispositivo móvil marca ZTE. Su navegador web
+preferido es Google Chrome debido a que se me hace muy cómodo y rápido.
+Jefrey usa con mayor frecuencia Facebook e Instagram como medios informativos y de
+entretenimiento. Se desplaza en bus, tren y taxi aunque mayormente en bus, dedicando alrededor de 4 a 5 horas diarias para
+llegar a la universidad, gastando un aproximado de 600 soles al mes en transporte.
+
+Considera que es una buena idea contar con un servicio de vehículos alternativos como bicicletas o scooters pero menciona que se transporta en zonas un tanto peligrosas, por la cual, lo pensaría un poco sobre en que zonas podría utilizar su vehículo.
+También menciona que los aspectos más importantes para él sobre el alquiler de vehículos alternativos sería la calidad de los mismos, la velocidad que le puedan brindar y los precios del alquiler.
+
+La entrevista concluyó con la posibilidad de poder añadir más planes de suscripción que sean para todos los bolsillos y agradecimientos mutuos.
+
+
 ### 2.2.3 Análisis de entrevistas.
 
 **Segmento 1: Owner**
