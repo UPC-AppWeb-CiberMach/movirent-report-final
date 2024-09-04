@@ -376,6 +376,29 @@ Para el despliegue de la landing page se utilizó github pages, a continuación 
 ![Landing Page](../assets/chapter-05/Software-Deployment-Evidence/DeployN8.jpeg)
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
+Para este sprint se ha realizado la implementación del landing page, para esto los integrantes del grupo
+realizaron su aporte a través de commits en la herramienta Git Hub.
+
+![Landing Page](../assets/chapter-05/Deployment-Config/Paso-N1.png)
+
+Utilizando GitHub se creó una organización llamada CiberMarch, en la cual creamos repositorios para
+nuestro trabajo. Para este punto solo mencionaremos el repositorio de la landing page, ya que el otro
+presente por el momento es el del informe.
+
+Dentro del repositorio se encuentran los archivos necesarios para el proyecto. Estos están siendo
+actualizados en ramas independientes en primer lugar, y cuando sea necesario se realiza un push a la
+rama main.
+
+![Landing Page](../assets/chapter-05/Team-Collaboration/Team-Collaboration-N1.png)
+
+Commits realizados por los integrantes:
+
+![Landing Page](../assets/chapter-05/Team-Collaboration/Team-Collaboration-N2.png)
+![Landing Page](../assets/chapter-05/Team-Collaboration/Team-Collaboration-N3.png)
+![Landing Page](../assets/chapter-05/Team-Collaboration/Team-Collaboration-N4.png)
+![Landing Page](../assets/chapter-05/Team-Collaboration/Team-Collaboration-N5.png)
+
+
 
 ---
 
