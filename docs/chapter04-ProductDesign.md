@@ -157,7 +157,15 @@ En el parte superior derecho del home page de la aplicación web contando con tr
 - Suscripción: Muestra las suscripciones disponibles o la suscripción que el usuario ha comprado.
 - Scooters: Muestra tanto los scooters en alquiler como los scooters que el usuario ha puesto en alquiler.
 
-### 4.2.3. SEO Tags and Meta Tags
+### 4.2.3. SEO Tags and Meta Tags  
+A continuación se mostrarán las etiquetas que representarán el contenido de la Landing Page y de la aplicación web para que los usuarios las encuentren con mayor facilidad.
+
+<b>Landing Page</b>  
+![Tags Landing Page](https://github.com/user-attachments/assets/6c9d47ee-831f-4756-a281-bdcd1e59b4de)
+
+<b>Aplicación Web</b>  
+![Tags App Web](https://github.com/user-attachments/assets/3be44467-aa38-4a40-9b37-9cb7a952d2ac)
+
 ### 4.2.4. Searching Systems
 En esta sección, implementaremos dos métodos para mejorar la experiencia de búsqueda de nuestros usuarios. Se utilizará un sistema de búsqueda por filtros para refinar las búsquedas de la siguiente manera:
 
@@ -174,8 +182,16 @@ Como sistema de navegación en pantallas desktop optamos emplear una barra de me
 ![Navbar movil](https://github.com/user-attachments/assets/ad1b8a37-5013-4e80-8c20-b695133028ae)
   
 ## 4.3. Landing Page UI Design
-### 4.3.1. Landing Page Wireframe
-### 4.3.2. Landing Page Mock-up
+### 4.3.1. Landing Page Wireframe  
+![LandingPage Wireframes](https://github.com/user-attachments/assets/903a1ae6-dd41-4b2e-828e-e57d6abbd554)
+
+![LandingPage Movil Wireframes](https://github.com/user-attachments/assets/7c9ba4bf-c956-4609-a2b1-2e5509bdeab3)
+
+### 4.3.2. Landing Page Mock-up  
+![LandingPage Mockup](https://github.com/user-attachments/assets/0ddd4e79-4b1b-431e-95e2-91cd37d7182d)
+
+![LandingPage Mockup movil](https://github.com/user-attachments/assets/cdd10f2a-b3a7-4650-a542-b32db9b3a02b)
+
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes  
 <b>Wireframes Web versión desktop</b>  
@@ -432,7 +448,7 @@ Link del prototipo: https://www.figma.com/proto/cQuS3bFffjnBjo9RGwcl2D/Web-Appli
 ### 4.8.1. Database Diagram
 Para desarrollar la estructura de diagrama de base de datos usamos la herramienta de Vertabelo. A continuación, muestra las tabla de diseño de base de datos.
 
-![DatabaseDiagram](https://github.com/user-attachments/assets/b8f690f2-babf-4e25-ab85-86626d7d8dfb)
+![Web Database Diagram](https://github.com/user-attachments/assets/abc1c1fd-eb6d-4bd1-9a52-c93867822c18)
 
 
 ---
