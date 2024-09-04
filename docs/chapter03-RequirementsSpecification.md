@@ -572,7 +572,7 @@ En este apartado se muestra los impact mapping de nuestros segmentos objetivos:
 **Segmento 1: Owner**
 
 
-<img src="../assets/chapter-03/ImpactMap6.png" alt="Imagen Impact Mapping 1">
+![ImpactMapOwner](https://github.com/user-attachments/assets/e0b3b7d2-b7a5-433a-8bde-def87b83ed36)
 
 
 **Segmento 2: User**
