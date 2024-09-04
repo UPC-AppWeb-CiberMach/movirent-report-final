@@ -447,27 +447,39 @@ La entrevista concluyó con la posibilidad de poder añadir más planes de suscr
 
 **Segmento 1: Owner**
 
-Dado que la mayoría de los entrevistados viven en áreas céntricas de Lima, hay una demanda potencial en estas zonas, donde la infraestructura y el tránsito pueden favorecer el uso de scooters como alternativa de transporte
-![Imagen Owner](../assets/chapter-02/interview-analysis/Owners/Analisis-Entrevistas-01.png)
+Dado que la mayoría de los entrevistados viven en áreas céntricas de Lima, hay una demanda potencial en estas zonas, donde la infraestructura y el tránsito pueden favorecer el uso de scooters como alternativa de transporte.  
 
-Con un 66.7% de usuarios en el rango de 18-23 años, el negocio debe enfocarse en estrategias de marketing dirigidas a un público joven, que está más abierto a adoptar nuevas tecnologías y servicios de movilidad. Asimismo como trabajan en el sector de negocios, es probable que estos usuarios busquen formas de rentabilizar sus activos, como scooters, de manera eficiente. Esto sugiere que un enfoque en la facilidad de gestión y en la maximización de ingresos podría atraer a estos profesionales a usar la plataforma para rentar sus vehículos a otros.
+![Imagen Owner](../assets/chapter-02/interview-analysis/Owners/Analisis-Entrevistas-01.png)  
+
+
+Con un 66.7% de usuarios en el rango de 18-23 años, el negocio debe enfocarse en estrategias de marketing dirigidas a un público joven, que está más abierto a adoptar nuevas tecnologías y servicios de movilidad. Asimismo como trabajan en el sector de negocios, es probable que estos usuarios busquen formas de rentabilizar sus activos, como scooters, de manera eficiente. Esto sugiere que un enfoque en la facilidad de gestión y en la maximización de ingresos podría atraer a estos profesionales a usar la plataforma para rentar sus vehículos a otros.  
+
 ![Imagen Owner](../assets/chapter-02/interview-analysis/Owners/Analisis-Entrevistas-02.png)
-![Imagen Owner](../assets/chapter-02/interview-analysis/Owners/Analisis-Entrevistas-03.png)
+![Imagen Owner](../assets/chapter-02/interview-analysis/Owners/Analisis-Entrevistas-03.png)  
 
-La preferencia por iOS y Windows 10 entre el 66.7% de los encuestados indica que la aplicación de alquiler de scooters debe ser optimizada para estos sistemas operativos para mejorar la experiencia del usuario. Asimismo, Con el 66.7% prefiriendo Apple y el 100% Lenovo, es importante que el diseño y la calidad del servicio reflejen los altos estándares asociados con estas marcas, para alinearse con las expectativas de los usuarios.
+
+La preferencia por iOS y Windows 10 entre el 66.7% de los encuestados indica que la aplicación de alquiler de scooters debe ser optimizada para estos sistemas operativos para mejorar la experiencia del usuario. Asimismo, Con el 66.7% prefiriendo Apple y el 100% Lenovo, es importante que el diseño y la calidad del servicio reflejen los altos estándares asociados con estas marcas, para alinearse con las expectativas de los usuarios.  
+
 ![Imagen Owner](../assets/chapter-02/interview-analysis/Owners/Analisis-Entrevistas-04.png)
 
-Dado que el 66% prefiere Instagram, esta plataforma debería ser un canal clave para la promoción del servicio de alquiler de scooters. Por otro lado, con un 66.7% que no ha rentado scooters previamente, existe un mercado significativo de potenciales nuevos usuarios que podrían beneficiarse de promociones iniciales
+
+Dado que el 66% prefiere Instagram, esta plataforma debería ser un canal clave para la promoción del servicio de alquiler de scooters. Por otro lado, con un 66.7% que no ha rentado scooters previamente, existe un mercado significativo de potenciales nuevos usuarios que podrían beneficiarse de promociones iniciales.  
+
 ![Imagen Owner](../assets/chapter-02/interview-analysis/Owners/Analisis-Entrevistas-05.png)
 
-El 66% de los encuestados prefiere una tarifa basada en el tiempo de uso, lo que sugiere que este modelo de negocio podría ser más atractivo. Tambien, con el 100% de los usuarios queriendo reglas de uso claras, es crucial establecer normas y condiciones estrictas para garantizar la seguridad y la confianza
+
+El 66% de los encuestados prefiere una tarifa basada en el tiempo de uso, lo que sugiere que este modelo de negocio podría ser más atractivo. Tambien, con el 100% de los usuarios queriendo reglas de uso claras, es crucial establecer normas y condiciones estrictas para garantizar la seguridad y la confianza.  
+
 ![Imagen Owner](../assets/chapter-02/interview-analysis/Owners/Analisis-Entrevistas-06.png)
 
 
-El hecho de que el 100% de los encuestados calificaran su interés en usar la aplicación con un 7 o más indica una alta disposición a adoptar el servicio
+El hecho de que el 100% de los encuestados calificaran su interés en usar la aplicación con un 7 o más indica una alta disposición a adoptar el servicio.  
+
 ![Imagen Owner](../assets/chapter-02/interview-analysis/Owners/Analisis-Entrevistas-07.png)
 
-Finalmente la preferencia del 100% por ver la identidad y el historial de reservas de otros usuarios subraya la importancia de integrar funciones de transparencia y confianza en la aplicación para aumentar la seguridad percibida y la satisfacción del usuario.
+
+Finalmente la preferencia del 100% por ver la identidad y el historial de reservas de otros usuarios subraya la importancia de integrar funciones de transparencia y confianza en la aplicación para aumentar la seguridad percibida y la satisfacción del usuario.  
+
 ![Imagen Owner](../assets/chapter-02/interview-analysis/Owners/Analisis-Entrevistas-08.png)
 
 
@@ -609,36 +621,36 @@ En base al User Task Matrix presentado, podemos destacar las siguientes tareas c
 
 ### Owner:
 
--Gestión de inventario: Realizada con alta frecuencia y es de alta importancia, ya que los Owners deben mantener actualizada la disponibilidad y estado de sus scooters para maximizar las oportunidades de alquiler o venta.
+- Gestión de inventario: Realizada con alta frecuencia y es de alta importancia, ya que los Owners deben mantener actualizada la disponibilidad y estado de sus scooters para maximizar las oportunidades de alquiler o venta.
 
--Historial de transacciones: También tiene alta frecuencia e importancia porque permite a los Owners rastrear todas las actividades relacionadas con sus scooters.
+- Historial de transacciones: También tiene alta frecuencia e importancia porque permite a los Owners rastrear todas las actividades relacionadas con sus scooters.
 
--Notificaciones sobre estado de scooter: Frecuencia alta, ya que los Owners necesitan estar al tanto de cambios en el estado de sus scooters para gestionar sus inventarios eficientemente.
+- Notificaciones sobre estado de scooter: Frecuencia alta, ya que los Owners necesitan estar al tanto de cambios en el estado de sus scooters para gestionar sus inventarios eficientemente.
 
--Pago y facturación: Crítica para la gestión financiera y administrativa de los Owners.
+- Pago y facturación: Crítica para la gestión financiera y administrativa de los Owners.
 
 ### Client:
 
--Consulta de disponibilidad de scooters: Tarea realizada con alta frecuencia y de alta importancia, ya que los usuarios necesitan encontrar scooters disponibles rápidamente.
+- Consulta de disponibilidad de scooters: Tarea realizada con alta frecuencia y de alta importancia, ya que los usuarios necesitan encontrar scooters disponibles rápidamente.
 
--Notificaciones sobre estado de scooter: Alta frecuencia y alta importancia para estar informados de cambios o confirmaciones en sus reservas.
+- Notificaciones sobre estado de scooter: Alta frecuencia y alta importancia para estar informados de cambios o confirmaciones en sus reservas.
 
--Pago y facturación: Fundamental para completar el proceso de alquiler o compra de scooters.
+- Pago y facturación: Fundamental para completar el proceso de alquiler o compra de scooters.
 
 ### Principales diferencias y coincidencias entre los User Personas:
 
 **Diferencias entre los Segmentos**
 
--Owner se enfoca más en tareas administrativas y de gestión de scooters, como gestionar inventarios y verificar historial de transacciones, que son cruciales para mantener el negocio operativo y eficiente.
+- Owner se enfoca más en tareas administrativas y de gestión de scooters, como gestionar inventarios y verificar historial de transacciones, que son cruciales para mantener el negocio operativo y eficiente.
 
--User se centra más en tareas de búsqueda y reserva, como consultar disponibilidad de scooters y realizar reservas, reflejando su rol como consumidores del servicio.
+- User se centra más en tareas de búsqueda y reserva, como consultar disponibilidad de scooters y realizar reservas, reflejando su rol como consumidores del servicio.
 
 
 **Coincidencias entre los Segmentos**
 
--Ambos segmentos consideran que las notificaciones y pago y facturación son tareas de alta importancia y frecuencia, ya que estas actividades son esenciales para la operatividad tanto desde el lado del ofertante (Owner) como del demandante (User).
+- Ambos segmentos consideran que las notificaciones y pago y facturación son tareas de alta importancia y frecuencia, ya que estas actividades son esenciales para la operatividad tanto desde el lado del ofertante (Owner) como del demandante (User).
 
--Ambos también asignan importancia a la seguridad y verificación de identidad, asegurando confianza y fiabilidad en las transacciones.
+- Ambos también asignan importancia a la seguridad y verificación de identidad, asegurando confianza y fiabilidad en las transacciones.
 
 ### 2.3.3. User Journey Mapping
 
