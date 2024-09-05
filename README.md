@@ -68,38 +68,38 @@
 
 <table>
   <thead>
+<table>
+  <thead>
     <tr>
-        <th>Versión</th>
-        <th>Fecha</th>
-        <th>Autor</th>
-        <th>Descripción de modificación</th>
+      <th>Versión</th>
+      <th>Fecha</th>
+      <th>Autor</th>
+      <th>Descripción</th>
     </tr>
   </thead>
   <tbody>
-  <tr>
-      <td><strong>TB1</strong></td>
-      <td>26 de Agosto</td>
-      <td>
-        <ul>
-          <li>Adriana María Diestra Zambrano</li>
-          <li>Bárbara Antonella Espinoza Delgado</li>
-          <li>Mathias Adriano Hidalgo Lopez</li>
-          <li>Quique Vladimir Jara Benites</li>
-          <li>Roy Linsh Fernandez Remon</li>
-          <li>Velarde Gonzales, Néstor Hernan</li>
-        </ul>
-      </td>
-      <td>
-        Se han incluído los siguientes capítulos:
-        <ul>
-          <li>Capítulo I: Introducción</li>
-          <li>Capítulo II: Requirements Elicitation & Analysis</li>
-          <li>Capítulo III: Requirements Specification</li>
-        </ul>
-      </td>
-  </tr>
+    <tr>
+      <td>1.0</td>
+      <td>2024/08/14</td>
+      <td>Velarde Gonzales, Néstor</td>
+      <td>Creación del documento de trabajo en formato markdown.</td>
+    </tr>
+    <tr>
+      <td>1.1</td>
+      <td>2024/08/17</td>
+      <td>Bárbara Antonella Espinoza Delgado</td>
+      <td>Capítulo I - Introduction.</td>
+    </tr>
+    <tr>
+      <td>1.2</td>
+      <td>2024/03/29</td>
+      <td>Espinoza Delgado, Bárbara Antonella</td>
+      <td>Redacción del startup profile y solution profile, delimitación de segmentos objetivo, redacción de preguntas para el diseño de entrevistas.</td>
+    </tr>
+
   </tbody>
 </table>
+
 
 <br>
 <br>
