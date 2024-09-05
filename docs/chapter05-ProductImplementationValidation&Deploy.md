@@ -308,23 +308,183 @@ Link de Trello: https://trello.com/invite/b/66ccf1855ff6c24fe148a766/ATTI34b50c7
 #### 5.2.1.3. Development Evidence for Sprint Review  
 En esta sección se detallarán los commits realizados en el desarrollo de la landing page.
 
-|User/Repository|Branch|Commit ID|Commit Message|Commit Message <br> Body|Commited<br>On (Date)|  
-|----------|------|---------|--------------|-------------------|------------------|
-|MesSobble/Landing-Page|section-about-us|23df9d5|feat: add about us index|-|19/08/2024| 
-|QuiqueVladimir/Landing-Page|section-services|ef71a1b|feat: add service informaition|-|19/08/2024| 
-|Adriiiiiiiiii/Landing-Page|section-footer|bf129f8|feat: add index.html|-|19/08/2024| 
-|mathiasadriano/Landing-Page|section-suscription|0db4d70|feat: update index.html|-|19/08/2024| 
-|VelardeSoft/Landing-Page|section-about-the-team|648771f|feat: Initial commit|-|19/08/2024| 
-|VelardeSoft/Landing-Page|Main|e807899|feat: Development of the landing page, using tools such as Boostrap 5|-|19/08/2024| 
-|MesSobble/Landing-Page|section-about-us|12da25a|feat: add about us Title|-|29/08/2024| 
+<table>
+  <tr>
+    <th>User/Repository</th>
+    <th>Branch</th>
+    <th>Commit ID</th>
+    <th>Commit Message</th>
+    <th>Commit Message <br> Body</th>
+    <th>Commited<br>On (Date)</th>
+  </tr>
+  <tr>
+    <td>MesSobble/Landing-Page</td>
+    <td>section-about-us</td>
+    <td>23df9d5</td>
+    <td>feat: add about us index</td>
+    <td>-</td>
+    <td>19/08/2024</td>
+  </tr>
+  <tr>
+    <td>QuiqueVladimir/Landing-Page</td>
+    <td>section-services</td>
+    <td>ef71a1b</td>
+    <td>feat: add service information</td>
+    <td>-</td>
+    <td>19/08/2024</td>
+  </tr>
+  <tr>
+    <td>Adriiiiiiiiii/Landing-Page</td>
+    <td>section-footer</td>
+    <td>bf129f8</td>
+    <td>feat: add index.html</td>
+    <td>-</td>
+    <td>19/08/2024</td>
+  </tr>
+  <tr>
+    <td>mathiasadriano/Landing-Page</td>
+    <td>section-suscription</td>
+    <td>0db4d70</td>
+    <td>feat: update index.html</td>
+    <td>-</td>
+    <td>19/08/2024</td>
+  </tr>
+  <tr>
+    <td>VelardeSoft/Landing-Page</td>
+    <td>section-about-the-team</td>
+    <td>648771f</td>
+    <td>feat: Initial commit</td>
+    <td>-</td>
+    <td>19/08/2024</td>
+  </tr>
+  <tr>
+    <td>VelardeSoft/Landing-Page</td>
+    <td>Main</td>
+    <td>e807899</td>
+    <td>feat: Development of the landing page, using tools such as Boostrap 5</td>
+    <td>-</td>
+    <td>19/08/2024</td>
+  </tr>
+  <tr>
+    <td>MesSobble/Landing-Page</td>
+    <td>section-about-us</td>
+    <td>12da25a</td>
+    <td>feat: add about us Title</td>
+    <td>-</td>
+    <td>29/08/2024</td>
+  </tr>
+  <tr>
+    <td>RTPX26/Landing-Page</td>
+    <td>master</td>
+    <td>65e1698</td>
+    <td>feat: add 131 lines code</td>
+    <td>-</td>
+    <td>01/09/2024</td>
+  </tr>
+  <tr>
+    <td>VelardeSoft/Landing-Page</td>
+    <td>master</td>
+    <td>82e5199</td>
+    <td>feat: Source code solution</td>
+    <td>-</td>
+    <td>03/09/2024</td>
+  </tr>
+  <tr>
+    <td>VelardeSoft/Landing-Page</td>
+    <td>master</td>
+    <td>0806145</td>
+    <td>feat: Aggregate title</td>
+    <td>-</td>
+    <td>03/09/2024</td>
+  </tr>
+  <tr>
+    <td>VelardeSoft/Landing-Page</td>
+    <td>master</td>
+    <td>38403f2</td>
+    <td>feat: add team members</td>
+    <td>-</td>
+    <td>03/09/2024</td>
+  </tr>
+  <tr>
+    <td>VelardeSoft/Landing-Page</td>
+    <td>master</td>
+    <td>3130e1e</td>
+    <td>feat: correction seccion main</td>
+    <td>-</td>
+    <td>03/09/2024</td>
+  </tr>
+  <tr>
+    <td>VelardeSoft/Landing-Page</td>
+    <td>master</td>
+    <td>e61f4e0</td>
+    <td>feat: Insercion de codigo fuente</td>
+    <td>-</td>
+    <td>04/09/2024</td>
+  </tr>
+  <tr>
+    <td>MesSobble/Landing-Page</td>
+    <td>master</td>
+    <td>31abf05</td>
+    <td>feat: delete change language icon</td>
+    <td>-</td>
+    <td>04/09/2024</td>
+  </tr>
+  <tr>
+    <td>MesSobble/Landing-Page</td>
+    <td>master</td>
+    <td>3cfd36d</td>
+    <td>fix: position of buttons</td>
+    <td>-</td>
+    <td>04/09/2024</td>
+  </tr>
+  <tr>
+    <td>MesSobble/Landing-Page</td>
+    <td>master</td>
+    <td>9986ced</td>
+    <td>fix: align cards to center in mobile</td>
+    <td>-</td>
+    <td>04/09/2024</td>
+  </tr>
+</table>
 
+
+![Commits1](https://github.com/user-attachments/assets/af447d15-c9ff-43e6-b712-e9eeee9d0da2)
+![Commits2](https://github.com/user-attachments/assets/25f1ab04-eb43-48e3-be08-94041ae6a77b)
+![Commits3](https://github.com/user-attachments/assets/741e16ec-9a95-45cf-97f5-b3d56ade34a2)
+![Commits4](https://github.com/user-attachments/assets/e6973246-74ff-4433-a2ee-45c6f6a9ec30)
+![Commits5](https://github.com/user-attachments/assets/bbcd8b79-afdc-4d0c-910a-0558e47e5104)
+![Commits6](https://github.com/user-attachments/assets/969f9661-40fc-408f-b782-99ac101e4cf4)
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
 
 
-|User/Repository|Branch|Commit ID|Commit Message|Commit Message <br> Body|Commited<br>On (Date)|  
-|----------|------|---------|--------------|-------------------|------------------|
-|MesSobble/AcceptanceTest|Main|7518970|feat: add US-02|-|01/09/2024| 
+<table>
+  <tr>
+    <th>User/Repository</th>
+    <th>Branch</th>
+    <th>Commit ID</th>
+    <th>Commit Message</th>
+    <th>Commit Message <br> Body</th>
+    <th>Commited<br>On (Date)</th>
+  </tr>
+  <tr>
+    <td>VelardeSoft/AcceptanceTest</td>
+    <td>Main</td>
+    <td>8fa574f</td>
+    <td>feat: add US-01</td>
+    <td>-</td>
+    <td>05/09/2024</td>
+  </tr>
+  <tr>
+    <td>MesSobble/AcceptanceTest</td>
+    <td>Main</td>
+    <td>7518970</td>
+    <td>feat: add US-02</td>
+    <td>-</td>
+    <td>01/09/2024</td>
+  </tr>
+</table>
+
 
 En el proceso de desarrollo de la landing page, se aplicaron diversas estrategias de prueba para garantizar su correcto funcionamiento y adaptabilidad en diferentes entornos. A continuación se detallan las herramientas utilizadas y los enfoques adoptados
 
@@ -408,7 +568,74 @@ Para el despliegue de la landing page se utilizó github pages, a continuación 
 ![Landing Page](../assets/chapter-05/Software-Deployment-Evidence/DeployN7.jpeg)
 ![Landing Page](../assets/chapter-05/Software-Deployment-Evidence/DeployN8.jpeg)
 
-#### 5.2.1.8. Team Collaboration Insights during Sprint.
+#### 5.2.1.8. Team Collaboration Insights during Sprint.  
+
+Colaboración por alumno en la Landing Page:
+
+<table>
+  <tr>
+    <th>Alumno</th>
+    <th>Actividad</th>
+  </tr>
+  <tr>
+    <td>Velarde Gonzales, Nestor</td>
+    <td>Implementación de la navbar e inicio de la Landing Page.</td>
+  </tr>
+  <tr>
+    <td>Espinoza Delgado, Bárbara Antonella</td>
+    <td>Implementación de la sección "Sobre Nosotros" de la Landing Page.</td>
+  </tr>
+  <tr>
+    <td>Jara Benites, Quique Vladimir</td>
+    <td>Implementación de la sección "Servicios" de la Landing Page.</td>
+  </tr>
+  <tr>
+    <td>Hidalgo Lopez, Mathias Adriano</td>
+    <td>Implementación de la sección "Planes" de la Landing Page.</td>
+  </tr>
+  <tr>
+    <td>Diestra Zambrano, Adriana María</td>
+    <td>Implementación de la sección "Equipo de Desarrollo y footer" de la Landing Page.</td>
+  </tr>
+  <tr>
+    <td>Fernandez Remon, Roy Linsh</td>
+    <td>Implementación de código para Landing Page responsiva.</td>
+  </tr>
+</table>
+ 
+Tabla para poder identificarnos:
+
+<table>
+  <tr>
+    <th>Username (Github)</th>
+    <th>Nombre</th>
+  </tr>
+  <tr>
+    <td>VelardeSoft</td>
+    <td>Velarde Gonzales, Nestor</td>
+  </tr>
+  <tr>
+    <td>MesSobble</td>
+    <td>Espinoza Delgado, Bárbara Antonella</td>
+  </tr>
+  <tr>
+    <td>QuiqueVladimir</td>
+    <td>Jara Benitez, Quique Vladimir</td>
+  </tr>
+  <tr>
+    <td>mathiasadriano</td>
+    <td>Hidalgo Lopez, Mathias Adriano</td>
+  </tr>
+  <tr>
+    <td>adriiiiiiiiiiii</td>
+    <td>Diestra Zambrano, Adriana María</td>
+  </tr>
+  <tr>
+    <td>RTPX26</td>
+    <td>Fernandez Remon, Roy Linsh</td>
+  </tr>
+</table>
+
 Para este sprint se ha realizado la implementación del landing page, para esto los integrantes del grupo
 realizaron su aporte a través de commits en la herramienta Git Hub.
 
@@ -424,12 +651,11 @@ rama main.
 
 ![Landing Page](../assets/chapter-05/Team-Collaboration/Team-Collaboration-N1.png)
 
-Commits realizados por los integrantes:
+Hemos desarrollado en conjunto un total de 82 commits para el desarrollo de nuestra landing page, tanto en creación de secciones, corrección de bugs, entre otras cosas.
 
-![Landing Page](../assets/chapter-05/Team-Collaboration/Team-Collaboration-N2.png)
-![Landing Page](../assets/chapter-05/Team-Collaboration/Team-Collaboration-N3.png)
-![Landing Page](../assets/chapter-05/Team-Collaboration/Team-Collaboration-N4.png)
-![Landing Page](../assets/chapter-05/Team-Collaboration/Team-Collaboration-N5.png)
+![Commits Landing Page](https://github.com/user-attachments/assets/b76b0616-cffc-42da-b724-15cc7e09506e)
+
+![Commits Landing 2](https://github.com/user-attachments/assets/e023abb1-df66-40ba-a796-6d84c2a554f6)
 
 
 
