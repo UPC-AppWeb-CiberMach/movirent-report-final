@@ -668,7 +668,8 @@ cómo se siente nuestro usuario al usar la aplicación, detallando cada paso que
 En esta sección mostramos los empathy mapping de los segmentos realizados con la información recopilada de componentes anteriores.
 
 **Segmento 1 - Owner:**
-<img src="..//assets/chapter-02/empathy-mapping/empathy1.png" alt="Owner">
+
+![EmpathyMappingOwner](https://github.com/user-attachments/assets/009de6d4-2838-4f58-9ac5-13e82c8641a5)
 
 **Segmento 2 - CLient:**
 <img src="..//assets/chapter-02/empathy-mapping/empathy2.png" alt="Client">
