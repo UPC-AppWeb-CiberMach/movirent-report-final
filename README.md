@@ -261,24 +261,71 @@ URL Project Report en Github: https://github.com/UPC-AppWeb-CiberMach/Final-Repo
 
 - [5.4. Video about the product](#54-video-about-the-product)
 
-
-<div style="page-break-before: always;"></div> 
-
 ### [Conclusiones](#conclusiones)
-TB1: Las tareas asignadas para la entrega TB1 se han completado y están documentadas en el siguiente repositorio de Github perteneciente a la organización del equipo:
 
-Durante la preparación del informe, se llevaron a cabo las siguientes actividades:
-- Se escribieron y graficaron los contenidos asignados a cada miembro en formato Markdown, seguido de commits para monitorear el progreso de cada integrante en el repositorio.
-- Se crearon los artefactos necesarios utilizando las herramientas indicadas en el PDF del proyecto.
-- Se organizaron reuniones para asignar las tareas, para coordinar el progreso de los elementos del informe y para comunicar los avances del primer Sprint.
+#### Conclusiones preliminares 
+- TB1: 
+Se logró realizar un trabajo exhaustiva cumpliendo con todos los segmentos del trabajo y una investigación de mercado que permitió identificar 
+las necesidades de los usuarios y las oportunidades de negocio. Se logró entregar un documento que sirve como sustento escrito para comprender 
+los pasos seguidos en la planificación, desarrollo y envío del proyecto desarrollado por el equipo CiberMach.
+Desde la primera semana de clases, el equipo se organizó para cumplir con los entregables de cada semana, realizando reuniones semanales para 
+verficar los cumplimientos de los objetivos y la planificación de las tareas. Se logró una comunicación efectiva entre los miembros del equipo,
+lo que permitió cumplir con los plazos establecidos y realizar un trabajo de calidad.
+
+Nuestro proyecto está enfocado en alquiler de vehiculoos especificamente del Scooter, como equipo vemos la oportunidad de promover el transporte
+urbano con vehiculos ecológicos y de bajo costo, para ello hemos realizado un estudio de mercado y entrevistas a los usuarios para identificar
+las necesidades y oportunidades de negocio.
 
 
-### [Conclusiones y Recomendaciones](#conclusiones-y-recomendaciones)
+### [Recomendaciones](#recomendaciones)
+
+Nuestro contexto actual afronta una serie de problemas en el transporte urbano, como la congestión vehicular, la contaminación ambiental 
+y falta de infraestructura se recomienda analizar y proponer nuevas ideas de soluciones que mejoren la calidad de vida de las personas 
+y promuevan el uso de vehículos ecológicos.
 
 ### [Video about the team](#video-about-the-team)
 
 ### [Bibliografía](#bibliografía)
 
+- El Comercio. (2024, septiembre 2). Noticias sobre tráfico en Lima hoy lunes 02 de septiembre. 
+Recuperado de https://elcomercio.pe/noticias/trafico-en-lima/    [Consulta: 28 de Agosto, 2024].
 
+- Soto Vargas, L. (2024). Sistema de priorización de proyectos viales en Lima Metropolitana utilizando modelo de tráfico de 
+Beckmann y teoría de grafos para mejorar la gestión de proyectos de transporte urbano. 
+Recuperado de https://repositorio.unfv.edu.pe/handle/20.500.13084/8963   [Consulta: 24 de Agosto, 2024].
+
+- Aguirre, C., Canelo, G., & Mendiola, L. (2024). UNA MIRADA HACIA LA MOVILIDAD SOSTENIBLE. 
+Recuperado de https://observatorio.esan.edu.pe/wp-content/uploads/2024/03/Libro-Movilidad-urbana-vfinal.pdf    [Consulta: 24 de Agosto, 2024].
+
+- Fernandez Altamirano, D. H., & Pinto Apaza, L. A. (2024). Propuesta de Diseño de un área de Mobility Hub para 
+evitar la congestión vehicular promoviendo la movilidad sostenible en la zona comercial dentro del nuevo Aeropuerto internacional Jorge Chávez.
+Recuperado de https://repositorioacademico.upc.edu.pe/handle/10757/674637   [Consulta: 24 de Agosto, 2024].
 
 ### [Anexos](#anexos)
+
+Enlaces a los desarrollos de trabajo del equipo CiberMach.
+
+<table>
+	<tbody>
+		<tr>
+			<td>Descripción</td>
+			<td>Enlace</td>
+		</tr>
+		<tr>
+			<td>Entrevistas</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>Organización en GitHub</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>Landing Page</td>
+			<td>https://upc-appweb-cibermach.github.io/Landing-Page/</td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+		</tr>
+	</tbody>
+</table>
