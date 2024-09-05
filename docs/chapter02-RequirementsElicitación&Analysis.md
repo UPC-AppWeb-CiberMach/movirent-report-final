@@ -672,7 +672,8 @@ En esta sección mostramos los empathy mapping de los segmentos realizados con l
 ![EmpathyMappingOwner](https://github.com/user-attachments/assets/009de6d4-2838-4f58-9ac5-13e82c8641a5)
 
 **Segmento 2 - CLient:**
-<img src="..//assets/chapter-02/empathy-mapping/empathy2.png" alt="Client">
+
+![EmpathyMappingClient](https://github.com/user-attachments/assets/731518f8-e10f-4375-9170-59c22997ce49)
 
 ### 2.3.5. As-is Scenario Mapping
 
