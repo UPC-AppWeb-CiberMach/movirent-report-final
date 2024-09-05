@@ -77,7 +77,7 @@ enfatizar aquellos objetos de mayor importancia.
 Además, los métodos de almacenamiento sobre los registros que el usuario final emplea
 siguen una organización secuencial, esto con el objetivo de mejorar la simplicidad y la
 rapidez con la que se almacenan y acceden a ellos. En el caso de nuestro proyecto
-organizaremos se visualizarán la lista de Scooter para los User mientras.
+organizaremos se visualizarán la lista de Scooter.
 
 
 - **Esquemas de categorización de contenido de nuestra web:**
