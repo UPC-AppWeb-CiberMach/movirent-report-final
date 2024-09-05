@@ -359,14 +359,27 @@ Estas estrategias de prueba garantizaron la funcionalidad, la estética y la ada
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
 
-Durante el primer Sprint se logró implementar la landing page con las secciones funcionales, el footer y el diseño responsivo. A continuación se muestra la landing page implementada tanto la version web para escritorio como la version mobile:
+Durante el primer Sprint se logró implementar la landing page con las secciones funcionales, 
+el footer y el diseño responsivo. A continuación se muestra la landing page implementada tanto 
+la version web para escritorio como la version mobile:
 
-![Landing Page](../assets/chapter-05/Execution-Evidence/Landing01.png)
-![Landing Page](../assets/chapter-05/Execution-Evidence/Landing02.png)
-![Landing Page](../assets/chapter-05/Execution-Evidence/Landing03.png)
-![Landing Page](../assets/chapter-05/Execution-Evidence/Landing04.png)
-![Landing Page](../assets/chapter-05/Execution-Evidence/Landing05.png)
-![Landing Page](../assets/chapter-05/Execution-Evidence/Landing06.png)
+Link de nuestra landing page: [Visita nuestro sitio](https://upc-appweb-cibermach.github.io/Landing-Page/)
+
+![landing-page-profile-main](https://github.com/user-attachments/assets/44a12bbc-0016-454e-ac2b-71530823d731)
+Nuestra portada principal de la landing page, donde se muestra una foto de fondo a que nos dedicamos. 
+
+![Quienes-Somos](https://github.com/user-attachments/assets/08ca0d15-e2b5-440c-9547-50744751d648)
+Quienes somos, sección donde se muestra información sobre la empresa y que nos dedicamos.
+
+![Servicios-Movirent](https://github.com/user-attachments/assets/2d4a920e-01a8-491b-925b-c8b630ae0785)
+Servicios, sección donde se muestra los servicios que ofrecemos.
+
+![precios](https://github.com/user-attachments/assets/8b345976-ebf5-4b07-b679-615907a5fbd8)
+Precios, sección donde se muestra los precios de los servicios que ofrecemos.
+
+![Integrantes](https://github.com/user-attachments/assets/bb7c5e88-342f-432f-87b8-5e4a3f3eaa54)
+Integrantes, sección donde se muestra información sobre los integrantes del equipo.
+
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 **No aplica para esta entrega**
