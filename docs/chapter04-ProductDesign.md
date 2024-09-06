@@ -188,9 +188,10 @@ Como sistema de navegación en pantallas desktop optamos emplear una barra de me
 ![LandingPage Movil Wireframes](https://github.com/user-attachments/assets/7c9ba4bf-c956-4609-a2b1-2e5509bdeab3)
 
 ### 4.3.2. Landing Page Mock-up  
-![LandingPage Mockup](https://github.com/user-attachments/assets/0ddd4e79-4b1b-431e-95e2-91cd37d7182d)
+![Landing Page Mockup 1](https://github.com/user-attachments/assets/fb2f4208-709e-4ba0-9a07-c1d5fc008563)
+![Landing Page Mockup 2](https://github.com/user-attachments/assets/96402d9c-4f76-46c6-8801-51ceff1ae758)
 
-![LandingPage Mockup movil](https://github.com/user-attachments/assets/cdd10f2a-b3a7-4650-a542-b32db9b3a02b)
+![LandingPage Mockup movil](https://github.com/user-attachments/assets/4546e3bb-e1aa-444b-bf01-39edce322348)
 
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes  
@@ -227,11 +228,11 @@ Como sistema de navegación en pantallas desktop optamos emplear una barra de me
 
 ### 4.4.3. Web Applications Mock-ups  
 <b>Mockups Web versión desktop</b>  
-![Mockups web 1](https://github.com/user-attachments/assets/0073e3c0-435b-483b-9e7a-03f4d31bf51a)
+![Mockups web1](https://github.com/user-attachments/assets/dabe4247-87ef-4d9b-991a-eec3e651a8c4)
 ![Mockups web 2](https://github.com/user-attachments/assets/3f28e05a-693f-4e48-a867-aab717aa4a52)
 
 <b>Mockups Web versión móvil</b>  
-![Mockups movil 1](https://github.com/user-attachments/assets/a9378be2-1e44-4f0e-96bb-d530f7573c4b)
+![Mockups movil1](https://github.com/user-attachments/assets/0775e370-e8cf-4397-86d1-bf2146cd4c12)
 ![Mockups movil 2](https://github.com/user-attachments/assets/262d6134-47b2-4870-847a-61ded8d4abae)
 ![Mockups movil 3](https://github.com/user-attachments/assets/bc0d70dc-636e-4256-9f67-c8f62f9459c4)
 
