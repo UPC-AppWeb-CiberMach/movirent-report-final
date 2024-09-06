@@ -420,7 +420,32 @@ que la aplicación podría facilitar el pago mediante YAPE y ofrecer promociones
 
 La entrevista concluyó con la posibilidad de mejoras en la aplicación y agradecimientos mutuos.
 
+
 ### Entrevista 3:
+
+Datos del entrevistador:
+* Nombres: Adriana Maria
+* Apellidos: Diestra Zambrano
+
+Datos del entrevistado:
+* Nombres: Jeremy
+* Apellidos: Escudero Garcia
+* Edad: 19
+* Distrito de residencia: Rímac
+* Enlace a la entrevista: [Ver Video](---)
+* Duración de la entrevista: 4:41
+
+<img src="../assets/chapter-02/interviews/Entrevista-Jeremy.png" alt="Imagen Entrevista 1">
+
+**Informe del resumen de la entrevista:**
+
+Jeremy Escudero un joven de 19 años, residente del distrito del Rímac. Actualmente trabaja y estudia. Estudia en la 
+Universidad Nacional Federico Villarreal en la carrera de contabilidad. El navegador que usa con mayor frecuencia es google. 
+Su canal informativo son los noticieros y de entretenimiento los videojuegos. Jeremy es un joven que desea alquilar un scooter 
+para llegar a sus destinos de manera rápida. Considera que las tarifas de los buses es accesible pero se le hace incomodo por 
+la cantidad de gente. Le gustaria alquilar un scooter que sea menor presupuesto de lo que gasta al mes en los buses.
+
+### Entrevista 4:
 
 Datos del entrevistador:
 * Nombres: Roy Linsh
