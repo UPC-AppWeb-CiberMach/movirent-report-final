@@ -218,7 +218,7 @@ Para el desarrollo de la entrega TB1, se opto por dividir el trabajo de la sigui
 |Integrante|Actvidades Asignadas|
 |----------|----------|
 |Espinoza Delgado, Bárbara Antonella | |
-|Velarde Gonzales, Nestor | |
+|Velarde Gonzales, Nestor |Entrevistas Owner, User histories funcionales, Software Configuration Management, Diseño de prototipado para landing en figma |
 |Diestra Zambrano, Adriana María | |
 |Hidalgo Lopez, Mathias Adriano | Entrevista Cliente, User Persona, Empathy Mapping, To-Be Mapping, Impact Mapping  |
 |Jara Benitez, Quique Vladimir |  |
