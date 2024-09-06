@@ -275,7 +275,7 @@ Datos del entrevistado:
 * Enlace a la entrevista: [Ver Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202022365_upc_edu_pe/EZSdPhz59ytBr7yjIHvAProBDVrmA4ru6q7oZv2RxS74Ww?e=a118uE&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 * Duración de la entrevista: 5:51
 
-<img src="../assets/chapter-02/interviews/entrevista-David.png" alt="Entrevista David">
+![entrevista-David](https://github.com/user-attachments/assets/5a091cd9-7b13-47b8-bdc3-69c7e3d485ea)
 
 **Informe del resumen de la entrevista:**
 David Beltrán un joven de 23 años, residente de San Borja. Actualmente trabaja en el sector
@@ -308,7 +308,7 @@ Datos del entrevistado:
 * Enlace a la entrevista: [Ver Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c221_upc_edu_pe/EcJxI89tEyVKqjwAXpUzEfQBPCIByK7wqXOgZCX6WY3K_g?e=PHNrCW)
 * Duración de la entrevista: 5:55
 
-<img src="../assets/chapter-02/interviews/Entrevista-Owner.png" alt="Entrevista David">
+![Entrevista-Owner](https://github.com/user-attachments/assets/6f9e6d0e-6549-45d9-999e-c9a7b9f93102)
 
 **Informe del resumen de la entrevista:**
 
@@ -403,7 +403,7 @@ Datos del entrevistado:
 * Enlace a la entrevista: [Ver Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b778_upc_edu_pe/ESrNi2J7CPxCmG1crP6I85gBDxv_9VtZJzbnSfIrn9WDqA?e=5e70nZ)
 * Duración de la entrevista: 7:58
 
-<img src="../assets/chapter-02/interviews/Entrevista-Maryori.png" alt="Imagen Entrevista 1">
+![Entrevista-Maryori](https://github.com/user-attachments/assets/8f9a9323-a165-4aeb-a300-bc71f0921720)
 
 **Informe del resumen de la entrevista:**
 Maryori Atanacio Cruces, una joven de 23 años, residente de San Juan de Lurigancho. Actualmente es
@@ -435,7 +435,7 @@ Datos del entrevistado:
 * Enlace a la entrevista: [Ver Video](---)
 * Duración de la entrevista: 4:41
 
-<img src="..//assets/chapter-02/Entrevista Cliente.png" alt="Imagen Entrevista 1">
+<img src="../assets/chapter-02/interviews/Entrevista-Jeremy.png" alt="Imagen Entrevista 1">
 
 **Informe del resumen de la entrevista:**
 
@@ -455,7 +455,7 @@ Datos del entrevistado:
 * Enlace a la entrevista: [Ver Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b778_upc_edu_pe/ESYHQW3mA-hDq81S5Vbto-ABpfXj_7VY_dmt5rjmBeJ-Rw?e=YpnHj6&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 * Duración de la entrevista: 7:21
 
-<img src="../assets/chapter-02/interviews/Entrevista Jefrey.png" alt="Imagen Entrevista 1">
+![Entrevista Jefrey](https://github.com/user-attachments/assets/e69fbef0-23bb-443e-9ee7-5c646f5a539f)
 
 **Informe del resumen de la entrevista:**
 Jefrey Prado, es un joven de 23 años, residente de San Juan de Lurigancho. Actualmente es
@@ -529,10 +529,12 @@ Los user persona que se muestran a continuación, fueron realizados a partir de 
 Estos nos ayudarán a describir de forma general nuestro segmento objetivo.
 
 **Segmento 1 - Owner:**
-<img src="..//assets/chapter-02/user-persona/MarcosRivera.png" alt="Imagen User Persona 1">
+
+![MarcosRivera](https://github.com/user-attachments/assets/b968f34b-3c2a-40bd-b950-13c07f5b1413)
 
 **Segmento 2 - Client:**
-<img src="..//assets/chapter-02/user-persona/JuanLopez.png" alt="Imagen User Persona 2">
+
+![JuanLopez](https://github.com/user-attachments/assets/4871a91c-b6f7-4000-9201-f081e4954a10)
 
 ### 2.3.2. User Task Matrix
 
@@ -686,20 +688,24 @@ En esta sección se presentan los User Journey Mapping de los segmentos, que rea
 cómo se siente nuestro usuario al usar la aplicación, detallando cada paso que realiza y las emociones que experimenta.
 
 **Segmento 1 - Owner:**   
-<img src="..//assets/chapter-02/user-journey-mapping/Customer-journey-map-1.png" alt="Owner">
+
+![Customer-journey-map-1](https://github.com/user-attachments/assets/336994de-80fc-4925-aa9b-b79c0a110560)
 
 **Segmento 2 - Client:**   
-<img src="..//assets/chapter-02/user-journey-mapping/Customer-journey-map-2.png" alt="Client">
+
+![Customer-journey-map-2](https://github.com/user-attachments/assets/42345b92-8d4e-4966-9783-be037498c77d)
 
 ### 2.3.4. Empathy Mapping
 
 En esta sección mostramos los empathy mapping de los segmentos realizados con la información recopilada de componentes anteriores.
 
 **Segmento 1 - Owner:**
-<img src="..//assets/chapter-02/empathy-mapping/empathy1.png" alt="Owner">
+
+![EmpathyMappingOwner](https://github.com/user-attachments/assets/009de6d4-2838-4f58-9ac5-13e82c8641a5)
 
 **Segmento 2 - CLient:**
-<img src="..//assets/chapter-02/empathy-mapping/empathy2.png" alt="Client">
+
+![EmpathyMappingClient](https://github.com/user-attachments/assets/731518f8-e10f-4375-9170-59c22997ce49)
 
 ### 2.3.5. As-is Scenario Mapping
 
@@ -709,10 +715,12 @@ para conseguir los As-is Scenario Mapping de los tres segmentos.
 objetivos.
 
 **Segmento 1 - Owner**  
-<img src="..//assets/chapter-02/scenario-mapping/As-Is-Owner.jpg" alt="As-IS Scenario Mapping 1">
+
+![As-Is-Owner](https://github.com/user-attachments/assets/35c3e964-56f8-478f-ac4e-e5f7a006ba9f)
 
 **Segmento 2 - Client**  
-<img src="..//assets/chapter-02/scenario-mapping/As-Is-Client.jpg" alt="As-IS Scenario Mapping 2">
+
+![As-Is-Client](https://github.com/user-attachments/assets/7a902ad9-9495-47c6-a690-e6a0db19a86f)
 
 </div> 
 
