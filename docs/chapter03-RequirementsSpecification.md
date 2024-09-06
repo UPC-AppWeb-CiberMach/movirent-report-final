@@ -172,7 +172,7 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
     <tr>
         <td>US06</td>
         <td> Landing Page Responsiva a diferentes tamaños de pantalla </td>
-        <td><b>Cómo</b> visitante interesado 
+        <td><b>Como</b> visitante interesado 
         <b>Quiero</b> que la landing page tenga un diseño responsivo
         <b>Para</b> acceder a ella desde cualquier dispositivo.</td>
         <td>
@@ -190,7 +190,7 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
     <tr>
         <td>US07</td>
         <td>Acceder a la aplicación desde la landing page </td>
-        <td><b>Cómo</b> visitante de la landing page 
+        <td><b>Como</b> visitante de la landing page 
         <b>Quiero</b> poder acceder a la aplicación MoviRent desde la landing page
         <b>Para</b> comenzar a utilizar las funcionalidades ofrecidas</td>
         <td>
@@ -208,7 +208,7 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
     <tr>
         <td>US08</td>
         <td>Registrar usuario</td>
-        <td><b>Cómo</b> visitante de la aplicación web de MoviRent
+        <td><b>Como</b> visitante de la aplicación web de MoviRent
         <b>Quiero</b> poder crear una cuenta personal
         <b>Para</b> comenzar a hacer uso de la aplicación como Owner/Cliente.</td>
         <td>
@@ -226,7 +226,7 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
     <tr>
         <td>US09</td>
         <td>Iniciar sesión</td>
-        <td><b>Cómo</b> Owner/Cliente de MoviRent 
+        <td><b>Como</b> Owner/Cliente de MoviRent 
         <b>Quiero</b> iniciar sesión
         <b>Para</b> acceder a los beneficios que ofrece la aplicación.</td>
         <td>
@@ -244,7 +244,7 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
     <tr>
         <td>US10</td>
         <td>Visualizar perfil de usuario</td>
-        <td><b>Cómo</b> Owner/Cliente de MoviRent 
+        <td><b>Como</b> Owner/Cliente de MoviRent 
         <b>Quiero</b> visualizar mi perfil personal 
         <b>Para</b> visualizar mis datos actuales</td>
         <td>
@@ -262,7 +262,7 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
     <tr>
         <td>US11</td>
         <td>Cambiar datos personales </td>
-        <td><b>Cómo</b> Owner/Cliente de MoviRent 
+        <td><b>Como</b> Owner/Cliente de MoviRent 
         <b>Quiero</b> cambiar los datos asociados a mi perfil
         <b>Para</b> actualizar la información</td>
         <td>
@@ -300,7 +300,7 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
     <tr>
         <td>US12</td>
         <td>Eliminar cuenta de usuario</td>
-        <td><b>Cómo</b> Owner/Cliente de MoviRent 
+        <td><b>Como</b> Owner/Cliente de MoviRent 
         <b>Quiero</b> eliminar mi cuenta de usuario
         <b>Para</b> dejar de usar los servicios de la aplicación</td>
         <td>
@@ -318,7 +318,7 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
     <tr>
         <td>US13</td>
         <td>Publicar scooter en alquiler</td>
-        <td><b>Cómo</b> Owner de un scooter eléctrico  
+        <td><b>Como</b> Owner de un scooter eléctrico  
         <b>Quiero</b> crear publicaciones con la información y especificaciones de mi scooter
         <b>Para</b> que pueda ser alquilado por un cliente</td>
         <td>
@@ -341,7 +341,7 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
     <tr>
         <td>US14</td>
         <td>Visualizar un scooter en alquiler</td>
-        <td><b>Cómo</b> Owner de un scooter eléctrico 
+        <td><b>Como</b> Owner de un scooter eléctrico 
         <b>Quiero</b> visualizar las publicaciones con la información y especificaciones de mi scooter
         <b>Para</b> verificar que toda la información ingresada es correcta y actualizada.</td>
         <td>
@@ -359,7 +359,7 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
     <tr>
         <td>US15</td>
         <td>Editar Scooter en alquiler</td>
-        <td><b>Cómo</b> Owner de un scooter eléctrico 
+        <td><b>Como</b> Owner de un scooter eléctrico 
         <b>Quiero</b> editar la publicación de mi scooter
         <b>Para</b> que la información proporcionada a los clientes esté siempre actualizada.</td>
         <td>
@@ -382,7 +382,7 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
     <tr>
         <td>US16</td>
         <td>Eliminar scooter en alquiler</td>
-        <td><b>Cómo</b> Owner 
+        <td><b>Como</b> Owner 
         <b>Quiero</b> eliminar un scooter en alquiler
         <b>Para</b> mantener la integridad de la información almacenada.</td>
         <td>
@@ -400,7 +400,7 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
     <tr>
         <td>US17</td>
         <td>Búsqueda de scooters cercano</td>
-        <td><b>Cómo</b> cliente de MoviRent 
+        <td><b>Como</b> cliente de MoviRent 
         <b>Quiero</b> poder buscar scooters disponibles en mi distrito
         <b>Para</b> facilitar mi desplazamiento.</td>
         <td>
@@ -418,7 +418,7 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
     <tr>
         <td>US18</td>
         <td>Alquiler Scooter</td>
-        <td><b>Cómo</b> Cliente de MoviRent
+        <td><b>Como</b> Cliente de MoviRent
         <b>Quiero</b> alquilar un scooter
         <b>Para</b> llegar rápido a mi destino.</td>
         <td>
@@ -441,7 +441,7 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
     <tr>
         <td>US19</td>
         <td>Calificación y reseñas</td>
-        <td><b>Cómo</b> cliente de MoviRent
+        <td><b>Como</b> cliente de MoviRent
         <b>Quiero</b> poder calificar y dejar reseñas sobre mi experiencia con scooters utilizados y la zona donde los tomé
         <b>Para</b> ayudar a otros usuarios a tomar decisiones informadas.</td>
         <td>
@@ -459,7 +459,7 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
     <tr>
         <td>US20</td>
         <td>Visualizar historial de scooters alquilados</td>
-        <td><b>Cómo</b> Cliente de MoviRent
+        <td><b>Como</b> Cliente de MoviRent
         <b>Quiero</b> visualizar mi historial de scooters alquilados
         <b>Para</b> acceder fácilmente a su información</td>
         <td>
@@ -477,7 +477,7 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
     <tr>
         <td>US21</td>
         <td>Borrar historial de scooters alquilados</td>
-        <td><b>Cómo</b> Cliente de MoviRent
+        <td><b>Como</b> Cliente de MoviRent
         <b>Quiero</b> o borrar mi historial de scooters alquilados
         <b>Para</b> ya no tener información que considere innecesaria. </td>
         <td>
@@ -495,7 +495,7 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
     <tr>
         <td>US22</td>
         <td>Adquirir plan</td>
-        <td><b>Cómo</b> Cliente de MoviRent 
+        <td><b>Como</b> Cliente de MoviRent 
         <b>Quiero</b> Comprar un plan
         <b>Para</b> acceder a sus beneficios al usar la aplicación. </td>
         <td>
@@ -523,7 +523,7 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
     <tr>
         <td>US23</td>
         <td>Cancelar suscripción </td>
-        <td><b>Cómo</b> Cliente de MoviRent
+        <td><b>Como</b> Cliente de MoviRent
         <b>Quiero</b> cancelar mi suscripción
         <b>Para</b> ya no seguir teniendo cobros de esta. </td>
         <td>
@@ -540,26 +540,127 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
     </tr>
     <tr>
         <td>TS01</td>
-        <td>Acceso a endpoints </td>
-        <td><b>Cómo</b> Desarrollador de MoviRent
-        <b>Quiero</b> contar con acceso a los endpoints
-        <b>Para</b> poder realizar pruebas en la funcionalidad
-        <b>Y</b> corregir errores.</td>
+        <td>Endpoint User </td>
+        <td><b>Como</b> desarrollador de MoviRent
+        <b>Quiero</b> hacer uso del endpoint /user
+        <b>Para</b> gestionar los datos de los usuarios
         <td>
-            <b>Scenario 1: Desarrollador accede a la interfaz de swagger</b> <br/>
-            <b>Dado que</b> el desarrollador se encuentra en el apartado de swagger <br>
-            <b>Cuando</b> el desarrollador quiera probar las funcionalidades del servicio<br/>
-            <b>Entonces</b> el desarrollador observa el acceso a los endpoints.<br/>
+            <b>Scenario 1: Solicitud GET exitosa</b> <br/>
+            <b>Dado que</b> el desarrollador hace una solicitud GET al endpoint /user<br>
+            <b>Cuando</b> existan registros de usuarios disponibles<br/>
+            <b>Entonces</b> el desarrollador recibe una respuesta 200 OK con una lista de usuarios.<br/>
             <br>
-            <b>Scenario 2: Desarrollador realiza una petición al servicio de MoviRent</b> <br/>
-            <b>Dado que</b> el desarrollador acaba de realizar una petición al servicio de MoviRent desde la plataforma swagger <br>
-            <b>Cuando</b> el desarrollador requiera probar las peticiones en el servicio<br/>
-            <b>Entonces</b>el desarrollador observa la respuesta de la petición solicitada.<br/>
+            <b>Scenario 2: Solicitud POST exitosa</b> <br/>
+            <b>Dado que</b> el desarrollador quiere crear un nuevo usuario<br>
+            <b>Cuando</b> los datos del usuario sean válidos y completos<br/>
+            <b>Entonces</b> el desarrollador recibe una respuesta 201 Created con los detalles del usuario creado<br/>
             <br>
-            <b>Scenario 3: Desarrollador recibe una respuesta de error desde el servicio de MoviRent</b> <br/>
-            <b>Dado que</b> el desarrollador acaba de realizar una petición al servicio de MoviRent desde la plataforma swagger <br>
-            <b>Cuando</b> el desarrollador reciba una respuesta de error<br/>
-            <b>Entonces</b> el desarrollador podrá notificar al equipo de desarrollo sobre el problema en la petición.<br/>
+            <b>Scenario 3: Solicitud PUT exitosa</b> <br/>
+            <b>Dado que</b> el desarrollador quiera actualizar un usuario existente <br>
+            <b>Cuando</b> el usuario con el ID proporcionado exista<br/>
+            <b>Entonces</b> el desarrollador recibe una respuesta 200 OK con los detalles del usuario actualizado.<br/>
+            <b>Scenario 4: Solicitud DELETE exitosa</b> <br/>
+            <b>Dado que</b> el desarrollador quiera eliminar un usuario<br>
+            <b>Cuando</b> el usuario con el ID proporcionado exista<br/>
+            <b>Entonces</b> el desarrollador recibe una respuesta 200 OK confirmando la eliminación.<br/>
+            <br>
+            <b>Scenario 5: Solicitud GET fallida</b> <br/>
+            <b>Dado que</b> el desarrollador hace una solicitud GET al endpoint /users<br>
+            <b>Cuando</b> no existan registros de usuarios<br/>
+            <b>Entonces</b> el desarrollador recibe una respuesta 404 Not Found.<br/>
+            <br>
+            <b>Scenario 6: Solicitud POST fallida</b> <br/>
+            <b>Dado que</b> el desarrollador quiere crear un nuevo usuario<br>
+            <b>Cuando</b> los datos del usuario estén incompletos o no sean válidos<br/>
+            <b>Entonces</b> el desarrollador recibe una respuesta 400 Bad Request.<br/>
+            <br>
+            <b>Scenario 7: Solicitud PUT fallida</b> <br/>
+            <b>Dado que</b> el desarrollador quiera actualizar un usuario <br>
+            <b>Cuando</b> el usuario con el ID proporcionado no exista<br/>
+            <b>Entonces</b> el desarrollador recibe una respuesta 404 Not Found.<br/>
+            <br>
+            <b>Scenario 8: Solicitud DELETE fallida</b> <br/>
+            <b>Dado que</b> el desarrollador quiera eliminar un usuario<br>
+            <b>Cuando</b> el usuario con el ID proporcionado no exista<br/>
+            <b>Entonces</b> el desarrollador recibe una respuesta 404 Not Found.<br/>
+            <br>
+        <td>EP07</td>
+    </tr>
+    <tr>
+        <td>TS02</td>
+        <td>Endpoint Scooter </td>
+        <td><b>Como</b> desarrollador de MoviRent
+        <b>Quiero</b> hacer uso del endpoint /scooter
+        <b>Para</b> gestionar los datos de los scooters
+        <td>
+            <b>Scenario 1: Solicitud GET exitosa</b> <br/>
+            <b>Dado que</b> desarrollador hace una solicitud GET al endpoint /scooter<br>
+            <b>Cuando</b> existan registros de scooters disponibles<br/>
+            <b>Entonces</b> el desarrollador recibe una respuesta 200 OK con una lista de scooters<br/>
+            <br>
+            <b>Scenario 2: Solicitud POST exitosa</b> <br/>
+            <b>Dado que</b> el desarrollador quiere crear un nuevo scooter<br>
+            <b>Cuando</b> los datos del scooter sean válidos y completos<br/>
+            <b>Entonces</b> el desarrollador recibe una respuesta 201 Created con los detalles del scooter creado<br/>
+            <br>
+            <b>Scenario 3: Solicitud PUT exitosa</b> <br/>
+            <b>Dado que</b> el desarrollador quiera actualizar un scooter existente <br>
+            <b>Cuando</b> el scooter con el ID proporcionado exista<br/>
+            <b>Entonces</b> el desarrollador recibe una respuesta 200 OK con los detalles del scooter actualizado.<br/>
+            <b>Scenario 4: Solicitud DELETE exitosa</b> <br/>
+            <b>Dado que</b> el desarrollador quiera eliminar un scooter<br>
+            <b>Cuando</b> el scooter con el ID proporcionado exista<br/>
+            <b>Entonces</b> el desarrollador recibe una respuesta 200 OK confirmando la eliminación.<br/>
+            <br>
+            <b>Scenario 5: Solicitud GET fallida</b> <br/>
+            <b>Dado que</b> el desarrollador hace una solicitud GET al endpoint /scooter<br>
+            <b>Cuando</b> no existan registros de scooter<br/>
+            <b>Entonces</b> el desarrollador recibe una respuesta 404 Not Found.<br/>
+            <br>
+            <b>Scenario 6: Solicitud POST fallida</b> <br/>
+            <b>Dado que</b> el desarrollador quiere crear un nuevo scooter<br>
+            <b>Cuando</b> los datos del scooter estén incompletos o no sean válidos<br/>
+            <b>Entonces</b> el desarrollador recibe una respuesta 400 Bad Request.<br/>
+            <br>
+            <b>Scenario 7: Solicitud PUT fallida</b> <br/>
+            <b>Dado que</b> el desarrollador quiera actualizar un scooter <br>
+            <b>Cuando</b> el scooter con el ID proporcionado no exista<br/>
+            <b>Entonces</b> el desarrollador recibe una respuesta 404 Not Found.<br/>
+            <br>
+            <b>Scenario 8: Solicitud DELETE fallida</b> <br/>
+            <b>Dado que</b> el desarrollador quiera eliminar un scooter<br>
+            <b>Cuando</b> el scooter con el ID proporcionado no exista<br/>
+            <b>Entonces</b> el desarrollador recibe una respuesta 404 Not Found.<br/>
+            <br>
+        <td>EP07</td>
+    </tr>
+    <tr>
+        <td>TS03</td>
+        <td>Endpoint Historial </td>
+        <td><b>Cómo</b> desarrollador de MoviRent
+        <b>Quiero</b> hacer uso del endpoint /historial
+        <b>Para</b> gestionar los datos de los historiales.
+        <td>
+            <b>Scenario 1: Solicitud GET exitosa</b> <br/>
+            <b>Dado que</b> el desarrollador hace una solicitud GET al endpoint /historial<br>
+            <b>Cuando</b> existan registros de historiales disponibles<br/>
+            <b>Entonces</b> el desarrollador recibe una respuesta 200 OK con una lista de historiales<br/>
+            <br>
+            <b>Scenario 2: Solicitud DELETE exitosa</b> <br/>
+            <b>Dado que</b> el desarrollador quiera eliminar un historial<br>
+            <b>Cuando</b> el historial con el ID proporcionado exista<br/>
+            <b>Entonces</b>el desarrollador recibe una respuesta 200 OK confirmando la eliminación.<br/>
+            <br>
+            <b>Scenario 3: Solicitud GET fallida</b> <br/>
+            <b>Dado que</b> el desarrollador hace una solicitud GET al endpoint /historial<br>
+            <b>Cuando</b> no existan registros de historiales<br/>
+            <b>Entonces</b> el desarrollador recibe una respuesta 404 Not Found.<br/>
+            <br>
+            <b>Scenario 4: Solicitud DELETE fallida</b> <br/>
+            <b>Dado que</b> el desarrollador quiera eliminar un historial<br>
+            <b>Cuando</b>el historial con el ID proporcionado no exista<br/>
+            <b>Entonces</b> el desarrollador recibe una respuesta 404 Not Found.<br/>
+            <br>
         <td>EP07</td>
     </tr>
 </table>
@@ -637,77 +738,77 @@ En este apartado se muestra los impact mapping de nuestros segmentos objetivos:
     <td valign="top"> 07 </td>
     <td valign="top"> US07 </td>
     <td valign="top"> Acceder a la aplicación desde la landing page </td>
-    <td valign="top"> Cómo visitante de la landing page Quiero poder acceder a la aplicación MoviRent desde la landing page Para comenzar a utilizar las funcionalidades ofrecidas </td>
+    <td valign="top"> Como visitante de la landing page Quiero poder acceder a la aplicación MoviRent desde la landing page Para comenzar a utilizar las funcionalidades ofrecidas </td>
     <td valign="top"> 3 </td>
   </tr>
   <tr>
     <td valign="top"> 08 </td>
     <td valign="top"> US08 </td>
     <td valign="top"> Registrar usuario </td>
-    <td valign="top"> Cómo visitante de la aplicación web de MoviRent Quiero poder crear una cuenta personal Para comenzar a hacer uso de la aplicación como Owner/Cliente. </td>
+    <td valign="top"> Como visitante de la aplicación web de MoviRent Quiero poder crear una cuenta personal Para comenzar a hacer uso de la aplicación como Owner/Cliente. </td>
     <td valign="top"> 3 </td>
   </tr>
   <tr>
     <td valign="top"> 09 </td>
     <td valign="top"> US09 </td>
     <td valign="top"> Iniciar sesión </td>
-    <td valign="top"> Cómo Owner/Cliente de MoviRent Quiero iniciar sesión Para acceder a los beneficios que ofrece la aplicación.</td>
+    <td valign="top"> Como Owner/Cliente de MoviRent Quiero iniciar sesión Para acceder a los beneficios que ofrece la aplicación.</td>
     <td valign="top"> 5 </td>
   </tr>
   <tr>
     <td valign="top"> 10 </td>
     <td valign="top"> US10 </td>
     <td valign="top"> Visualizar perfil de usuario </td>
-    <td valign="top"> Cómo Owner/Cliente de MoviRent Quiero visualizar mi perfil personal Para visualizar mis datos actuales.</td>
+    <td valign="top"> Como Owner/Cliente de MoviRent Quiero visualizar mi perfil personal Para visualizar mis datos actuales.</td>
     <td valign="top"> 5 </td>
   </tr>
   <tr>
     <td valign="top"> 11 </td>
     <td valign="top"> US11 </td>
     <td valign="top"> Cambiar datos personales </td>
-    <td valign="top"> Cómo Owner/Cliente de MoviRent Quiero cambiar los datos asociados a mi perfil Para actualizar la información. </td>
+    <td valign="top"> Como Owner/Cliente de MoviRent Quiero cambiar los datos asociados a mi perfil Para actualizar la información. </td>
     <td valign="top"> 3 </td>
   </tr>
   <tr>
     <td valign="top"> 12 </td>
     <td valign="top"> US12 </td>
     <td valign="top"> Eliminar cuenta de usuario </td>
-    <td valign="top"> Cómo Owner/Cliente de MoviRent Quiero eliminar mi cuenta de usuario Para dejar de usar los servicios de la aplicación. </td>
+    <td valign="top"> Como Owner/Cliente de MoviRent Quiero eliminar mi cuenta de usuario Para dejar de usar los servicios de la aplicación. </td>
     <td valign="top"> 3 </td>
   </tr>
   <tr>
     <td valign="top"> 13 </td>
     <td valign="top"> US13 </td>
     <td valign="top"> Publicar scooter en alquiler </td>
-    <td valign="top"> Cómo Owner de un scooter eléctrico Quiero crear publicaciones con la información y especificaciones de mi scooter Para que pueda ser alquilado por un cliente. </td>
+    <td valign="top"> Como Owner de un scooter eléctrico Quiero crear publicaciones con la información y especificaciones de mi scooter Para que pueda ser alquilado por un cliente. </td>
     <td valign="top"> 5 </td>
   </tr>
   <tr>
     <td valign="top"> 14 </td>
     <td valign="top"> US14 </td>
     <td valign="top"> Visualizar un scooter en alquiler </td>
-    <td valign="top"> Cómo Owner de un scooter eléctrico Quiero visualizar las publicaciones con la información y especificaciones de mi scooter Para verificar que toda la información ingresada es correcta y actualizada.</td>
+    <td valign="top"> Como Owner de un scooter eléctrico Quiero visualizar las publicaciones con la información y especificaciones de mi scooter Para verificar que toda la información ingresada es correcta y actualizada.</td>
     <td valign="top"> 3 </td>
   </tr>
   <tr>
     <td valign="top"> 15 </td>
     <td valign="top"> US15 </td>
     <td valign="top"> Editar Scooter en alquiler </td>
-    <td valign="top"> Cómo Owner de un scooter eléctrico Quiero editar la publicación de mi scooter Para que la información proporcionada a los clientes esté siempre actualizada. </td>
+    <td valign="top"> Como Owner de un scooter eléctrico Quiero editar la publicación de mi scooter Para que la información proporcionada a los clientes esté siempre actualizada. </td>
     <td valign="top"> 3 </td>
   </tr>
   <tr>
     <td valign="top"> 16 </td>
     <td valign="top"> US16 </td>
     <td valign="top"> Eliminar scooter en alquiler </td>
-    <td valign="top"> Cómo Owner Quiero eliminar un scooter en alquiler Para mantener la integridad de la información almacenada. </td>
+    <td valign="top"> Como Owner Quiero eliminar un scooter en alquiler Para mantener la integridad de la información almacenada. </td>
     <td valign="top"> 3 </td>
   </tr>
     <tr>
     <td valign="top"> 17 </td>
     <td valign="top"> US17 </td>
     <td valign="top"> Búsqueda de scooters cercano </td>
-    <td valign="top"> Cómo cliente de MoviRent Quiero poder buscar scooters disponibles en mi distrito Para facilitar mi desplazamiento. </td>
+    <td valign="top"> Como cliente de MoviRent Quiero poder buscar scooters disponibles en mi distrito Para facilitar mi desplazamiento. </td>
     <td valign="top"> 8 </td>
   </tr>
       <tr>   
@@ -715,47 +816,65 @@ En este apartado se muestra los impact mapping de nuestros segmentos objetivos:
     <td valign="top"> 18 </td>
     <td valign="top"> US18 </td>
     <td valign="top"> Alquiler Scooter </td>
-    <td valign="top"> Cómo Cliente de MoviRent Quiero alquilar un scooter Para llegar rápido a mi destino.</td>
+    <td valign="top"> Como Cliente de MoviRent Quiero alquilar un scooter Para llegar rápido a mi destino.</td>
     <td valign="top"> 5 </td>
   </tr>
    <tr>
     <td valign="top"> 19 </td>
     <td valign="top"> US19 </td>
     <td valign="top"> Calificación y reseñas </td>
-    <td valign="top"> Cómo cliente de MoviRent Quiero poder calificar y dejar reseñas sobre mi experiencia con scooters utilizados y la zona donde los tomé Para ayudar a otros usuarios a tomar decisiones informadas.</td>
+    <td valign="top"> Como cliente de MoviRent Quiero poder calificar y dejar reseñas sobre mi experiencia con scooters utilizados y la zona donde los tomé Para ayudar a otros usuarios a tomar decisiones informadas.</td>
     <td valign="top"> 3 </td>
   </tr>
   <tr>
     <td valign="top"> 20 </td>
     <td valign="top"> US20 </td>
     <td valign="top"> Visualizar historial de scooters alquilados </td>
-    <td valign="top"> Cómo Cliente de MoviRent Quiero visualizar mi historial de scooters alquilados Para acceder fácilmente a su información. </td>
+    <td valign="top"> Como Cliente de MoviRent Quiero visualizar mi historial de scooters alquilados Para acceder fácilmente a su información. </td>
     <td valign="top"> 5 </td>
   </tr>
       <tr>
     <td valign="top"> 21 </td>
     <td valign="top"> US21 </td>
     <td valign="top"> Borrar historial de scooters alquilados </td>
-    <td valign="top"> Cómo Cliente de MoviRent Quiero o borrar mi historial de scooters alquilados Para ya no tener información que considere innecesaria.</td>
+    <td valign="top"> Como Cliente de MoviRent Quiero o borrar mi historial de scooters alquilados Para ya no tener información que considere innecesaria.</td>
     <td valign="top"> 3 </td>
   </tr>
       <tr>
     <td valign="top"> 22 </td>
     <td valign="top"> US22 </td>
     <td valign="top"> Adquirir plan </td>
-    <td valign="top"> Cómo Cliente de MoviRent Quiero Comprar un plan Para acceder a sus beneficios al usar la aplicación.</td>
+    <td valign="top"> Como Cliente de MoviRent Quiero Comprar un plan Para acceder a sus beneficios al usar la aplicación.</td>
     <td valign="top"> 5 </td>
   </tr>
       <tr>
     <td valign="top"> 23 </td>
     <td valign="top"> US23 </td>
     <td valign="top"> Cancelar suscripción </td>
-    <td valign="top"> Cómo Cliente de MoviRent Quiero cancelar mi suscripción Para ya no seguir teniendo cobros de esta.</td>
+    <td valign="top"> Como Cliente de MoviRent Quiero cancelar mi suscripción Para ya no seguir teniendo cobros de esta.</td>
     <td valign="top"> 3 </td>
   </tr>
-      
-
-
+     <tr>
+    <td valign="top"> 24 </td>
+    <td valign="top"> TS01 </td>
+    <td valign="top"> Endpoint User </td>
+    <td valign="top"> Como desarrollador de MoviRent Quiero hacer uso del endpoint /user Para gestionar los datos de los usuarios.</td>
+    <td valign="top"> 8 </td>
+  </tr> 
+  <tr>
+    <td valign="top"> 25 </td>
+    <td valign="top"> TS02 </td>
+    <td valign="top"> Endpoint Scooter </td>
+    <td valign="top"> Como desarrollador de MoviRent Quiero hacer uso del endpoint /scooter Para gestionar los datos de los scooters</td>
+    <td valign="top"> 8 </td>
+  </tr> 
+  <tr>
+    <td valign="top"> 26 </td>
+    <td valign="top"> TS03 </td>
+    <td valign="top"> Endpoint Historial </td>
+    <td valign="top"> Como desarrollador de MoviRent Quiero hacer uso del endpoint /historial Para gestionar los datos de los historiales</td>
+    <td valign="top"> 8 </td>
+  </tr> 
 </table>
 
 ---
