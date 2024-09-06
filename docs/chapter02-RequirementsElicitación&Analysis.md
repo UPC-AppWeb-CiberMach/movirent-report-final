@@ -531,10 +531,35 @@ importancia de integrar funciones de transparencia y confianza en la aplicación
 
 **Segmento 2: Cliente**
 
-De las entrevistas realizadas se obtuvo que el 100% de los participantes gasta más de 100 soles  mensuales en 
-transporte público. Asimismo, mencionaron que sus mayores desafíos durante sus viajes son los tiempos largos que 
-toma la congestión vehicular en la ciudad. El 100% muestra cierto interés en un servicio de alquiler de vehículos 
-menores y el 66.66% estaría dispuesto a pagar por el servicio.
+Interés equilibrado en la demanda por parte de personas que viven en zonas relativamente céntricas, lo cual es positivo, ya que estas áreas tienden a tener más demanda de transporte rápido y eficiente para evitar el tráfico. 
+![analysis-client-N1](https://github.com/user-attachments/assets/f88abe06-a168-4ca6-bd8f-f611c5482883)
+
+El 100% de usuarios tienen un rango de 18-23 años, esto sugiere que los scooters pueden atraer mayormente a un público joven. Este grupo demográfico valora el ahorro de tiempo y la eficiencia en sus desplazamientos diarios.
+El 75% son estudiantes y el 25% trabaja en ventas. Esto indica que el servicio podría enfocarse en estudiantes que buscan alternativas económicas y rápidas para movilizarse, así como en personas que requieren moverse con frecuencia por temas laborales
+![analysis-client-N2](https://github.com/user-attachments/assets/e824cc61-8985-4ff6-85d8-6e902696710b)
+
+La mayoria prefiere usar móviles en lugar de PC, lo que destaca la importancia de tener una aplicación móvil amigable y accesible para el servicio de alquiler. La preferencia por android y windows indica que la aplicación de alquiler de scooters debe ser optimizada para estos sistemas operativos para mejorar la experiencia del usuario.
+![analysis-client-N3](https://github.com/user-attachments/assets/2903a72f-e3db-4799-8417-87504f9aad9a)
+
+Con el 75% prefiriendo Lenovo, es importante que el diseño y la calidad del servicio reflejen los altos estándares asociados con esta marca, para alinearse con las expectativas de los usuarios. 
+Asimismo, el 75 porciento usa chrome como navegador web, lo que sugiere que la aplicación de alquiler de scooters debe ser compatible con este navegador para garantizar una experiencia de usuario óptima.
+![analysis-client-N4](https://github.com/user-attachments/assets/c11fdc1d-98ce-4557-b984-24e225e686fc)
+
+El 75% de los encuestados prefiere Instagram, esta plataforma debería ser un canal clave para la promoción del servicio de alquiler de scooters. Por otro lado, el 100% usa autobuses para trasladarse. Esto sugiere que los scooters pueden ser una alternativa atractiva frente al transporte público, especialmente para evitar los largos tiempos de espera y el tráfico.
+![analysis-client-N5](https://github.com/user-attachments/assets/e0b8a28d-7ed7-4dc4-a396-41f92877eee7)
+
+El 75% de los encuestados pasa más de 120 minutos en transporte al día. El 50% gasta entre 50 y 80 soles al mes, lo cual implica que los scooters deben ser una opción competitiva en precio para atraer a este grupo. Mantener tarifas que no excedan significativamente este rango puede facilitar la adopción del servicio.
+![analysis-client-N6](https://github.com/user-attachments/assets/541cc9b0-a931-455c-96a5-15a8cb26de8b)
+
+El 50% dio una calificación de 3 sobre 5, lo que indica que hay espacio para mejorar la experiencia de transporte de estos clientes. El 75% calificó la idea de un servicio alternativo con un 4 sobre 5, lo que sugiere una buena predisposición hacia el uso de scooters si se presenta como una opción viable y cómoda para sus desplazamientos.
+![analysis-client-N7](https://github.com/user-attachments/assets/24ba2e09-52d3-4da8-a917-1c671b24744f)
+
+Los resultados de los aspectos mas valorados resaltan la importancia de ofrecer un servicio que no solo sea accesible y rápido, sino también económico y fácil de usar. Por otro lado, el 75% estaría dispuesto a pagar una suscripción mensual, lo que refuerza el modelo de negocio basado en suscripciones
+![analysis-client-N8](https://github.com/user-attachments/assets/6be90392-96f9-422a-89ff-450b4ad8bce5)
+
+Aunque algunos no lo ven como una opción más económica, la mayoría espera que reduzca sus tiempos de transporte. Asimismo, el 50% usaría el servicio 7 veces a la semana, lo que sugiere un uso frecuente, lo cual es positivo para asegurar una alta demanda y rentabilidad.
+![analysis-client-N9](https://github.com/user-attachments/assets/6c52ef7c-4b17-4256-9f77-72489c9f2bd0)
+
 
 </div>
 
