@@ -211,6 +211,8 @@
 
 ## Project Report Collaboration Insights
 
+URL del repositorio de GitHub de la organización: https://github.com/UPC-AppWeb-CiberMach/Final-Report.git
+
 **TB1**
 
 Para el desarrollo de la entrega TB1, se opto por dividir el trabajo de la siguiente forma
@@ -220,7 +222,7 @@ Para el desarrollo de la entrega TB1, se opto por dividir el trabajo de la sigui
 |Espinoza Delgado, Bárbara Antonella | |
 |Velarde Gonzales, Nestor | |
 |Diestra Zambrano, Adriana María | |
-|Hidalgo Lopez, Mathias Adriano |  |
+|Hidalgo Lopez, Mathias Adriano | Entrevista Cliente, User Persona, Empathy Mapping, Impact Mapping  |
 |Jara Benitez, Quique Vladimir |  |
 
 
