@@ -62,8 +62,6 @@
 
 </div>
 
-<div style="page-break-before: always;"></div>
-
 ## Registro de versiones del informe
 
 <table>
@@ -138,7 +136,11 @@ del ABET – EAC - Student Outcome 5.
                   <li>Mathias Adriano Hidalgo Lopez</li>
                   <li>Quique Vladimir Jara Benites</li>
                   <li>Roy Linsh Fernandez Remon</li>
-                  <li>Velarde Gonzales, Néstor Hernan</li>
+                  <li>
+                    Velarde Gonzales, Néstor Hernan
+                    <br><br>
+                    En conclusión, 
+                  </li>
                 </ul>
             </td>
 			<td>
@@ -327,13 +329,36 @@ Enlaces a los desarrollos de trabajo del equipo CiberMach.
 			<td>Landing Page</td>
 			<td>https://upc-appweb-cibermach.github.io/Landing-Page/</td>
 		</tr>
+        <tr>
+			<td>Nuestras entrevistas:</td>
+			<td>
+
+ - 3 entrevistas a propietarios de scooters
+
+[Entrevista 01 - OWNER](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202022365_upc_edu_pe/EZSdPhz59ytBr7yjIHvAProBDVrmA4ru6q7oZv2RxS74Ww?e=a118uE&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+                
+[Entrevista 02 - OWNER](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c221_upc_edu_pe/EcJxI89tEyVKqjwAXpUzEfQBPCIByK7wqXOgZCX6WY3K_g?e=PHNrCW)
+                
+[Entrevista 03 - OWNER](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c221_upc_edu_pe/ETlt6pWHB7VDiEmJYMLJmzAB-NrsusHtDEDuzZxBuHYBXQ?e=rkizHA)
+
+- 3 entrevistas a clientes
+
+[Entrevista 01 - CLIENT](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213222_upc_edu_pe/EYvfM5T1ScdBpoM4ZDAvlQgBLmbxD7DTIk_2O02DixCJBw?e=RxA0RV)
+                
+[Entrevista 02 - CLIENT](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b778_upc_edu_pe/ESrNi2J7CPxCmG1crP6I85gBDxv_9VtZJzbnSfIrn9WDqA?e=5e70nZ)
+                
+[Entrevista 03 - CLIENT](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b778_upc_edu_pe/ESYHQW3mA-hDq81S5Vbto-ABpfXj_7VY_dmt5rjmBeJ-Rw?e=YpnHj6&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+            </td>
+		</tr>
 		<tr>
 			<td>As-Is</td>
-			<td>https://miro.com/app/board/uXjVKXo8BTc=/?share_link_id=732675408587</td>
+			<td>[https://miro.com/app/board/uXjVKXo8BTc=/?share_link_id=732675408587](https://miro.com/app/board/uXjVKXo8BTc=/?share_link_id=732675408587)</td>
 		</tr>
         <tr>
 			<td>To-Be</td>
-			<td>https://miro.com/app/board/uXjVKXo8BTc=/?share_link_id=732675408587</td>
+			<td>[https://miro.com/app/board/uXjVKXo8BTc=/?share_link_id=732675408587](https://miro.com/app/board/uXjVKXo8BTc=/?share_link_id=732675408587)</td>
 		</tr>
 	</tbody>
 </table>
+
+
