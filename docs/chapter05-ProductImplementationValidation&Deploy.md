@@ -553,22 +553,24 @@ Para el despliegue de la landing page se utilizó github pages, a continuación 
 **Pasos**
 
 - Terminado de realizar los cambios y unirlos en la rama main.
-![Landing Page](../assets/chapter-05/Software-Deployment-Evidence/DeployN1.jpeg)
+![DeployN1](https://github.com/user-attachments/assets/345a9db9-9831-4463-b1c5-b402dc28b4cf)
 
-- Nos dirigimos a los settings del repositorio y seleccionamos el apartado de pages .
-![Landing Page](../assets/chapter-05/Software-Deployment-Evidence/DeployN2.jpeg)
+
+- Nos dirigimos a los settings del repositorio y seleccionamos el apartado de pages.
+  ![DeployN2](https://github.com/user-attachments/assets/a7914874-8ab8-46e8-8256-001373d8643f)
 
 - Seleccionamos la rama main para ejecutar el deploy y damos a guardar
-![Landing Page](../assets/chapter-05/Software-Deployment-Evidence/DeployN3.jpeg)
-![Landing Page](../assets/chapter-05/Software-Deployment-Evidence/DeployN4.jpeg)
+  ![DeployN3](https://github.com/user-attachments/assets/53bbee82-c944-4446-b43f-97255bccc702)
+  ![DeployN4](https://github.com/user-attachments/assets/59982ac0-03e4-4562-a64b-717530c13b1b)
 
 - Ingresamos el dominio de la landing page y damos a guardar.
-![Landing Page](../assets/chapter-05/Software-Deployment-Evidence/DeployN5.jpeg)
+  ![DeployN5](https://github.com/user-attachments/assets/ae216bc8-16a9-4b34-813b-fd316bd9de9e)
 
-- Esperamos a que termine el despliegue y accedemos al enlace generado. 
-![Landing Page](../assets/chapter-05/Software-Deployment-Evidence/DeployN6.jpeg)
-![Landing Page](../assets/chapter-05/Software-Deployment-Evidence/DeployN7.jpeg)
-![Landing Page](../assets/chapter-05/Software-Deployment-Evidence/DeployN8.jpeg)
+- Esperamos a que termine el despliegue y accedemos al enlace generado.
+![DeployN6](https://github.com/user-attachments/assets/c3fdf1c7-ccbc-47ac-98b9-11468169edd6)
+![DeployN7](https://github.com/user-attachments/assets/adbed39d-b13d-4937-a9c6-32b31333f29f)
+![DeployN8](https://github.com/user-attachments/assets/506aa4b8-a1d0-47ee-a722-4dcf166e7e63)
+
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint.  
 
