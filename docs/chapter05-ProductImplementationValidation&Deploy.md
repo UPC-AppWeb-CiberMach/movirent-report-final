@@ -557,7 +557,7 @@ la version web para escritorio como la version mobile:
 
 Link de nuestra landing page: [Visita nuestro sitio](https://upc-appweb-cibermach.github.io/Landing-Page/)
 
-![Landing01](https://github.com/user-attachments/assets/0ce0b7c6-b630-43da-86e5-d70cde488641)
+![Landing02](https://github.com/user-attachments/assets/d65230a1-f8ef-4193-9119-e2803fc78242)
 Nuestra portada principal de la landing page, donde se muestra una foto de fondo a que nos dedicamos. 
 
 ![Landing03](https://github.com/user-attachments/assets/b96d52e8-b118-4996-bd3b-fef8b9a732b1)
