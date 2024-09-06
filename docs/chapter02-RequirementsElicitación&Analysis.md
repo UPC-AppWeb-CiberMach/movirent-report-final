@@ -244,15 +244,13 @@ Desarrollar mensajes y campañas de marketing que resalten las fortalezas unicas
 6. ¿Cuánto tiempo dedicas a desplazarte en el transporte diariamente?¿Qué tipo de transporte es?
 7. ¿Cuáles son los mayores desafíos que enfrentas con tu transporte actual?
 8. ¿Cuánto dinero aproximadamente gasta al mes en transporte convencional?¿Qué tan satisfecho estás con el servicio que este te ofrece?
-9. ¿Qué te parecería contar con un servicio de vehículos alternativos como las bicicletas o scooters?
-10. ¿Qué tipo de vehículos preferirías alquilar (bicicletas, scooters, patinetas eléctricas, etc.)?
-11. ¿Qué aspectos consideras más importantes al elegir un servicio de alquiler de vehículos?
-12. ¿Estarías dispuesto(a) a pagar una suscripción mensual por este servicio?
-13. ¿Qué te parece la idea de incluir el mantenimiento del vehículo en la suscripción?
-14. ¿Crees que este servicio podría ayudarte a reducir tus costos mensuales de transporte y el tiempo perdido en el tráfico?
-15. ¿Con qué frecuencia crees que utilizarías este servicio de alquiler de vehículos?
-16. ¿Qué tan importante es para ti la disponibilidad de vehículos en distintos puntos de la ciudad?
-17. ¿Hay alguna mejora o característica adicional que te gustaría ver en la aplicación en el futuro?
+9. ¿Qué te parecería contar con un servicio de vehículos alternativos como el scooters?
+10. ¿Qué aspectos consideras más importantes al elegir un servicio de alquiler de vehículos?
+11. ¿Estarías dispuesto(a) a pagar una suscripción mensual por este servicio?
+12. ¿Crees que este servicio podría ayudarte a reducir tus costos mensuales de transporte y el tiempo perdido en el tráfico?
+13. ¿Con qué frecuencia crees que utilizarías este servicio de alquiler de vehículos?
+14. ¿Qué tan importante es para ti la disponibilidad de vehículos en distintos puntos de la ciudad?
+15. ¿Hay alguna mejora o característica adicional que te gustaría ver en la aplicación en el futuro?
 
 <br>
 
@@ -440,7 +438,11 @@ Datos del entrevistado:
 
 **Informe del resumen de la entrevista:**
 
-Jeremy Escudero un joven de 19 años, residente del distrito del Rímac. Actualmente trabaja y estudia. Estudia en la Universidad Nacional Federico Villarreal en la carrera de contabilidad. El navegador que usa con mayor frecuencia es google. Su canal informativo son los noticieros y de entretenimiento los videojuegos. Jeremy es un joven que desea alquilar un scooter para llegar a sus destinos de manera rápida. Considera que las tarifas de los buses es accesible pero se le hace incomodo por la cantidad de gente. Le gustaria alquilar un scooter que sea menor presupuesto de lo que gasta al mes en los buses.
+Jeremy Escudero un joven de 19 años, residente del distrito del Rímac. Actualmente trabaja y estudia. Estudia en la 
+Universidad Nacional Federico Villarreal en la carrera de contabilidad. El navegador que usa con mayor frecuencia es google. 
+Su canal informativo son los noticieros y de entretenimiento los videojuegos. Jeremy es un joven que desea alquilar un scooter 
+para llegar a sus destinos de manera rápida. Considera que las tarifas de los buses es accesible pero se le hace incomodo por 
+la cantidad de gente. Le gustaria alquilar un scooter que sea menor presupuesto de lo que gasta al mes en los buses.
 
 ### Entrevista 4:
 
@@ -466,8 +468,10 @@ Jefrey usa con mayor frecuencia Facebook e Instagram como medios informativos y 
 entretenimiento. Se desplaza en bus, tren y taxi aunque mayormente en bus, dedicando alrededor de 4 a 5 horas diarias para
 llegar a la universidad, gastando un aproximado de 600 soles al mes en transporte.
 
-Considera que es una buena idea contar con un servicio de vehículos alternativos como bicicletas o scooters pero menciona que se transporta en zonas un tanto peligrosas, por la cual, lo pensaría un poco sobre en que zonas podría utilizar su vehículo.
-También menciona que los aspectos más importantes para él sobre el alquiler de vehículos alternativos sería la calidad de los mismos, la velocidad que le puedan brindar y los precios del alquiler.
+Considera que es una buena idea contar con un servicio de vehículos alternativos como bicicletas o scooters pero menciona que 
+se transporta en zonas un tanto peligrosas, por la cual, lo pensaría un poco sobre en que zonas podría utilizar su vehículo.
+También menciona que los aspectos más importantes para él sobre el alquiler de vehículos alternativos sería la calidad de los 
+mismos, la velocidad que le puedan brindar y los precios del alquiler.
 
 La entrevista concluyó con la posibilidad de poder añadir más planes de suscripción que sean para todos los bolsillos y agradecimientos mutuos.
 
@@ -476,28 +480,40 @@ La entrevista concluyó con la posibilidad de poder añadir más planes de suscr
 
 **Segmento 1: Owner**
 
-Dado que la mayoría de los entrevistados viven en áreas céntricas de Lima, hay una demanda potencial en estas zonas, donde la infraestructura y el tránsito pueden favorecer el uso de scooters como alternativa de transporte.  
+Dado que la mayoría de los entrevistados viven en áreas céntricas de Lima, hay una demanda potencial en estas zonas, donde la 
+infraestructura y el tránsito pueden favorecer el uso de scooters como alternativa de transporte.  
 
 ![Imagen Owner](../assets/chapter-02/interview-analysis/Owners/Analisis-Entrevistas-01.png)  
 
 
-Con un 66.7% de usuarios en el rango de 18-23 años, el negocio debe enfocarse en estrategias de marketing dirigidas a un público joven, que está más abierto a adoptar nuevas tecnologías y servicios de movilidad. Asimismo como trabajan en el sector de negocios, es probable que estos usuarios busquen formas de rentabilizar sus activos, como scooters, de manera eficiente. Esto sugiere que un enfoque en la facilidad de gestión y en la maximización de ingresos podría atraer a estos profesionales a usar la plataforma para rentar sus vehículos a otros.  
+Con un 66.7% de usuarios en el rango de 18-23 años, el negocio debe enfocarse en estrategias de marketing dirigidas a un 
+público joven, que está más abierto a adoptar nuevas tecnologías y servicios de movilidad. Asimismo como trabajan en el sector 
+de negocios, es probable que estos usuarios busquen formas de rentabilizar sus activos, como scooters, de manera eficiente. 
+Esto sugiere que un enfoque en la facilidad de gestión y en la maximización de ingresos podría atraer a estos profesionales a 
+usar la plataforma para rentar sus vehículos a otros.  
 
 ![Imagen Owner](../assets/chapter-02/interview-analysis/Owners/Analisis-Entrevistas-02.png)
 ![Imagen Owner](../assets/chapter-02/interview-analysis/Owners/Analisis-Entrevistas-03.png)  
 
 
-La preferencia por iOS y Windows 10 entre el 66.7% de los encuestados indica que la aplicación de alquiler de scooters debe ser optimizada para estos sistemas operativos para mejorar la experiencia del usuario. Asimismo, Con el 66.7% prefiriendo Apple y el 100% Lenovo, es importante que el diseño y la calidad del servicio reflejen los altos estándares asociados con estas marcas, para alinearse con las expectativas de los usuarios.  
+La preferencia por iOS y Windows 10 entre el 66.7% de los encuestados indica que la aplicación de alquiler de scooters debe 
+ser optimizada para estos sistemas operativos para mejorar la experiencia del usuario. Asimismo, Con el 66.7% prefiriendo Apple 
+y el 100% Lenovo, es importante que el diseño y la calidad del servicio reflejen los altos estándares asociados con estas marcas, 
+para alinearse con las expectativas de los usuarios.  
 
 ![Imagen Owner](../assets/chapter-02/interview-analysis/Owners/Analisis-Entrevistas-04.png)
 
 
-Dado que el 66% prefiere Instagram, esta plataforma debería ser un canal clave para la promoción del servicio de alquiler de scooters. Por otro lado, con un 66.7% que no ha rentado scooters previamente, existe un mercado significativo de potenciales nuevos usuarios que podrían beneficiarse de promociones iniciales.  
+Dado que el 66% prefiere Instagram, esta plataforma debería ser un canal clave para la promoción del servicio de alquiler de 
+scooters. Por otro lado, con un 66.7% que no ha rentado scooters previamente, existe un mercado significativo de potenciales 
+nuevos usuarios que podrían beneficiarse de promociones iniciales.  
 
 ![Imagen Owner](../assets/chapter-02/interview-analysis/Owners/Analisis-Entrevistas-05.png)
 
 
-El 66% de los encuestados prefiere una tarifa basada en el tiempo de uso, lo que sugiere que este modelo de negocio podría ser más atractivo. Tambien, con el 100% de los usuarios queriendo reglas de uso claras, es crucial establecer normas y condiciones estrictas para garantizar la seguridad y la confianza.  
+El 66% de los encuestados prefiere una tarifa basada en el tiempo de uso, lo que sugiere que este modelo de negocio podría ser 
+más atractivo. Tambien, con el 100% de los usuarios queriendo reglas de uso claras, es crucial establecer normas y condiciones 
+estrictas para garantizar la seguridad y la confianza.  
 
 ![Imagen Owner](../assets/chapter-02/interview-analysis/Owners/Analisis-Entrevistas-06.png)
 
@@ -507,14 +523,18 @@ El hecho de que el 100% de los encuestados calificaran su interés en usar la ap
 ![Imagen Owner](../assets/chapter-02/interview-analysis/Owners/Analisis-Entrevistas-07.png)
 
 
-Finalmente la preferencia del 100% por ver la identidad y el historial de reservas de otros usuarios subraya la importancia de integrar funciones de transparencia y confianza en la aplicación para aumentar la seguridad percibida y la satisfacción del usuario.  
+Finalmente la preferencia del 100% por ver la identidad y el historial de reservas de otros usuarios subraya la 
+importancia de integrar funciones de transparencia y confianza en la aplicación para aumentar la seguridad percibida y la satisfacción del usuario.  
 
 ![Imagen Owner](../assets/chapter-02/interview-analysis/Owners/Analisis-Entrevistas-08.png)
 
 
 **Segmento 2: Cliente**
 
-De las entrevistas realizadas se obtuvo que el 100% de los participantes gasta más de 100 soles  mensuales en transporte público. Asimismo, mencionaron que sus mayores desafíos durante sus viajes son los tiempos largos que toma la congestión vehicular en la ciudad. El 100% muestra cierto interés en un servicio de alquiler de vehículos menores y el 66.66% estaría dispuesto a pagar por el servicio.
+De las entrevistas realizadas se obtuvo que el 100% de los participantes gasta más de 100 soles  mensuales en 
+transporte público. Asimismo, mencionaron que sus mayores desafíos durante sus viajes son los tiempos largos que 
+toma la congestión vehicular en la ciudad. El 100% muestra cierto interés en un servicio de alquiler de vehículos 
+menores y el 66.66% estaría dispuesto a pagar por el servicio.
 
 </div>
 
@@ -539,7 +559,10 @@ Estos nos ayudarán a describir de forma general nuestro segmento objetivo.
 
 ### 2.3.2. User Task Matrix
 
-Para lograr sus objetivos en la plataforma, este User Task Matrix muestra las tareas que realizan los User Persona de dos segmentos objetivos: el Owner (que publica y gestiona scooters para alquiler o venta) y el User (que busca alquilar o comprar un scooter). Es importante destacar que estas tareas son actividades que los usuarios deben realizar independientemente de si existe una solución digital para facilitarlas; no deben confundirse con funcionalidades de software.
+Para lograr sus objetivos en la plataforma, este User Task Matrix muestra las tareas que realizan los User Persona de 
+dos segmentos objetivos: el Owner (que publica y gestiona scooters para alquiler o venta) y el User (que busca 
+alquilar o comprar un scooter). Es importante destacar que estas tareas son actividades que los usuarios deben realizar 
+independientemente de si existe una solución digital para facilitarlas; no deben confundirse con funcionalidades de software.
 
 
 <table border="1px">
@@ -652,17 +675,20 @@ En base al User Task Matrix presentado, podemos destacar las siguientes tareas c
 
 ### Owner:
 
-- Gestión de inventario: Realizada con alta frecuencia y es de alta importancia, ya que los Owners deben mantener actualizada la disponibilidad y estado de sus scooters para maximizar las oportunidades de alquiler o venta.
+- Gestión de inventario: Realizada con alta frecuencia y es de alta importancia, ya que los Owners deben mantener actualizada la 
+disponibilidad y estado de sus scooters para maximizar las oportunidades de alquiler o venta.
 
 - Historial de transacciones: También tiene alta frecuencia e importancia porque permite a los Owners rastrear todas las actividades relacionadas con sus scooters.
 
-- Notificaciones sobre estado de scooter: Frecuencia alta, ya que los Owners necesitan estar al tanto de cambios en el estado de sus scooters para gestionar sus inventarios eficientemente.
+- Notificaciones sobre estado de scooter: Frecuencia alta, ya que los Owners necesitan estar al tanto de 
+cambios en el estado de sus scooters para gestionar sus inventarios eficientemente.
 
 - Pago y facturación: Crítica para la gestión financiera y administrativa de los Owners.
 
 ### Client:
 
-- Consulta de disponibilidad de scooters: Tarea realizada con alta frecuencia y de alta importancia, ya que los usuarios necesitan encontrar scooters disponibles rápidamente.
+- Consulta de disponibilidad de scooters: Tarea realizada con alta frecuencia y de alta importancia, ya que los 
+usuarios necesitan encontrar scooters disponibles rápidamente.
 
 - Notificaciones sobre estado de scooter: Alta frecuencia y alta importancia para estar informados de cambios o confirmaciones en sus reservas.
 
