@@ -483,6 +483,38 @@ En esta sección se detallarán los commits realizados en el desarrollo de la la
     <td>-</td>
     <td>01/09/2024</td>
   </tr>
+  <tr>
+    <td>QuiqueVladimir/AcceptanceTest</td>
+    <td>Main</td>
+    <td>6eb6d99</td>
+    <td>feat: add US-03</td>
+    <td>-</td>
+    <td>05/09/2024</td>
+  </tr>
+  <tr>
+    <td>mathiasadriano/AcceptanceTest</td>
+    <td>Main</td>
+    <td>d05c2267</td>
+    <td>feat: add US-04</td>
+    <td>-</td>
+    <td>05/09/2024</td>
+  </tr>
+  <tr>
+    <td>adriiiiiiiiiii/AcceptanceTest</td>
+    <td>Main</td>
+    <td>0450a13</td>
+    <td>feat: add US-05</td>
+    <td>-</td>
+    <td>05/09/2024</td>
+  </tr>
+  <tr>
+    <td>RTPX26/AcceptanceTest</td>
+    <td>Main</td>
+    <td>a6419c3</td>
+    <td>feat: add US-06</td>
+    <td>-</td>
+    <td>05/09/2024</td>
+  </tr>
 </table>
 
 
