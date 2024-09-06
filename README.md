@@ -256,9 +256,9 @@ del ABET – EAC - Student Outcome 5.
                   <li>Quique Vladimir Jara Benites</li>
                   <li>Roy Linsh Fernandez Remon</li>
                   <li>
-                    Velarde Gonzales, Néstor Hernan
-                    <br><br>
-                    En conclusión, 
+                    Velarde Gonzales, Néstor Hernan. <br>
+                    TB1: Se realizaron entrevistas para reconocer lo que necesitan
+                    los potenciales clientes tanto owner y client, actualizar colaborar en user histories y en el diseño de prototipado para landing en figma.
                   </li>
                 </ul>
             </td>
@@ -277,7 +277,13 @@ del ABET – EAC - Student Outcome 5.
                       <li>Mathias Adriano Hidalgo Lopez</li>
                       <li>Quique Vladimir Jara Benites</li>
                       <li>Roy Linsh Fernandez Remon</li>
-                      <li>Velarde Gonzales, Néstor Hernan</li>
+                      <li>
+                          Velarde Gonzales, Néstor Hernan.
+                          TB1: Se reconoció la necesidad para el proyecto realizar las
+                            siguientes tareas: Se plantearon Hypothesis Statements, proponer preguntas para
+                            entrevistas y registrar entrevista realizada. Además, en base a los resultados de la
+                            entrevista hacer Empathy Maps de ambos segmentos.
+                      </li>
                     </ul>
             </td>
 			<td>
