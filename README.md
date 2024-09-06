@@ -211,7 +211,7 @@
 
 ## Project Report Collaboration Insights
 
-## TB1
+**TB1**
 
 Para el desarrollo de la entrega TB1, se opto por dividir el trabajo de la siguiente forma
 
