@@ -291,7 +291,7 @@ Link del prototipo: https://www.figma.com/proto/cQuS3bFffjnBjo9RGwcl2D/Web-Appli
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
 
-<img src="/assets/chapter-04/Diagram/Diagram.png"/>
+<img src="/assets/chapter-04/Diagram/Diagram class.png"/>
 
 ### 4.7.2. Class Dictionary
 
@@ -303,17 +303,17 @@ Link del prototipo: https://www.figma.com/proto/cQuS3bFffjnBjo9RGwcl2D/Web-Appli
 			<td>Tipo de dato</td>
 		</tr>
 		<tr>
-			<td rowspan="3">Owner</td>
-			<td>publicarScooter(): Permitirá al Owner publicar su vehiculo en el sistema</td>
-			<td>Void</td>
+			<td rowspan="3">Profile</td>
+			<td>id: Es la identificación personal del profile para cada usuario</td>
+			<td>Int</td>
 		</tr>
 		<tr>
-			<td>editarScooter(): Permitirá poder editar el vehículo agregado</td>
-			<td>Void</td>
+			<td>email: Es el correo eletrónico que tiene el usuario</td>
+			<td>String</td>
 		</tr>
 		<tr>
-			<td>eliminarScooter(): Le permitirá al Owner eliminar su vehículo del sistema</td>
-			<td>Void</td>
+			<td>nombre: Es el nombre que contendra el profile de los usuarios</td>
+			<td>String</td>
 		</tr>
 		<tr>
 			<td rowspan="3">Historial</td>
@@ -393,7 +393,7 @@ Link del prototipo: https://www.figma.com/proto/cQuS3bFffjnBjo9RGwcl2D/Web-Appli
 			<td>Void</td>
 		</tr>
 		<tr>
-			<td rowspan="5">Usuario</td>
+			<td rowspan="5">User</td>
 			<td>id: Es el indentificador único del usuario</td>
 			<td>Int</td>
 		</tr>
@@ -414,33 +414,29 @@ Link del prototipo: https://www.figma.com/proto/cQuS3bFffjnBjo9RGwcl2D/Web-Appli
 			<td>String</td>
 		</tr>
 		<tr>
-			<td rowspan="7">Vehiculo</td>
-			<td>id: Identificador para cada vehículo añadido al sistema</td>
+			<td rowspan="7">Scooter</td>
+			<td>id: Identificador para cada Scooter añadido al sistema</td>
 			<td>Int</td>
 		</tr>
 		<tr>
-			<td>tipoVehiculo: Menciona el tipo de vehículo añadido al sistema</td>
-			<td>String</td>
+			<td>scooterDetails: Se encarga de mencionar detalles técnicos de los Scooters en el sistema</td>
+			<td>Void</td>
 		</tr>
 		<tr>
-			<td>marca: Es la marca de fabricante que tendrá cada tipo de vehículo</td>
-			<td>String</td>
+			<td>Location: Muestra la ubicación de cada Scooter en el sistema mediante coordenadas</td>
+			<td>Double</td>
 		</tr>
 		<tr>
-			<td>modelo: Es el modelo que tendra cada tipo de vehiculo</td>
-			<td>String</td>
+			<td>maintenanceRecords: Se encarga de mostrar los mantenimientos que tuvo cada Scooter</td>
+			<td>Lista</td>
 		</tr>
 		<tr>
-			<td>año: Menciona el año de fabricación de cada modelo de vehículo</td>
-			<td>Int</td>
+			<td>status: Muesta el estado de disponibilidad de cada Scooter</td>
+			<td>String</td>
 		</tr>
 		<tr>
 			<td>estado: Menciona el estado de disponibilidad del vehículo</td>
 			<td>String</td>
-		</tr>
-		<tr>
-			<td>tarifa: Mostrará el precio de alquiler de cada vehículo</td>
-			<td>Double</td>
 		</tr>
 	</tbody>
 </table>
