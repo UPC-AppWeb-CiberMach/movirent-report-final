@@ -82,21 +82,126 @@
       <td>Velarde Gonzales, Néstor</td>
       <td>Creación del documento de trabajo en formato markdown.</td>
     </tr>
-    <tr>
+	<tr>
       <td>1.1</td>
-      <td>2024/08/17</td>
-      <td>Bárbara Antonella Espinoza Delgado</td>
-      <td>Capítulo I - Introduction.</td>
-    </tr>
-    <tr>
-      <td>1.2</td>
-      <td>2024/03/29</td>
+      <td>2024/08/21</td>
       <td>Espinoza Delgado, Bárbara Antonella</td>
-      <td>Redacción del startup profile y solution profile, delimitación de segmentos objetivo, redacción de preguntas para el diseño de entrevistas.</td>
+      <td>Redacción del Startup Profile, Descripción de la Startup, Solution Profile, Antecedentes y problemática, Lean UX Process y Segmentos objetivo</td>
+    </tr>
+	<tr>
+	<td>1.2</td>
+      <td>2024/08/23</td>
+      <td>Espinoza Delgado, Bárbara Antonella</td>
+      <td>Information Architecture y Database Diagram.</td>
+    </tr>
+	<tr>
+      <td>1.3</td>
+      <td>2024/08/23</td>
+      <td>Hidalgo Lopez, Mathias Adriano</td>
+      <td>Empathy Mapping, To-Be Mapping</td>
+    </tr>
+	<tr>
+      <td>1.4</td>
+      <td>2024/08/24</td>
+      <td>Espinoza Delgado, Bárbara Antonella</td>
+      <td>User Stories, Product Backlog</td>
+    </tr>
+	<tr>
+      <td>1.5</td>
+      <td>2024/08/30</td>
+      <td>Jara Benitez, Quique Vladimir</td>
+      <td>Entrevista, Redacción del Analisis competitivo, Estrategias frente a competidores, User Persona, User Task Matrix, user journey mapping, As-Is Scenario y Ubiquitous Language.</td>
+    </tr>
+	<tr>
+	<td>1.6</td>
+      <td>2024/08/30</td>
+      <td>Diestra Zambrano, Adriana María</td>
+      <td>Entrevista</td>
+    </tr>
+	<tr>
+      <td>1.7</td>
+      <td>2024/08/30</td>
+      <td>Espinoza Delgado, Bárbara Antonella</td>
+      <td>Sprint Planning y Sprint Backlog</td>
+    </tr>
+	<tr>
+	<td>1.8</td>
+      <td>2024/09/01</td>
+      <td>Fernandez Remon, Roy Linsh</td>
+      <td>Entrevista</td>
+    </tr>
+	<tr>
+	<td>1.9</td>
+      <td>2024/09/02</td>
+      <td>Espinoza Delgado, Bárbara Antonella</td>
+      <td>Style Guidelines, Landing Page UI Design, Web Application UX/UI</td>
+    </tr>
+	<tr>
+	<td>1.10</td>
+      <td>2024/09/02</td>
+      <td>Jara Benitez, Quique Vladimir</td>
+      <td>Software Configuration, Software Development, Source Code Management, Source Code Style y Software Deployment.</td>
+    </tr>
+	<tr>
+	<td>1.11</td>
+      <td>2024/09/04</td>
+      <td>Hidalgo Lopez, Mathias Adriano</td>
+      <td>Entrevista, Impact Mapping</td>
+    </tr>
+	<tr>
+      <td>1.12</td>
+      <td>2024/09/04</td>
+      <td>Jara Benitez, Quique Vladimir</td>
+      <td>Testing Suite, Execution evidence, Service Documentation, Software Deployment y Team Collaboration Insights.</td>
+    </tr>
+	<tr>
+      <td>1.13</td>
+      <td>2024/09/04</td>
+      <td>Velarde Gonzales, Nestor</td>
+      <td>Entrevista y correcciones generales.</td>
+    </tr>
+	<tr>
+      <td>1.14</td>
+      <td>2024/09/05</td>
+      <td>Velarde Gonzales, Nestor</td>
+      <td>Landing Page, Services & Applications, Bibliografía y Conclusiones.</td>
+    </tr>
+	<tr>
+      <td>1.15</td>
+      <td>2024/09/06</td>
+      <td>Jara Benitez, Quique Vladimir</td>
+      <td>Web Prototyping.</td>
+    </tr>
+    </tr>
+	<tr>
+	<td>1.16</td>
+      <td>2024/09/06</td>
+      <td>Diestra Zambrano, Adriana María</td>
+      <td>Domain-Driven Software Architecture</td>
+    </tr>
+    </tr>
+	<tr>
+	<td>1.17</td>
+      <td>2024/09/06</td>
+      <td>Diestra Zambrano, Adriana María</td>
+      <td>Domain-Driven Software Architecture</td>
+    </tr>
+    </tr>
+	<tr>
+	<td>1.18</td>
+      <td>2024/09/06</td>
+      <td>Fernandez Remon, Roy Linsh</td>
+      <td>Class Diagram y Class Dictionary</td>
+    </tr>
+    <td>1.19</td>
+      <td>2024/09/06</td>
+      <td>Velarde Gonzales, Nestor</td>
+      <td>Conclusiones y Anexos.</td>
     </tr>
 
   </tbody>
 </table>
+
 
 
 <br>
