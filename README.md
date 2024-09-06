@@ -287,19 +287,23 @@ y promuevan el uso de vehículos ecológicos.
 
 ### [Bibliografía](#bibliografía)
 
-- El Comercio. (2024, septiembre 2). Noticias sobre tráfico en Lima hoy lunes 02 de septiembre. 
-Recuperado de https://elcomercio.pe/noticias/trafico-en-lima/    [Consulta: 28 de Agosto, 2024].
-
-- Soto Vargas, L. (2024). Sistema de priorización de proyectos viales en Lima Metropolitana utilizando modelo de tráfico de 
-Beckmann y teoría de grafos para mejorar la gestión de proyectos de transporte urbano. 
-Recuperado de https://repositorio.unfv.edu.pe/handle/20.500.13084/8963   [Consulta: 24 de Agosto, 2024].
-
 - Aguirre, C., Canelo, G., & Mendiola, L. (2024). UNA MIRADA HACIA LA MOVILIDAD SOSTENIBLE. 
-Recuperado de https://observatorio.esan.edu.pe/wp-content/uploads/2024/03/Libro-Movilidad-urbana-vfinal.pdf    [Consulta: 24 de Agosto, 2024].
+Recuperado de https://observatorio.esan.edu.pe/wp-content/uploads/2024/03/Libro-Movilidad-urbana-vfinal.pdf [Consulta: 24 de Agosto, 2024].
+
+- El Comercio. (2024, septiembre 2). Noticias sobre tráfico en Lima hoy lunes 02 de septiembre. 
+Recuperado de https://elcomercio.pe/noticias/trafico-en-lima/ [Consulta: 28 de Agosto, 2024].
 
 - Fernandez Altamirano, D. H., & Pinto Apaza, L. A. (2024). Propuesta de Diseño de un área de Mobility Hub para 
 evitar la congestión vehicular promoviendo la movilidad sostenible en la zona comercial dentro del nuevo Aeropuerto internacional Jorge Chávez.
-Recuperado de https://repositorioacademico.upc.edu.pe/handle/10757/674637   [Consulta: 24 de Agosto, 2024].
+Recuperado de https://repositorioacademico.upc.edu.pe/handle/10757/674637 [Consulta: 24 de Agosto, 2024].
+
+- Huamanraime M. Echevarría E., Cabrera F. & Vásquez I.(2023). Transitioning to sustainable mobility in Lima, Peru. Are e-scooter sharing initiatives part of the problem or the solution? Recuperado de: https://cris.pucp.edu.pe/en/publications/transitioning-to-sustainable-mobility-in-lima-peru-are-e-scooter- [Consulta: 20 de Agosto, 2024].
+  
+- Instituto Peruano de Economía (2024). Tráfico de Lima cuesta S/2 mil millones en pérdidas de productividad. Recuperado de: https://www.ipe.org.pe/portal/wp-content/uploads/2024/02/Informe-IPE-EC-Transporte-urbano.pdf [Consulta: 20 de Agosto, 2024].
+
+- Soto Vargas, L. (2024). Sistema de priorización de proyectos viales en Lima Metropolitana utilizando modelo de tráfico de 
+Beckmann y teoría de grafos para mejorar la gestión de proyectos de transporte urbano. 
+Recuperado de https://repositorio.unfv.edu.pe/handle/20.500.13084/8963 [Consulta: 24 de Agosto, 2024].
 
 ### [Anexos](#anexos)
 
