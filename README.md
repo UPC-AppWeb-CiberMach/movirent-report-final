@@ -1,12 +1,8 @@
-﻿<br/><br/>
- 
-<p align="center">
+﻿<div style="text-align: center; width: 100%; border:1px">
+
+<br/><br/>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" width="150">
-
-</p>
-
-<div align="center">
 
 ## Universidad Peruana de Ciencias Aplicadas 
 ### Ingeniería de Software
@@ -25,7 +21,7 @@
 
 ## **Integrantes**
 
-<table align="center", border="1px">
+<table align="center" style="text-align: center; width: 100%; border:1px">
 	<tbody>
 		<tr>
 			<td><center>Nombre</center></td>
@@ -58,15 +54,13 @@
 	</tbody>
 </table>
 
-## Agosto, 2024.
+## Setiembre, 2024
 
 </div>
 
 ## Registro de versiones del informe
 
-<table>
-  <thead>
-<table>
+<table style="text-align: center; width: 100%; border:1px">
   <thead>
     <tr>
       <th>Versión</th>
@@ -198,7 +192,6 @@
       <td>Velarde Gonzales, Nestor</td>
       <td>Conclusiones y Anexos.</td>
     </tr>
-
   </tbody>
 </table>
 
@@ -238,7 +231,7 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de
 conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro
 del ABET – EAC - Student Outcome 5.
 
-<table align="center" border="1px">
+<table style="text-align: center; width: 100%; border:1px">
 	<tbody>
 		<tr>
 			<td>Criterio específico</td>
@@ -280,10 +273,10 @@ del ABET – EAC - Student Outcome 5.
                       <li>Adriana María Diestra Zambrano</li>
                       <li>Bárbara Antonella Espinoza Delgado</li>
                       <li>
-			Mathias Adriano Hidalgo Lopez
-			TB1: Reconoce la necesidad para la realizacion de las siguientes tareas: proponer preguntas y realizar entrecistas
-			     En base a ello crear el to-be mapping y a traves de los user crear el impact mapping de ambos segmentos
-</li>
+			            Mathias Adriano Hidalgo Lopez
+			            TB1: Reconoce la necesidad para la realizacion de las siguientes tareas: proponer preguntas y realizar entrecistas
+			                En base a ello crear el to-be mapping y a traves de los user crear el impact mapping de ambos segmentos
+                      </li>
                       <li>Quique Vladimir Jara Benites</li>
                       <li>Roy Linsh Fernandez Remon</li>
                       <li>
@@ -445,23 +438,14 @@ Recuperado de https://repositorio.unfv.edu.pe/handle/20.500.13084/8963 [Consulta
 
 Enlaces a los desarrollos de trabajo del equipo CiberMach.
 
-<table>
+<table style="width: 100%; border:1px">
 	<tbody>
 		<tr>
 			<td>Descripción</td>
 			<td>Enlace</td>
 		</tr>
-		<tr>
-			<td>Entrevistas</td>
-			<td></td>
-		</tr>
-		<tr>
-			<td>Organización en GitHub</td>
-			<td></td>
-		</tr>
-		<tr>
-			<td>Landing Page</td>
-			<td>https://upc-appweb-cibermach.github.io/Landing-Page/</td>
+        <tr>
+			<td colspan="2"><center>**CAPITULO 02**</center></td>
 		</tr>
         <tr>
 			<td>Nuestras entrevistas:</td>
@@ -469,29 +453,89 @@ Enlaces a los desarrollos de trabajo del equipo CiberMach.
 
  - 3 entrevistas a propietarios de scooters
 
-[Entrevista 01 - OWNER](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202022365_upc_edu_pe/EZSdPhz59ytBr7yjIHvAProBDVrmA4ru6q7oZv2RxS74Ww?e=a118uE&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+[Entrevista_01_Owner](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202022365_upc_edu_pe/EZSdPhz59ytBr7yjIHvAProBDVrmA4ru6q7oZv2RxS74Ww?e=a118uE&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
                 
-[Entrevista 02 - OWNER](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c221_upc_edu_pe/EcJxI89tEyVKqjwAXpUzEfQBPCIByK7wqXOgZCX6WY3K_g?e=PHNrCW)
+[Entrevista_02_Owner](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c221_upc_edu_pe/EcJxI89tEyVKqjwAXpUzEfQBPCIByK7wqXOgZCX6WY3K_g?e=PHNrCW)
                 
-[Entrevista 03 - OWNER](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c221_upc_edu_pe/ETlt6pWHB7VDiEmJYMLJmzAB-NrsusHtDEDuzZxBuHYBXQ?e=rkizHA)
+[Entrevista_03_Owner](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c221_upc_edu_pe/ETlt6pWHB7VDiEmJYMLJmzAB-NrsusHtDEDuzZxBuHYBXQ?e=rkizHA)
 
 - 3 entrevistas a clientes
 
-[Entrevista 01 - CLIENT](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213222_upc_edu_pe/EYvfM5T1ScdBpoM4ZDAvlQgBLmbxD7DTIk_2O02DixCJBw?e=RxA0RV)
+[Entrevista_01_Client](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213222_upc_edu_pe/EYvfM5T1ScdBpoM4ZDAvlQgBLmbxD7DTIk_2O02DixCJBw?e=RxA0RV)
                 
-[Entrevista 02 - CLIENT](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b778_upc_edu_pe/ESrNi2J7CPxCmG1crP6I85gBDxv_9VtZJzbnSfIrn9WDqA?e=5e70nZ)
+[Entrevista_02_Client](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b778_upc_edu_pe/ESrNi2J7CPxCmG1crP6I85gBDxv_9VtZJzbnSfIrn9WDqA?e=5e70nZ)
                 
-[Entrevista 03 - CLIENT](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b778_upc_edu_pe/ESYHQW3mA-hDq81S5Vbto-ABpfXj_7VY_dmt5rjmBeJ-Rw?e=YpnHj6&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+[Entrevista_03_Client](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b778_upc_edu_pe/ESYHQW3mA-hDq81S5Vbto-ABpfXj_7VY_dmt5rjmBeJ-Rw?e=YpnHj6&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
             </td>
 		</tr>
 		<tr>
 			<td>As-Is</td>
-			<td>[https://miro.com/app/board/uXjVKXo8BTc=/?share_link_id=732675408587](https://miro.com/app/board/uXjVKXo8BTc=/?share_link_id=732675408587)</td>
+			<td>[As-Is](https://miro.com/app/board/uXjVKXo8BTc=/?share_link_id=732675408587)</td>
 		</tr>
         <tr>
+            <td colspan="2"><center>**CAPITULO 03**</center></td>
+        </tr>
+        <tr>
 			<td>To-Be</td>
-			<td>[https://miro.com/app/board/uXjVKXo8BTc=/?share_link_id=732675408587](https://miro.com/app/board/uXjVKXo8BTc=/?share_link_id=732675408587)</td>
+			<td>[to_be](https://miro.com/app/board/uXjVKXo8BTc=/?share_link_id=732675408587)</td>
 		</tr>
+        <tr>
+			<td colspan="2"><center>**CAPITULO 04**</center></td>
+		</tr>
+        <tr>
+			<td>Wireflow Diagram 1 LucidChart</td>
+			<td>[wireflow_diagram_01_lucidchart](https://lucid.app/lucidchart/fb6af4f5-9827-4046-95fd-1895b6fa7062/edit?viewport_loc=2910%2C961%2C5372%2C2713%2C0_0&invitationId=inv_f724a578-0aab-4eb7-ad01-394e2de62b9f)</td>
+		</tr>
+        <tr>
+			<td>Wireflow Diagram 2 LucidChart</td>
+			<td>[wireflow_diagram_02_lucidchart](https://lucid.app/lucidchart/1940b5bd-7cde-435a-a322-5d2b98205fe8/edit?viewport_loc=1739%2C-1484%2C7387%2C3731%2C0_0&invitationId=inv_9885c22f-3eb4-4cf5-b976-1e2d62a9808d)</td>
+		</tr>
+        <tr>
+			<td>Userflow Diagram 1 LucidChart</td>
+			<td>[userflow_Diagram_01_LucidChart](https://lucid.app/lucidchart/efdbf4b0-123b-4d39-b4ee-fa652d97c51d/edit?viewport_loc=1172%2C2109%2C7680%2C3190%2C0_0&invitationId=inv_f4495ac8-2ece-45b7-aa11-440fe8f58eb7)</td>
+		</tr>
+        <tr>
+			<td>Userflow Diagram 2 LucidChart</td>
+			<td>[userflow_Diagram_02_LucidChart](https://lucid.app/lucidchart/1f12de6f-db42-487b-8e52-43a294afe600/edit?viewport_loc=1544%2C-1559%2C7385%2C3730%2C0_0&invitationId=inv_f2985505-86cf-4b2b-a516-8deaf1ec79ad)</td>
+		</tr>
+        <tr>
+			<td>Figma - prototipo de application Wireframes & Mock-Ups</td>
+			<td>[Prototipo_WEB_wireframes_mockupos](https://www.figma.com/design/cQuS3bFffjnBjo9RGwcl2D/Web-Application---MoviRent?node-id=0-1&t=19j9paxfmlA0q9aX-1)</td>
+		</tr>
+        <tr>
+			<td>Figma - prototipo de landing page Wireframes & Mock-Ups</td>
+			<td>[Prototipo_LANDING-PAGE_wireframes_mockupos](https://www.figma.com/design/cQuS3bFffjnBjo9RGwcl2D/Web-Application---MoviRent?node-id=5-658&t=19j9paxfmlA0q9aX-1)</td>
+		</tr>
+        <tr>
+			<td>Figma - Component library</td>
+			<td>[Component_library_design](https://www.figma.com/design/cQuS3bFffjnBjo9RGwcl2D/Web-Application---MoviRent?node-id=1-2&t=19j9paxfmlA0q9aX-1)</td>
+		</tr>
+        <tr>
+			<td>Diagrama de clases: </td>
+			<td>[Diagrama_de_clases](https://lucid.app/lucidchart/6335ae96-f4a0-46c7-8db1-b697b611fb2d/edit?view_items=3Fj-RxAA61kT&invitationId=inv_f016841e-d1c2-44ea-8aa6-e2cab033906e)</td>
+		</tr>
+        <tr>
+			<td colspan="2"><center>**CAPITULO 05**</center></td>
+		</tr>
+        <tr>
+			<td>Organización en trello:</td>
+			<td>[trello](https://trello.com/invite/b/66ccf1855ff6c24fe148a766/ATTI34b50c784e97d0a7ba15dd3b49b56ca5D82CFA4B/sprint-1)</td>
+		</tr>
+        <tr>
+			<td>Landing page desplegado</td>
+			<td>https://upc-appweb-cibermach.github.io/Landing-Page/</td>
+		</tr>
+        <tr>
+            <td>Nuestra organización en GitHub</td>
+            <td>https://github.com/UPC-AppWeb-CiberMach</td>
+        </tr>
+        <tr>
+            <td>VIDEOS DE NUESTRO PROYECTO GRUPAL</td>
+        </tr>
+        <tr>
+            <td>Video de nuestro landing page</td>
+            <td>[Video_de_landing_page](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202022365_upc_edu_pe/EZJdjQ2jmkhOmQY61Gv0nvYBVwudqWkMI20W0xZ74ZnNNA?e=5mJaCt)</td>
+        </tr>
 	</tbody>
 </table>
 
