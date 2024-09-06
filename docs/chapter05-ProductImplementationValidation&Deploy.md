@@ -145,7 +145,7 @@ Para desplegar la solución se realizó los siguientes pasos:
 - Ejecutar el archivo index.html para visualizar la landing page en el navegador.
 
 ![Visualizar Landing Page](../assets/chapter-05/Deployment-Config/Paso-N5.png)
-![Visualizar Landing Page](../assets/chapter-05/Deployment-Config/Paso-N6.png)
+![Landing01](https://github.com/user-attachments/assets/0ce0b7c6-b630-43da-86e5-d70cde488641)
 
 ## 5.2. Landing Page, Services & Applications Implementation
 ### 5.2.1. Sprint 1
@@ -601,7 +601,7 @@ Para el despliegue de la landing page se utilizó github pages, a continuación 
 - Esperamos a que termine el despliegue y accedemos al enlace generado.
 ![DeployN6](https://github.com/user-attachments/assets/c3fdf1c7-ccbc-47ac-98b9-11468169edd6)
 ![DeployN7](https://github.com/user-attachments/assets/adbed39d-b13d-4937-a9c6-32b31333f29f)
-![DeployN8](https://github.com/user-attachments/assets/506aa4b8-a1d0-47ee-a722-4dcf166e7e63)
+![Landing01](https://github.com/user-attachments/assets/0ce0b7c6-b630-43da-86e5-d70cde488641)
 
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint.  
