@@ -324,8 +324,12 @@ Enlaces a los desarrollos de trabajo del equipo CiberMach.
 			<td>https://upc-appweb-cibermach.github.io/Landing-Page/</td>
 		</tr>
 		<tr>
-			<td></td>
-			<td></td>
+			<td>As-Is</td>
+			<td>https://miro.com/app/board/uXjVKXo8BTc=/?share_link_id=732675408587</td>
+		</tr>
+        <tr>
+			<td>To-Be</td>
+			<td>https://miro.com/app/board/uXjVKXo8BTc=/?share_link_id=732675408587</td>
 		</tr>
 	</tbody>
 </table>
