@@ -407,7 +407,7 @@ Datos del entrevistado:
 * Enlace a la entrevista: [Ver Video](---)
 * Duración de la entrevista: 4:41
 
-<img src="..//assets/chapter-02/Entrevista Cliente.png" alt="Imagen Entrevista 1">
+<img src="../assets/chapter-02/interviews/Entrevista-Jeremy.png" alt="Imagen Entrevista 1">
 
 **Informe del resumen de la entrevista:**
 
