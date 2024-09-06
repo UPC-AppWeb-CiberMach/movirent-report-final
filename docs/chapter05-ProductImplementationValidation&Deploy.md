@@ -525,21 +525,23 @@ la version web para escritorio como la version mobile:
 
 Link de nuestra landing page: [Visita nuestro sitio](https://upc-appweb-cibermach.github.io/Landing-Page/)
 
-![landing-page-profile-main](https://github.com/user-attachments/assets/44a12bbc-0016-454e-ac2b-71530823d731)
+![Landing01](https://github.com/user-attachments/assets/0ce0b7c6-b630-43da-86e5-d70cde488641)
 Nuestra portada principal de la landing page, donde se muestra una foto de fondo a que nos dedicamos. 
 
-![Quienes-Somos](https://github.com/user-attachments/assets/08ca0d15-e2b5-440c-9547-50744751d648)
+![Landing03](https://github.com/user-attachments/assets/b96d52e8-b118-4996-bd3b-fef8b9a732b1)
 Quienes somos, sección donde se muestra información sobre la empresa y que nos dedicamos.
 
-![Servicios-Movirent](https://github.com/user-attachments/assets/2d4a920e-01a8-491b-925b-c8b630ae0785)
+![Landing04](https://github.com/user-attachments/assets/815994f5-4114-45d2-bac8-19e5f3658aa9)
 Servicios, sección donde se muestra los servicios que ofrecemos.
 
-![precios](https://github.com/user-attachments/assets/8b345976-ebf5-4b07-b679-615907a5fbd8)
+![Landing05](https://github.com/user-attachments/assets/f0bc7695-3ede-45d3-9b6a-1bc5e64b0b20)
 Precios, sección donde se muestra los precios de los servicios que ofrecemos.
 
-![Integrantes](https://github.com/user-attachments/assets/bb7c5e88-342f-432f-87b8-5e4a3f3eaa54)
+![Landing06](https://github.com/user-attachments/assets/c84a2904-98c5-4eff-8aef-c648935c40b1)
 Integrantes, sección donde se muestra información sobre los integrantes del equipo.
 
+![Landing07](https://github.com/user-attachments/assets/01affb7b-e54c-4aaa-ab7b-b4ab856f6823)
+Footer, sección donde se muestra información de contacto y redes sociales.
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 **No aplica para esta entrega**
