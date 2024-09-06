@@ -252,7 +252,12 @@ del ABET – EAC - Student Outcome 5.
                 <ul>
                   <li>Adriana María Diestra Zambrano</li>
                   <li>Bárbara Antonella Espinoza Delgado</li>
-                  <li>Mathias Adriano Hidalgo Lopez</li>
+                  <li>
+		    Mathias Adriano Hidalgo Lopez <br>
+      		    TB1: Realice entrevistas a nuestro segmento cliente para reconocer las principales necesidades que tienen. 
+			 Elabore el To-Be y El Impact Mapping para la posterior creacion del landing
+
+</li>
                   <li>Quique Vladimir Jara Benites</li>
                   <li>Roy Linsh Fernandez Remon</li>
                   <li>
@@ -274,7 +279,11 @@ del ABET – EAC - Student Outcome 5.
                     <ul>
                       <li>Adriana María Diestra Zambrano</li>
                       <li>Bárbara Antonella Espinoza Delgado</li>
-                      <li>Mathias Adriano Hidalgo Lopez</li>
+                      <li>
+			Mathias Adriano Hidalgo Lopez
+			TB1: Reconoce la necesidad para la realizacion de las siguientes tareas: proponer preguntas y realizar entrecistas
+			     En base a ello crear el to-be mapping y a traves de los user crear el impact mapping de ambos segmentos
+</li>
                       <li>Quique Vladimir Jara Benites</li>
                       <li>Roy Linsh Fernandez Remon</li>
                       <li>
