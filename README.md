@@ -211,6 +211,20 @@
 
 ## Project Report Collaboration Insights
 
+## TB1
+
+Para el desarrollo de la entrega TB1, se opto por dividir el trabajo de la siguiente forma
+
+|Integrante|Actvidades Asignadas|
+|----------|----------|
+|Espinoza Delgado, Bárbara Antonella | |
+|Velarde Gonzales, Nestor | |
+|Diestra Zambrano, Adriana María | |
+|Hidalgo Lopez, Mathias Adriano |  |
+|Jara Benitez, Quique Vladimir |  |
+
+
+
 <div style="page-break-before: always;"></div>
 
 ## Student Outcome
