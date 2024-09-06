@@ -222,7 +222,7 @@ Para el desarrollo de la entrega TB1, se opto por dividir el trabajo de la sigui
 |Espinoza Delgado, Bárbara Antonella | |
 |Velarde Gonzales, Nestor | |
 |Diestra Zambrano, Adriana María | |
-|Hidalgo Lopez, Mathias Adriano | Entrevista Cliente, User Persona, Empathy Mapping, Impact Mapping  |
+|Hidalgo Lopez, Mathias Adriano | Entrevista Cliente, User Persona, Empathy Mapping, To-Be Mapping, Impact Mapping  |
 |Jara Benitez, Quique Vladimir |  |
 
 
