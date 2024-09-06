@@ -211,8 +211,6 @@
 
 ## Project Report Collaboration Insights
 
-URL del repositorio de GitHub de la organización: https://github.com/UPC-AppWeb-CiberMach/Final-Report.git
-
 **TB1**
 
 Para el desarrollo de la entrega TB1, se opto por dividir el trabajo de la siguiente forma
