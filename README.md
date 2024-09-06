@@ -1,27 +1,27 @@
-﻿<div style="text-align: center; width: 100%; border:1px">
+﻿<div align="center">
 
 <br/><br/>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" width="150">
 
-## Universidad Peruana de Ciencias Aplicadas 
+### **Universidad Peruana de Ciencias Aplicadas**
 ### Ingeniería de Software
 ### **CURSO:** SI730 Aplicaciones Web - SI92
-### **SECCIÓN:** SI92 
+### **SECCIÓN:** SI92
 ### **Profesor:** Naldo Reupo-Musayon Gastulo
 
 <br/>
 
-## Informe de Trabajo Final 
+### **Informe de Trabajo Final**
 
 <br/>
 
 ### **Nombre del startup:** CiberMach
 ### **Nombre del producto:** MoviRent
 
-## **Integrantes**
+### **Integrantes**
 
-<table align="center" style="text-align: center; width: 100%; border:1px">
+<table align="center" style="text-align: center; border:1px">
 	<tbody>
 		<tr>
 			<td><center>Nombre</center></td>
@@ -56,16 +56,19 @@
 
 ## Setiembre, 2024
 
+<br><br><br>
+
 </div>
+
 
 ## Registro de versiones del informe
 
-<table style="text-align: center; width: 100%; border:1px">
+<table border="1px" align="center" style="text-align: center; width: 100%; border:1px">
   <thead>
     <tr>
       <th>Versión</th>
       <th>Fecha</th>
-      <th>Autor</th>
+      <th style="width: 35%;">Autor</th>
       <th>Descripción</th>
     </tr>
   </thead>
@@ -231,70 +234,72 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de
 conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro
 del ABET – EAC - Student Outcome 5.
 
-<table style="text-align: center; width: 100%; border:1px">
-	<tbody>
-		<tr>
-			<td>Criterio específico</td>
-			<td>Acciones realizadas</td>
-			<td>Conclusiones</td>
-		</tr>
-		<tr>
-			<td>Trabaja en equipo para proporcionar liderazgo en forma conjunta</td>
-			<td>
-            TB1:
-                <ul>
-                  <li>Adriana María Diestra Zambrano</li>
-                  <li>Bárbara Antonella Espinoza Delgado</li>
-                  <li>
-		    Mathias Adriano Hidalgo Lopez <br>
-      		    TB1: Realice entrevistas a nuestro segmento cliente para reconocer las principales necesidades que tienen. 
-			 Elabore el To-Be y El Impact Mapping para la posterior creacion del landing
+<div align="center">
 
-</li>
-                  <li>Quique Vladimir Jara Benites</li>
-                  <li>Roy Linsh Fernandez Remon</li>
-                  <li>
-                    Velarde Gonzales, Néstor Hernan. <br>
-                    TB1: Se realizaron entrevistas para reconocer lo que necesitan
-                    los potenciales clientes tanto owner y client, actualizar colaborar en user histories y en el diseño de prototipado para landing en figma.
-                  </li>
+<table border="1px" align="center">
+    <thead>
+        <tr>
+            <th>Criterio específico</th>
+            <th style="width: 45%;">Acciones realizadas</th>
+            <th>Conclusiones</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Trabaja en equipo para proporcionar liderazgo en forma conjunta</td>
+            <td>
+                TB1:
+                <ul>
+                    <li>Adriana María Diestra Zambrano</li>
+                    <li>Bárbara Antonella Espinoza Delgado</li>
+                    <li>
+                        Mathias Adriano Hidalgo Lopez <br>
+                        TB1: Realice entrevistas a nuestro segmento cliente para reconocer las principales necesidades que tienen. 
+                        Elabore el To-Be y El Impact Mapping para la posterior creación del landing.
+                    </li>
+                    <li>Quique Vladimir Jara Benites</li>
+                    <li>Roy Linsh Fernandez Remon</li>
+                    <li>
+                        Velarde Gonzales, Néstor Hernan. <br>
+                        TB1: Se realizaron entrevistas para reconocer lo que necesitan
+                        los potenciales clientes tanto owner como client, actualizar colaborar en user histories y en el diseño de prototipado para landing en Figma.
+                    </li>
                 </ul>
             </td>
-			<td>
+            <td>
                 TB1:
                 Se logró realizar un trabajo sobresaliente, cumpliendo con todos los segmentos del trabajo y entregando un documento que sirve como sustento escrito para comprender los pasos seguidos en la planificación, desarrollo y envío del proyecto a producción.
             </td>
-		</tr>
-		<tr>
-			<td>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.</td>
-			<td width="300">
+        </tr>
+        <tr>
+            <td>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.</td>
+            <td>
                 TB1:
-                    <ul>
-                      <li>Adriana María Diestra Zambrano</li>
-                      <li>Bárbara Antonella Espinoza Delgado</li>
-                      <li>
-			            Mathias Adriano Hidalgo Lopez
-			            TB1: Reconoce la necesidad para la realizacion de las siguientes tareas: proponer preguntas y realizar entrecistas
-			                En base a ello crear el to-be mapping y a traves de los user crear el impact mapping de ambos segmentos
-                      </li>
-                      <li>Quique Vladimir Jara Benites</li>
-                      <li>Roy Linsh Fernandez Remon</li>
-                      <li>
-                          Velarde Gonzales, Néstor Hernan.
-                          TB1: Se reconoció la necesidad para el proyecto realizar las
-                            siguientes tareas: Se plantearon Hypothesis Statements, proponer preguntas para
-                            entrevistas y registrar entrevista realizada. Además, en base a los resultados de la
-                            entrevista hacer Empathy Maps de ambos segmentos.
-                      </li>
-                    </ul>
+                <ul>
+                    <li>Adriana María Diestra Zambrano</li>
+                    <li>Bárbara Antonella Espinoza Delgado</li>
+                    <li>
+                        Mathias Adriano Hidalgo Lopez <br>
+                        TB1: Reconoce la necesidad para la realización de las siguientes tareas: proponer preguntas y realizar entrevistas.
+                        En base a ello, crear el To-Be mapping y a través de los user crear el Impact Mapping de ambos segmentos.
+                    </li>
+                    <li>Quique Vladimir Jara Benites</li>
+                    <li>Roy Linsh Fernandez Remon</li>
+                    <li>
+                        Velarde Gonzales, Néstor Hernan. <br>
+                        TB1: Se reconoció la necesidad para el proyecto realizar las siguientes tareas: Se plantearon Hypothesis Statements, proponer preguntas para entrevistas y registrar entrevistas realizadas. Además, en base a los resultados de la entrevista hacer Empathy Maps de ambos segmentos.
+                    </li>
+                </ul>
             </td>
-			<td>
-                TB1
+            <td>
+                TB1:
                 El equipo estableció medios de comunicación efectivos para entregar un trabajo completo dentro de los cortos períodos de tiempo para la entrega del proyecto. Además, se comunicaron los resultados obtenidos a los stakeholders, quienes demostraron su satisfacción con el programa. Cada miembro realizó presentaciones detalladas de sus avances y colaboró en la comunicación constante con los segmentos objetivo y clientes.
             </td>
-		</tr>
-	</tbody>
+        </tr>
+    </tbody>
 </table>
+
+</div>
 
 ## Project Report Online
 URL Project Report en Github: https://github.com/UPC-AppWeb-CiberMach/Final-Report 
@@ -416,127 +421,120 @@ y promuevan el uso de vehículos ecológicos.
 
 ### [Bibliografía](#bibliografía)
 
-- Aguirre, C., Canelo, G., & Mendiola, L. (2024). UNA MIRADA HACIA LA MOVILIDAD SOSTENIBLE. 
-Recuperado de https://observatorio.esan.edu.pe/wp-content/uploads/2024/03/Libro-Movilidad-urbana-vfinal.pdf [Consulta: 24 de Agosto, 2024].
+- Aguirre, C., Canelo, G., & Mendiola, L. (2024). *Una mirada hacia la movilidad sostenible*. Recuperado de [https://observatorio.esan.edu.pe/wp-content/uploads/2024/03/Libro-Movilidad-urbana-vfinal.pdf](https://observatorio.esan.edu.pe/wp-content/uploads/2024/03/Libro-Movilidad-urbana-vfinal.pdf) [Consulta: 24 de agosto, 2024].
 
-- El Comercio. (2024, septiembre 2). Noticias sobre tráfico en Lima hoy lunes 02 de septiembre. 
-Recuperado de https://elcomercio.pe/noticias/trafico-en-lima/ [Consulta: 28 de Agosto, 2024].
+- El Comercio. (2024, 2 de septiembre). *Noticias sobre tráfico en Lima hoy lunes 02 de septiembre*. Recuperado de [https://elcomercio.pe/noticias/trafico-en-lima/](https://elcomercio.pe/noticias/trafico-en-lima/) [Consulta: 28 de agosto, 2024].
 
-- Fernandez Altamirano, D. H., & Pinto Apaza, L. A. (2024). Propuesta de Diseño de un área de Mobility Hub para 
-evitar la congestión vehicular promoviendo la movilidad sostenible en la zona comercial dentro del nuevo Aeropuerto internacional Jorge Chávez.
-Recuperado de https://repositorioacademico.upc.edu.pe/handle/10757/674637 [Consulta: 24 de Agosto, 2024].
+- Fernández Altamirano, D. H., & Pinto Apaza, L. A. (2024). *Propuesta de diseño de un área de Mobility Hub para evitar la congestión vehicular promoviendo la movilidad sostenible en la zona comercial dentro del nuevo Aeropuerto Internacional Jorge Chávez*. Recuperado de [https://repositorioacademico.upc.edu.pe/handle/10757/674637](https://repositorioacademico.upc.edu.pe/handle/10757/674637) [Consulta: 24 de agosto, 2024].
 
-- Huamanraime M. Echevarría E., Cabrera F. & Vásquez I.(2023). Transitioning to sustainable mobility in Lima, Peru. Are e-scooter sharing initiatives part of the problem or the solution? Recuperado de: https://cris.pucp.edu.pe/en/publications/transitioning-to-sustainable-mobility-in-lima-peru-are-e-scooter- [Consulta: 20 de Agosto, 2024].
-  
-- Instituto Peruano de Economía (2024). Tráfico de Lima cuesta S/2 mil millones en pérdidas de productividad. Recuperado de: https://www.ipe.org.pe/portal/wp-content/uploads/2024/02/Informe-IPE-EC-Transporte-urbano.pdf [Consulta: 20 de Agosto, 2024].
+- Huamanraime, M. E., Echevarría, E., Cabrera, F., & Vásquez, I. (2023). *Transitioning to sustainable mobility in Lima, Peru: Are e-scooter sharing initiatives part of the problem or the solution?* Recuperado de [https://cris.pucp.edu.pe/en/publications/transitioning-to-sustainable-mobility-in-lima-peru-are-e-scooter-](https://cris.pucp.edu.pe/en/publications/transitioning-to-sustainable-mobility-in-lima-peru-are-e-scooter-) [Consulta: 20 de agosto, 2024].
 
-- Soto Vargas, L. (2024). Sistema de priorización de proyectos viales en Lima Metropolitana utilizando modelo de tráfico de 
-Beckmann y teoría de grafos para mejorar la gestión de proyectos de transporte urbano. 
-Recuperado de https://repositorio.unfv.edu.pe/handle/20.500.13084/8963 [Consulta: 24 de Agosto, 2024].
+- Instituto Peruano de Economía. (2024). *Tráfico de Lima cuesta S/2 mil millones en pérdidas de productividad*. Recuperado de [https://www.ipe.org.pe/portal/wp-content/uploads/2024/02/Informe-IPE-EC-Transporte-urbano.pdf](https://www.ipe.org.pe/portal/wp-content/uploads/2024/02/Informe-IPE-EC-Transporte-urbano.pdf) [Consulta: 20 de agosto, 2024].
+
+- Soto Vargas, L. (2024). *Sistema de priorización de proyectos viales en Lima Metropolitana utilizando modelo de tráfico de Beckmann y teoría de grafos para mejorar la gestión de proyectos de transporte urbano*. Recuperado de [https://repositorio.unfv.edu.pe/handle/20.500.13084/8963](https://repositorio.unfv.edu.pe/handle/20.500.13084/8963) [Consulta: 24 de agosto, 2024].
+
 
 ### [Anexos](#anexos)
 
 Enlaces a los desarrollos de trabajo del equipo CiberMach.
 
-<table style="width: 100%; border:1px">
-	<tbody>
-		<tr>
-			<td>Descripción</td>
-			<td>Enlace</td>
-		</tr>
+<div align="center">
+
+<table style="width: 100%; border: 1px solid black; border-collapse: collapse;">
+    <tbody>
         <tr>
-			<td colspan="2"><center>**CAPITULO 02**</center></td>
-		</tr>
-        <tr>
-			<td>Nuestras entrevistas:</td>
-			<td>
-
- - 3 entrevistas a propietarios de scooters
-
-[Entrevista_01_Owner](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202022365_upc_edu_pe/EZSdPhz59ytBr7yjIHvAProBDVrmA4ru6q7oZv2RxS74Ww?e=a118uE&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
-                
-[Entrevista_02_Owner](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c221_upc_edu_pe/EcJxI89tEyVKqjwAXpUzEfQBPCIByK7wqXOgZCX6WY3K_g?e=PHNrCW)
-                
-[Entrevista_03_Owner](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c221_upc_edu_pe/ETlt6pWHB7VDiEmJYMLJmzAB-NrsusHtDEDuzZxBuHYBXQ?e=rkizHA)
-
-- 3 entrevistas a clientes
-
-[Entrevista_01_Client](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213222_upc_edu_pe/EYvfM5T1ScdBpoM4ZDAvlQgBLmbxD7DTIk_2O02DixCJBw?e=RxA0RV)
-                
-[Entrevista_02_Client](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b778_upc_edu_pe/ESrNi2J7CPxCmG1crP6I85gBDxv_9VtZJzbnSfIrn9WDqA?e=5e70nZ)
-                
-[Entrevista_03_Client](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b778_upc_edu_pe/ESYHQW3mA-hDq81S5Vbto-ABpfXj_7VY_dmt5rjmBeJ-Rw?e=YpnHj6&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
-            </td>
-		</tr>
-		<tr>
-			<td>As-Is</td>
-			<td>[As-Is](https://miro.com/app/board/uXjVKXo8BTc=/?share_link_id=732675408587)</td>
-		</tr>
-        <tr>
-            <td colspan="2"><center>**CAPITULO 03**</center></td>
+            <th style="border: 1px solid black; padding: 8px;">Descripción</th>
+            <th style="border: 1px solid black; padding: 8px;">Enlace</th>
         </tr>
         <tr>
-			<td>To-Be</td>
-			<td>[to_be](https://miro.com/app/board/uXjVKXo8BTc=/?share_link_id=732675408587)</td>
-		</tr>
+            <td colspan="2" style="text-align: center;"><strong>CAPITULO 02</strong></td>
+        </tr>
         <tr>
-			<td colspan="2"><center>**CAPITULO 04**</center></td>
-		</tr>
+            <td>Nuestras entrevistas:</td>
+            <td>
+                - 3 entrevistas a propietarios de scooters
+                <ul>
+                    <li><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202022365_upc_edu_pe/EZSdPhz59ytBr7yjIHvAProBDVrmA4ru6q7oZv2RxS74Ww?e=a118uE&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Entrevista 01 Owner</a></li>
+                    <li><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c221_upc_edu_pe/EcJxI89tEyVKqjwAXpUzEfQBPCIByK7wqXOgZCX6WY3K_g?e=PHNrCW">Entrevista 02 Owner</a></li>
+                    <li><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c221_upc_edu_pe/ETlt6pWHB7VDiEmJYMLJmzAB-NrsusHtDEDuzZxBuHYBXQ?e=rkizHA">Entrevista 03 Owner</a></li>
+                </ul>
+                - 3 entrevistas a clientes
+                <ul>
+                    <li><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213222_upc_edu_pe/EYvfM5T1ScdBpoM4ZDAvlQgBLmbxD7DTIk_2O02DixCJBw?e=RxA0RV">Entrevista 01 Client</a></li>
+                    <li><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b778_upc_edu_pe/ESrNi2J7CPxCmG1crP6I85gBDxv_9VtZJzbnSfIrn9WDqA?e=5e70nZ">Entrevista 02 Client</a></li>
+                    <li><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b778_upc_edu_pe/ESYHQW3mA-hDq81S5Vbto-ABpfXj_7VY_dmt5rjmBeJ-Rw?e=YpnHj6&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Entrevista 03 Client</a></li>
+                </ul>
+            </td>
+        </tr>
         <tr>
-			<td>Wireflow Diagram 1 LucidChart</td>
-			<td>[wireflow_diagram_01_lucidchart](https://lucid.app/lucidchart/fb6af4f5-9827-4046-95fd-1895b6fa7062/edit?viewport_loc=2910%2C961%2C5372%2C2713%2C0_0&invitationId=inv_f724a578-0aab-4eb7-ad01-394e2de62b9f)</td>
-		</tr>
+            <td>As-Is</td>
+            <td><a href="https://miro.com/app/board/uXjVKXo8BTc=/?share_link_id=732675408587">As-Is</a></td>
+        </tr>
         <tr>
-			<td>Wireflow Diagram 2 LucidChart</td>
-			<td>[wireflow_diagram_02_lucidchart](https://lucid.app/lucidchart/1940b5bd-7cde-435a-a322-5d2b98205fe8/edit?viewport_loc=1739%2C-1484%2C7387%2C3731%2C0_0&invitationId=inv_9885c22f-3eb4-4cf5-b976-1e2d62a9808d)</td>
-		</tr>
+            <td colspan="2" style="text-align: center;"><strong>CAPITULO 03</strong></td>
+        </tr>
         <tr>
-			<td>Userflow Diagram 1 LucidChart</td>
-			<td>[userflow_Diagram_01_LucidChart](https://lucid.app/lucidchart/efdbf4b0-123b-4d39-b4ee-fa652d97c51d/edit?viewport_loc=1172%2C2109%2C7680%2C3190%2C0_0&invitationId=inv_f4495ac8-2ece-45b7-aa11-440fe8f58eb7)</td>
-		</tr>
+            <td>To-Be</td>
+            <td><a href="https://miro.com/app/board/uXjVKXo8BTc=/?share_link_id=732675408587">To-Be</a></td>
+        </tr>
         <tr>
-			<td>Userflow Diagram 2 LucidChart</td>
-			<td>[userflow_Diagram_02_LucidChart](https://lucid.app/lucidchart/1f12de6f-db42-487b-8e52-43a294afe600/edit?viewport_loc=1544%2C-1559%2C7385%2C3730%2C0_0&invitationId=inv_f2985505-86cf-4b2b-a516-8deaf1ec79ad)</td>
-		</tr>
+            <td colspan="2" style="text-align: center;"><strong>CAPITULO 04</strong></td>
+        </tr>
         <tr>
-			<td>Figma - prototipo de application Wireframes & Mock-Ups</td>
-			<td>[Prototipo_WEB_wireframes_mockupos](https://www.figma.com/design/cQuS3bFffjnBjo9RGwcl2D/Web-Application---MoviRent?node-id=0-1&t=19j9paxfmlA0q9aX-1)</td>
-		</tr>
+            <td>Wireflow Diagram 1 LucidChart</td>
+            <td><a href="https://lucid.app/lucidchart/fb6af4f5-9827-4046-95fd-1895b6fa7062/edit?viewport_loc=2910%2C961%2C5372%2C2713%2C0_0&invitationId=inv_f724a578-0aab-4eb7-ad01-394e2de62b9f">Wireflow Diagram 01</a></td>
+        </tr>
         <tr>
-			<td>Figma - prototipo de landing page Wireframes & Mock-Ups</td>
-			<td>[Prototipo_LANDING-PAGE_wireframes_mockupos](https://www.figma.com/design/cQuS3bFffjnBjo9RGwcl2D/Web-Application---MoviRent?node-id=5-658&t=19j9paxfmlA0q9aX-1)</td>
-		</tr>
+            <td>Wireflow Diagram 2 LucidChart</td>
+            <td><a href="https://lucid.app/lucidchart/1940b5bd-7cde-435a-a322-5d2b98205fe8/edit?viewport_loc=1739%2C-1484%2C7387%2C3731%2C0_0&invitationId=inv_9885c22f-3eb4-4cf5-b976-1e2d62a9808d">Wireflow Diagram 02</a></td>
+        </tr>
         <tr>
-			<td>Figma - Component library</td>
-			<td>[Component_library_design](https://www.figma.com/design/cQuS3bFffjnBjo9RGwcl2D/Web-Application---MoviRent?node-id=1-2&t=19j9paxfmlA0q9aX-1)</td>
-		</tr>
+            <td>Userflow Diagram 1 LucidChart</td>
+            <td><a href="https://lucid.app/lucidchart/efdbf4b0-123b-4d39-b4ee-fa652d97c51d/edit?viewport_loc=1172%2C2109%2C7680%2C3190%2C0_0&invitationId=inv_f4495ac8-2ece-45b7-aa11-440fe8f58eb7">Userflow Diagram 01</a></td>
+        </tr>
         <tr>
-			<td>Diagrama de clases: </td>
-			<td>[Diagrama_de_clases](https://lucid.app/lucidchart/6335ae96-f4a0-46c7-8db1-b697b611fb2d/edit?view_items=3Fj-RxAA61kT&invitationId=inv_f016841e-d1c2-44ea-8aa6-e2cab033906e)</td>
-		</tr>
+            <td>Userflow Diagram 2 LucidChart</td>
+            <td><a href="https://lucid.app/lucidchart/1f12de6f-db42-487b-8e52-43a294afe600/edit?viewport_loc=1544%2C-1559%2C7385%2C3730%2C0_0&invitationId=inv_f2985505-86cf-4b2b-a516-8deaf1ec79ad">Userflow Diagram 02</a></td>
+        </tr>
         <tr>
-			<td colspan="2"><center>**CAPITULO 05**</center></td>
-		</tr>
+            <td>Figma - prototipo de application Wireframes & Mock-Ups</td>
+            <td><a href="https://www.figma.com/design/cQuS3bFffjnBjo9RGwcl2D/Web-Application---MoviRent?node-id=0-1&t=19j9paxfmlA0q9aX-1">Prototipo WEB</a></td>
+        </tr>
         <tr>
-			<td>Organización en trello:</td>
-			<td>[trello](https://trello.com/invite/b/66ccf1855ff6c24fe148a766/ATTI34b50c784e97d0a7ba15dd3b49b56ca5D82CFA4B/sprint-1)</td>
-		</tr>
+            <td>Figma - prototipo de landing page Wireframes & Mock-Ups</td>
+            <td><a href="https://www.figma.com/design/cQuS3bFffjnBjo9RGwcl2D/Web-Application---MoviRent?node-id=5-658&t=19j9paxfmlA0q9aX-1">Prototipo LANDING PAGE</a></td>
+        </tr>
         <tr>
-			<td>Landing page desplegado</td>
-			<td>https://upc-appweb-cibermach.github.io/Landing-Page/</td>
-		</tr>
+            <td>Figma - Component library</td>
+            <td><a href="https://www.figma.com/design/cQuS3bFffjnBjo9RGwcl2D/Web-Application---MoviRent?node-id=1-2&t=19j9paxfmlA0q9aX-1">Component Library</a></td>
+        </tr>
+        <tr>
+            <td>Diagrama de clases:</td>
+            <td><a href="https://lucid.app/lucidchart/6335ae96-f4a0-46c7-8db1-b697b611fb2d/edit?view_items=3Fj-RxAA61kT&invitationId=inv_f016841e-d1c2-44ea-8aa6-e2cab033906e">Diagrama de Clases</a></td>
+        </tr>
+        <tr>
+            <td colspan="2" style="text-align: center;"><strong>CAPITULO 05</strong></td>
+        </tr>
+        <tr>
+            <td>Organización en Trello:</td>
+            <td><a href="https://trello.com/invite/b/66ccf1855ff6c24fe148a766/ATTI34b50c784e97d0a7ba15dd3b49b56ca5D82CFA4B/sprint-1">Trello</a></td>
+        </tr>
+        <tr>
+            <td>Landing page desplegado</td>
+            <td><a href="https://upc-appweb-cibermach.github.io/Landing-Page/">Landing Page</a></td>
+        </tr>
         <tr>
             <td>Nuestra organización en GitHub</td>
-            <td>https://github.com/UPC-AppWeb-CiberMach</td>
+            <td><a href="https://github.com/UPC-AppWeb-CiberMach">GitHub</a></td>
         </tr>
         <tr>
-            <td>VIDEOS DE NUESTRO PROYECTO GRUPAL</td>
+            <td colspan="2" style="text-align: center;">VIDEOS DE NUESTRO PROYECTO GRUPAL</td>
         </tr>
         <tr>
             <td>Video de nuestro landing page</td>
-            <td>[Video_de_landing_page](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202022365_upc_edu_pe/EZJdjQ2jmkhOmQY61Gv0nvYBVwudqWkMI20W0xZ74ZnNNA?e=5mJaCt)</td>
+            <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202022365_upc_edu_pe/EZJdjQ2jmkhOmQY61Gv0nvYBVwudqWkMI20W0xZ74ZnNNA?e=5mJaCt">Video de Landing Page</a></td>
         </tr>
-	</tbody>
+    </tbody>
 </table>
 
-
+</div>
