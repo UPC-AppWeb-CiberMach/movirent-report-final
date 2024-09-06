@@ -332,17 +332,18 @@ Datos del entrevistador:
 * Apellidos: Velarde Gonzales
 
 Datos del entrevistado:
-* Nombres: Danggela Espinoza
-* Apellidos: Flores Mendez.
+* Nombres: Dangghela 
+* Apellidos: Olivera Espinoza
 * Edad: 22
 * Distrito de residencia: Lima
 * Enlace a la entrevista: [Ver Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c221_upc_edu_pe/ETlt6pWHB7VDiEmJYMLJmzAB-NrsusHtDEDuzZxBuHYBXQ?e=rkizHA)
-* Duración de la entrevista: 5:55
+* Duración de la entrevista: 5:56
 
+![entrevista-owner-03](https://github.com/user-attachments/assets/68bf15c6-a968-42b1-b862-c0bfa4f49c1f)
 
 **Informe del resumen de la entrevista:**
 
-Dangi, una joven de 22 años de edad, actualmente reside en la ciudad de Lima. ella es estudiante en la universidad, 
+Dangghela, una joven de 22 años de edad, actualmente reside en la ciudad de Lima. ella es estudiante en la universidad, 
 tambien trabaja en call center, ella usa dispositivos como Android y Windows, y prefiere el navegador Chrome.
 A parte de ello conocemos que cuenta con scooter electricos, la cual le permite movilizarse de manera rapida y segura.
 Dangi considera que el alquiler de scooters es una oportunidad para ganar dinero extra, y le gustaria que las tarifas
