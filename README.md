@@ -21,37 +21,40 @@
 
 ### <center>**Integrantes**</center>
 
-<table align="center", border="1px">
-	<tbody>
-		<tr>
-			<td><center>Nombre</center></td>
-			<td><center>Código</center></td>
-		</tr>
-		<tr>
-			<td>Adriana María Diestra Zambrano</td>
-			<td>u202218110</td>
-		</tr>
-		<tr>
-			<td>Bárbara Antonella Espinoza Delgado</td>
-			<td>u201911727</td>
-		</tr>
-		<tr>
-			<td>Mathias Adriano Hidalgo Lopez</td>
-			<td>u202213222</td>
-		</tr>
-		<tr>
-			<td>Velarde Gonzales, Néstor</td>
-			<td>u20211C221</td>
-		</tr>
-		<tr>
-			<td>Quique Vladimir Jara Benites</td>
-			<td>u202022365</td>
-		</tr>
-		<tr>
-			<td>Roy Linsh Fernandez Remon</td>
-			<td>u20221B778</td>
-		</tr>
-	</tbody>
+
+<table border="1" align="center">
+    <thead>
+        <tr>
+            <th>Nombre</th>
+            <th>Código</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Adriana María Diestra Zambrano</td>
+            <td>u202218110</td>
+        </tr>
+        <tr>
+            <td>Bárbara Antonella Espinoza Delgado</td>
+            <td>u201911727</td>
+        </tr>
+        <tr>
+            <td>Mathias Adriano Hidalgo Lopez</td>
+            <td>u202213222</td>
+        </tr>
+        <tr>
+            <td>Velarde Gonzales, Néstor</td>
+            <td>u20211C221</td>
+        </tr>
+        <tr>
+            <td>Quique Vladimir Jara Benites</td>
+            <td>u202022365</td>
+        </tr>
+        <tr>
+            <td>Roy Linsh Fernandez Remon</td>
+            <td>u20221B778</td>
+        </tr>
+    </tbody>
 </table>
 
 ## <center>Setiembre, 2024</center>
@@ -208,15 +211,36 @@
 
 Para el desarrollo de la entrega TB1, se opto por dividir el trabajo de la siguiente forma
 
-|Integrante|Actvidades Asignadas|
-|----------|----------|
-|Espinoza Delgado, Bárbara Antonella | |
-|Velarde Gonzales, Nestor |Entrevistas Owner, User histories funcionales, Software Configuration Management, Diseño de prototipado para landing en figma |
-|Diestra Zambrano, Adriana María | |
-|Hidalgo Lopez, Mathias Adriano | Entrevista Cliente, User Persona, Empathy Mapping, To-Be Mapping, Impact Mapping  |
-|Jara Benitez, Quique Vladimir |  |
-|Fernández Remón, Roy |  |
-
+<table align="center" border="1px">
+    <thead>
+        <tr>
+            <th>Integrante</th>
+            <th>Actividades Asignadas</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Espinoza Delgado, Bárbara Antonella</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Velarde Gonzales, Néstor</td>
+            <td>Entrevistas Owner, User histories funcionales, Software Configuration Management, Diseño de prototipado para landing en figma</td>
+        </tr>
+        <tr>
+            <td>Diestra Zambrano, Adriana María</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Hidalgo Lopez, Mathias Adriano</td>
+            <td>Entrevista Cliente, User Persona, Empathy Mapping, To-Be Mapping, Impact Mapping</td>
+        </tr>
+        <tr>
+            <td>Jara Benitez, Quique Vladimir</td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
 
 <div style="page-break-before: always;"></div>
 
