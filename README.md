@@ -274,21 +274,29 @@ del ABET – EAC - Student Outcome 5.
             <td>
                 TB1:
                 <ul>
-                    <li>Adriana María Diestra Zambrano</li>
-                    <li>Bárbara Antonella Espinoza Delgado
+                    <li>
+                        Adriana María Diestra Zambrano
+                        TB1:
+                    </li>
+                    <li>
+                        Bárbara Antonella Espinoza Delgado
+                        TB1:
                     </li>
                     <li>
                         Mathias Adriano Hidalgo Lopez <br>
                         TB1: Realice entrevistas a nuestro segmento cliente para reconocer las principales necesidades que tienen. 
                         Elabore el To-Be y El Impact Mapping para la posterior creación del landing.
                     </li>
-                    <li>Quique Vladimir Jara Benites</li>
-			<li>
-			Fernández Remón, Roy <br>
-			TB1: Realice 2 entrevistas de nuestro segmento clientes para poder conocer sus necesidades de cada uno y ver que es lo que esperan
-			    obtener de nuestro proyecto, realicé el diagrama de clases UML para poder conocer las principales clase que llevará nuestro 
-			    proyecto y como de esta manera poder ordenar y tener un desarrollo limpio y realicé el class dictionary para poder llevar una descripción
-			    más específica de cada atributo elegido en los diagramas y su tipo de dato.
+                    <li>
+                        Quique Vladimir Jara Benites
+                        TB1:
+                    </li>
+			        <li>
+			            Fernández Remón, Roy <br>
+			            TB1: Realice 2 entrevistas de nuestro segmento clientes para poder conocer sus necesidades de cada uno y ver que es lo que esperan
+                        obtener de nuestro proyecto, realicé el diagrama de clases UML para poder conocer las principales clase que llevará nuestro 
+			            proyecto y como de esta manera poder ordenar y tener un desarrollo limpio y realicé el class dictionary para poder llevar una descripción
+			            más específica de cada atributo elegido en los diagramas y su tipo de dato.
                     </li>
                     <li>
                         Velarde Gonzales, Néstor Hernan. <br>
@@ -307,19 +315,28 @@ del ABET – EAC - Student Outcome 5.
             <td>
                 TB1:
                 <ul>
-                    <li>Adriana María Diestra Zambrano</li>
-                    <li>Bárbara Antonella Espinoza Delgado</li>
+                    <li>
+                        Adriana María Diestra Zambrano
+                        TB1:
+                    </li>   
+                    <li>
+                        Bárbara Antonella Espinoza Delgado
+                        TB1:
+                    </li>
                     <li>
                         Mathias Adriano Hidalgo Lopez <br>
                         TB1: Reconoce la necesidad para la realización de las siguientes tareas: proponer preguntas y realizar entrevistas.
                         En base a ello, crear el To-Be mapping y a través de los user crear el Impact Mapping de ambos segmentos.
                     </li>
-                    <li>Quique Vladimir Jara Benites</li>
-			<li>
-			Fernández Remón, Roy <br>
-			TB1: Al realizar lo mencionado, reconocí la necesidad para la realización de las siguientes tareas: Realizar las entrevistas y hacer las respectivas preguntas
-			    para obtener los datos relevantes que nos permitieran desarrollar un buen proyecto con mejores datos estadísticos en base a lo que opina cada persona sobre
-			    nuestro proyecto.
+                    <li>
+                        Quique Vladimir Jara Benites
+                        TB1:
+                    </li>
+			        <li>
+			            Fernández Remón, Roy <br>
+			            TB1: Al realizar lo mencionado, reconocí la necesidad para la realización de las siguientes tareas: Realizar las entrevistas y hacer las respectivas preguntas
+			            para obtener los datos relevantes que nos permitieran desarrollar un buen proyecto con mejores datos estadísticos en base a lo que opina cada persona sobre
+			            nuestro proyecto.
                     </li>
                     <li>
                         Velarde Gonzales, Néstor Hernan. <br>
