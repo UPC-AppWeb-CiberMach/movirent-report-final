@@ -432,7 +432,7 @@ Datos del entrevistado:
 * Apellidos: Escudero Garcia
 * Edad: 19
 * Distrito de residencia: Rímac
-* Enlace a la entrevista: [Ver Video](---)
+* Enlace a la entrevista: [Ver Video](https://upcedupe-my.sharepoint.com/personal/u202218110_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202218110_upc_edu_pe%2FDocuments%2FEntrevistaJeremy%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E3260062e-7954-4f9f-8f7b-5ec0e3a5761a)
 * Duración de la entrevista: 4:41
 
 <img src="../assets/chapter-02/interviews/Entrevista-Jeremy.png" alt="Imagen Entrevista 1">
