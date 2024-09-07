@@ -224,7 +224,8 @@ Para el desarrollo de la entrega TB1, se opto por dividir el trabajo de la sigui
     <tbody>
         <tr>
             <td>Espinoza Delgado, Bárbara Antonella</td>
-            <td></td>
+            <td>Capítulo 1, User Stories, Product Backlog, Style Guidelines, Landing Page UI Design, Web Application UX/UI, Information Architecture, Database Diagram, Sprint Planning y Sprint Backlog
+Landing Page</td>
         </tr>
         <tr>
             <td>Velarde Gonzales, Néstor</td>
@@ -232,7 +233,7 @@ Para el desarrollo de la entrega TB1, se opto por dividir el trabajo de la sigui
         </tr>
         <tr>
             <td>Diestra Zambrano, Adriana María</td>
-            <td></td>
+            <td>Entrevistas y Bounded Context diagrams.</td>
         </tr>
         <tr>
             <td>Hidalgo Lopez, Mathias Adriano</td>
@@ -240,7 +241,11 @@ Para el desarrollo de la entrega TB1, se opto por dividir el trabajo de la sigui
         </tr>
         <tr>
             <td>Jara Benitez, Quique Vladimir</td>
-            <td></td>
+            <td>Entrevista, Redacción del Análisis competitivo, Estrategias frente a competidores, User Persona, User Task Matrix, user journey mapping, As-Is Scenario, Ubiquitous Language, Software Configuration, Software Development, Source Code Management, Source Code Style, Software Deployment, Testing Suite, Execution evidence, Service Documentation, Software Deployment y Team Collaboration Insights.</td>
+        </tr>
+	    <tr>
+            <td>Fernandez Remon, Roy Linsh</td>
+            <td>Entrevistas y Diagrama de clases.</td>
         </tr>
     </tbody>
 </table>
@@ -277,27 +282,27 @@ del ABET – EAC - Student Outcome 5.
                     <li>
                         Adriana María Diestra Zambrano
                         TB1:
-                    </li>
+                    </li><br>
                     <li>
-                        Bárbara Antonella Espinoza Delgado
-                        TB1:
-                    </li>
+                        Bárbara Antonella Espinoza Delgado <br>
+                        TB1: Como lider del equipo me encargue de trabajar en conjunto para proporcionar dirección clara, fomentar la participación activa de todos los miembros y asegurar que las decisiones se tomen de manera colaborativa
+                    </li><br>
                     <li>
                         Mathias Adriano Hidalgo Lopez <br>
                         TB1: Realice entrevistas a nuestro segmento cliente para reconocer las principales necesidades que tienen. 
                         Elabore el To-Be y El Impact Mapping para la posterior creación del landing.
-                    </li>
+                    </li><br>
                     <li>
                         Quique Vladimir Jara Benites
                         TB1:
-                    </li>
+                    </li><br>
 			        <li>
 			            Fernández Remón, Roy <br>
 			            TB1: Realice 2 entrevistas de nuestro segmento clientes para poder conocer sus necesidades de cada uno y ver que es lo que esperan
                         obtener de nuestro proyecto, realicé el diagrama de clases UML para poder conocer las principales clase que llevará nuestro 
 			            proyecto y como de esta manera poder ordenar y tener un desarrollo limpio y realicé el class dictionary para poder llevar una descripción
 			            más específica de cada atributo elegido en los diagramas y su tipo de dato.
-                    </li>
+                    </li><br>
                     <li>
                         Velarde Gonzales, Néstor Hernan. <br>
                         TB1: Se realizaron entrevistas para reconocer lo que necesitan
@@ -318,30 +323,30 @@ del ABET – EAC - Student Outcome 5.
                     <li>
                         Adriana María Diestra Zambrano
                         TB1:
-                    </li>   
+                    </li><br>   
                     <li>
-                        Bárbara Antonella Espinoza Delgado
-                        TB1:
-                    </li>
+                        Bárbara Antonella Espinoza Delgado <br>
+                        TB1: Como líder, creé un entorno colaborativo. Establecí metas claras, planifiqué las tareas de forma eficiente y trabajé con el equipo para cumplir con los objetivos propuestos.
+                    </li><br>
                     <li>
                         Mathias Adriano Hidalgo Lopez <br>
                         TB1: Reconoce la necesidad para la realización de las siguientes tareas: proponer preguntas y realizar entrevistas.
                         En base a ello, crear el To-Be mapping y a través de los user crear el Impact Mapping de ambos segmentos.
-                    </li>
+                    </li><br>
                     <li>
                         Quique Vladimir Jara Benites
                         TB1:
-                    </li>
+                    </li><br>
 			        <li>
 			            Fernández Remón, Roy <br>
 			            TB1: Al realizar lo mencionado, reconocí la necesidad para la realización de las siguientes tareas: Realizar las entrevistas y hacer las respectivas preguntas
 			            para obtener los datos relevantes que nos permitieran desarrollar un buen proyecto con mejores datos estadísticos en base a lo que opina cada persona sobre
 			            nuestro proyecto.
-                    </li>
+                    </li><br>
                     <li>
                         Velarde Gonzales, Néstor Hernan. <br>
                         TB1: Se reconoció la necesidad para el proyecto realizar las siguientes tareas: Se plantearon Hypothesis Statements, proponer preguntas para entrevistas y registrar entrevistas realizadas. Además, en base a los resultados de la entrevista hacer Empathy Maps de ambos segmentos.
-                    </li>
+                    </li><br>
                 </ul>
             </td>
             <td>
