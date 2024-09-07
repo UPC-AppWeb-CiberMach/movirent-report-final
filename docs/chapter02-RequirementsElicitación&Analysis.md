@@ -436,7 +436,7 @@ Datos del entrevistado:
 * Enlace a la entrevista: [Ver Video](https://upcedupe-my.sharepoint.com/personal/u202218110_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202218110_upc_edu_pe%2FDocuments%2FEntrevistaJeremy%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E3260062e-7954-4f9f-8f7b-5ec0e3a5761a)
 * Duración de la entrevista: 4:41
 
-<img src="../assets/chapter-02/interviews/Entrevista-Jeremy.png" alt="Imagen Entrevista 1">
+![Entrevista-Jeremy](https://github.com/user-attachments/assets/81b92e3c-0180-4fb5-84bc-8a37e5db042c)
 
 **Informe del resumen de la entrevista:**
 
@@ -485,8 +485,7 @@ La entrevista concluyó con la posibilidad de poder añadir más planes de suscr
 Dado que la mayoría de los entrevistados viven en áreas céntricas de Lima, hay una demanda potencial en estas zonas, donde la 
 infraestructura y el tránsito pueden favorecer el uso de scooters como alternativa de transporte.  
 
-![Imagen Owner](../assets/chapter-02/interview-analysis/Owners/Analisis-Entrevistas-01.png)  
-
+![Analisis-Entrevistas-01](https://github.com/user-attachments/assets/a972fea9-52c6-4f4d-8111-121296707b84)
 
 Con un 66.7% de usuarios en el rango de 18-23 años, el negocio debe enfocarse en estrategias de marketing dirigidas a un 
 público joven, que está más abierto a adoptar nuevas tecnologías y servicios de movilidad. Asimismo como trabajan en el sector 
@@ -494,41 +493,40 @@ de negocios, es probable que estos usuarios busquen formas de rentabilizar sus a
 Esto sugiere que un enfoque en la facilidad de gestión y en la maximización de ingresos podría atraer a estos profesionales a 
 usar la plataforma para rentar sus vehículos a otros.  
 
-![Imagen Owner](../assets/chapter-02/interview-analysis/Owners/Analisis-Entrevistas-02.png)
-![Imagen Owner](../assets/chapter-02/interview-analysis/Owners/Analisis-Entrevistas-03.png)  
+![Analisis-Entrevistas-02](https://github.com/user-attachments/assets/75f3344c-4ba2-45f2-897a-2ed4c4049564)
 
+![Analisis-Entrevistas-03](https://github.com/user-attachments/assets/88600ce0-155e-4d13-82f1-6aedbca04c58)
 
 La preferencia por iOS y Windows 10 entre el 66.7% de los encuestados indica que la aplicación de alquiler de scooters debe 
 ser optimizada para estos sistemas operativos para mejorar la experiencia del usuario. Asimismo, Con el 66.7% prefiriendo Apple 
 y el 100% Lenovo, es importante que el diseño y la calidad del servicio reflejen los altos estándares asociados con estas marcas, 
 para alinearse con las expectativas de los usuarios.  
 
-![Imagen Owner](../assets/chapter-02/interview-analysis/Owners/Analisis-Entrevistas-04.png)
-
+![Analisis-Entrevistas-04](https://github.com/user-attachments/assets/af09a777-d8b3-4e1f-b444-4f66823ec6f4)
 
 Dado que el 66% prefiere Instagram, esta plataforma debería ser un canal clave para la promoción del servicio de alquiler de 
 scooters. Por otro lado, con un 66.7% que no ha rentado scooters previamente, existe un mercado significativo de potenciales 
 nuevos usuarios que podrían beneficiarse de promociones iniciales.  
 
-![Imagen Owner](../assets/chapter-02/interview-analysis/Owners/Analisis-Entrevistas-05.png)
+![Analisis-Entrevistas-05](https://github.com/user-attachments/assets/9d0579b7-266b-4b32-bfe5-9635110bd5ae)
 
 
 El 66% de los encuestados prefiere una tarifa basada en el tiempo de uso, lo que sugiere que este modelo de negocio podría ser 
 más atractivo. Tambien, con el 100% de los usuarios queriendo reglas de uso claras, es crucial establecer normas y condiciones 
 estrictas para garantizar la seguridad y la confianza.  
 
-![Imagen Owner](../assets/chapter-02/interview-analysis/Owners/Analisis-Entrevistas-06.png)
+![Analisis-Entrevistas-06](https://github.com/user-attachments/assets/52bccb7e-c4f3-454c-965f-ef3a970c6132)
 
 
 El hecho de que el 100% de los encuestados calificaran su interés en usar la aplicación con un 7 o más indica una alta disposición a adoptar el servicio.  
 
-![Imagen Owner](../assets/chapter-02/interview-analysis/Owners/Analisis-Entrevistas-07.png)
+![Analisis-Entrevistas-07](https://github.com/user-attachments/assets/d54f9772-13e5-4dc9-9769-fa3c35cd4f06)
 
 
 Finalmente la preferencia del 100% por ver la identidad y el historial de reservas de otros usuarios subraya la 
 importancia de integrar funciones de transparencia y confianza en la aplicación para aumentar la seguridad percibida y la satisfacción del usuario.  
 
-![Imagen Owner](../assets/chapter-02/interview-analysis/Owners/Analisis-Entrevistas-08.png)
+![Analisis-Entrevistas-08](https://github.com/user-attachments/assets/e94e215a-d297-43d9-a399-c9ead7d84cbb)
 
 
 **Segmento 2: Cliente**
