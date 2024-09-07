@@ -1,27 +1,27 @@
-﻿<div align="center">
+﻿
 
 <br/><br/>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" width="150">
+<center><img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" width="150"></center>
 
-### **Universidad Peruana de Ciencias Aplicadas**
-### Ingeniería de Software
-### **CURSO:** SI730 Aplicaciones Web - SI92
-### **SECCIÓN:** SI92
-### **Profesor:** Naldo Reupo-Musayon Gastulo
-
-<br/>
-
-### **Informe de Trabajo Final**
+### <center>**Universidad Peruana de Ciencias Aplicadas**</center>
+### <center>Ingeniería de Software</center>
+### <center>**CURSO:** SI730 Aplicaciones Web - SI92 </center>
+### <center>**SECCIÓN:** SI92 </center>
+### <center>**Profesor:** Naldo Reupo-Musayon Gastulo </center>
 
 <br/>
 
-### **Nombre del startup:** CiberMach
-### **Nombre del producto:** MoviRent
+### <center>**Informe de Trabajo Final**</center>
 
-### **Integrantes**
+<br/>
 
-<table align="center" style="text-align: center; border:1px">
+### <center>**Nombre del startup:** CiberMach</center>
+### <center>**Nombre del producto:** MoviRent</center>
+
+### <center>**Integrantes**</center>
+
+<table align="center", border="1px">
 	<tbody>
 		<tr>
 			<td><center>Nombre</center></td>
@@ -54,16 +54,13 @@
 	</tbody>
 </table>
 
-## Setiembre, 2024
+## <center>Setiembre, 2024</center>
 
-<br><br><br>
-
-</div>
-
+<br><br><br><br>
 
 ## Registro de versiones del informe
 
-<table border="1px" align="center" style="text-align: center; width: 100%; border:1px">
+<table border="1px", align="center">
   <thead>
     <tr>
       <th>Versión</th>
@@ -251,7 +248,8 @@ del ABET – EAC - Student Outcome 5.
                 TB1:
                 <ul>
                     <li>Adriana María Diestra Zambrano</li>
-                    <li>Bárbara Antonella Espinoza Delgado</li>
+                    <li>Bárbara Antonella Espinoza Delgado
+                    </li>
                     <li>
                         Mathias Adriano Hidalgo Lopez <br>
                         TB1: Realice entrevistas a nuestro segmento cliente para reconocer las principales necesidades que tienen. 
@@ -451,14 +449,11 @@ Enlaces a los desarrollos de trabajo del equipo CiberMach.
 
 <div align="center">
 
-<table style="width: 100%; border: 1px solid black; border-collapse: collapse;">
+<table align="center", border="1px">
     <tbody>
         <tr>
-            <th style="border: 1px solid black; padding: 8px;">Descripción</th>
-            <th style="border: 1px solid black; padding: 8px;">Enlace</th>
-        </tr>
-        <tr>
-            <td colspan="2" style="text-align: center;"><strong>CAPITULO 02</strong></td>
+            <th style="width: 45%;">Descripción</th>
+            <th>Enlace</th>
         </tr>
         <tr>
             <td>Nuestras entrevistas:</td>
@@ -482,14 +477,8 @@ Enlaces a los desarrollos de trabajo del equipo CiberMach.
             <td><a href="https://miro.com/app/board/uXjVKXo8BTc=/?share_link_id=732675408587">As-Is</a></td>
         </tr>
         <tr>
-            <td colspan="2" style="text-align: center;"><strong>CAPITULO 03</strong></td>
-        </tr>
-        <tr>
             <td>To-Be</td>
             <td><a href="https://miro.com/app/board/uXjVKXo8BTc=/?share_link_id=732675408587">To-Be</a></td>
-        </tr>
-        <tr>
-            <td colspan="2" style="text-align: center;"><strong>CAPITULO 04</strong></td>
         </tr>
         <tr>
             <td>Wireflow Diagram 1 LucidChart</td>
@@ -524,9 +513,6 @@ Enlaces a los desarrollos de trabajo del equipo CiberMach.
             <td><a href="https://lucid.app/lucidchart/6335ae96-f4a0-46c7-8db1-b697b611fb2d/edit?view_items=3Fj-RxAA61kT&invitationId=inv_f016841e-d1c2-44ea-8aa6-e2cab033906e">Diagrama de Clases</a></td>
         </tr>
         <tr>
-            <td colspan="2" style="text-align: center;"><strong>CAPITULO 05</strong></td>
-        </tr>
-        <tr>
             <td>Organización en Trello:</td>
             <td><a href="https://trello.com/invite/b/66ccf1855ff6c24fe148a766/ATTI34b50c784e97d0a7ba15dd3b49b56ca5D82CFA4B/sprint-1">Trello</a></td>
         </tr>
@@ -537,9 +523,6 @@ Enlaces a los desarrollos de trabajo del equipo CiberMach.
         <tr>
             <td>Nuestra organización en GitHub</td>
             <td><a href="https://github.com/UPC-AppWeb-CiberMach">GitHub</a></td>
-        </tr>
-        <tr>
-            <td colspan="2" style="text-align: center;">VIDEOS DE NUESTRO PROYECTO GRUPAL</td>
         </tr>
         <tr>
             <td>Video de nuestro landing page</td>
