@@ -1,5 +1,10 @@
+
+---
+
 # Capítulo IV: Product Design
+
 ## 4.1. Style Guidelines
+
 ### 4.1.1. General Style Guidelines
 
 <b>Misión</b>  
@@ -9,19 +14,26 @@ Proporcionar a nuestros clientes una plataforma donde puedan alquilar de manera 
 Ser la aplicación web líder en el alquiler de scooters eléctricos, promoción del transporte ecoamigable y reconocidos por grupos y asociaciones de emprendimiento y medio ambiente.
 
 <b>Brand Name</b>  
-El nombre del producto es MoviRent, el cual cuenta con un logo representado por el icono de un scooter y un rayo que simboliza que el vehículo funciona electricamente con el color verde como el más predominante simbolizando el medio ambiente.  
+El nombre del producto es MoviRent, el cual cuenta con un logo representado por el icono de un scooter y un rayo que 
+simboliza que el vehículo funciona electricamente con el color verde como el más predominante simbolizando el medio ambiente.  
+
 ![Logo](https://github.com/user-attachments/assets/4117bfeb-a0f2-4a3c-9a45-13fb105fb737)
 
 <b>Colores</b>  
-Decidimos elegir los colores verde claro, lila y azul al ser una combinación ligera y agradable a la vista de usuarios de diversad edades.  
+Decidimos elegir los colores verde claro, lila y azul al ser una combinación ligera y agradable a la vista de 
+usuarios de diversad edades.  
+
 ![Paleta de colores](https://github.com/user-attachments/assets/4725a7ff-e7ac-4bf4-b1fd-a60d3bc9c98f)
 
 <b>Tipografía</b>
-Elegimos la fuente Open Sans porque es legible y popular en el diseño de aplicaciones web, por lo que nos aseguramos de que nuestros clientes con toda clase de necesidades visuales logren leer facilmente el contenido de nuestra web.  
+Elegimos la fuente Open Sans porque es legible y popular en el diseño de aplicaciones web, por lo que nos aseguramos de 
+que nuestros clientes con toda clase de necesidades visuales logren leer facilmente el contenido de nuestra web. 
+
 ![Fuentes](https://github.com/user-attachments/assets/75992501-cdf2-4a55-bc42-dd726bab6adc)
 
 <b>Espaciado</b>  
-Para nuestra aplicación usaremos el espaciado x1.5, el cual es un poco mas amplio que el usual, lo que evitará que el texto se sienta pesado o genere complicaciones de legibilidad
+Para nuestra aplicación usaremos el espaciado x1.5, el cual es un poco mas amplio que el usual, lo que evitará 
+que el texto se sienta pesado o genere complicaciones de legibilidad
 
 Tamaño de letra: 42px-20px
 
@@ -47,6 +59,7 @@ Botones de la web: Los botones utilizados para la web serán botones rectangular
 ![Botones](https://github.com/user-attachments/assets/be33d4a1-f502-4f78-84c1-11eae1f82dee)
 
 ## 4.2. Information Architecture
+
 ### 4.2.1. Organization Systems
 
 - **Jerarquía Visual:**
@@ -109,7 +122,7 @@ intuitiva.
 
 En el Landing Page visualizará los siguientes botones de navegación:
 
-<table border="1px" align="center" style="text-align: center; width: 100%; border:1px">
+<table border="1px" align="center">
 	<tbody>
 		<tr>
 			<td>Etiqueta</td>
@@ -158,12 +171,15 @@ En el parte superior derecho del home page de la aplicación web contando con tr
 - Scooters: Muestra tanto los scooters en alquiler como los scooters que el usuario ha puesto en alquiler.
 
 ### 4.2.3. SEO Tags and Meta Tags  
-A continuación se mostrarán las etiquetas que representarán el contenido de la Landing Page y de la aplicación web para que los usuarios las encuentren con mayor facilidad.
+A continuación se mostrarán las etiquetas que representarán el contenido de la Landing Page y de la 
+aplicación web para que los usuarios las encuentren con mayor facilidad.
 
 <b>Landing Page</b>  
+
 ![Tags Landing Page](https://github.com/user-attachments/assets/6c9d47ee-831f-4756-a281-bdcd1e59b4de)
 
 <b>Aplicación Web</b>  
+
 ![Tags App Web](https://github.com/user-attachments/assets/3be44467-aa38-4a40-9b37-9cb7a952d2ac)
 
 ### 4.2.4. Searching Systems
@@ -172,109 +188,153 @@ En esta sección, implementaremos dos métodos para mejorar la experiencia de b�
 **Filtros Disponibles:**  
 - Disponibilidad de Ubicación: Este filtro permitirá a los usuarios buscar vehículos disponibles en ubicaciones específicas, lo que será útil para aquellos que deseen encontrar opciones cercanas a ellos.
 
-Con la implementación de estos sistemas de búsqueda y filtros, esperamos mejorar significativamente la experiencia de nuestros usuarios al encontrar el vehículo perfecto para sus necesidades.  
+Con la implementación de estos sistemas de búsqueda y filtros, esperamos mejorar significativamente la experiencia de 
+nuestros usuarios al encontrar el vehículo perfecto para sus necesidades.  
+
 ![Filtro](https://github.com/user-attachments/assets/3b1cbc6a-b1ec-435a-b59d-c7eb5d019cab)
 
 ### 4.2.5. Navigation Systems
-Como sistema de navegación en pantallas desktop optamos emplear una barra de menú horizontal que guiará al usuario por las diferentes secciones con títulos claves y estáticos, esto facilitará al usuario a tener todas las herramientas a la mano y así disfrutar de una mejor navegación. Mientras que en dispositivos móviles se optó por emplear una barra de navegación desplegable.
+Como sistema de navegación en pantallas desktop optamos emplear una barra de menú horizontal que guiará al 
+usuario por las diferentes secciones con títulos claves y estáticos, esto facilitará al usuario a 
+tener todas las herramientas a la mano y así disfrutar de una mejor navegación. Mientras que en 
+dispositivos móviles se optó por emplear una barra de navegación desplegable.
+
 ![Navbar web](https://github.com/user-attachments/assets/fda3de2b-4cc6-47a6-a8d1-b18697d6ea73)
 
 ![Navbar movil](https://github.com/user-attachments/assets/ad1b8a37-5013-4e80-8c20-b695133028ae)
   
 ## 4.3. Landing Page UI Design
+
 ### 4.3.1. Landing Page Wireframe  
+
 ![LandingPage Wireframes](https://github.com/user-attachments/assets/903a1ae6-dd41-4b2e-828e-e57d6abbd554)
 
 ![LandingPage Movil Wireframes](https://github.com/user-attachments/assets/7c9ba4bf-c956-4609-a2b1-2e5509bdeab3)
 
 ### 4.3.2. Landing Page Mock-up  
+
 ![Landing Page Mockup 1](https://github.com/user-attachments/assets/fb2f4208-709e-4ba0-9a07-c1d5fc008563)
+
 ![Landing Page Mockup 2](https://github.com/user-attachments/assets/96402d9c-4f76-46c6-8801-51ceff1ae758)
 
 ![LandingPage Mockup movil](https://github.com/user-attachments/assets/4546e3bb-e1aa-444b-bf01-39edce322348)
 
 ## 4.4. Web Applications UX/UI Design
-### 4.4.1. Web Applications Wireframes  
+### 4.4.1. Web Applications Wireframes 
+
 <b>Wireframes Web versión desktop</b>  
+
 ![Wireframe web 1](https://github.com/user-attachments/assets/8498438b-4835-46e7-9ea3-677c93550d90)
+
 ![Wireframe web 2](https://github.com/user-attachments/assets/4118ff06-bef6-42d0-a961-2226aa89093c)
 
  <b>Wireframes Web versión móvil</b>  
+
 ![Wireframes movil 1](https://github.com/user-attachments/assets/1e9155a4-ebd7-4c85-bc18-7c2dac62fb00)
+
 ![Wireframes movil 2](https://github.com/user-attachments/assets/eb0ddf92-2991-422f-90d1-f5e5c3a0a217)
+
 ![Wireframes movil 3](https://github.com/user-attachments/assets/060ac813-5bd7-4f44-82e2-3d79cab09f9e)
 
 ### 4.4.2. Web Applications Wireflow Diagrams  
+
 <b>User Goal 01:</b> El usuario quiere Registrarse, iniciar sesión, ver, editar y eliminar su cuenta.  
+
 ![WF_UserGoal1](https://github.com/user-attachments/assets/b33c90dc-bce2-4c2f-80d5-80fd10b455b8)
 
 <b>User Goal 02:</b> El usuario quiere ver, crear, editar y eliminar sus scooters.  
+
 ![WF_UserGoal2](https://github.com/user-attachments/assets/632e6147-82d9-4bf7-a53f-bdd31e9e659a)
 
 <b>User Goal 03:</b> EL usuario quiere buscar y alquilar un scooter.  
+
 ![WF_UserGoal3](https://github.com/user-attachments/assets/e4324249-8197-403b-aebf-07c7aefb6a36)
 
 <b>User Goal 04:</b> El usuario quiere ver reseñas y dejar una reseña.  
+
 ![WF_UserGoal4](https://github.com/user-attachments/assets/7d33036d-9b78-469d-8d56-bc4be96ebccc)  
 
-<b>User Goal 05:</b> El usuario quiere ver su historial y volver a alquilar un scooter.  
+<b>User Goal 05:</b> El usuario quiere ver su historial y volver a alquilar un scooter. 
+
 ![WF_UserGoal5](https://github.com/user-attachments/assets/e444ce03-d704-4366-b7cb-505f9e2dd8c1)
 
 <b>User Goal 06:</b> El usuario quiere eliminar su historial.  
+
 ![WF_UserGoal6](https://github.com/user-attachments/assets/ea3181fd-bd68-4268-baa5-ef2e4de78866)
 
 <b>User Goal 07:</b> El usuario quiere compar, ver, cambiar y cancelar suscripción.  
+
 ![WF_UserGoal7](https://github.com/user-attachments/assets/5b6346c1-d349-49bf-bd8a-599be88fbbb6)
 
 ### 4.4.3. Web Applications Mock-ups  
+
 <b>Mockups Web versión desktop</b>  
+
 ![Mockups web1](https://github.com/user-attachments/assets/dabe4247-87ef-4d9b-991a-eec3e651a8c4)
+
 ![Mockups web 2](https://github.com/user-attachments/assets/3f28e05a-693f-4e48-a867-aab717aa4a52)
 
 <b>Mockups Web versión móvil</b>  
+
 ![Mockups movil1](https://github.com/user-attachments/assets/0775e370-e8cf-4397-86d1-bf2146cd4c12)
+
 ![Mockups movil 2](https://github.com/user-attachments/assets/262d6134-47b2-4870-847a-61ded8d4abae)
+
 ![Mockups movil 3](https://github.com/user-attachments/assets/bc0d70dc-636e-4256-9f67-c8f62f9459c4)
 
 ### 4.4.4. Web Applications User Flow Diagrams  
 
 <b>User Goal 01:</b> El usuario quiere Registrarse, iniciar sesión, ver, editar y eliminar su cuenta.  
-Cuando el usuario quiera registrarse ingresa sus datos y se registra, cuando quiera iniciar sesión, ingresa su correo y contraseña y se lo redirigirá a su perfil, el cual tendra las opciones de editar sus datos y eliminar su cuenta con un previa confirmación. Cuenta con la opción de cancelar las operaciones.  
+Cuando el usuario quiera registrarse ingresa sus datos y se registra, cuando quiera iniciar sesión, ingresa 
+su correo y contraseña y se lo redirigirá a su perfil, el cual tendra las opciones de editar sus 
+datos y eliminar su cuenta con un previa confirmación. Cuenta con la opción de cancelar las operaciones.  
+
 ![UF_UserGoal1](https://github.com/user-attachments/assets/7065a576-560c-4ee5-b2a7-f7fbc3d923b9)
 
-
 <b>User Goal 02:</b> El Owner quiere ver, crear, editar y eliminar sus scooters.  
-Cuando el Owner se encuentre en la sección de sus scooters podrá verlos, publicar uno nuevo, editarlos y eliminarlos.  Cuenta con la opción de cancelar las operaciones.  
+Cuando el Owner se encuentre en la sección de sus scooters podrá verlos, publicar uno nuevo, editarlos y 
+eliminarlos.  Cuenta con la opción de cancelar las operaciones.  
+
 ![UF_UserGoal2](https://github.com/user-attachments/assets/fe80df66-b6a5-4dda-99c7-08cc2c5a69b7)
 
-
 <b>User Goal 03:</b> El Cliente quiere buscar y alquilar un scooter.  
-Cuando el Cliente quiera alquilar un scooter, puede buscarlo con el filtro por distrito, ver una lista de todos los scooters disponibles, seleccionar el de su preferencia, alquilarlo y pagarlo. Cuenta con la opción de cancelar las operaciones.  
+Cuando el Cliente quiera alquilar un scooter, puede buscarlo con el filtro por distrito, ver una 
+lista de todos los scooters disponibles, seleccionar el de su preferencia, alquilarlo y pagarlo. 
+Cuenta con la opción de cancelar las operaciones.  
+
 ![UF_UserGoal3](https://github.com/user-attachments/assets/57b44f93-04dd-4a4f-825f-78cff41bb273)
 
 
 <b>User Goal 04:</b> El Cliente quiere ver reseñas y dejar una reseña.  
-Cuando el Cliente quiera ver reseñas de un scooter puede ingresar a ellas entrando a detalles del scooter, tambien puede dejar su reseña luego de alquilar un scooter. Cuenta con la opción de cancelarla.  
+Cuando el Cliente quiera ver reseñas de un scooter puede ingresar a ellas entrando a detalles del scooter, 
+tambien puede dejar su reseña luego de alquilar un scooter. Cuenta con la opción de cancelarla.  
+
 ![UF_UserGoal4](https://github.com/user-attachments/assets/f194398a-95ce-4e75-ba52-4bc1cc90868c)
 
-
 <b>User Goal 05:</b> El Cliente quiere ver su historial y volver a alquilar un scooter.  
-Cuando el Cliente quiera ver su historial, puede acceder a esta opción desde su perfil y ver la lista de todos los scooters que fueron alquilados por uno mismo, también puede volver a alquilar un scooter. Cuenta con la opción de cancelar las operaciones.  
+Cuando el Cliente quiera ver su historial, puede acceder a esta opción desde su perfil y ver la lista de todos 
+los scooters que fueron alquilados por uno mismo, también puede volver a alquilar un scooter. Cuenta con la opción 
+de cancelar las operaciones.  
+
 ![UF_UserGoal5](https://github.com/user-attachments/assets/4c0efcd2-a931-446f-bae8-bb882ef445db)
 
 
 <b>User Goal 06:</b> El Cliente quiere eliminar su historial.  
-Cuando el Cliente quiera eliminar su historial puede hacerlo dando click a eliminar historial. Cuenta con la opción de cancelar la operación.  
+Cuando el Cliente quiera eliminar su historial puede hacerlo dando click a eliminar historial. Cuenta con la 
+opción de cancelar la operación.  
+
 ![UF_UserGoal6](https://github.com/user-attachments/assets/dcc7533c-ab7a-4883-9534-7d5ca947be7e)
 
-
 <b>User Goal 07:</b> El usuario quiere compar, ver, cambiar y cancelar suscripción.  
-Cuando el usuario quiere ver su suscripción, se dirigirá a Mi Sucripción y podrá verla, cambiarla y cancelarla. Cuenta con la opción de cancelar las operaciones.  
+Cuando el usuario quiere ver su suscripción, se dirigirá a Mi Sucripción y podrá verla, cambiarla y 
+cancelarla. Cuenta con la opción de cancelar las operaciones.  
+
 ![UF_UserGoal7](https://github.com/user-attachments/assets/35282287-cdcb-4d62-a3b3-ee9abf45e71e)
 
 ## 4.5. Web Applications Prototyping
 
-Nuestro prototipo está diseñado con estructura muy organizado, en los siguientes Link podrá ver los wireframes y Mockups de nuestra aplicación web y landing page.
+Nuestro prototipo está diseñado con estructura muy organizado, en los siguientes Link podrá ver los wireframes y 
+Mockups de nuestra aplicación web y landing page.
 
 Prototipo landing Page: [Diseño en figma](https://www.figma.com/design/cQuS3bFffjnBjo9RGwcl2D/Web-Application---MoviRent?node-id=5-658&t=v7TUuZ1SCVdOPNmo-1) 
 
@@ -287,6 +347,7 @@ Link del video del prototipado de Aplicación web:[Ver Video](https://upcedupe-m
 Link del video del Prototipado de Landing Page: [Ver Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202022365_upc_edu_pe/EZJdjQ2jmkhOmQY61Gv0nvYBVwudqWkMI20W0xZ74ZnNNA?e=5mJaCt)
 
 ## 4.6. Domain-Driven Software Architecture
+
 ### 4.6.1. Software Architecture Context Diagram
 
 ![DiagramC4-Context](https://github.com/user-attachments/assets/2b31ac86-5df0-40c1-a46a-8b233d1621d5)
@@ -300,6 +361,7 @@ Link del video del Prototipado de Landing Page: [Ver Video](https://upcedupe-my.
 ![DiagramComponent](https://github.com/user-attachments/assets/1ee70524-5d9e-467c-b9a1-445f49b4e96e)
 
 ## 4.7. Software Object-Oriented Design
+
 ### 4.7.1. Class Diagrams
 
 ![Diagram class](https://github.com/user-attachments/assets/7668f2ca-a744-4a6a-8731-91254e8ea448)
