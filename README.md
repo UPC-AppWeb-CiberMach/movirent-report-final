@@ -1,6 +1,7 @@
 ﻿
-
 <br/><br/>
+
+<div align="center">
 
 <center><img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" width="150"></center>
 
@@ -58,6 +59,8 @@
 </table>
 
 ## <center>Setiembre, 2024</center>
+
+</div>
 
 <br><br><br><br>
 
