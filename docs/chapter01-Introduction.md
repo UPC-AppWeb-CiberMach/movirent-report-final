@@ -9,7 +9,7 @@ transporte como para personas que tienen un scooter y buscan generar ganacias al
 facilitar el acceso a scooters eléctricos de forma segura y conveniente para nuestros usuarios, nuestro sitio 
 web ofrece una experiencia excepcional, garantizando la disponibilidad y seguridad  de sus scooters.  
 
-<table border="1px" style="text-align: center; width: 100%;">
+<table border="1px" align="center">
     <tbody>
         <tr>
             <td><strong>Misión</strong></td>
@@ -31,7 +31,7 @@ web ofrece una experiencia excepcional, garantizando la disponibilidad y segurid
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
-<table border="1px" style="width: 100%; text-align: center;">
+<table border="1px" align="center">
     <thead>
         <tr>
             <th>Integrante</th>
@@ -43,7 +43,8 @@ web ofrece una experiencia excepcional, garantizando la disponibilidad y segurid
         <tr>
             <td>Adriana María Diestra Zambrano</td>
             <td><img src="https://github.com/user-attachments/assets/4bb2fc25-e51f-4b85-bb7c-bc94d02323d4"/></td>
-            <td>Estudiante de la carrera Ingeniería de Software de 6to ciclo. Con conocimientos en C++, Python, HTML y CSS. Así como también trabajo colaborativo y participación en grupo.</td>
+            <td>Estudiante de la carrera Ingeniería de Software de 6to ciclo. Con conocimientos en 
+                  C++, Python, HTML y CSS. Así como también trabajo colaborativo y participación en grupo.</td>
         </tr>
         <tr>
             <td>Bárbara Antonella Espinoza Delgado</td>
@@ -262,9 +263,13 @@ Utilizando los bussines outcomes, user outcomes y solutions se formularon las si
 ![Lean UX Canvas](https://github.com/user-attachments/assets/cf260007-279c-463a-9ed3-f6399dc5bad9)
 
 ## 1.3. Segmentos Objetivo
-Según Huamanraime y Echevarría (2022) Se ha observado a adultos y adultos mayores hacer uso de los e-scooters, principalmente en distritos con un alto índice de desarrollo humano, como Miraflores o San Isidro, por lo que nuestros segmentos objetivo del proyecto propuesto son dos, a continuación los presentamos:  
+Según Huamanraime y Echevarría (2022) Se ha observado a adultos y adultos mayores hacer uso de los e-scooters, 
+principalmente en distritos con un alto índice de desarrollo humano, como Miraflores o San Isidro, por lo que 
+nuestros segmentos objetivo del proyecto propuesto son dos, a continuación los presentamos:  
 
-**Segmento 1** Segmento arrendatario (Owner): Aquellas personas interesadas formar parte de MoviTech, donde ellos podrán rentar su scooter disponible y conseguir un ingreso extra, tendrán la opción de registrar sus caracteristicas y validar si el equipo cumple con las condiciones para nuestro servicio.  
+**Segmento 1** Segmento arrendatario (Owner): Aquellas personas interesadas formar parte de MoviTech, donde ellos 
+podrán rentar su scooter disponible y conseguir un ingreso extra, tendrán la opción de registrar sus caracteristicas 
+y validar si el equipo cumple con las condiciones para nuestro servicio.  
 Aspectos demográficos:
 
 Sexo: Ambos sexos.
