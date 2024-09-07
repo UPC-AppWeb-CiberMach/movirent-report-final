@@ -274,9 +274,17 @@ Cuando el usuario quiere ver su suscripción, se dirigirá a Mi Sucripción y po
 
 ## 4.5. Web Applications Prototyping
 
-Link del prototipo: [Diseño en figma](https://www.figma.com/proto/cQuS3bFffjnBjo9RGwcl2D/Web-Application---MoviRent?node-id=30-7401&node-type=CANVAS&t=Lxw2yVCYl0Cy3vm2-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=30%3A7401&show-proto-sidebar=1) 
+Nuestro prototipo está diseñado con estructura muy organizado, en los siguientes Link podrá ver los wireframes y Mockups de nuestra aplicación web y landing page.
 
-Link del video del Prototipo: [Ver Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202022365_upc_edu_pe/EZJdjQ2jmkhOmQY61Gv0nvYBVwudqWkMI20W0xZ74ZnNNA?e=5mJaCt)
+Prototipo landing Page: [Diseño en figma](https://www.figma.com/design/cQuS3bFffjnBjo9RGwcl2D/Web-Application---MoviRent?node-id=5-658&t=v7TUuZ1SCVdOPNmo-1) 
+
+Prototipo aplicación web: [Diseño en figma](https://www.figma.com/design/cQuS3bFffjnBjo9RGwcl2D/Web-Application---MoviRent?node-id=0-1&t=v7TUuZ1SCVdOPNmo-1)
+
+Para nuestro proyecto se incluyé videos de cada uno de los prototipos realizado (Aplicación Web y landing page).
+
+Link del video del prototipado de Aplicación web:[Ver Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202022365_upc_edu_pe/EQrs6DMydGdDsPdmcx_HQjgBDIcLQMoiQswHEG-thVFKcQ?e=NixHYD)
+
+Link del video del Prototipado de Landing Page: [Ver Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202022365_upc_edu_pe/EZJdjQ2jmkhOmQY61Gv0nvYBVwudqWkMI20W0xZ74ZnNNA?e=5mJaCt)
 
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Software Architecture Context Diagram
