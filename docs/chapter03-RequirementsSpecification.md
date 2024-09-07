@@ -1,5 +1,3 @@
-
----
 # Capítulo III: Requirements Specification
 ## 3.1. To-Be Scenario Mapping
 
@@ -7,12 +5,12 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
 
 **Segmento 1: Owner**
 
-<img src="../assets/chapter-03/To-be-Owner.jpg" alt="Imagen To Be Mapping 1">
+![To-be-Owner](https://github.com/user-attachments/assets/260bc549-4360-4611-832e-780997fe8108)
 
 
 **Segmento 2: User**
 
-<img src="../assets/chapter-03/To-be-Client.jpg" alt="Imagen To Be Mapping 2">
+![To-be-Client](https://github.com/user-attachments/assets/0bd3da7e-c46a-4955-aa70-16aad92124f4)
 
 ## 3.2. User Stories
 
