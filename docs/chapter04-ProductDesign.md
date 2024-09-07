@@ -316,80 +316,80 @@ Link del prototipo: https://www.figma.com/proto/cQuS3bFffjnBjo9RGwcl2D/Web-Appli
 			<td>String</td>
 		</tr>
 		<tr>
-			<td rowspan="3">Historial</td>
-			<td>id: Es la identificación personal del historial para cada usuario</td>
+			<td rowspan="3">AuditableAbstractAggregateRoot</td>
+			<td>id: Es la identificación para el AuditableAbstractAggregateRoot</td>
 			<td>Int</td>
 		</tr>
 		<tr>
-			<td>visualizarHistorial(): Permitirá a los usuarios poder visualizar su historial</td>
-			<td>Void</td>
-		</tr>
-		<tr>
-			<td>fecha: Mostrará a los usuarios las fechas de cada interacción que tuvieron en el sistema</td>
+			<td>updateAt: Permitirá al equipo de desarrollo el poder saber cuando se realizaron las actualizaciones en la página web</td>
 			<td>Date</td>
 		</tr>
 		<tr>
-			<td rowspan="3">Calificacion</td>
-			<td>id: Es el identificador de cada calificación brindada por los usuarios</td>
+			<td>getID(): Nos permitirá obtener el Id de los usuarios de nuestra plataforma</td>
 			<td>Int</td>
 		</tr>
 		<tr>
-			<td>calificar(): Mostrará a los usuarios las calificaciones que tiene cada vehículo que haya sido utilizado por otros usuarios</td>
-			<td>Void</td>
-		</tr>
-		<tr>
-			<td>comentario: Permitirá a los usuarios dejar sus comentarios de satisfacción al haber utilizado algún vehículo</td>
+			<td rowspan="3">scooterDetails</td>
+			<td>marca: Permite a los usuarios poder ver la marca del Scooter que deseen alquilar</td>
 			<td>String</td>
 		</tr>
 		<tr>
-			<td rowspan="4">Plan</td>
-			<td>id: Es el identificador de cada plan de suscripción</td>
-			<td>Int</td>
-		</tr>
-		<tr>
-			<td>precio: Muestra los precios de cada plan de suscripción</td>
+			<td>kilometraje: Mostrará el kilometraje de uso de cada Scooter en el sistema</td>
 			<td>Double</td>
 		</tr>
 		<tr>
-			<td>beneficios: Brinda la información de los beneficios que contiene cada plan</td>
+			<td>estadoBateria: Permitirá a los usuarios el poder saber si la batería del Scooter que deseen alquilar se encuentra en buen estado</td>
 			<td>String</td>
 		</tr>
 		<tr>
-			<td>cancelarSuscripcion(): Permitirá a los usuarios cancelar el plan de suscripción cuando lo deseen</td>
-			<td>Void</td>
-		</tr>
-		<tr>
-			<td rowspan="4">Reserva</td>
-			<td>id: Identificador de cada reserva realizada por el usuario</td>
+			<td rowspan="4">Reseña</td>
+			<td>id: Es el identificador de las reseñas puestas por los usuarios</td>
 			<td>Int</td>
 		</tr>
 		<tr>
-			<td>solicitarReserva(): Permitirá a los usuarios el poder realizar una reserva por un vehículo</td>
-			<td>Void</td>
+			<td>puntuacion: Muestra la puntuación de cada Scooter que haya sido utilizado por algún usuario</td>
+			<td>int</td>
 		</tr>
 		<tr>
-			<td>estado: Mostrará al usuario si la reserva fue realizada exitosamente</td>
+			<td>comentario: Permite a los usuarios dejar un comentario sobre lo que fue su experiencia de uso con cada Scooter</td>
 			<td>String</td>
 		</tr>
 		<tr>
-			<td>devolverScooter(): Permitirá al usuario poder devolver un vehículo al finalizar un alquiler</td>
-			<td>Void</td>
+			<td>fechaReseña: Permitirá a los usuarios poder ver la fecha en la que fue realizada cada reseña</td>
+			<td>Date</td>
 		</tr>
 		<tr>
-			<td rowspan="4">Cliente</td>
-			<td>buscarScooters(): Mostrará a los usuarios una lista de vehículos con detalles técnicos específicos y precios de alquiler</td>
-			<td>Lista</td>
+			<td rowspan="4">Alquiler</td>
+			<td>id: Identificador de cada alquiler realizada por el usuario</td>
+			<td>Int</td>
 		</tr>
 		<tr>
-			<td>alquilarScooter: Permitirá a los usuarios el poder alquilar un vehículo brindando algunos datos</td>
-			<td>Void</td>
+			<td>scooterId: Identificador de cada scooter en el sistema</td>
+			<td>Int</td>
 		</tr>
 		<tr>
-			<td>calificarScooter(): El usuario podrá dejar calificaciones para cada vehículo que haya utilizado</td>
-			<td>Void</td>
+			<td>precio: Mostrará al usuario el precio del alquiler de cada scooter </td>
+			<td>Double</td>
 		</tr>
 		<tr>
-			<td>visualizarHistorial(): El usuario podrá visualizar su historial de alquiler</td>
+			<td>descripcion: Permitirá al usuario poder ver una descripcion previa de los scooters que le interesen</td>
+			<td>String</td>
+		</tr>
+		<tr>
+			<td rowspan="4">Reservation</td>
+			<td>id: Es el identificador de cada reserva que sea realizada en la plataforma</td>
+			<td>int</td>
+		</tr>
+		<tr>
+			<td>reservationDate: Los usuarios podrán conocer el inicio y fin de las fechas de sus alquileres de Scooters</td>
+			<td>Date</td>
+		</tr>
+		<tr>
+			<td>paymentDetails: Muestra a los usuarios los detalles de pago de los alquileres</td>
+			<td>Double</td>
+		</tr>
+		<tr>
+			<td>status: Se encarga de mostrar a los usuarios el estado de disponibilidad de un Scooter</td>
 			<td>Void</td>
 		</tr>
 		<tr>
@@ -398,20 +398,20 @@ Link del prototipo: https://www.figma.com/proto/cQuS3bFffjnBjo9RGwcl2D/Web-Appli
 			<td>Int</td>
 		</tr>
 		<tr>
-			<td>nombre: Es el nombre del usuario</td>
+			<td>email: Dirección de correo electrónico del usuario</td>
 			<td>String</td>
 		</tr>
 		<tr>
-			<td>correo: Dirección de correo electrónico del usuario</td>
+			<td>password: Es la contraseña del usuario para acceder al sistema</td>
 			<td>String</td>
 		</tr>
 		<tr>
-			<td>contraseña: Es la contraseña del usuario para acceder al sistema</td>
-			<td>String</td>
+			<td>roles: Son los roles que puede adquirir un usuario en la plataforma</td>
+			<td>set</td>
 		</tr>
 		<tr>
-			<td>tipo: Se encarga de identificar al tipo de usuario</td>
-			<td>String</td>
+			<td>createdAt: Se encarga de mostrar la fecha de creación de la cuenta </td>
+			<td>Date</td>
 		</tr>
 		<tr>
 			<td rowspan="7">Scooter</td>
