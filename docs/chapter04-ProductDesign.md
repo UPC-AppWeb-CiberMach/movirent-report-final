@@ -109,7 +109,7 @@ intuitiva.
 
 En el Landing Page visualizará los siguientes botones de navegación:
 
-<table style="text-align: center; width: 100%; border:1px">
+<table border="1px" align="center" style="text-align: center; width: 100%; border:1px">
 	<tbody>
 		<tr>
 			<td>Etiqueta</td>
@@ -272,26 +272,29 @@ Cuando el Cliente quiera eliminar su historial puede hacerlo dando click a elimi
 Cuando el usuario quiere ver su suscripción, se dirigirá a Mi Sucripción y podrá verla, cambiarla y cancelarla. Cuenta con la opción de cancelar las operaciones.  
 ![UF_UserGoal7](https://github.com/user-attachments/assets/35282287-cdcb-4d62-a3b3-ee9abf45e71e)
 
-## 4.5. Web Applications Prototyping  
+## 4.5. Web Applications Prototyping
 
-Link del prototipo: https://www.figma.com/proto/cQuS3bFffjnBjo9RGwcl2D/Web-Application---MoviRent?node-id=30-7401&node-type=CANVAS&t=Lxw2yVCYl0Cy3vm2-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=30%3A7401&show-proto-sidebar=1 
+Link del prototipo: [Diseño en figma](https://www.figma.com/proto/cQuS3bFffjnBjo9RGwcl2D/Web-Application---MoviRent?node-id=30-7401&node-type=CANVAS&t=Lxw2yVCYl0Cy3vm2-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=30%3A7401&show-proto-sidebar=1) 
+
+Link del video del Prototipo: [Ver Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202022365_upc_edu_pe/EZJdjQ2jmkhOmQY61Gv0nvYBVwudqWkMI20W0xZ74ZnNNA?e=5mJaCt)
+
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Software Architecture Context Diagram
 
-<img src="/assets/chapter-04/DataBase/DiagramC4-Context.png"/>
+![DiagramC4-Context](https://github.com/user-attachments/assets/2b31ac86-5df0-40c1-a46a-8b233d1621d5)
 
 ### 4.6.2. Software Architecture Container Diagrams.
 
-<img src="/assets/chapter-04/DataBase/DiagramContainer.png"/>
+![DiagramContainer](https://github.com/user-attachments/assets/6f978b30-ed52-4f3f-a42b-32812784c5cb)
 
 ### 4.6.3. Software Architecture Components Diagrams
 
-<img src="/assets/chapter-04/DataBase/DiagramComponent.png"/>
+![DiagramComponent](https://github.com/user-attachments/assets/1ee70524-5d9e-467c-b9a1-445f49b4e96e)
 
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
 
-<img src="/assets/chapter-04/Diagram/Diagram class.png"/>
+![Diagram class](https://github.com/user-attachments/assets/7668f2ca-a744-4a6a-8731-91254e8ea448)
 
 ### 4.7.2. Class Dictionary
 
@@ -442,7 +445,9 @@ Link del prototipo: https://www.figma.com/proto/cQuS3bFffjnBjo9RGwcl2D/Web-Appli
 </table>
 
 ## 4.8. Database Design
+
 ### 4.8.1. Database Diagram
+
 Para desarrollar la estructura de diagrama de base de datos usamos la herramienta de Vertabelo. A continuación, muestra las tabla de diseño de base de datos.
 
 ![Web Database Diagram](https://github.com/user-attachments/assets/abc1c1fd-eb6d-4bd1-9a52-c93867822c18)
