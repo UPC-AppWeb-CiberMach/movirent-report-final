@@ -250,6 +250,8 @@ Landing Page</td>
     </tbody>
 </table>
 
+![Commits informe](https://github.com/user-attachments/assets/c038f415-19aa-465d-9b29-bb3441532e43)
+
 <div style="page-break-before: always;"></div>
 
 ## Student Outcome
@@ -3898,6 +3900,10 @@ Enlaces a los desarrollos de trabajo del equipo CiberMach.
         <tr>
             <td>Video de nuestro landing page</td>
             <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202022365_upc_edu_pe/EZJdjQ2jmkhOmQY61Gv0nvYBVwudqWkMI20W0xZ74ZnNNA?e=5mJaCt">Video de Landing Page</a></td>
+        </tr>
+        <tr>
+            <td>Nuestro Video del TB1 - Exposición</td>
+            <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c221_upc_edu_pe/Edb2eP0u3Z1JjMTKWAQ2FE4B2VXTJ-kQ2kgp3W0_aAcnOA?e=R9EX1G">Video de Landing Page</a></td>
         </tr>
     </tbody>
 </table>
