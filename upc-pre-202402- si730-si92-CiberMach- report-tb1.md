@@ -1314,6 +1314,7 @@ Asimismo, el 75 porciento usa chrome como navegador web, lo que sugiere que la a
 ![analysis-client-N4](https://github.com/user-attachments/assets/c11fdc1d-98ce-4557-b984-24e225e686fc)
 
 El 75% de los encuestados prefiere Instagram, esta plataforma debería ser un canal clave para la promoción del servicio de alquiler de scooters. Por otro lado, el 100% usa autobuses para trasladarse. Esto sugiere que los scooters pueden ser una alternativa atractiva frente al transporte público, especialmente para evitar los largos tiempos de espera y el tráfico.
+
 ![analysis-client-N5](https://github.com/user-attachments/assets/e0b8a28d-7ed7-4dc4-a396-41f92877eee7)
 
 El 75% de los encuestados pasa más de 120 minutos en transporte al día. El 50% gasta entre 50 y 80 soles al mes, lo cual implica que los scooters deben ser una opción competitiva en precio para atraer a este grupo. Mantener tarifas que no excedan significativamente este rango puede facilitar la adopción del servicio.
@@ -1323,6 +1324,7 @@ El 50% dio una calificación de 3 sobre 5, lo que indica que hay espacio para me
 ![analysis-client-N7](https://github.com/user-attachments/assets/24ba2e09-52d3-4da8-a917-1c671b24744f)
 
 Los resultados de los aspectos mas valorados resaltan la importancia de ofrecer un servicio que no solo sea accesible y rápido, sino también económico y fácil de usar. Por otro lado, el 75% estaría dispuesto a pagar una suscripción mensual, lo que refuerza el modelo de negocio basado en suscripciones
+
 ![analysis-client-N8](https://github.com/user-attachments/assets/6be90392-96f9-422a-89ff-450b4ad8bce5)
 
 Aunque algunos no lo ven como una opción más económica, la mayoría espera que reduzca sus tiempos de transporte. Asimismo, el 50% usaría el servicio 7 veces a la semana, lo que sugiere un uso frecuente, lo cual es positivo para asegurar una alta demanda y rentabilidad.
@@ -3747,7 +3749,8 @@ Tabla para poder identificarnos:
 Para este sprint se ha realizado la implementación del landing page, para esto los integrantes del grupo
 realizaron su aporte a través de commits en la herramienta Git Hub.
 
-![Landing Page](../assets/chapter-05/Deployment-Config/Paso-N1.png)
+![TeamCollab1](https://github.com/user-attachments/assets/f7fa6a08-326d-464a-b93a-01f055caff5f)
+
 
 Utilizando GitHub se creó una organización llamada CiberMarch, en la cual creamos repositorios para
 nuestro trabajo. Para este punto solo mencionaremos el repositorio de la landing page, ya que el otro
@@ -3757,7 +3760,7 @@ Dentro del repositorio se encuentran los archivos necesarios para el proyecto. E
 actualizados en ramas independientes en primer lugar, y cuando sea necesario se realiza un push a la
 rama main.
 
-![Landing Page](../assets/chapter-05/Team-Collaboration/Team-Collaboration-N1.png)
+![TeamCollab2](https://github.com/user-attachments/assets/0af2c5cf-5f43-4969-bd16-7a4c1385d3d9)
 
 Hemos desarrollado en conjunto un total de 82 commits para el desarrollo de nuestra landing page, tanto en creación de secciones, corrección de bugs, entre otras cosas.
 
