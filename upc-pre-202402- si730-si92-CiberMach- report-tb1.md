@@ -281,7 +281,8 @@ del ABET – EAC - Student Outcome 5.
                 <ul>
                     <li>
                         Adriana María Diestra Zambrano
-                        TB1:
+                        TB1:Realicé la parte de analisis de entrevistas y Bounded, mi enfoque fue la investicacción de los segmentos de clientes y dueños de scooters eléctricos.
+                            desarrollé los 5W y 2h para analisar los datos a profundidad, finalmente hice los diagramas de C4. 
                     </li><br>
                     <li>
                         Bárbara Antonella Espinoza Delgado <br>
@@ -294,7 +295,7 @@ del ABET – EAC - Student Outcome 5.
                     </li><br>
                     <li>
                         Quique Vladimir Jara Benites
-                        TB1:
+                        TB1: Realicé la parte de entrevistas a Owner desarrollé los historias de usuarios funcionales y no funcioanles basado en nuestras entrevistas a segmentos objetivos, finalmente colaboré en el desarrollo del landing page y deploy usando la herramienta Githun Page.
                     </li><br>
 			        <li>
 			            Fernández Remón, Roy <br>
@@ -322,7 +323,7 @@ del ABET – EAC - Student Outcome 5.
                 <ul>
                     <li>
                         Adriana María Diestra Zambrano
-                        TB1:
+                        TB1: En cada semana tuve la tarea de cumplir con las tareas asignadas, en base a ello, colaboré eficasmente con mi equipo y como tambien proponiendo nuevas ideas en el desarrollo. 
                     </li><br>   
                     <li>
                         Bárbara Antonella Espinoza Delgado <br>
@@ -335,7 +336,7 @@ del ABET – EAC - Student Outcome 5.
                     </li><br>
                     <li>
                         Quique Vladimir Jara Benites
-                        TB1:
+                        TB1: Mi objetivo fue establecer metas claras, planificar tareas y cumplir objetivos, para ello realicé entrevistas a los segmentos objetivo, desarrollé historias de usuarios funcionales y no funcionales, colaboré en el desarrollo del landing page para llegar a los objetivos propuestos.
                     </li><br>
 			        <li>
 			            Fernández Remón, Roy <br>
