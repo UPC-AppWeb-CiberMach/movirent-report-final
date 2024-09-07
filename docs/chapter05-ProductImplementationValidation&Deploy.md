@@ -44,6 +44,8 @@ Rider: Este es un entorno de desarrollo, el cual nos permite trabajar con el len
 
 Netlify (https://www.netlify.com/): Netlify es una plataforma de despliegue de páginas y aplicaciones web, integrandose con repositorios en Git. Se usó para hospedar la landing page del proyecto.  
 <br>
+GitHub Page (https://pages.github.com/): GitHub Pages es un servicio que ofrece GitHub para publicar un sitio web a partir de un repositorio, cabe destacar que solo permite alojar sitios web estáticos y dinamicos. Se utilizó para desplegar la landing page del proyecto.
+<br>
 
 **Software Documentation**  
 
@@ -130,21 +132,22 @@ Para desplegar la solución se realizó los siguientes pasos:
 
 - Ingresar a los repositorios de la organizacion de GitHub a través del URL: [github.com/UPC-AppWeb-CiberMach](https://github.com/orgs/UPC-AppWeb-CiberMach/repositories) 
 
-![Organizacion CiberMatch](../assets/chapter-05/Deployment-Config/Paso-N1.png)
+![Paso-N1](https://github.com/user-attachments/assets/5d931080-8bd6-4eb3-b6b6-8adc676e13bc)
 
 - Seleccionar el repositorio de la landing page del proyecto.
-  
-![Repositorio Landing Page](../assets/chapter-05/Deployment-Config/Paso-N2.png)
+
+![Paso-N2](https://github.com/user-attachments/assets/d8709d20-7af8-43d5-a555-798723d1a04e)
 
 - Clonar el repositorio en Webstorm utilizando la URL del repositorio.
 
-![Clonar Repositorio](../assets/chapter-05/Deployment-Config/Paso-N3.png)
+![Paso-N3](https://github.com/user-attachments/assets/92c513f5-b397-44ef-b271-54dc138c6f08)
 
-![Clonar Repositorio](../assets/chapter-05/Deployment-Config/Paso-N4.png)
+![Paso-N4](https://github.com/user-attachments/assets/73e07dbc-93e3-4300-ba1b-06d91c909822)
 
 - Ejecutar el archivo index.html para visualizar la landing page en el navegador.
 
-![Visualizar Landing Page](../assets/chapter-05/Deployment-Config/Paso-N5.png)
+![Paso-N5](https://github.com/user-attachments/assets/a13c531c-1efa-4ee3-b458-d692961a8b69)
+
 ![Landing01](https://github.com/user-attachments/assets/0ce0b7c6-b630-43da-86e5-d70cde488641)
 
 ## 5.2. Landing Page, Services & Applications Implementation
@@ -221,7 +224,7 @@ Para desplegar la solución se realizó los siguientes pasos:
 
 ![TrelloSprint1](https://github.com/user-attachments/assets/2e3b9c35-a927-4003-985a-572ba6fbec90)
 
-Link de Trello: https://trello.com/invite/b/66ccf1855ff6c24fe148a766/ATTI34b50c784e97d0a7ba15dd3b49b56ca5D82CFA4B/sprint-1 
+Link de Trello: [Ver trello](https://trello.com/invite/b/66ccf1855ff6c24fe148a766/ATTI34b50c784e97d0a7ba15dd3b49b56ca5D82CFA4B/sprint-1) 
 
 <table style="font-weight: normal; text-align: left;"> 
    <tr>
