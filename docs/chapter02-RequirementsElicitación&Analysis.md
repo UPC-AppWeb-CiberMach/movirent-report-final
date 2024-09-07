@@ -5,7 +5,7 @@
 
 ### 2.1.1. Análisis competitivo
 
-<table border="1px" style="text-align: center; width: 100%;">
+<table border="1px" align="center" style="text-align: center; width: 100%;">
   <tr>
     <th colspan="6" valign="top">Competitive Analysis Landscape</th>
   </tr>
@@ -21,10 +21,10 @@
     <td valign="top">Emove</td>
   </tr>
   <tr>
-    <td valign="top"><img src="../assets/chapter-02/competitors/Logo-MoviRent.png" alt="Logo of MoviRent" height="70px"></td>
-    <td valign="top"><img src="../assets/chapter-02/competitors/citybike.png" alt="Logo of City Bike" height="70px"></td>
-    <td valign="top"><img src="../assets/chapter-02/competitors/grin.png" alt="Logo of Grin" height="70px"></td>
-    <td valign="top"><img src="../assets/chapter-02/competitors/emove.png" alt="Logo of Emove" height="70px"></td>
+    <td valign="top"><img src="https://github.com/user-attachments/assets/71b023fd-ac53-4c51-91ad-22b54b132003" alt="Logo of MoviRent" height="70px"></td>
+    <td valign="top"><img src="https://github.com/user-attachments/assets/07c82e66-c3bf-487d-93c0-620223ae596b" alt="Logo of City Bike" height="70px"></td>
+    <td valign="top"><img src="https://github.com/user-attachments/assets/4665f90c-104d-429c-b1ec-815983387cd0" alt="Logo of Grin" height="70px"></td>
+    <td valign="top"><img src="https://github.com/user-attachments/assets/641fe160-0905-41af-9e4b-58304d63ae0c" alt="Logo of Emove" height="70px"></td>
   </tr>
   <tr>
     <td rowspan="2" valign="top">Perfil</td>
@@ -330,7 +330,7 @@ Datos del entrevistador:
 * Apellidos: Velarde Gonzales
 
 Datos del entrevistado:
-* Nombres: Dangghela 
+* Nombres: Dangghela
 * Apellidos: Olivera Espinoza
 * Edad: 22
 * Distrito de residencia: Lima
@@ -341,7 +341,7 @@ Datos del entrevistado:
 
 **Informe del resumen de la entrevista:**
 
-Dangghela, una joven de 22 años de edad, actualmente reside en la ciudad de Lima. ella es estudiante en la universidad, 
+Dangghela, una joven de 22 años de edad, actualmente reside en la ciudad de Lima. ella es estudiante en la universidad,
 tambien trabaja en call center, ella usa dispositivos como Android y Windows, y prefiere el navegador Chrome.
 A parte de ello conocemos que cuenta con scooter electricos, la cual le permite movilizarse de manera rapida y segura.
 Dangi considera que el alquiler de scooters es una oportunidad para ganar dinero extra, y le gustaria que las tarifas
@@ -353,6 +353,7 @@ para cualquier inconveniente que pueda surgir.
 
 
 ### Entrevistas segmento 2: Clientes
+
 #### Entrevista 1:
 
 Datos del entrevistador:
@@ -367,7 +368,7 @@ Datos del entrevistado:
 * Enlace a la entrevista: [Ver Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213222_upc_edu_pe/EYvfM5T1ScdBpoM4ZDAvlQgBLmbxD7DTIk_2O02DixCJBw?e=RxA0RV)
 * Duración de la entrevista: 6:05
 
-<img src="../assets/chapter-02/interviews/EntrevistaBrissa.png" alt="Imagen Entrevista 1">
+![Entrevista-Brissa](https://github.com/user-attachments/assets/5bd87a6d-a65d-41b4-9613-18bd224e8a26)
 
 **Informe del resumen de la entrevista:**
 Brisa, una joven de 19 años, residente en Rímac, estudiante de Administración de Empresas. Utiliza
