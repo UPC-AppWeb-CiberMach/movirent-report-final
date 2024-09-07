@@ -218,7 +218,7 @@ Para el desarrollo de la entrega TB1, se opto por dividir el trabajo de la sigui
 |Diestra Zambrano, Adriana María | |
 |Hidalgo Lopez, Mathias Adriano | Entrevista Cliente, User Persona, Empathy Mapping, To-Be Mapping, Impact Mapping  |
 |Jara Benitez, Quique Vladimir |  |
-
+|Fernández Remón, Roy |  |
 
 
 <div style="page-break-before: always;"></div>
@@ -258,7 +258,13 @@ del ABET – EAC - Student Outcome 5.
                         Elabore el To-Be y El Impact Mapping para la posterior creación del landing.
                     </li>
                     <li>Quique Vladimir Jara Benites</li>
-                    <li>Roy Linsh Fernandez Remon</li>
+			<li>
+			Fernández Remón, Roy <br>
+			TB1: Realice 2 entrevistas de nuestro segmento clientes para poder conocer sus necesidades de cada uno y ver que es lo que esperan
+			    obtener de nuestro proyecto, realicé el diagrama de clases UML para poder conocer las principales clase que llevará nuestro 
+			    proyecto y como de esta manera poder ordenar y tener un desarrollo limpio y realicé el class dictionary para poder llevar una descripción
+			    más específica de cada atributo elegido en los diagramas y su tipo de dato.
+                    </li>
                     <li>
                         Velarde Gonzales, Néstor Hernan. <br>
                         TB1: Se realizaron entrevistas para reconocer lo que necesitan
@@ -284,7 +290,12 @@ del ABET – EAC - Student Outcome 5.
                         En base a ello, crear el To-Be mapping y a través de los user crear el Impact Mapping de ambos segmentos.
                     </li>
                     <li>Quique Vladimir Jara Benites</li>
-                    <li>Roy Linsh Fernandez Remon</li>
+			<li>
+			Fernández Remón, Roy <br>
+			TB1: Al realizar lo mencionado, reconocí la necesidad para la realización de las siguientes tareas: Realizar las entrevistas y hacer las respectivas preguntas
+			    para obtener los datos relevantes que nos permitieran desarrollar un buen proyecto con mejores datos estadísticos en base a lo que opina cada persona sobre
+			    nuestro proyecto.
+                    </li>
                     <li>
                         Velarde Gonzales, Néstor Hernan. <br>
                         TB1: Se reconoció la necesidad para el proyecto realizar las siguientes tareas: Se plantearon Hypothesis Statements, proponer preguntas para entrevistas y registrar entrevistas realizadas. Además, en base a los resultados de la entrevista hacer Empathy Maps de ambos segmentos.
