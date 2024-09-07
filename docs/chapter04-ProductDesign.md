@@ -7,31 +7,31 @@
 
 ### 4.1.1. General Style Guidelines
 
-<b>Misión</b>  
+#### **Misión**  
 Proporcionar a nuestros clientes una plataforma donde puedan alquilar de manera rápida, sencilla y segura scooters eléctricos que se adecúen a sus necesidades.
 
-<b>Visión</b>  
+#### **Visión**  
 Ser la aplicación web líder en el alquiler de scooters eléctricos, promoción del transporte ecoamigable y reconocidos por grupos y asociaciones de emprendimiento y medio ambiente.
 
-<b>Brand Name</b>  
+#### **Brand Name**
 El nombre del producto es MoviRent, el cual cuenta con un logo representado por el icono de un scooter y un rayo que 
 simboliza que el vehículo funciona electricamente con el color verde como el más predominante simbolizando el medio ambiente.  
 
 ![Logo](https://github.com/user-attachments/assets/4117bfeb-a0f2-4a3c-9a45-13fb105fb737)
 
-<b>Colores</b>  
+#### **Colores**
 Decidimos elegir los colores verde claro, lila y azul al ser una combinación ligera y agradable a la vista de 
 usuarios de diversad edades.  
 
 ![Paleta de colores](https://github.com/user-attachments/assets/4725a7ff-e7ac-4bf4-b1fd-a60d3bc9c98f)
 
-<b>Tipografía</b>
+#### **Tipografía**
 Elegimos la fuente Open Sans porque es legible y popular en el diseño de aplicaciones web, por lo que nos aseguramos de 
 que nuestros clientes con toda clase de necesidades visuales logren leer facilmente el contenido de nuestra web. 
 
 ![Fuentes](https://github.com/user-attachments/assets/75992501-cdf2-4a55-bc42-dd726bab6adc)
 
-<b>Espaciado</b>  
+#### **Espaciado** 
 Para nuestra aplicación usaremos el espaciado x1.5, el cual es un poco mas amplio que el usual, lo que evitará 
 que el texto se sienta pesado o genere complicaciones de legibilidad
 
@@ -39,7 +39,7 @@ Tamaño de letra: 42px-20px
 
 Interlineado: 1.5px
 
-<b>Tono de comunicación y lenguaje aplicado</b>  
+#### **Tono de comunicación y lenguaje aplicado**  
 Usaremos un tono  de comunicación entusiasta y amigable en toda la web, puesto que consideramos que sería adecuado para nuestro tipo de aplicación al buscar incentivar el uso concurrido de esta. Además haremos uso de un lenguaje popular para ser inclusivos con todo tipo de nivel de lenguaje entre nuestros usuarios.
 
 ### 4.1.2. Web Style Guidelines 
@@ -174,11 +174,11 @@ En el parte superior derecho del home page de la aplicación web contando con tr
 A continuación se mostrarán las etiquetas que representarán el contenido de la Landing Page y de la 
 aplicación web para que los usuarios las encuentren con mayor facilidad.
 
-<b>Landing Page</b>  
+#### **Landing Page**  
 
 ![Tags Landing Page](https://github.com/user-attachments/assets/6c9d47ee-831f-4756-a281-bdcd1e59b4de)
 
-<b>Aplicación Web</b>  
+#### **Aplicación Web**
 
 ![Tags App Web](https://github.com/user-attachments/assets/3be44467-aa38-4a40-9b37-9cb7a952d2ac)
 
@@ -222,13 +222,13 @@ dispositivos móviles se optó por emplear una barra de navegación desplegable.
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes 
 
-<b>Wireframes Web versión desktop</b>  
+**Wireframes Web versión desktop**
 
 ![Wireframe web 1](https://github.com/user-attachments/assets/8498438b-4835-46e7-9ea3-677c93550d90)
 
 ![Wireframe web 2](https://github.com/user-attachments/assets/4118ff06-bef6-42d0-a961-2226aa89093c)
 
- <b>Wireframes Web versión móvil</b>  
+**Wireframes Web versión móvil**  
 
 ![Wireframes movil 1](https://github.com/user-attachments/assets/1e9155a4-ebd7-4c85-bc18-7c2dac62fb00)
 
@@ -238,23 +238,23 @@ dispositivos móviles se optó por emplear una barra de navegación desplegable.
 
 ### 4.4.2. Web Applications Wireflow Diagrams  
 
-<b>User Goal 01:</b> El usuario quiere Registrarse, iniciar sesión, ver, editar y eliminar su cuenta.  
+**User Goal 01:** El usuario quiere Registrarse, iniciar sesión, ver, editar y eliminar su cuenta.  
 
 ![WF_UserGoal1](https://github.com/user-attachments/assets/b33c90dc-bce2-4c2f-80d5-80fd10b455b8)
 
-<b>User Goal 02:</b> El usuario quiere ver, crear, editar y eliminar sus scooters.  
+**User Goal 02:** El usuario quiere ver, crear, editar y eliminar sus scooters.  
 
 ![WF_UserGoal2](https://github.com/user-attachments/assets/632e6147-82d9-4bf7-a53f-bdd31e9e659a)
 
-<b>User Goal 03:</b> EL usuario quiere buscar y alquilar un scooter.  
+**User Goal 03:** EL usuario quiere buscar y alquilar un scooter.  
 
 ![WF_UserGoal3](https://github.com/user-attachments/assets/e4324249-8197-403b-aebf-07c7aefb6a36)
 
-<b>User Goal 04:</b> El usuario quiere ver reseñas y dejar una reseña.  
+**User Goal 04:** El usuario quiere ver reseñas y dejar una reseña.  
 
 ![WF_UserGoal4](https://github.com/user-attachments/assets/7d33036d-9b78-469d-8d56-bc4be96ebccc)  
 
-<b>User Goal 05:</b> El usuario quiere ver su historial y volver a alquilar un scooter. 
+**User Goal 05:** El usuario quiere ver su historial y volver a alquilar un scooter. 
 
 ![WF_UserGoal5](https://github.com/user-attachments/assets/e444ce03-d704-4366-b7cb-505f9e2dd8c1)
 
@@ -262,19 +262,19 @@ dispositivos móviles se optó por emplear una barra de navegación desplegable.
 
 ![WF_UserGoal6](https://github.com/user-attachments/assets/ea3181fd-bd68-4268-baa5-ef2e4de78866)
 
-<b>User Goal 07:</b> El usuario quiere compar, ver, cambiar y cancelar suscripción.  
+**User Goal 07:** El usuario quiere compar, ver, cambiar y cancelar suscripción.  
 
 ![WF_UserGoal7](https://github.com/user-attachments/assets/5b6346c1-d349-49bf-bd8a-599be88fbbb6)
 
 ### 4.4.3. Web Applications Mock-ups  
 
-<b>Mockups Web versión desktop</b>  
+**Mockups Web versión desktop**  
 
 ![Mockups web1](https://github.com/user-attachments/assets/dabe4247-87ef-4d9b-991a-eec3e651a8c4)
 
 ![Mockups web 2](https://github.com/user-attachments/assets/3f28e05a-693f-4e48-a867-aab717aa4a52)
 
-<b>Mockups Web versión móvil</b>  
+**Mockups Web versión móvil** 
 
 ![Mockups movil1](https://github.com/user-attachments/assets/0775e370-e8cf-4397-86d1-bf2146cd4c12)
 
@@ -284,20 +284,20 @@ dispositivos móviles se optó por emplear una barra de navegación desplegable.
 
 ### 4.4.4. Web Applications User Flow Diagrams  
 
-<b>User Goal 01:</b> El usuario quiere Registrarse, iniciar sesión, ver, editar y eliminar su cuenta.  
+**User Goal 01:** El usuario quiere Registrarse, iniciar sesión, ver, editar y eliminar su cuenta.  
 Cuando el usuario quiera registrarse ingresa sus datos y se registra, cuando quiera iniciar sesión, ingresa 
 su correo y contraseña y se lo redirigirá a su perfil, el cual tendra las opciones de editar sus 
 datos y eliminar su cuenta con un previa confirmación. Cuenta con la opción de cancelar las operaciones.  
 
 ![UF_UserGoal1](https://github.com/user-attachments/assets/7065a576-560c-4ee5-b2a7-f7fbc3d923b9)
 
-<b>User Goal 02:</b> El Owner quiere ver, crear, editar y eliminar sus scooters.  
+**User Goal 02:** El Owner quiere ver, crear, editar y eliminar sus scooters.  
 Cuando el Owner se encuentre en la sección de sus scooters podrá verlos, publicar uno nuevo, editarlos y 
 eliminarlos.  Cuenta con la opción de cancelar las operaciones.  
 
 ![UF_UserGoal2](https://github.com/user-attachments/assets/fe80df66-b6a5-4dda-99c7-08cc2c5a69b7)
 
-<b>User Goal 03:</b> El Cliente quiere buscar y alquilar un scooter.  
+**User Goal 03:** El Cliente quiere buscar y alquilar un scooter.  
 Cuando el Cliente quiera alquilar un scooter, puede buscarlo con el filtro por distrito, ver una 
 lista de todos los scooters disponibles, seleccionar el de su preferencia, alquilarlo y pagarlo. 
 Cuenta con la opción de cancelar las operaciones.  
@@ -305,13 +305,13 @@ Cuenta con la opción de cancelar las operaciones.
 ![UF_UserGoal3](https://github.com/user-attachments/assets/57b44f93-04dd-4a4f-825f-78cff41bb273)
 
 
-<b>User Goal 04:</b> El Cliente quiere ver reseñas y dejar una reseña.  
+**User Goal 04:** El Cliente quiere ver reseñas y dejar una reseña.  
 Cuando el Cliente quiera ver reseñas de un scooter puede ingresar a ellas entrando a detalles del scooter, 
 tambien puede dejar su reseña luego de alquilar un scooter. Cuenta con la opción de cancelarla.  
 
 ![UF_UserGoal4](https://github.com/user-attachments/assets/f194398a-95ce-4e75-ba52-4bc1cc90868c)
 
-<b>User Goal 05:</b> El Cliente quiere ver su historial y volver a alquilar un scooter.  
+**User Goal 05:** El Cliente quiere ver su historial y volver a alquilar un scooter.  
 Cuando el Cliente quiera ver su historial, puede acceder a esta opción desde su perfil y ver la lista de todos 
 los scooters que fueron alquilados por uno mismo, también puede volver a alquilar un scooter. Cuenta con la opción 
 de cancelar las operaciones.  
@@ -319,13 +319,13 @@ de cancelar las operaciones.
 ![UF_UserGoal5](https://github.com/user-attachments/assets/4c0efcd2-a931-446f-bae8-bb882ef445db)
 
 
-<b>User Goal 06:</b> El Cliente quiere eliminar su historial.  
+**User Goal 06:** El Cliente quiere eliminar su historial.  
 Cuando el Cliente quiera eliminar su historial puede hacerlo dando click a eliminar historial. Cuenta con la 
 opción de cancelar la operación.  
 
 ![UF_UserGoal6](https://github.com/user-attachments/assets/dcc7533c-ab7a-4883-9534-7d5ca947be7e)
 
-<b>User Goal 07:</b> El usuario quiere compar, ver, cambiar y cancelar suscripción.  
+**User Goal 07:** El usuario quiere compar, ver, cambiar y cancelar suscripción.  
 Cuando el usuario quiere ver su suscripción, se dirigirá a Mi Sucripción y podrá verla, cambiarla y 
 cancelarla. Cuenta con la opción de cancelar las operaciones.  
 
@@ -368,7 +368,7 @@ Link del video del Prototipado de Landing Page: [Ver Video](https://upcedupe-my.
 
 ### 4.7.2. Class Dictionary
 
-<table>
+<table border="1px" align="center">
 	<tbody>
 		<tr>
 			<td>Clase</td>
