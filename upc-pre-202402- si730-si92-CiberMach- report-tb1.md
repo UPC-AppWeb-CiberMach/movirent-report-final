@@ -448,6 +448,15 @@ URL Project Report en Github: https://github.com/UPC-AppWeb-CiberMach/Final-Repo
         - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
         - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
         - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
+    - [5.2.2. Sprint 2](#521-sprint-2)
+        - [5.2.2.1. Sprint Planning 2](#5211-sprint-planning-1)
+        - [5.2.2.2. Sprint Backlog 2](#5212-sprint-backlog-1)
+        - [5.2.2.3. Development Evidence for Sprint Review](#5213-development-evidence-for-sprint-review)
+        - [5.2.2.4. Testing Suite Evidence for Sprint Review](#5214-testing-suite-evidence-for-sprint-review)
+        - [5.2.2.5. Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
+        - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
+        - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
+        - [5.2.2.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
 
 - [5.3. Validation Interviews](#53-validation-interviews)
     - [5.3.1. Diseño de entrevistas](#531-diseño-de-entrevistas)
@@ -3372,7 +3381,7 @@ Link de Trello: [Ver trello](https://trello.com/invite/b/66ccf1855ff6c24fe148a76
    <tr>
       <td> EP01-US06 </td>
       <td colspan="3">Landing Page Responsiva a Diferentes tamaños de pantalla</td>
-      <td> W03  </td>
+      <td> W06  </td>
       <td> Landing Page Responsive </td>
       <td>Implementación de diseño responsivo a la landing page para que se adapte a diferentes tamaños de pantalla </td>
       <td> 5  </td>
@@ -3772,6 +3781,284 @@ Hemos desarrollado en conjunto un total de 82 commits para el desarrollo de nues
 ![Commits Landing 2](https://github.com/user-attachments/assets/e023abb1-df66-40ba-a796-6d84c2a554f6)
 
 
+### 5.2.2. Sprint 2
+#### 5.2.2.1. Sprint Planning 2
+<table>
+     <tr> 
+        <th>  Sprint #  </th>
+        <th> Sprint 2 </th>
+     </tr>
+     <tr> 
+        <td style="font-weight: bold;" colspan="7"> Sprint Planing Background</td>
+     </tr>
+     <tr>
+       <td style="font-weight: bold;"> Date </td>
+       <td> 17/09/2024 </td>
+     </tr>
+     <tr>
+       <td style="font-weight: bold;"> Time </td>
+       <td> 20:00 pm - 02:00 am </td>
+     </tr>
+     <tr>
+       <td style="font-weight: bold;"> Location </td>
+       <td> Modalidad remota a través de WhatsApp y Google Meets </td>
+     </tr>
+      <tr>
+        <td style="font-weight: bold;"> Prepared By </td>
+        <td> Bárbara Espinoza Espinoza Delgado </td>
+     </tr>
+        <tr>
+        <td style="font-weight: bold;"> Attendees (to planning meeting) </td>
+        <td> 
+         Adriana María Diestra Zambrano
+           <br>
+         Bárbara Espinoza Espinoza Delgado 
+          <br>
+         Mathias Adriano Hidalgo López 
+          <br>
+         Néstor Velarde Gonzales 
+          <br>
+         Quique Vladimir Jara Benites
+          <br>
+         Roy Linsh Fernandez Remon
+     </td>
+     </tr>
+     <tr>
+        <td style="font-weight: bold;"> Sprint 1 Review Summary </td>
+        <td>Durante el desarrolo del Sprint 1, se logró implementar con éxito la landing page, la cuál fue desplegada y se llego a cumplir con todos los requisitos (user stories) en el Sprint.</td>
+     </tr>
+     <tr>
+        <td style="font-weight: bold;"> Sprint 1 Retrospective Summary </td>
+        <td>El Sprint 1 se logró en su totalidad. Sin embargo, como puntos de mejora se debe de contar con mas apoyo de todo el equipo y evitar los comentarios en el codigo que no aporten un valor significativo. </td>
+     </tr>
+     <tr> 
+        <td style="font-weight: bold;" colspan="7"> Sprint Goal & User Stories</td>
+     </tr>
+       <tr>
+          <td style="font-weight: bold;"> Sprint 2 Goal</td>
+          <td>  En este sprint se espera la implementación y deployado del frontend de la aplicación web con las secciones funcionales, el footer y el diseño responsivo. En el grupo acordamos usar Vue y Prime Vue para hacer el frontend de la aplicacíon. Al finalizar este sprint la aplicación web se desplegó para que sea accesible por culaquier usuario desde su navegador de preferencia. </td>
+      </tr>
+       <tr>
+          <td style="font-weight: bold;"> Sprint 2 Velocity </td>
+          <td>  80  </td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;"> Sum of Story Points </td>
+          <td> 68 </td>
+      </tr>
+
+
+  </table>
+  
+#### 5.2.2.2. Sprint Backlog 2
+
+![Trello2](https://github.com/user-attachments/assets/8c78c9b6-8b38-4d82-acdb-905e580a3e43)
+
+Link de Trello: [Ver trello](https://trello.com/invite/b/66ea5e555e1fe62ad4e43808/ATTIfd63d37e5a0a0e9ae88c9cf340da51a799AA9A3A/sprint-2) 
+
+<table style="font-weight: normal; text-align: left;"> 
+   <tr>
+      <th colspan="4"> Sprint # </th>
+      <th colspan="7"> Sprint 2 </th>
+   </tr>
+   <tr >
+     <th colspan="4"> User Story </th>
+     <th colspan="7"> Work-Item / Task</th>
+   </tr>
+   <tr>
+     <th> Id </th>
+     <th colspan="3"> Title </th>
+     <th> Id </th>
+     <th> Title </th>
+     <th> Description </th>
+     <th> Estimation (Hours) </th>
+     <th> Assigned To </th> 
+     <th> Status (To-do / In-Process / To- Review / Done) </th>
+   </tr>
+   <tr>
+      <td> EP01-US07 </td>
+      <td colspan="3">Acceder a la aplicación desde la landing page</td>
+      <td> W07  </td>
+      <td> Redirección a la Web </td>
+      <td>Implementar el botón de redireccionamiento a la aplicación web en la Landing Page. </td>
+      <td> 3  </td>
+      <td> Bárbara Espinoza </td> 
+      <td> Done </td>
+   </tr>
+   <tr>
+      <td> EP02-US08 </td>
+      <td colspan="3">Registrar usuario</td>
+      <td> W08  </td>
+      <td> Registro de usuarios</td>
+      <td>Implementar una ventana de registro de nuevo usuario</td>
+      <td> 3  </td>
+      <td> Bárbara Espinoza  </td> 
+      <td> Done </td>
+   </tr>
+   <tr>
+      <td> EP02-US09 </td>
+      <td colspan="3">Iniciar sesión</td>
+      <td> W09  </td>
+      <td> Inicio de sesión</td>
+      <td>Implementar una ventana de inicio de sesión para usuarios previamente registrados </td>
+      <td> 5  </td>
+      <td> Bárbara Espinoza </td> 
+      <td> Done </td>
+   </tr>
+   <tr>
+      <td> EP02-US10 </td>
+      <td colspan="3">Visualizar perfil de usuario</td>
+      <td> W10  </td>
+      <td> Ver perfil de usuario </td>
+      <td>Implementar una ventana que permita ver los datos actuales del usuario. </td>
+      <td> 5  </td>
+      <td> Bárbara Espinoza </td> 
+      <td> Done </td>
+   </tr>
+   <tr>
+      <td> EP02-US11 </td>
+      <td colspan="3">Cambiar datos personales</td>
+      <td> W11  </td>
+      <td> Modificación de datos del usuario </td>
+      <td>Implementar una ventana que permita editar los datos actuales del usuario.</td>
+      <td> 3  </td>
+      <td> Bárbara Espinoza </td> 
+      <td> Done </td>
+   </tr>
+   <tr>
+      <td> EP02-US12 </td>
+      <td colspan="3">Eliminar cuenta de usuario</td>
+      <td> W12  </td>
+      <td> Eliminación de cuenta del usuario </td>
+      <td>Implementar una opción que permita eliminar la cuenta del usuario.</td>
+      <td> 3  </td>
+      <td> Bárbara Espinoza </td> 
+      <td> Done </td>
+   </tr>
+   <tr>
+      <td> EP03-US13 </td>
+      <td colspan="3">Publicar scooter en alquiler</td>
+      <td> W13  </td>
+      <td>Publicación de scooter en alquiler</td>
+      <td>Implementar una ventana que permita publicar un scooter para ser dado en alquiler.</td>
+      <td> 5  </td>
+      <td> Bárbara Espinoza </td> 
+      <td> Done </td>
+   </tr>
+   <tr>
+      <td> EP03-US14 </td>
+      <td colspan="3">Visualizar un scooter en alquiler</td>
+      <td> W14  </td>
+      <td>Visualización de scooter en alquiler</td>
+      <td>Implementar una ventana que permita visualizar un scooter que esta disponible para alquiler.</td>
+      <td> 3  </td>
+      <td> Bárbara Espinoza </td> 
+      <td> Done </td>
+   </tr>
+   <tr>
+      <td> EP03-US15 </td>
+      <td colspan="3">Editar scooter en alquiler</td>
+      <td> W15  </td>
+      <td>Edición de datos de scooter en alquiler</td>
+      <td>Implementar una ventana que permita editar los datos de un scooter que esta en alquiler.</td>
+      <td> 3  </td>
+      <td> Bárbara Espinoza </td> 
+      <td> Done </td>
+   </tr>
+   <tr>
+      <td> EP03-US16 </td>
+      <td colspan="3">Eliminar scooter en alquiler</td>
+      <td> W16  </td>
+      <td>Eliminación de datos de scooter en alquiler</td>
+      <td>Implementar una opción que permita eliminar un scooter que esta en alquiler.</td>
+      <td> 3  </td>
+      <td> Bárbara Espinoza </td> 
+      <td> Done </td>
+   </tr>
+   <tr>
+      <td> EP04-US17 </td>
+      <td colspan="3">Búsqueda de scooters cercano</td>
+      <td> W17 </td>
+      <td>Búsqueda de scooters en el distrito del cliente</td>
+      <td>Implementar un filtro que muestre solo los scooters disponibles en ese distrito.</td>
+      <td> 8  </td>
+      <td> Mathias Hidalgo </td> 
+      <td> Done </td>
+   </tr>
+   <tr>
+      <td> EP04-US18 </td>
+      <td colspan="3">Alquiler Scooter</td>
+      <td> W18 </td>
+      <td>Alquilar un scooter disponible</td>
+      <td>Implementar una ventana que permita al cliente alquilar el scooter de su preferencia. </td>
+      <td> 5 </td>
+      <td> Mathias Hidalgo </td> 
+      <td> Done </td>
+   </tr>
+   <tr>
+      <td> EP04-US19 </td>
+      <td colspan="3">Calificación y Reseñas</td>
+      <td> W19 </td>
+      <td>Calificar y comentar en un scooter en alquiler</td>
+      <td>Implementar una ventana que permita al cliente ver reseñas y dejar comentarios. </td>
+      <td> 3 </td>
+      <td> Mathias Hidalgo </td> 
+      <td> Done </td>
+   </tr>
+  <tr>
+      <td> EP05-US20 </td>
+      <td colspan="3">Visualizar historial de scooters alquilados</td>
+      <td> W20 </td>
+      <td>Visualización del historial de scooters alquilados</td>
+      <td>Implementar una ventana que permita al cliente ver su historial de los scooters que alquiló en el pasado. </td>
+      <td> 5 </td>
+      <td> Mathias Hidalgo </td> 
+      <td> Done </td>
+   </tr>
+   <tr>
+      <td> EP05-US21 </td>
+      <td colspan="3">Borrar historial de scooters alquilados</td>
+      <td> W21 </td>
+      <td>Eliminación del historial de scooters alquilados</td>
+      <td>Implementar una opción que permita al cliente borrar su historial de los scooters que alquiló en el pasado. </td>
+      <td> 3 </td>
+      <td> Mathias Hidalgo </td> 
+      <td> Done </td>
+   </tr>
+   <tr>
+      <td> EP06-US22 </td>
+      <td colspan="3">Adquirir plan</td>
+      <td> W22 </td>
+      <td>Comprar uno de los tres planes disponibles</td>
+      <td>Implementar una ventana que permita al usuario ver y adquirir uno de los tres planes disponibles </td>
+      <td> 5 </td>
+      <td> Mathias Hidalgo </td> 
+      <td> Done </td>
+   </tr>
+   <tr>
+      <td> EP06-US23 </td>
+      <td colspan="3">Cancelar plan</td>
+      <td> W23 </td>
+      <td>Cancelación del plan al que esta suscrito el usuario</td>
+      <td>Implementar una opción que permita al usuario cancelar el plan al que se encuentra suscrito. </td>
+      <td> 3 </td>
+      <td> Mathias Hidalgo </td> 
+      <td> Done </td>
+   </tr>
+</table>
+
+    
+#### 5.2.2.3. Development Evidence for Sprint Review  
+
+#### 5.2.2.4. Testing Suite Evidence for Sprint Review
+
+#### 5.2.2.5. Execution Evidence for Sprint Review
+
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review
+
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review
+
+#### 5.2.2.8. Team Collaboration Insights during Sprint. 
 
 ---
 
