@@ -3772,7 +3772,169 @@ Hemos desarrollado en conjunto un total de 82 commits para el desarrollo de nues
 ![Commits Landing 2](https://github.com/user-attachments/assets/e023abb1-df66-40ba-a796-6d84c2a554f6)
 
 
+### 5.2.2. Sprint 2
+#### 5.2.2.1. Sprint Planning 2
+<table>
+     <tr> 
+        <th>  Sprint #  </th>
+        <th> Sprint 2 </th>
+     </tr>
+     <tr> 
+        <td style="font-weight: bold;" colspan="7"> Sprint Planing Background</td>
+     </tr>
+     <tr>
+       <td style="font-weight: bold;"> Date </td>
+       <td> 17/09/2024 </td>
+     </tr>
+     <tr>
+       <td style="font-weight: bold;"> Time </td>
+       <td> 15:00 pm - 17:00 pm </td>
+     </tr>
+     <tr>
+       <td style="font-weight: bold;"> Location </td>
+       <td> Modalidad remota a través de WhatsApp y Google Meets </td>
+     </tr>
+      <tr>
+        <td style="font-weight: bold;"> Prepared By </td>
+        <td> Bárbara Espinoza Espinoza Delgado </td>
+     </tr>
+        <tr>
+        <td style="font-weight: bold;"> Attendees (to planning meeting) </td>
+        <td> 
+         Adriana María Diestra Zambrano
+           <br>
+         Bárbara Espinoza Espinoza Delgado 
+          <br>
+         Mathias Adriano Hidalgo López 
+          <br>
+         Néstor Velarde Gonzales 
+          <br>
+         Quique Vladimir Jara Benites
+          <br>
+         Roy Linsh Fernandez Remon
+     </td>
+     </tr>
+     <tr>
+        <td style="font-weight: bold;"> Sprint 0 Review Summary </td>
+        <td> No existe.</td>
+     </tr>
+     <tr>
+        <td style="font-weight: bold;"> Sprint 0 Retrospective Summary </td>
+        <td> No existe. </td>
+     </tr>
+     <tr> 
+        <td style="font-weight: bold;" colspan="7"> Sprint Goal & User Stories</td>
+     </tr>
+       <tr>
+          <td style="font-weight: bold;"> Sprint 2 Goal</td>
+          <td>  En este sprint se espera la implementación y deployado del front-end con las secciones funcionales, el footer y el diseño responsivo. En el grupo acordamos usar JavaScript, html y css para hacer el front-end. Al finalizar este sprint el front-end se desplegó en Firebase para que sea accesible por culaquier usuario desde su navegador de preferencia. </td>
+      </tr>
+       <tr>
+          <td style="font-weight: bold;"> Sprint 2 Velocity </td>
+          <td>  18  </td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;"> Sum of Story Points </td>
+          <td> 18 </td>
+      </tr>
 
+  </table>
+
+
+  #### 5.2.2.2. Sprint Backlog 2
+
+  <table style="font-weight: normal; text-align: left;"> 
+   <tr>
+      <th colspan="4"> Sprint # </th>
+      <th colspan="7"> Sprint 2 </th>
+   </tr>
+   <tr >
+     <th colspan="4"> User Story </th>
+     <th colspan="7"> Work-Item / Task</th>
+   </tr>
+   <tr>
+     <th> Id </th>
+     <th colspan="3"> Title </th>
+     <th> Id </th>
+     <th> Title </th>
+     <th> Description </th>
+     <th> Estimation (Hours) </th>
+     <th> Assigned To </th> 
+     <th> Status (To-do / In-Process / To- Review / Done) </th>
+   </tr>
+   <tr>
+      <td> EP02-US08 </td>
+      <td colspan="3">Registrar usuario del front-end</td>
+      <td> W01  </td>
+      <td> Registrar usuario </td>
+      <td>Implementar Registro de usuario. </td>
+      <td> 2  </td>
+      <td> Bárbara Espinoza </td> 
+      <td> Done </td>
+   </tr>
+   <tr>
+      <td> EP02-US09 </td>
+      <td colspan="3">Iniciar sesión del front-end</td>
+      <td> W02  </td>
+      <td> Iniciar sesión </td>
+      <td> Implementar Iniciar sesión  </td>
+      <td> 2  </td>
+      <td> Bárbara Espinoza  </td> 
+      <td> Done </td>
+   </tr>
+   <tr>
+      <td> EP02-US010 </td>
+      <td colspan="3">Visualizar perfil de usuario del front-end </td>
+      <td> W03  </td>
+      <td> Visualizar perfil de usuario </td>
+      <td> Implementar Visualizar perfil de usuario. </td>
+      <td> 2  </td>
+      <td> Bárbara Espinoza </td> 
+      <td> Done </td>
+   </tr>
+   <tr>
+      <td> EP02-US011 </td>
+      <td colspan="3">Cambiar datos personales del front-end </td>
+      <td> W04  </td>
+      <td> Cambiar datos personales </td>
+      <td> Implementar Cambiar datos personales </td>
+      <td> 1  </td>
+      <td> Bárbara Espinoza </td> 
+      <td> Done </td>
+   </tr>
+   <tr>
+      <td> EP02-US012 </td>
+      <td colspan="3">Eliminar cuenta de usuario del front-end </td>
+      <td> W05  </td>
+      <td> Eliminar cuenta de usuario </td>
+      <td>Implementar Eliminar cuenta de usuario. </td>
+      <td> 2  </td>
+      <td> Bárbara Espinoza </td> 
+      <td> Done </td>
+   </tr>
+   <tr>
+      <td> EP02-US015 </td>
+      <td colspan="3">Editar Scooter en alquiler del front-end </td>
+      <td> W03  </td>
+      <td> Editar Scooter en alquiler </td>
+      <td>Implementación de Editar Scooter en alquiler. </td>
+      <td> 2  </td>
+      <td> Adriana Diestra </td> 
+      <td> Done </td>
+   </tr>
+   <tr>
+      <td> EP02-US016 </td>
+      <td colspan="3">Eliminar scooter en alquiler del front-end </td>
+      <td> W03  </td>
+      <td> Eliminar scooter en alquiler </td>
+      <td>Implementación de Eliminar scooter en alquiler. </td>
+      <td> 2  </td>
+      <td> Adriana Diestra </td> 
+      <td> Done </td>
+   </tr>
+</table>
+
+  
 ---
 
 
