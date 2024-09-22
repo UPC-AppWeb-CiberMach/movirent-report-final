@@ -4052,6 +4052,154 @@ Link de Trello: [Ver trello](https://trello.com/invite/b/66ea5e555e1fe62ad4e4380
 
 #### 5.2.2.4. Testing Suite Evidence for Sprint Review
 
+<table>
+  <tr>
+    <th>User/Repository</th>
+    <th>Branch</th>
+    <th>Commit ID</th>
+    <th>Commit Message</th>
+    <th>Commit Message <br> Body</th>
+    <th>Commited<br>On (Date)</th>
+  </tr>
+  <tr>
+    <td>MesSobble/AcceptanceTest</td>
+    <td>Main</td>
+    <td>42ce1d2</td>
+    <td>feat: add US-07</td>
+    <td>-</td>
+    <td>20/09/2024</td>
+  </tr>
+  <tr>
+    <td>MesSobble/AcceptanceTest</td>
+    <td>Main</td>
+    <td>2341d1f</td>
+    <td>feat: add US-08</td>
+    <td>-</td>
+    <td>20/09/2024</td>
+  </tr>
+  <tr>
+    <td>MesSobble/AcceptanceTest</td>
+    <td>Main</td>
+    <td>286a487</td>
+    <td>feat: add US-09</td>
+    <td>-</td>
+    <td>20/09/2024</td>
+  </tr>
+  <tr>
+    <td>MesSobble/AcceptanceTest</td>
+    <td>Main</td>
+    <td>1e16597</td>
+    <td>feat: add US-10</td>
+    <td>-</td>
+    <td>20/09/2024</td>
+  </tr>
+  <tr>
+    <td>MesSobble/AcceptanceTest</td>
+    <td>Main</td>
+    <td>6795c42</td>
+    <td>feat: add US-11</td>
+    <td>-</td>
+    <td>20/09/2024</td>
+  </tr>
+  <tr>
+    <td>MesSobble/AcceptanceTest</td>
+    <td>Main</td>
+    <td>b2b63a0</td>
+    <td>feat: add US-12</td>
+    <td>-</td>
+    <td>20/09/2024</td>
+  </tr>
+  <tr>
+    <td>VelardeSoft/AcceptanceTest</td>
+    <td>Main</td>
+    <td>44d071e</td>
+    <td>feat: add US-13</td>
+    <td>-</td>
+    <td>21/09/2024</td>
+  </tr>
+  <tr>
+    <td>VelardeSoft/AcceptanceTest</td>
+    <td>Main</td>
+    <td>56f0ad4</td>
+    <td>feat: add US-14</td>
+    <td>-</td>
+    <td>21/09/2024</td>
+  </tr>
+  <tr>
+    <td>adriiiiiiiiiii/AcceptanceTest</td>
+    <td>Main</td>
+    <td>c81401a</td>
+    <td>feat: add US-15</td>
+    <td>-</td>
+    <td>21/09/2024</td>
+  </tr>
+  <tr>
+    <td>adriiiiiiiiiiii/AcceptanceTest</td>
+    <td>Main</td>
+    <td>d4afd91</td>
+    <td>feat: add US-16</td>
+    <td>-</td>
+    <td>21/09/2024</td>
+  </tr>
+  <tr>
+  <tr>
+    <td>mathiasadriano/AcceptanceTest</td>
+    <td>Main</td>
+    <td>95b2fe8</td>
+    <td>feat: add US-17</td>
+    <td>-</td>
+    <td>21/09/2024</td>
+  </tr>
+  <tr>
+    <td>mathiasadriano/AcceptanceTest</td>
+    <td>Main</td>
+    <td>4d7e2b3</td>
+    <td>feat: add US-18</td>
+    <td>-</td>
+    <td>21/09/2024</td>
+  </tr>
+  <tr>
+    <td>mathiasadriano/AcceptanceTest</td>
+    <td>Main</td>
+    <td>92d0c07</td>
+    <td>feat: add US-19</td>
+    <td>-</td>
+    <td>21/09/2024</td>
+  </tr>
+  <tr>
+    <td>QuiqueVladimir/AcceptanceTest</td>
+    <td>Main</td>
+    <td>aa69757</td>
+    <td>feat: add US-20</td>
+    <td>-</td>
+    <td>21/09/2024</td>
+  </tr>
+  <tr>
+    <td>QuiqueVladimir/AcceptanceTest</td>
+    <td>Main</td>
+    <td>5161d21</td>
+    <td>feat: add US-21</td>
+    <td>-</td>
+    <td>21/09/2024</td>
+  </tr>
+  <tr>
+    <td>RTPX26/AcceptanceTest</td>
+    <td>Main</td>
+    <td>06e96a9</td>
+    <td>feat: add US-22</td>
+    <td>-</td>
+    <td>20/09/2024</td>
+  </tr>
+  <tr>
+    <td>RTPX26/AcceptanceTest</td>
+    <td>Main</td>
+    <td>0484b3b</td>
+    <td>feat: add US-23</td>
+    <td>-</td>
+    <td>20/09/2024</td>
+  </tr>
+</table>
+
 #### 5.2.2.5. Execution Evidence for Sprint Review
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
