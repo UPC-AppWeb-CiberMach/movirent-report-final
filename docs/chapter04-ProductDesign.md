@@ -350,8 +350,7 @@ Link del video del Prototipado de Landing Page: [Ver Video](https://upcedupe-my.
 
 ### 4.6.1. Software Architecture Context Diagram
 
-[<img width="606" alt="SoftwareArchitectureContextDiagram" src="https://github.com/user-attachments/assets/bc0022bf-8304-4f36-97b2-111f191b4d56”>
-](https://github.com/user-attachments/assets/bc0022bf-8304-4f36-97b2-111f191b4d56)
+![DiagramContext](https://github.com/UPC-AppWeb-CiberMach/Final-Report/issues/5#issuecomment-2330455845)
 
 ### 4.6.2. Software Architecture Container Diagrams.
 
