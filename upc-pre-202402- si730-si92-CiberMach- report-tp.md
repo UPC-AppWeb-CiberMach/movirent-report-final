@@ -4050,6 +4050,163 @@ Link de Trello: [Ver trello](https://trello.com/invite/b/66ea5e555e1fe62ad4e4380
     
 #### 5.2.2.3. Development Evidence for Sprint Review  
 
+En esta sección se detallarán los commits realizados en el desarrollo del frontend de la aplicación web.
+
+<table>
+  <tr>
+    <th>User/Repository</th>
+    <th>Branch</th>
+    <th>Commit ID</th>
+    <th>Commit Message</th>
+    <th>Commit Message <br> Body</th>
+    <th>Commited<br>On (Date)</th>
+  </tr>
+  <tr>
+    <td>VelardeSoft/front-end</td>
+    <td>master</td>
+    <td>7b348b1</td>
+    <td>Initial commit</td>
+    <td>-</td>
+    <td>17/09/2024</td>
+  </tr>
+    <td>Adriiiiiiiiii/front-end</td>
+    <td>privacy-question</td>
+    <td>7b348</td>
+    <td>feat: add response error</td>
+    <td>-</td>
+    <td>17/09/2024</td>
+  </tr>
+  <tr>
+    <td>MesSobble/front-end</td>
+    <td>profile</td>
+    <td>657c3cb</td>
+    <td>feat: add user model, fake api and components</td>
+    <td>-</td>
+    <td>17/09/2024</td>
+  </tr>
+  <tr>
+    <td>MesSobble/front-end</td>
+    <td>profile</td>
+    <td>7db9969</td>
+    <td>fix: login form code and styles</td>
+    <td>-</td>
+    <td>17/09/2024</td>
+  </tr>
+  <tr>
+    <td>RTPX26/front-end</td>
+    <td>privacy-question</td>
+    <td>fecd0b7</td>
+    <td>feat: add privacity policy and structure</td>
+    <td>-</td>
+    <td>17/09/2024</td>
+  </tr>
+  <tr>
+    <td>MesSobble/front-end</td>
+    <td>profile</td>
+    <td>a476fa2</td>
+    <td>feat: add register form</td>
+    <td>-</td>
+    <td>18/09/2024</td>
+  </tr>
+  <tr>
+    <td>adriiiiiiiiiiii/front-end</td>
+    <td>privacy-question</td>
+    <td>701b828</td>
+    <td>feat: add card to create and delete scooters</td>
+    <td>-</td>
+    <td>18/09/2024</td>
+  </tr>
+  <tr>
+    <td>MesSobble/front-end</td>
+    <td>profile</td>
+    <td>6a514e5</td>
+    <td>feat: add general user view structure</td>
+    <td>-</td>
+    <td>18/09/2024</td>
+  </tr>
+  <tr>
+    <td>VelardeSoft/front-end</td>
+    <td>scooter-review</td>
+    <td>19f1c5b</td>
+    <td>feat: add routes for each views component</td>
+    <td>-</td>
+    <td>18/09/2024</td>
+  </tr>
+  <tr>
+    <td>MesSobble/front-end</td>
+    <td>profile</td>
+    <td>43c00b6</td>
+    <td>feat: add validators for user view</td>
+    <td>-</td>
+    <td>21/09/2024</td>
+  </tr>
+  <tr>
+    <td>QuiqueVladimir/front-end</td>
+    <td>user-management</td>
+    <td>c73c9c3</td>
+    <td>feat: add history service for view history</td>
+    <td>-</td>
+    <td>21/09/2024</td>
+  </tr>
+  <tr>
+    <td>QuiqueVladimir/front-end</td>
+    <td>user-management</td>
+    <td>1e3f3b6</td>
+    <td>feat: add data view component and prime flex</td>
+    <td>-</td>
+    <td>21/09/2024</td>
+  </tr>
+  <tr>
+    <td>QuiqueVladimir/front-end</td>
+    <td>user-management</td>
+    <td>6b0e4b8</td>
+    <td>feat: add function to delete reserve from history</td>
+    <td>-</td>
+    <td>22/09/2024</td>
+  </tr>
+  <tr>
+    <td>QuiqueVladimir/front-end</td>
+    <td>user-management</td>
+    <td>c3890f3</td>
+    <td>feat: add function get owner data</td>
+    <td>-</td>
+    <td>22/09/2024</td>
+  </tr>
+  <tr>
+    <td>mathiasadriano/front-end</td>
+    <td>scooter-review</td>
+    <td>ad1738e</td>
+    <td>feat: add Scooter-List</td>
+    <td>-</td>
+    <td>23/09/2024</td>
+  </tr>
+  <tr>
+    <td>mathiasadriano/front-end</td>
+    <td>scooter-review</td>
+    <td>6e8cb8d</td>
+    <td>feat: add Scooter-Detail</td>
+    <td>-</td>
+    <td>23/09/2024</td>
+  </tr>
+  <tr>
+    <td>mathiasadriano/front-end</td>
+    <td>scooter-review</td>
+    <td>dd34f46</td>
+    <td>feat: add card-and-filter-scooter</td>
+    <td>-</td>
+    <td>23/09/2024</td>
+  </tr>
+  <tr>
+    <td>VelardeSoft/front-end</td>
+    <td>develop</td>
+    <td>730e838</td>
+    <td>feat: Conflicts in code were resolved</td>
+    <td>-</td>
+    <td>23/09/2024</td>
+  </tr>
+</table>
+
+
 #### 5.2.2.4. Testing Suite Evidence for Sprint Review
 
 <table>
