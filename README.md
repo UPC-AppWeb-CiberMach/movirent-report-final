@@ -2897,15 +2897,15 @@ Link del video del Prototipado de Landing Page: [Ver Video](https://upcedupe-my.
 
 ### 4.6.1. Software Architecture Context Diagram
 
-![DiagramC4-Context](https://github.com/user-attachments/assets/2b31ac86-5df0-40c1-a46a-8b233d1621d5)
+![DiagramC4-Context](https://github.com/user-attachments/assets/bc0022bf-8304-4f36-97b2-111f191b4d56)
 
 ### 4.6.2. Software Architecture Container Diagrams.
 
-![DiagramContainer](https://github.com/user-attachments/assets/6f978b30-ed52-4f3f-a42b-32812784c5cb)
+![DiagramContainer](https://github.com/user-attachments/assets/afb829bb-6166-46f8-8193-136e5696cda9)
 
 ### 4.6.3. Software Architecture Components Diagrams
 
-![DiagramComponent](https://github.com/user-attachments/assets/1ee70524-5d9e-467c-b9a1-445f49b4e96e)
+![DiagramComponent](https://github.com/user-attachments/assets/d2eafa2a-9e7e-4d19-a28c-3f62280825e3)
 
 ## 4.7. Software Object-Oriented Design
 
