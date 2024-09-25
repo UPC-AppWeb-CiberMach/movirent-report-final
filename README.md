@@ -284,38 +284,53 @@ del ABET – EAC - Student Outcome 5.
                     <li>
                         Adriana María Diestra Zambrano
                         TB1:Realicé la parte de analisis de entrevistas y Bounded, mi enfoque fue la investicacción de los segmentos de clientes y dueños de scooters eléctricos.
-                            desarrollé los 5W y 2h para analisar los datos a profundidad, finalmente hice los diagramas de C4. 
-                    </li><br>
+                            desarrollé los 5W y 2h para analisar los datos a profundidad, finalmente hice los diagramas de C4.
+			TP1:Colaboro en equipo para asumir un liderazgo compartido, asegurando que la implementación del front-end, la conexión a la API y las funcionalidades como i18n y el componente de Not Found se realicen de manera eficiente. Contribuyo a la planificación y ejecución del sprint, trabajando junto al equipo para ajustar y priorizar el sprint backlog, y garantizando que las evidencias para la revisión del sprint reflejen el progreso y los aprendizajes colectivos.
+
+       
+</li><br>
                     <li>
                         Bárbara Antonella Espinoza Delgado <br>
                         TB1: Como lider del equipo me encargue de trabajar en conjunto para proporcionar dirección clara, fomentar la participación activa de todos los miembros y asegurar que las decisiones se tomen de manera colaborativa
-                    </li><br>
+			TP1: Trabajo en equipo para proporcionar liderazgo conjunto en la implementación del login y registro en el front-end, asegurando que el flujo de autenticación sea intuitivo y eficiente. Colaboro con mi equipo en la toma de decisiones clave, distribuyendo responsabilidades y garantizando que cada miembro aporte al éxito del proyecto, mientras superviso el progreso y me adapto a los cambios necesarios en el proceso.
+
+       
+</li><br>
                     <li>
                         Mathias Adriano Hidalgo Lopez <br>
                         TB1: Realice entrevistas a nuestro segmento cliente para reconocer las principales necesidades que tienen. 
                         Elabore el To-Be y El Impact Mapping para la posterior creación del landing.
-                    </li><br>
+			TP1:Trabajo en equipo para diseñar y desarrollar un sistema de interfaz de usuario donde los usuarios pueden dejar reseñas sobre scooters, asumiendo un rol de liderazgo compartido. Colaboro en la toma de decisiones conjunta y aseguro que el feedback de los usuarios se implemente de manera eficiente en el sistema.
+</li><br>
                     <li>
                         Quique Vladimir Jara Benites
                         TB1: Realicé la parte de entrevistas a Owner desarrollé los historias de usuarios funcionales y no funcioanles basado en nuestras entrevistas a segmentos objetivos, finalmente colaboré en el desarrollo del landing page y deploy usando la herramienta Githun Page.
-                    </li><br>
+      			TP1: Colaboro estrechamente con mi equipo para implementar la funcionalidad de eliminación, tomando un rol activo en el liderazgo conjunto. Me encargo de asegurar que el proceso sea efectivo y cumpla con los estándares de seguridad, mientras trabajo con el equipo para coordinar el flujo de trabajo y optimizar la integración de esta característica. Facilito la comunicación y el intercambio de ideas, asegurando que cada miembro pueda contribuir al éxito del proyecto.
+			    
+</li><br>
 			        <li>
 			            Fernández Remón, Roy <br>
 			            TB1: Realice 2 entrevistas de nuestro segmento clientes para poder conocer sus necesidades de cada uno y ver que es lo que esperan
                         obtener de nuestro proyecto, realicé el diagrama de clases UML para poder conocer las principales clase que llevará nuestro 
 			            proyecto y como de esta manera poder ordenar y tener un desarrollo limpio y realicé el class dictionary para poder llevar una descripción
 			            más específica de cada atributo elegido en los diagramas y su tipo de dato.
-                    </li><br>
+				TP1: Trabajo en equipo para liderar de manera colaborativa la creación de preguntas frecuentes y políticas de privacidad, además de desarrollar el Epic 6 que incluye la cancelación de suscripción y el guardado de pagos exitosos. Participo en la planificación de cada fase, asegurando que se cumplan los requisitos del proyecto, mientras promuevo una toma de decisiones conjunta con el equipo para garantizar una implementación precisa y alineada con las expectativas del usuario	
+
+     
+</li><br>
                     <li>
                         Velarde Gonzales, Néstor Hernan. <br>
                         TB1: Se realizaron entrevistas para reconocer lo que necesitan
                         los potenciales clientes tanto owner como client, actualizar colaborar en user histories y en el diseño de prototipado para landing en Figma.
+			TP1:Participo activamente en el equipo proporcionando liderazgo colaborativo durante el desarrollo de la pantalla para subir y editar scooters. Coordino con mis compañeros para definir y priorizar las tareas, facilitando la toma de decisiones conjuntas y garantizando que el trabajo fluya de manera eficiente. Aporto soluciones técnicas mientras apoyo al equipo en la resolución de problemas y en el cumplimiento de los objetivos establecidos.
                     </li>
                 </ul>
             </td>
             <td>
                 TB1:
                 Se logró realizar un trabajo sobresaliente, cumpliendo con todos los segmentos del trabajo y entregando un documento que sirve como sustento escrito para comprender los pasos seguidos en la planificación, desarrollo y envío del proyecto a producción.
+		TP1:
+		    Se logró desarrollar un front-end sobresaliente en la TP1, completando todas las funcionalidades clave como las pantallas para reseñas de scooters, login, registro y eliminación. El resultado final sirve como una base sólida que refleja el proceso detallado de planificación, implementación y entrega del proyecto.
             </td>
         </tr>
         <tr>
@@ -326,35 +341,45 @@ del ABET – EAC - Student Outcome 5.
                     <li>
                         Adriana María Diestra Zambrano
                         TB1: En cada semana tuve la tarea de cumplir con las tareas asignadas, en base a ello, colaboré eficasmente con mi equipo y como tambien proponiendo nuevas ideas en el desarrollo. 
+			TP1: Fomento un entorno colaborativo e inclusivo mientras desarrollo la pantalla donde los usuarios pueden subir y editar su scooter. Establezco metas claras con el equipo, planifico las tareas necesarias para la implementación y aseguro que cada miembro tenga un rol activo en el proceso. Juntos cumplimos los objetivos del proyecto de manera eficiente, manteniendo una comunicación abierta y un trabajo en equipo constante
                     </li><br>   
                     <li>
                         Bárbara Antonella Espinoza Delgado <br>
                         TB1: Como líder, creé un entorno colaborativo. Establecí metas claras, planifiqué las tareas de forma eficiente y trabajé con el equipo para cumplir con los objetivos propuestos.
+			TP1: Creo un entorno inclusivo y colaborativo mientras implemento las funcionalidades de login y registro, asegurando que se establezcan metas claras para cada etapa del desarrollo. Además, durante el Sprint 2 del informe, planifico las tareas en equipo, promoviendo la participación activa de todos los miembros para cumplir con los objetivos de manera eficiente y organizada.
                     </li><br>
                     <li>
                         Mathias Adriano Hidalgo Lopez <br>
                         TB1: Reconoce la necesidad para la realización de las siguientes tareas: proponer preguntas y realizar entrevistas.
                         En base a ello, crear el To-Be mapping y a través de los user crear el Impact Mapping de ambos segmentos.
-                    </li><br>
+			TP1:Creo un entorno colaborativo e inclusivo al trabajar en equipo, donde establecemos metas claras, planificamos las tareas de manera organizada y cumplimos con los objetivos del proyecto. Me aseguro de que todos los miembros del equipo participen activamente y se sientan incluidos en el proceso de desarrollo.
+
+       
+</li><br>
                     <li>
                         Quique Vladimir Jara Benites
                         TB1: Mi objetivo fue establecer metas claras, planificar tareas y cumplir objetivos, para ello realicé entrevistas a los segmentos objetivo, desarrollé historias de usuarios funcionales y no funcionales, colaboré en el desarrollo del landing page para llegar a los objetivos propuestos.
+			TP1: Fomento un entorno colaborativo e inclusivo mientras desarrollo la funcionalidad de eliminar, estableciendo metas claras con mi equipo y planificando las tareas necesarias para garantizar que el proceso sea seguro y eficiente. Nos aseguramos de que todos los miembros del equipo participen en la toma de decisiones y trabajamos juntos para cumplir con los objetivos del proyecto de manera efectiva.
                     </li><br>
 			        <li>
 			            Fernández Remón, Roy <br>
 			            TB1: Al realizar lo mencionado, reconocí la necesidad para la realización de las siguientes tareas: Realizar las entrevistas y hacer las respectivas preguntas
 			            para obtener los datos relevantes que nos permitieran desarrollar un buen proyecto con mejores datos estadísticos en base a lo que opina cada persona sobre
 			            nuestro proyecto.
+				TP1: Creo un entorno inclusivo y colaborativo mientras desarrollo las preguntas frecuentes, las políticas de privacidad, y el Epic 6 sobre la cancelación de suscripciones y el guardado de pagos exitosos. Establezco metas específicas para cada fase del proyecto, planifico las tareas de forma conjunta con el equipo y cumplo con los objetivos establecidos, asegurando que todos los miembros del equipo participen activamente y se sientan valorados en el proceso.
                     </li><br>
                     <li>
                         Velarde Gonzales, Néstor Hernan. <br>
                         TB1: Se reconoció la necesidad para el proyecto realizar las siguientes tareas: Se plantearon Hypothesis Statements, proponer preguntas para entrevistas y registrar entrevistas realizadas. Además, en base a los resultados de la entrevista hacer Empathy Maps de ambos segmentos.
+			TP1: Fomento un entorno colaborativo e inclusivo mientras desarrollo la pantalla donde los usuarios pueden subir y editar su scooter. Establezco metas claras con el equipo, planifico las tareas necesarias para la implementación y aseguro que cada miembro tenga un rol activo en el proceso. Juntos cumplimos los objetivos del proyecto de manera eficiente, manteniendo una comunicación abierta y un trabajo en equipo constante
                     </li><br>
                 </ul>
             </td>
             <td>
                 TB1:
                 El equipo estableció medios de comunicación efectivos para entregar un trabajo completo dentro de los cortos períodos de tiempo para la entrega del proyecto. Además, se comunicaron los resultados obtenidos a los stakeholders, quienes demostraron su satisfacción con el programa. Cada miembro realizó presentaciones detalladas de sus avances y colaboró en la comunicación constante con los segmentos objetivo y clientes.
+		TP1:
+		A través de una colaboración activa y eficiente, se cumplió con los objetivos establecidos, implementando las pantallas clave y funcionalidades esenciales como las reseñas de scooters, login, registro y eliminación, asegurando la calidad del proyecto en cada fase.
             </td>
         </tr>
     </tbody>
