@@ -279,16 +279,16 @@ del ABET – EAC - Student Outcome 5.
         <tr>
             <td>Trabaja en equipo para proporcionar liderazgo en forma conjunta</td>
             <td>
-                TB1:
                 <ul>
                     <li>
-                        Adriana María Diestra Zambrano
+                        Adriana María Diestra Zambrano  <br>
                         TB1:Realicé la parte de analisis de entrevistas y Bounded, mi enfoque fue la investicacción de los segmentos de clientes y dueños de scooters eléctricos.
                             desarrollé los 5W y 2h para analisar los datos a profundidad, finalmente hice los diagramas de C4. 
                     </li><br>
                     <li>
                         Bárbara Antonella Espinoza Delgado <br>
-                        TB1: Como lider del equipo me encargue de trabajar en conjunto para proporcionar dirección clara, fomentar la participación activa de todos los miembros y asegurar que las decisiones se tomen de manera colaborativa
+                        TB1: Como lider del equipo me encargue de trabajar en conjunto para proporcionar dirección clara, fomentar la participación activa de todos los miembros y asegurar que las decisiones se tomen de manera colaborativa.<br>TP: Como lider del 
+                        equipo, para esta segunda entrega, me encargue de trabajar en conjunto para proporcionar un reporte de partes faltantes e incumpliementos constantemente para segurar un trabajo de manera colaborativa.
                     </li><br>
                     <li>
                         Mathias Adriano Hidalgo Lopez <br>
@@ -296,7 +296,7 @@ del ABET – EAC - Student Outcome 5.
                         Elabore el To-Be y El Impact Mapping para la posterior creación del landing.
                     </li><br>
                     <li>
-                        Quique Vladimir Jara Benites
+                        Quique Vladimir Jara Benites <br>
                         TB1: Realicé la parte de entrevistas a Owner desarrollé los historias de usuarios funcionales y no funcioanles basado en nuestras entrevistas a segmentos objetivos, finalmente colaboré en el desarrollo del landing page y deploy usando la herramienta Githun Page.
                     </li><br>
 			        <li>
@@ -316,20 +316,23 @@ del ABET – EAC - Student Outcome 5.
             <td>
                 TB1:
                 Se logró realizar un trabajo sobresaliente, cumpliendo con todos los segmentos del trabajo y entregando un documento que sirve como sustento escrito para comprender los pasos seguidos en la planificación, desarrollo y envío del proyecto a producción.
+		<br>
+		TP:
+                Se logró realizar un trabajo parcial de la aplicación, cumpliendo con la mayoria de requerimientos establecidos y documentando los avances en el informe.
             </td>
         </tr>
         <tr>
             <td>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.</td>
             <td>
-                TB1:
                 <ul>
                     <li>
-                        Adriana María Diestra Zambrano
+                        Adriana María Diestra Zambrano  <br>
                         TB1: En cada semana tuve la tarea de cumplir con las tareas asignadas, en base a ello, colaboré eficasmente con mi equipo y como tambien proponiendo nuevas ideas en el desarrollo. 
                     </li><br>   
                     <li>
                         Bárbara Antonella Espinoza Delgado <br>
-                        TB1: Como líder, creé un entorno colaborativo. Establecí metas claras, planifiqué las tareas de forma eficiente y trabajé con el equipo para cumplir con los objetivos propuestos.
+                        TB1: Como líder, creé un entorno colaborativo. Establecí metas claras, planifiqué las tareas de forma eficiente y trabajé con el equipo para cumplir con los objetivos propuestos. <br> TP: Como líder, en esta segunda entrega, creé un 
+                        entorno colaborativo para proporcionar retroalimentación constante de los avances del pryecto.
                     </li><br>
                     <li>
                         Mathias Adriano Hidalgo Lopez <br>
@@ -337,7 +340,7 @@ del ABET – EAC - Student Outcome 5.
                         En base a ello, crear el To-Be mapping y a través de los user crear el Impact Mapping de ambos segmentos.
                     </li><br>
                     <li>
-                        Quique Vladimir Jara Benites
+                        Quique Vladimir Jara Benites  <br>
                         TB1: Mi objetivo fue establecer metas claras, planificar tareas y cumplir objetivos, para ello realicé entrevistas a los segmentos objetivo, desarrollé historias de usuarios funcionales y no funcionales, colaboré en el desarrollo del landing page para llegar a los objetivos propuestos.
                     </li><br>
 			        <li>
@@ -355,6 +358,9 @@ del ABET – EAC - Student Outcome 5.
             <td>
                 TB1:
                 El equipo estableció medios de comunicación efectivos para entregar un trabajo completo dentro de los cortos períodos de tiempo para la entrega del proyecto. Además, se comunicaron los resultados obtenidos a los stakeholders, quienes demostraron su satisfacción con el programa. Cada miembro realizó presentaciones detalladas de sus avances y colaboró en la comunicación constante con los segmentos objetivo y clientes.
+		<br>
+		TP:
+                El equipo estableció medios de comunicación efectivos para entregar un avance de la aplicación web dentro de los cortos períodos de tiempo para la entrega del proyecto. Además, se comunicaron los problemas y deficiencias en el trabajo para tener en cuenta lo que deberá ser corregido.
             </td>
         </tr>
     </tbody>
