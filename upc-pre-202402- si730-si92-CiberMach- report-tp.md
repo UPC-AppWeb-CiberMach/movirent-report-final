@@ -4409,7 +4409,10 @@ En esta sección se detallarán los commits realizados en el desarrollo del fron
   </tr>
 </table>
 
-#### 5.2.2.5. Execution Evidence for Sprint Review
+#### 5.2.2.5. Execution Evidence for Sprint Review  
+Para esta entrega, el equipo CiberMach logró implementar de manera exitosa el frontend web app, en la cual se brindará variadas opciones relacionas a la publicación y escritura de libros ilustrados, a la vez de información conr espectos a los autores y artistas.
+
+Enlace del deploy de la web app mediante: https://movirent.netlify.app/#/profile
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
