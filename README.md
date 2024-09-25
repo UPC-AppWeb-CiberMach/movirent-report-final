@@ -3934,7 +3934,21 @@ Hemos desarrollado en conjunto un total de 82 commits para el desarrollo de nues
    </tr>
 </table>
 
-  
+
+#### 5.2.2.3. Development Evidence for Sprint Review  
+En esta sección se detallarán los commits realizados en el desarrollo de la landing page.
+
+#### 5.2.2.4.Testing Suite Evidence for Sprint Review
+
+#### 5.2.2.5.Execution Evidence for Sprint Review
+En el presente sprint se logro completar el despliegue de la primera versión del front end web application de manera exitosa, la aplicación fue desplegada por medio de netlyfy, se puede encontrar en el siguiente enlace. https://movirent.netlify.app/#/
+
+#### 5.2.2.6.Services Documentation Evidence for Sprint Review
+
+#### 5.2.2.7.Software Deployment Evidence for Sprint Review
+
+#### 5.2.2.8.Team Collaboration Insights during Sprint
+
 ---
 
 
