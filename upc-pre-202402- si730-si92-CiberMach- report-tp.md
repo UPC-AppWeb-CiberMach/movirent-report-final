@@ -198,6 +198,12 @@
       <td>Velarde Gonzales, Nestor</td>
       <td>Conclusiones y Anexos.</td>
     </tr>
+    </tr>
+    <td>2.0</td>
+      <td>2024/09/15</td>
+      <td>Espinoza Delgado, Bárbara</td>
+      <td>Sprint Backlog 2, Sprint Planning 2, Development Evidence y Testing Suite Evidence</td>
+    </tr>
   </tbody>
 </table>
 
@@ -251,6 +257,46 @@ Landing Page</td>
 </table>
 
 ![Commits informe](https://github.com/user-attachments/assets/c038f415-19aa-465d-9b29-bb3441532e43)
+
+
+**TP**
+
+Para el desarrollo de la entrega TB1, se opto por dividir el trabajo de la siguiente forma
+
+<table align="center" border="1px">
+    <thead>
+        <tr>
+            <th>Integrante</th>
+            <th>Actividades Asignadas</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Espinoza Delgado, Bárbara Antonella</td>
+            <td>Sprint Backlog 2, Sprint Planning 2, Development Evidence y Testing Suite Evidence</td>
+        </tr>
+        <tr>
+            <td>Velarde Gonzales, Néstor</td>
+            <td>Conclusiones</td>
+        </tr>
+        <tr>
+            <td>Diestra Zambrano, Adriana María</td>
+            <td>...</td>
+        </tr>
+        <tr>
+            <td>Hidalgo Lopez, Mathias Adriano</td>
+            <td>Corrección del c4</td>
+        </tr>
+        <tr>
+            <td>Jara Benitez, Quique Vladimir</td>
+            <td>...</td>
+        </tr>
+	    <tr>
+            <td>Fernandez Remon, Roy Linsh</td>
+            <td>...</td>
+        </tr>
+    </tbody>
+</table>
 
 <div style="page-break-before: always;"></div>
 
@@ -4386,10 +4432,13 @@ Desde la primera semana de clases, el equipo se organizó para cumplir con los e
 verficar los cumplimientos de los objetivos y la planificación de las tareas. Se logró una comunicación efectiva entre los miembros del equipo,
 lo que permitió cumplir con los plazos establecidos y realizar un trabajo de calidad.
 
+
+- TP:
+En esta segunda entrega del desarrollo del front end de la aplicación web, hemos logrado avances significativos en la implementación de las funcionalidades clave, mejorando tanto la experiencia de usuario como la estructura visual del proyecto.
+
 Nuestro proyecto está enfocado en alquiler de vehiculoos especificamente del Scooter, como equipo vemos la oportunidad de promover el transporte
 urbano con vehiculos ecológicos y de bajo costo, para ello hemos realizado un estudio de mercado y entrevistas a los usuarios para identificar
 las necesidades y oportunidades de negocio.
-
 
 ### [Recomendaciones](#recomendaciones)
 
