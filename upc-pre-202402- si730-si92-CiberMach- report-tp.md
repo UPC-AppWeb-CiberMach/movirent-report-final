@@ -4410,15 +4410,130 @@ En esta sección se detallarán los commits realizados en el desarrollo del fron
 </table>
 
 #### 5.2.2.5. Execution Evidence for Sprint Review  
+Durante el segundo Sprint se logró implementar el front end de la aplicación web con la mayoria de las secciones funcionales. A continuación se muestra la aplicación implementada y deployada
+
+![Captura de pantalla 2024-09-25 165044](https://github.com/user-attachments/assets/585ee042-2b76-440d-b887-366a1f9b61b3)
+
+![Captura de pantalla 2024-09-25 165057](https://github.com/user-attachments/assets/60ed6992-f0b0-46b2-bd54-f6a7e3423e60)
+
+![Captura 3 front](https://github.com/user-attachments/assets/11e0428a-7820-4f04-a983-6a505fb29630)
+
+Link de la web app mediante: https://movirent.netlify.app/#/
+
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review  
 Para esta entrega, el equipo CiberMach logró implementar de manera exitosa el frontend web app, en la cual se brindará variadas opciones relacionas a la publicación y escritura de libros ilustrados, a la vez de información conr espectos a los autores y artistas.
 
-Enlace del deploy de la web app mediante: https://movirent.netlify.app/#/profile
+Enlace del deploy de la web app mediante: https://movirent.netlify.app/#/
 
-#### 5.2.2.6. Services Documentation Evidence for Sprint Review
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review   
 
-#### 5.2.2.7. Software Deployment Evidence for Sprint Review
+Para el despliegue de la aplicacion web se utilizó netlify, a continuación se muestra el link de la aplicación web desplegada junto a los pasos realizados para publicarla: https://movirent.netlify.app/#/
+
+Pasos
+
+![WhatsApp Image 2024-09-25 at 4 17 15 PM (1)](https://github.com/user-attachments/assets/4b953d5d-bc04-4423-95f4-8eb4114b5cc4)
+
+![WhatsApp Image 2024-09-25 at 4 17 15 PM (2)](https://github.com/user-attachments/assets/40868b0a-9aba-4955-8ea6-4c7ebd138eb3)
+
+![WhatsApp Image 2024-09-25 at 4 17 16 PM](https://github.com/user-attachments/assets/4b7d43b5-dcfe-4174-a1b4-aa36bf940721)
+
+
+![WhatsApp Image 2024-09-25 at 4 17 16 PM (1)](https://github.com/user-attachments/assets/c3cb1492-8eba-4094-9549-6d0519f76c80)
+
+
+![WhatsApp Image 2024-09-25 at 4 17 17 PM](https://github.com/user-attachments/assets/97bcffdb-4d18-4564-a47d-471c3e009eba)
+
+
+![WhatsApp Image 2024-09-25 at 4 17 15 PM](https://github.com/user-attachments/assets/7aafafdd-4a94-4dfd-b2b9-adc72464cbb6)
+
+
+![WhatsApp Image 2024-09-25 at 4 17 17 PM (1)](https://github.com/user-attachments/assets/9ad4fef1-a58a-4a6b-a2f0-4ce513541b44)
+
+
+![WhatsApp Image 2024-09-25 at 4 17 17 PM (2)](https://github.com/user-attachments/assets/2553cb2a-c5a4-420e-bf5f-c7dffa61af58)
+
+
+![WhatsApp Image 2024-09-25 at 4 17 18 PM](https://github.com/user-attachments/assets/51025a45-54be-4352-be42-78cf43176b62)
+
+
+![WhatsApp Image 2024-09-25 at 4 17 18 PM (1)](https://github.com/user-attachments/assets/31bb7392-5a9b-484f-ab68-1086b0e7feb2)
+
+![Captura 3 front](https://github.com/user-attachments/assets/11e0428a-7820-4f04-a983-6a505fb29630)
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint. 
+
+Colaboración por alumno en la aplicación web:
+
+<table>
+  <tr>
+    <th>Alumno</th>
+    <th>Actividad</th>
+  </tr>
+  <tr>
+    <td>Velarde Gonzales, Nestor</td>
+    <td>Epic 03</td>
+  </tr>
+  <tr>
+    <td>Espinoza Delgado, Bárbara Antonella</td>
+    <td>Epic 02</td>
+  </tr>
+  <tr>
+    <td>Jara Benites, Quique Vladimir</td>
+    <td>Epic 05</td>
+  </tr>
+  <tr>
+    <td>Hidalgo Lopez, Mathias Adriano</td>
+    <td>Epic 04</td>
+  </tr>
+  <tr>
+    <td>Diestra Zambrano, Adriana María</td>
+    <td>Epic 03</td>
+  </tr>
+  <tr>
+    <td>Fernandez Remon, Roy Linsh</td>
+    <td>Epic 06</td>
+  </tr>
+</table>
+ 
+Tabla para poder identificarnos:
+
+<table>
+  <tr>
+    <th>Username (Github)</th>
+    <th>Nombre</th>
+  </tr>
+  <tr>
+    <td>VelardeSoft</td>
+    <td>Velarde Gonzales, Nestor</td>
+  </tr>
+  <tr>
+    <td>MesSobble</td>
+    <td>Espinoza Delgado, Bárbara Antonella</td>
+  </tr>
+  <tr>
+    <td>QuiqueVladimir</td>
+    <td>Jara Benitez, Quique Vladimir</td>
+  </tr>
+  <tr>
+    <td>mathiasadriano</td>
+    <td>Hidalgo Lopez, Mathias Adriano</td>
+  </tr>
+  <tr>
+    <td>adriiiiiiiiiiii</td>
+    <td>Diestra Zambrano, Adriana María</td>
+  </tr>
+  <tr>
+    <td>RTPX26</td>
+    <td>Fernandez Remon, Roy Linsh</td>
+  </tr>
+</table>
+
+Para este sprint se ha realizado la implementación de la web app, para esto los integrantes del grupo realizaron su aporte a través de commits en la herramienta Git Hub.
+
+![Captura de pantalla 2024-09-25 161615](https://github.com/user-attachments/assets/80971b76-f446-4795-a024-1f89531c36da)
+
+![Captura de pantalla 2024-09-25 161546](https://github.com/user-attachments/assets/53fc2e7d-ffd5-4905-a770-bf01ba552707)
+
 
 ---
 
