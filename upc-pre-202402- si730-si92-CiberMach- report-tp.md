@@ -261,7 +261,7 @@ Landing Page</td>
 
 **TP**
 
-Para el desarrollo de la entrega TB1, se opto por dividir el trabajo de la siguiente forma
+Para el desarrollo de la entrega TP, se opto por dividir el trabajo de la siguiente forma
 
 <table align="center" border="1px">
     <thead>
