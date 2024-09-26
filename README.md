@@ -3,60 +3,61 @@
 
 <div align="center">
 
-<center><img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" width="150"></center>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" width="150">
 
-### <center>**Universidad Peruana de Ciencias Aplicadas**</center>
-### <center>Ingeniería de Software</center>
-### <center>**CURSO:** SI730 Aplicaciones Web - SI92 </center>
-### <center>**SECCIÓN:** SI92 </center>
-### <center>**Profesor:** Naldo Reupo-Musayon Gastulo </center>
+  ### **Universidad Peruana de Ciencias Aplicadas**
+  ### Ingeniería de Software
+  ### **CURSO:** SI730 Aplicaciones Web - SI92 
+  ### **SECCIÓN:** SI92 
+  ### **Profesor:** Naldo Reupo-Musayon Gastulo 
 
-<br/>
+  <br/>
 
-### <center>**Informe de Trabajo Final**</center>
+  ### **Informe de Trabajo Final**
 
-<br/>
+  <br/>
 
-### <center>**Nombre del startup:** CiberMach</center>
-### <center>**Nombre del producto:** MoviRent</center>
+  ### **Nombre del startup:** CiberMach
+  ### **Nombre del producto:** MoviRent
 
-### <center>**Integrantes**</center>
+  ### **Integrantes**
 
+  <table border="1" align="center">
+      <thead>
+          <tr>
+              <th>Nombre</th>
+              <th>Código</th>
+          </tr>
+      </thead>
+      <tbody>
+          <tr>
+              <td>Adriana María Diestra Zambrano</td>
+              <td>u202218110</td>
+          </tr>
+          <tr>
+              <td>Bárbara Antonella Espinoza Delgado</td>
+              <td>u201911727</td>
+          </tr>
+          <tr>
+              <td>Mathias Adriano Hidalgo Lopez</td>
+              <td>u202213222</td>
+          </tr>
+          <tr>
+              <td>Velarde Gonzales, Néstor</td>
+              <td>u20211C221</td>
+          </tr>
+          <tr>
+              <td>Quique Vladimir Jara Benites</td>
+              <td>u202022365</td>
+          </tr>
+          <tr>
+              <td>Roy Linsh Fernandez Remon</td>
+              <td>u20221B778</td>
+          </tr>
+      </tbody>
+  </table>
 
-<table border="1" align="center">
-    <thead>
-        <tr>
-            <th>Nombre</th>
-            <th>Código</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>Adriana María Diestra Zambrano</td>
-            <td>u202218110</td>
-        </tr>
-        <tr>
-            <td>Bárbara Antonella Espinoza Delgado</td>
-            <td>u201911727</td>
-        </tr>
-        <tr>
-            <td>Mathias Adriano Hidalgo Lopez</td>
-            <td>u202213222</td>
-        </tr>
-        <tr>
-            <td>Velarde Gonzales, Néstor</td>
-            <td>u20211C221</td>
-        </tr>
-        <tr>
-            <td>Quique Vladimir Jara Benites</td>
-            <td>u202022365</td>
-        </tr>
-        <tr>
-            <td>Roy Linsh Fernandez Remon</td>
-            <td>u20221B778</td>
-        </tr>
-    </tbody>
-</table>
+</div>
 
 
 ## <center>Setiembre, 2024</center>
@@ -201,9 +202,6 @@
     </tr>
   </tbody>
 </table>
-
-<br>
-<br>
 
 <div style="page-break-before: always;"></div>
 
@@ -430,6 +428,7 @@ URL Project Report en Github: [URL Project Report en GitHub](https://github.com/
 ## 1.1. Startup Profile
 
 ### 1.1.1. Descripción de la Startup
+
 Somos CiberMach, un startup conformado por 6 estudiantes de la Universidad Peruana de Ciencias Aplicadas (UPC), 
 que trabajará en el desarrollo del producto MoviRent, dedicada a facilitar el alquiler de scooters eléctricos. 
 Nuestro enfoque se centra en brindar soluciones tanto para usuarios que buscan alquilar scooters para fines de 
@@ -505,6 +504,7 @@ web ofrece una experiencia excepcional, garantizando la disponibilidad y segurid
 ## 1.2. Solution Profile
 
 ### 1.2.1. Antecedentes y problemática
+
 Nuestra capital Lima, es una de las ciudades con mayor tráfico del mundo, lo que genera grandes costos económicos para las millones de personas que transitan diariamente por la ciudad de lima y callao, el sistema de transporte se encuentran notablemente retrasados. En el 2023 nuestra ciudad de Lima pasó del quinto al segundo país en el ranking de ciudades con mayor tráfico a nivel mundial. Según TomTom Traffic, trasladarse 10 kilómetros (distancia entre plaza San Martín y el Óvalo Naranjal al norte o al Larcomar al sur) demora 24 a 30 minutos en promedio.  
 
 - **What (Qué)**  
@@ -512,29 +512,20 @@ El problema identificado radica en el tráfico de Lima, que es uno de los más c
 
 
 - **When (Cuándo)** ¿Cuándo estamos viendo el problema?
-El problema del tráfico se experimenta diariamente, especialmente durante las horas pico de la mañana y la tarde, afectando los desplazamientos laborales y personales.  
+El problema del tráfico se experimenta diariamente, especialmente durante las horas pico de la mañana y la tarde, afectando los desplazamientos laborales y personales.  <br>
 
 
 - **Where (Dónde)** ¿Dónde estamos viendo los problemas?
-El tráfico congestionado se encuentra generalmente en las avenidas principales, intersecciones críticas y puntos de entrada y salida de la ciudad.  
-
-
+El tráfico congestionado se encuentra generalmente en las avenidas principales, intersecciones críticas y puntos de entrada y salida de la ciudad.  <br>
 - **Who (Quiénes)** ¿A quien le sucede?
-El problema afecta a todos los residentes y usuarios de Lima, que dependen del transporte terrestre para sus actividades diarias, incluidos trabajadores, estudiantes y visitantes.  
-
-
+El problema afecta a todos los residentes y usuarios de Lima, que dependen del transporte terrestre para sus actividades diarias, incluidos trabajadores, estudiantes y visitantes.  <br>
 - **Why (Por qué)** ¿Por qué sucede el problema?
-La congestion vehicular se debe a una combinación de factores, como el crecimiento poblacional desmedido, la falta de infraestructura vial adecuada, el aumento del parque automotor, la falta de sistemas de transporte público eficientes y sobre todo el desconocimiento de transportes alternativos.
-
-
+La congestion vehicular se debe a una combinación de factores, como el crecimiento poblacional desmedido, la falta de infraestructura vial adecuada, el aumento del parque automotor, la falta de sistemas de transporte público eficientes y sobre todo el desconocimiento de transportes alternativos. <br>
 - **How (Cómo)** ¿Cómo se diferencia el problema del estado normal?
-Como una congestión constante en las vías principales, causando retrasos significativos en los tiempos de viaje y aumentando el estrés y la frustración de los usuarios. La congestión tiende a empeorar durante las horas pico y en días laborables.
-
-
+Como una congestión constante en las vías principales, causando retrasos significativos en los tiempos de viaje y aumentando el estrés y la frustración de los usuarios. La congestión tiende a empeorar durante las horas pico y en días laborables.<br>
 - **How much (Cuánto)** ¿Cuánto dinero están implicando?
-La congestión vehicular causa un impacto diario a millones de personas, provocando retraso en sus actividades diarias, pérdida de productividad y el aumento en el coste de transporte que asciende a mas de 500 soles anuales por manejar en horas pico o la alza de pasajes en el transporte público que a aumentado en casi 100 soles mensuales desde 2010.
+La congestión vehicular causa un impacto diario a millones de personas, provocando retraso en sus actividades diarias, pérdida de productividad y el aumento en el coste de transporte que asciende a mas de 500 soles anuales por manejar en horas pico o la alza de pasajes en el transporte público que a aumentado en casi 100 soles mensuales desde 2010.<br>
   
-
 ### 1.2.2. Lean UX Process
 
 #### 1.2.2.1. Lean UX Problem statements  
@@ -727,10 +718,7 @@ Zona geográfica en la que viven: Zonas urbanas.
 
 Aspecto psicográfico: Buscan alquilar scooters eléctricos para momentos específicos y no ven viable comprar uno propio.
 
-
-
 <div style="page-break-before: always;"></div>
-
 
 
 # Capítulo II: Requirements Elicitation & Analysis
@@ -1005,7 +993,7 @@ Datos del entrevistado:
 * Apellidos: Beltran Burgos
 * Edad: 23
 * Distrito de residencia: San Borja
-* Enlace a la entrevista: [Ver Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202022365_upc_edu_pe/EZSdPhz59ytBr7yjIHvAProBDVrmA4ru6q7oZv2RxS74Ww?e=a118uE&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+* Enlace a la entrevista: [Ver Video](https://n9.cl/zcl36)
 * Duración de la entrevista: 5:51
 
 ![entrevista-David](https://github.com/user-attachments/assets/5a091cd9-7b13-47b8-bdc3-69c7e3d485ea)
@@ -1038,7 +1026,7 @@ Datos del entrevistado:
 * Apellidos: Flores Mendez.
 * Edad: 25
 * Distrito de residencia: Villa Maria del Triunfo.
-* Enlace a la entrevista: [Ver Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c221_upc_edu_pe/EcJxI89tEyVKqjwAXpUzEfQBPCIByK7wqXOgZCX6WY3K_g?e=PHNrCW)
+* Enlace a la entrevista: [Ver Video](https://n9.cl/x08frd)
 * Duración de la entrevista: 5:55
 
 ![Entrevista-Owner](https://github.com/user-attachments/assets/6f9e6d0e-6549-45d9-999e-c9a7b9f93102)
@@ -1069,7 +1057,7 @@ Datos del entrevistado:
 * Apellidos: Olivera Espinoza
 * Edad: 22
 * Distrito de residencia: Lima
-* Enlace a la entrevista: [Ver Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c221_upc_edu_pe/ETlt6pWHB7VDiEmJYMLJmzAB-NrsusHtDEDuzZxBuHYBXQ?e=rkizHA)
+* Enlace a la entrevista: [Ver Video](https://n9.cl/30vdy)
 * Duración de la entrevista: 5:56
 
 ![entrevista-owner-03](https://github.com/user-attachments/assets/68bf15c6-a968-42b1-b862-c0bfa4f49c1f)
@@ -1100,7 +1088,7 @@ Datos del entrevistado:
 * Apellidos: Hoyos Arevalo
 * Edad: 19
 * Distrito de residencia: Rimac
-* Enlace a la entrevista: [Ver Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213222_upc_edu_pe/EYvfM5T1ScdBpoM4ZDAvlQgBLmbxD7DTIk_2O02DixCJBw?e=RxA0RV)
+* Enlace a la entrevista: [Ver Video](https://n9.cl/u3vky)
 * Duración de la entrevista: 6:05
 
 ![Entrevista-Brissa](https://github.com/user-attachments/assets/5bd87a6d-a65d-41b4-9613-18bd224e8a26)
@@ -1135,7 +1123,7 @@ Datos del entrevistado:
 * Apellidos: Atanacio Cruces
 * Edad: 23
 * Distrito de residencia: San Juan de Lurigancho
-* Enlace a la entrevista: [Ver Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b778_upc_edu_pe/ESrNi2J7CPxCmG1crP6I85gBDxv_9VtZJzbnSfIrn9WDqA?e=5e70nZ)
+* Enlace a la entrevista: [Ver Video](https://n9.cl/b5rip)
 * Duración de la entrevista: 7:58
 
 ![Entrevista-Maryori](https://github.com/user-attachments/assets/8f9a9323-a165-4aeb-a300-bc71f0921720)
@@ -1168,7 +1156,7 @@ Datos del entrevistado:
 * Apellidos: Escudero Garcia
 * Edad: 19
 * Distrito de residencia: Rímac
-* Enlace a la entrevista: [Ver Video](https://upcedupe-my.sharepoint.com/personal/u202218110_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202218110_upc_edu_pe%2FDocuments%2FEntrevistaJeremy%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E3260062e-7954-4f9f-8f7b-5ec0e3a5761a)
+* Enlace a la entrevista: [Ver Video](https://n9.cl/ntstr)
 * Duración de la entrevista: 4:41
 
 ![Entrevista-Jeremy](https://github.com/user-attachments/assets/81b92e3c-0180-4fb5-84bc-8a37e5db042c)
@@ -1192,7 +1180,7 @@ Datos del entrevistado:
 * Apellidos: Prado
 * Edad: 23
 * Distrito de residencia: San Juan de Lurigancho
-* Enlace a la entrevista: [Ver Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b778_upc_edu_pe/ESYHQW3mA-hDq81S5Vbto-ABpfXj_7VY_dmt5rjmBeJ-Rw?e=YpnHj6&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+* Enlace a la entrevista: [Ver Video](https://n9.cl/trcrn)
 * Duración de la entrevista: 7:21
 
 ![Entrevista Jefrey](https://github.com/user-attachments/assets/e69fbef0-23bb-443e-9ee7-5c646f5a539f)
@@ -3261,35 +3249,6 @@ Para desplegar la solución se realizó los siguientes pasos:
 
 #### 5.2.1.1. Sprint Planning 1
 
-<style>
-    table {
-        border: 1px solid #333;
-        border-collapse: collapse;
-        width: 80%;
-        margin: 20px auto;
-        font-family: Arial, sans-serif;
-    }
-    th, td {
-        border: 1px solid #333;
-        padding: 10px 15px;
-        text-align: left;
-    }
-    th {
-        background-color: #f2f2f2; /* Color de fondo para las cabeceras */
-        text-align: center; /* Centrar cabeceras */
-        font-size: 18px;
-    }
-    td {
-        font-size: 16px;
-    }
-    tr:nth-child(2), /* Fila de encabezado del bloque */
-    tr:nth-child(14) { /* Fila de encabezado del bloque */
-        background-color: #e7e7e7; /* Color de fondo más oscuro para las filas separadoras */
-        font-weight: bold;
-        text-align: center;
-    }
-</style>
-
 <table align="center" border="1px">
     <tr>
         <th>Sprint #</th>
@@ -3712,6 +3671,7 @@ Integrantes, sección donde se muestra información sobre los integrantes del eq
 Footer, sección donde se muestra información de contacto y redes sociales.
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
+
 **No aplica para esta entrega**
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
