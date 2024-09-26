@@ -1,5 +1,4 @@
-﻿
-<br/><br/>
+﻿<br/>
 
 <div align="center">
 
@@ -14,7 +13,7 @@
   <br/>
 
   ### **Informe de Trabajo Final**
-
+  
   <br/>
 
   ### **Nombre del startup:** CiberMach
@@ -59,10 +58,7 @@
 
 </div>
 
-
 ## <center>Setiembre, 2024</center>
-
-</div>
 
 <div style="page-break-before: always;"></div>
 
@@ -112,7 +108,7 @@
         <td>1.5</td>
         <td>2024/08/30</td>
         <td>Jara Benitez, Quique Vladimir</td>
-        <td>Entrevista, Redacción del Analisis competitivo, Estrategias frente a competidores, User Persona, User Task Matrix, user journey mapping, As-Is Scenario y Ubiquitous Language.</td>
+        <td>Entrevista, Redacción del Análisis competitivo, Estrategias frente a competidores, User Persona, User Task Matrix, User Journey Mapping, As-Is Scenario y Ubiquitous Language.</td>
       </tr>
     <tr>
     <td>1.6</td>
@@ -174,28 +170,26 @@
         <td>Jara Benitez, Quique Vladimir</td>
         <td>Web Prototyping.</td>
       </tr>
-      </tr>
-    <tr>
+      <tr>
     <td>1.16</td>
         <td>2024/09/06</td>
         <td>Diestra Zambrano, Adriana María</td>
         <td>Domain-Driven Software Architecture</td>
       </tr>
-      </tr>
-    <tr>
+      <tr>
     <td>1.17</td>
         <td>2024/09/06</td>
         <td>Diestra Zambrano, Adriana María</td>
         <td>Domain-Driven Software Architecture</td>
       </tr>
-      </tr>
-    <tr>
+      <tr>
     <td>1.18</td>
       <td>2024/09/06</td>
       <td>Fernandez Remon, Roy Linsh</td>
       <td>Class Diagram y Class Dictionary</td>
     </tr>
-    <td>1.19</td>
+    <tr>
+      <td>1.19</td>
       <td>2024/09/06</td>
       <td>Velarde Gonzales, Nestor</td>
       <td>Conclusiones y Anexos.</td>
@@ -206,6 +200,8 @@
 <div style="page-break-before: always;"></div>
 
 ## Project Report Collaboration Insights
+
+
 
 **TB1**
 
