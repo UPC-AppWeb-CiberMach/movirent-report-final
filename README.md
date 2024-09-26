@@ -66,7 +66,7 @@
 
 ## Registro de versiones del informe
 
-<table border="1px", align="center">
+<table border="1px" align="center">
   <thead>
     <tr>
       <th>Versión</th>
@@ -201,8 +201,6 @@
   </tbody>
 </table>
 
-
-
 <br>
 <br>
 
@@ -214,7 +212,7 @@
 
 Para el desarrollo de la entrega TB1, se opto por dividir el trabajo de la siguiente forma
 
-<table align="center" border="1px">
+<table align="center" border="1" cellpadding="10">
     <thead>
         <tr>
             <th>Integrante</th>
@@ -265,9 +263,7 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de
 conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro
 del ABET – EAC - Student Outcome 5.
 
-<div align="center">
-
-<table border="1px" align="center">
+<table align="center" border="1" cellpadding="10">
     <thead>
         <tr>
             <th>Criterio específico</th>
@@ -279,114 +275,54 @@ del ABET – EAC - Student Outcome 5.
         <tr>
             <td>Trabaja en equipo para proporcionar liderazgo en forma conjunta</td>
             <td>
-                TB1:
-                <ul>
-                    <li>
-                        Adriana María Diestra Zambrano
-                        TB1:Realicé la parte de analisis de entrevistas y Bounded, mi enfoque fue la investicacción de los segmentos de clientes y dueños de scooters eléctricos.
-                            desarrollé los 5W y 2h para analisar los datos a profundidad, finalmente hice los diagramas de C4.
-			TP1:Colaboro en equipo para asumir un liderazgo compartido, asegurando que la implementación del front-end, la conexión a la API y las funcionalidades como i18n y el componente de Not Found se realicen de manera eficiente. Contribuyo a la planificación y ejecución del sprint, trabajando junto al equipo para ajustar y priorizar el sprint backlog, y garantizando que las evidencias para la revisión del sprint reflejen el progreso y los aprendizajes colectivos.
-
-       
-</li><br>
-                    <li>
-                        Bárbara Antonella Espinoza Delgado <br>
-                        TB1: Como lider del equipo me encargue de trabajar en conjunto para proporcionar dirección clara, fomentar la participación activa de todos los miembros y asegurar que las decisiones se tomen de manera colaborativa
-			    <br><br>
-			TP1: Trabajo en equipo para proporcionar liderazgo conjunto en la implementación del login y registro en el front-end, asegurando que el flujo de autenticación sea intuitivo y eficiente. Colaboro con mi equipo en la toma de decisiones clave, distribuyendo responsabilidades y garantizando que cada miembro aporte al éxito del proyecto, mientras superviso el progreso y me adapto a los cambios necesarios en el proceso.
-
-       
-</li><br>
-                    <li>
-                        Mathias Adriano Hidalgo Lopez <br>
-                        TB1: Realice entrevistas a nuestro segmento cliente para reconocer las principales necesidades que tienen. 
-                        Elabore el To-Be y El Impact Mapping para la posterior creación del landing.<br><br>
-			TP1:Trabajo en equipo para diseñar y desarrollar un sistema de interfaz de usuario donde los usuarios pueden dejar reseñas sobre scooters, asumiendo un rol de liderazgo compartido. Colaboro en la toma de decisiones conjunta y aseguro que el feedback de los usuarios se implemente de manera eficiente en el sistema.
-</li><br>
-                    <li>
-                        Quique Vladimir Jara Benites
-                        TB1: Realicé la parte de entrevistas a Owner desarrollé los historias de usuarios funcionales y no funcioanles basado en nuestras entrevistas a segmentos objetivos, finalmente colaboré en el desarrollo del landing page y deploy usando la herramienta Githun Page.<br><br>
-      			TP1: Colaboro estrechamente con mi equipo para implementar la funcionalidad de eliminación, tomando un rol activo en el liderazgo conjunto. Me encargo de asegurar que el proceso sea efectivo y cumpla con los estándares de seguridad, mientras trabajo con el equipo para coordinar el flujo de trabajo y optimizar la integración de esta característica. Facilito la comunicación y el intercambio de ideas, asegurando que cada miembro pueda contribuir al éxito del proyecto.
-			    
-</li><br>
-			        <li>
-			            Fernández Remón, Roy <br>
-			            TB1: Realice 2 entrevistas de nuestro segmento clientes para poder conocer sus necesidades de cada uno y ver que es lo que esperan
-                        obtener de nuestro proyecto, realicé el diagrama de clases UML para poder conocer las principales clase que llevará nuestro 
-			            proyecto y como de esta manera poder ordenar y tener un desarrollo limpio y realicé el class dictionary para poder llevar una descripción
-			            más específica de cada atributo elegido en los diagramas y su tipo de dato.<br><br>
-				TP1: Trabajo en equipo para liderar de manera colaborativa la creación de preguntas frecuentes y políticas de privacidad, además de desarrollar el Epic 6 que incluye la cancelación de suscripción y el guardado de pagos exitosos. Participo en la planificación de cada fase, asegurando que se cumplan los requisitos del proyecto, mientras promuevo una toma de decisiones conjunta con el equipo para garantizar una implementación precisa y alineada con las expectativas del usuario	
-
-     
-</li><br>
-                    <li>
-                        Velarde Gonzales, Néstor Hernan. <br>
-                        TB1: Se realizaron entrevistas para reconocer lo que necesitan
-                        los potenciales clientes tanto owner como client, actualizar colaborar en user histories y en el diseño de prototipado para landing en Figma.<br><br>
-			TP1:Participo activamente en el equipo proporcionando liderazgo colaborativo durante el desarrollo de la pantalla para subir y editar scooters. Coordino con mis compañeros para definir y priorizar las tareas, facilitando la toma de decisiones conjuntas y garantizando que el trabajo fluya de manera eficiente. Aporto soluciones técnicas mientras apoyo al equipo en la resolución de problemas y en el cumplimiento de los objetivos establecidos.
-                    </li>
-                </ul>
+                <b>TB1</b>:<br>
+                - <b>Adriana María Diestra Zambrano</b>: Realicé el análisis de entrevistas y "Bounded". Me enfoqué en la investigación de los segmentos de clientes y dueños de scooters eléctricos, desarrollé los 5W y 2H para analizar los datos a profundidad, y elaboré los diagramas de C4.<br><br>
+                - <b>Bárbara Antonella Espinoza Delgado</b>: Como líder del equipo, trabajé en conjunto para proporcionar dirección clara, fomentar la participación activa de todos los miembros y asegurar decisiones colaborativas.<br><br>
+                - <b>Mathias Adriano Hidalgo Lopez</b>: Realicé entrevistas para reconocer las necesidades principales de nuestro segmento de clientes. Elaboré el To-Be y el Impact Mapping para la creación del landing page.<br><br>
+                - <b>Quique Vladimir Jara Benites</b>: Realicé entrevistas a propietarios, desarrollé historias de usuario funcionales y no funcionales basadas en las entrevistas y colaboré en el desarrollo de la landing page usando GitHub Pages.<br><br>
+                - <b>Fernández Remón, Roy</b>: Realicé entrevistas para conocer las necesidades de los clientes y elaboré el diagrama de clases UML para organizar el desarrollo.<br><br>
+                - <b>Velarde Gonzales, Néstor Hernan</b>: Realicé entrevistas para obtener necesidades de clientes y dueños, colaboré en historias de usuario y el diseño de prototipos en Figma.<br><br><br>
+                <b>TP1</b>:<br>
+                - <b>Adriana María Diestra Zambrano</b>: Colaboro en equipo para liderar la implementación del front-end, la conexión a la API y funcionalidades como <code>i18n</code> y el componente de <code>Not Found</code>. Aseguro la planificación y ejecución del sprint, ajustando el sprint backlog junto al equipo y asegurando que las evidencias reflejen el progreso colectivo.<br><br>
+                - <b>Bárbara Antonella Espinoza Delgado</b>: Trabajo en equipo para implementar el login y registro en el front-end, asegurando un flujo de autenticación intuitivo. Superviso el progreso y me adapto a los cambios necesarios en el proceso.<br><br>
+                - <b>Mathias Adriano Hidalgo Lopez</b>: Trabajo en equipo para diseñar y desarrollar un sistema de interfaz de usuario donde los usuarios pueden dejar reseñas sobre scooters, asumiendo un rol de liderazgo compartido.<br><br>
+                - <b>Quique Vladimir Jara Benites</b>: Lidero la implementación de la funcionalidad de eliminación, garantizando que el proceso sea efectivo y cumpla con los estándares de seguridad.<br><br>
+                - <b>Fernández Remón, Roy</b>: Lidero la creación de preguntas frecuentes y políticas de privacidad, y el Epic 6 que incluye la cancelación de suscripción y el guardado de pagos exitosos.<br><br>
+                - <b>Velarde Gonzales, Néstor Hernan</b>: Participo activamente en la creación de la pantalla para subir y editar scooters, asegurando un liderazgo colaborativo.<br>
             </td>
             <td>
-                TB1:
-                Se logró realizar un trabajo sobresaliente, cumpliendo con todos los segmentos del trabajo y entregando un documento que sirve como sustento escrito para comprender los pasos seguidos en la planificación, desarrollo y envío del proyecto a producción.<br><br>
-		TP1:
-		    Se logró desarrollar un front-end sobresaliente en la TP1, completando todas las funcionalidades clave como las pantallas para reseñas de scooters, login, registro y eliminación. El resultado final sirve como una base sólida que refleja el proceso detallado de planificación, implementación y entrega del proyecto.
+                <b>TB1</b>: Se cumplió con los objetivos y se entregó un documento detallado que sirve como sustento escrito para comprender los pasos seguidos en la planificación, desarrollo y envío del proyecto a producción.<br><br>
+                <b>TP1</b>: Se desarrolló un front-end sobresaliente, completando funcionalidades clave como reseñas de scooters, login, registro y eliminación, reflejando un proceso detallado de planificación y entrega del proyecto.
             </td>
         </tr>
         <tr>
             <td>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.</td>
             <td>
-                TB1:
-                <ul>
-                    <li>
-                        Adriana María Diestra Zambrano
-                        TB1: En cada semana tuve la tarea de cumplir con las tareas asignadas, en base a ello, colaboré eficasmente con mi equipo y como tambien proponiendo nuevas ideas en el desarrollo. <br><br>
-			TP1: Fomento un entorno colaborativo e inclusivo mientras desarrollo la pantalla donde los usuarios pueden subir y editar su scooter. Establezco metas claras con el equipo, planifico las tareas necesarias para la implementación y aseguro que cada miembro tenga un rol activo en el proceso. Juntos cumplimos los objetivos del proyecto de manera eficiente, manteniendo una comunicación abierta y un trabajo en equipo constante
-                    </li><br>   
-                    <li>
-                        Bárbara Antonella Espinoza Delgado <br>
-                        TB1: Como líder, creé un entorno colaborativo. Establecí metas claras, planifiqué las tareas de forma eficiente y trabajé con el equipo para cumplir con los objetivos propuestos.<br><br>
-			TP1: Creo un entorno inclusivo y colaborativo mientras implemento las funcionalidades de login y registro, asegurando que se establezcan metas claras para cada etapa del desarrollo. Además, durante el Sprint 2 del informe, planifico las tareas en equipo, promoviendo la participación activa de todos los miembros para cumplir con los objetivos de manera eficiente y organizada.
-                    </li><br>
-                    <li>
-                        Mathias Adriano Hidalgo Lopez <br>
-                        TB1: Reconoce la necesidad para la realización de las siguientes tareas: proponer preguntas y realizar entrevistas.
-                        En base a ello, crear el To-Be mapping y a través de los user crear el Impact Mapping de ambos segmentos.<br><br>
-			TP1:Creo un entorno colaborativo e inclusivo al trabajar en equipo, donde establecemos metas claras, planificamos las tareas de manera organizada y cumplimos con los objetivos del proyecto. Me aseguro de que todos los miembros del equipo participen activamente y se sientan incluidos en el proceso de desarrollo.
-
-       
-</li><br>
-                    <li>
-                        Quique Vladimir Jara Benites
-                        TB1: Mi objetivo fue establecer metas claras, planificar tareas y cumplir objetivos, para ello realicé entrevistas a los segmentos objetivo, desarrollé historias de usuarios funcionales y no funcionales, colaboré en el desarrollo del landing page para llegar a los objetivos propuestos.<br><br>
-			TP1: Fomento un entorno colaborativo e inclusivo mientras desarrollo la funcionalidad de eliminar, estableciendo metas claras con mi equipo y planificando las tareas necesarias para garantizar que el proceso sea seguro y eficiente. Nos aseguramos de que todos los miembros del equipo participen en la toma de decisiones y trabajamos juntos para cumplir con los objetivos del proyecto de manera efectiva.
-                    </li><br>
-			        <li>
-			            Fernández Remón, Roy <br>
-			            TB1: Al realizar lo mencionado, reconocí la necesidad para la realización de las siguientes tareas: Realizar las entrevistas y hacer las respectivas preguntas
-			            para obtener los datos relevantes que nos permitieran desarrollar un buen proyecto con mejores datos estadísticos en base a lo que opina cada persona sobre
-			            nuestro proyecto.<br><br>
-				TP1: Creo un entorno inclusivo y colaborativo mientras desarrollo las preguntas frecuentes, las políticas de privacidad, y el Epic 6 sobre la cancelación de suscripciones y el guardado de pagos exitosos. Establezco metas específicas para cada fase del proyecto, planifico las tareas de forma conjunta con el equipo y cumplo con los objetivos establecidos, asegurando que todos los miembros del equipo participen activamente y se sientan valorados en el proceso.
-                    </li><br>
-                    <li>
-                        Velarde Gonzales, Néstor Hernan. <br>
-                        TB1: Se reconoció la necesidad para el proyecto realizar las siguientes tareas: Se plantearon Hypothesis Statements, proponer preguntas para entrevistas y registrar entrevistas realizadas. Además, en base a los resultados de la entrevista hacer Empathy Maps de ambos segmentos.<br><br>
-			TP1: Fomento un entorno colaborativo e inclusivo mientras desarrollo la pantalla donde los usuarios pueden subir y editar su scooter. Establezco metas claras con el equipo, planifico las tareas necesarias para la implementación y aseguro que cada miembro tenga un rol activo en el proceso. Juntos cumplimos los objetivos del proyecto de manera eficiente, manteniendo una comunicación abierta y un trabajo en equipo constante
-                    </li><br>
-                </ul>
+                <b>TB1</b>:<br>
+                - <b>Adriana María Diestra Zambrano</b>: Cumplí con las tareas asignadas semanalmente y colaboré eficazmente con mi equipo.<br><br>
+                - <b>Bárbara Antonella Espinoza Delgado</b>: Como líder, creé un entorno colaborativo, estableciendo metas claras y planificando tareas de forma eficiente.<br><br>
+                - <b>Mathias Adriano Hidalgo Lopez</b>: Realicé entrevistas y creé el To-Be mapping y el Impact Mapping.<br><br>
+                - <b>Quique Vladimir Jara Benites</b>: Realicé entrevistas y colaboré en historias de usuario, ayudando a cumplir objetivos.<br><br>
+                - <b>Fernández Remón, Roy</b>: Realicé entrevistas y elaboré el class dictionary para organizar los atributos.<br><br>
+                - <b>Velarde Gonzales, Néstor Hernan</b>: Propuse preguntas para entrevistas y realicé Empathy Maps.<br><br>
+                <b>TP1</b>:<br>
+                - <b>Adriana María Diestra Zambrano</b>: Fomento un entorno inclusivo mientras desarrollo la pantalla de subir y editar scooters, asegurando que cada miembro tenga un rol activo.<br><br>
+                - <b>Bárbara Antonella Espinoza Delgado</b>: Implemento funcionalidades de login y registro, estableciendo metas claras y planificando en equipo.<br><br>
+                - <b>Mathias Adriano Hidalgo Lopez</b>: Fomento un entorno colaborativo estableciendo metas claras y planificando de manera organizada con el equipo.<br><br>
+                - <b>Quique Vladimir Jara Benites</b>: Fomento un entorno inclusivo al desarrollar la funcionalidad de eliminar, estableciendo metas claras y planificando con el equipo.<br><br>
+                - <b>Fernández Remón, Roy</b>: Creo un entorno colaborativo al desarrollar preguntas frecuentes y políticas de privacidad, estableciendo metas específicas en cada fase.<br><br>
+                - <b>Velarde Gonzales, Néstor Hernan</b>: Desarrollo la pantalla para subir y editar scooters, asegurando que todos los miembros del equipo participen activamente.<br>
             </td>
             <td>
-                TB1:
-                El equipo estableció medios de comunicación efectivos para entregar un trabajo completo dentro de los cortos períodos de tiempo para la entrega del proyecto. Además, se comunicaron los resultados obtenidos a los stakeholders, quienes demostraron su satisfacción con el programa. Cada miembro realizó presentaciones detalladas de sus avances y colaboró en la comunicación constante con los segmentos objetivo y clientes.<br><br>
-		TP1:
-		A través de una colaboración activa y eficiente, se cumplió con los objetivos establecidos, implementando las pantallas clave y funcionalidades esenciales como las reseñas de scooters, login, registro y eliminación, asegurando la calidad del proyecto en cada fase.
+                <b>TB1</b>: El equipo estableció medios de comunicación efectivos y cumplió con la entrega del proyecto a tiempo, con presentaciones detalladas y comunicación constante con stakeholders.<br><br>
+                <b>TP1</b>: Se cumplieron los objetivos, implementando funcionalidades esenciales como reseñas, login y registro, asegurando la calidad del proyecto en cada fase.
             </td>
         </tr>
     </tbody>
 </table>
 
-</div>
+
+
 
 ## Project Report Online
 URL Project Report en Github: https://github.com/UPC-AppWeb-CiberMach/Final-Report 
@@ -482,13 +418,10 @@ URL Project Report en Github: https://github.com/UPC-AppWeb-CiberMach/Final-Repo
 
 - [5.4. Video about the product](#54-video-about-the-product)
 
-
-
----
-
-
+<div style="page-break-before: always;"></div>
 
 # Capítulo I: Introducción
+
 ## 1.1. Startup Profile
 
 ### 1.1.1. Descripción de la Startup
@@ -791,7 +724,7 @@ Aspecto psicográfico: Buscan alquilar scooters eléctricos para momentos espec�
 
 
 
----
+<div style="page-break-before: always;"></div>
 
 
 
@@ -1686,10 +1619,7 @@ objetivos.
 </table>
 
 
-
----
-
-
+<div style="page-break-before: always;"></div>
 
 # Capítulo III: Requirements Specification
 ## 3.1. To-Be Scenario Mapping
@@ -2570,7 +2500,7 @@ En este apartado se muestra los impact mapping de nuestros segmentos objetivos:
 
 
 
----
+<div style="page-break-before: always;"></div>
 
 
 
@@ -2695,37 +2625,37 @@ intuitiva.
 
 En el Landing Page visualizará los siguientes botones de navegación:
 
-<table border="1px" align="center">
-	<tbody>
-		<tr>
-			<td>Etiqueta</td>
-			<td>Descripción</td>
-		</tr>
-		<tr>
-			<td>Inicio</td>
-			<td>Apartado donde se muestra la información de la aplicación explicando sus características.</td>
-		</tr>
-		<tr>
-			<td>Sobre Nosotros</td>
-			<td>Apartado donde se informa al usuario sobre el equipo y el propósito.</td>
-		</tr>
-		<tr>
-			<td>Servicios</td>
-			<td>Apartado donde se muestra el tipo de usuario que puede ser y sus ventajas.</td>
-		</tr>
-		<tr>
-			<td>Planes</td>
-			<td>Apartado donde se muestran todos los planes de suscripción.</td>
-		</tr>
-		<tr>
-			<td>Team</td>
-			<td>Apartado donde el usuario puede comunicarse con nosotros.</td>
-		</tr>
-		<tr>
-			<td>Empieza Ya!</td>
-			<td>Apartado redirigir ir a la aplicación web.</td>
-		</tr>
-	</tbody>
+<table border="1" align="center">
+    <tbody>
+        <tr>
+            <td>Etiqueta</td>
+            <td>Descripción</td>
+        </tr>
+        <tr>
+            <td>Inicio</td>
+            <td>Apartado donde se muestra la información de la aplicación explicando sus características.</td>
+        </tr>
+        <tr>
+            <td>Sobre Nosotros</td>
+            <td>Apartado donde se informa al usuario sobre el equipo y el propósito.</td>
+        </tr>
+        <tr>
+            <td>Servicios</td>
+            <td>Apartado donde se muestra el tipo de usuario que puede ser y sus ventajas.</td>
+        </tr>
+        <tr>
+            <td>Planes</td>
+            <td>Apartado donde se muestran todos los planes de suscripción.</td>
+        </tr>
+        <tr>
+            <td>Team</td>
+            <td>Apartado donde el usuario puede comunicarse con nosotros.</td>
+        </tr>
+        <tr>
+            <td>Empieza Ya!</td>
+            <td>Apartado redirigir ir a la aplicación web.</td>
+        </tr>
+    </tbody>
 </table>
 
 Para la página es importante, un sistema de etiquetado efectivo para permitir que los usuarios encuentren fácilmente la 
@@ -2941,151 +2871,49 @@ Link del video del Prototipado de Landing Page: [Ver Video](https://upcedupe-my.
 
 ### 4.7.2. Class Dictionary
 
-<table border="1px" align="center">
-	<tbody>
-		<tr>
-			<td>Clase</td>
-			<td>Descripción</td>
-			<td>Tipo de dato</td>
-		</tr>
-		<tr>
-			<td rowspan="3">Profile</td>
-			<td>id: Es la identificación personal del profile para cada usuario</td>
-			<td>Int</td>
-		</tr>
-		<tr>
-			<td>email: Es el correo eletrónico que tiene el usuario</td>
-			<td>String</td>
-		</tr>
-		<tr>
-			<td>nombre: Es el nombre que contendra el profile de los usuarios</td>
-			<td>String</td>
-		</tr>
-		<tr>
-			<td rowspan="3">AuditableAbstractAggregateRoot</td>
-			<td>id: Es la identificación para el AuditableAbstractAggregateRoot</td>
-			<td>Int</td>
-		</tr>
-		<tr>
-			<td>updateAt: Permitirá al equipo de desarrollo el poder saber cuando se realizaron las actualizaciones en la página web</td>
-			<td>Date</td>
-		</tr>
-		<tr>
-			<td>getID(): Nos permitirá obtener el Id de los usuarios de nuestra plataforma</td>
-			<td>Int</td>
-		</tr>
-		<tr>
-			<td rowspan="3">scooterDetails</td>
-			<td>marca: Permite a los usuarios poder ver la marca del Scooter que deseen alquilar</td>
-			<td>String</td>
-		</tr>
-		<tr>
-			<td>kilometraje: Mostrará el kilometraje de uso de cada Scooter en el sistema</td>
-			<td>Double</td>
-		</tr>
-		<tr>
-			<td>estadoBateria: Permitirá a los usuarios el poder saber si la batería del Scooter que deseen alquilar se encuentra en buen estado</td>
-			<td>String</td>
-		</tr>
-		<tr>
-			<td rowspan="4">Reseña</td>
-			<td>id: Es el identificador de las reseñas puestas por los usuarios</td>
-			<td>Int</td>
-		</tr>
-		<tr>
-			<td>puntuacion: Muestra la puntuación de cada Scooter que haya sido utilizado por algún usuario</td>
-			<td>int</td>
-		</tr>
-		<tr>
-			<td>comentario: Permite a los usuarios dejar un comentario sobre lo que fue su experiencia de uso con cada Scooter</td>
-			<td>String</td>
-		</tr>
-		<tr>
-			<td>fechaReseña: Permitirá a los usuarios poder ver la fecha en la que fue realizada cada reseña</td>
-			<td>Date</td>
-		</tr>
-		<tr>
-			<td rowspan="4">Alquiler</td>
-			<td>id: Identificador de cada alquiler realizada por el usuario</td>
-			<td>Int</td>
-		</tr>
-		<tr>
-			<td>scooterId: Identificador de cada scooter en el sistema</td>
-			<td>Int</td>
-		</tr>
-		<tr>
-			<td>precio: Mostrará al usuario el precio del alquiler de cada scooter </td>
-			<td>Double</td>
-		</tr>
-		<tr>
-			<td>descripcion: Permitirá al usuario poder ver una descripcion previa de los scooters que le interesen</td>
-			<td>String</td>
-		</tr>
-		<tr>
-			<td rowspan="4">Reservation</td>
-			<td>id: Es el identificador de cada reserva que sea realizada en la plataforma</td>
-			<td>int</td>
-		</tr>
-		<tr>
-			<td>reservationDate: Los usuarios podrán conocer el inicio y fin de las fechas de sus alquileres de Scooters</td>
-			<td>Date</td>
-		</tr>
-		<tr>
-			<td>paymentDetails: Muestra a los usuarios los detalles de pago de los alquileres</td>
-			<td>Double</td>
-		</tr>
-		<tr>
-			<td>status: Se encarga de mostrar a los usuarios el estado de disponibilidad de un Scooter</td>
-			<td>Void</td>
-		</tr>
-		<tr>
-			<td rowspan="5">User</td>
-			<td>id: Es el indentificador único del usuario</td>
-			<td>Int</td>
-		</tr>
-		<tr>
-			<td>email: Dirección de correo electrónico del usuario</td>
-			<td>String</td>
-		</tr>
-		<tr>
-			<td>password: Es la contraseña del usuario para acceder al sistema</td>
-			<td>String</td>
-		</tr>
-		<tr>
-			<td>roles: Son los roles que puede adquirir un usuario en la plataforma</td>
-			<td>set</td>
-		</tr>
-		<tr>
-			<td>createdAt: Se encarga de mostrar la fecha de creación de la cuenta </td>
-			<td>Date</td>
-		</tr>
-		<tr>
-			<td rowspan="7">Scooter</td>
-			<td>id: Identificador para cada Scooter añadido al sistema</td>
-			<td>Int</td>
-		</tr>
-		<tr>
-			<td>scooterDetails: Se encarga de mencionar detalles técnicos de los Scooters en el sistema</td>
-			<td>Void</td>
-		</tr>
-		<tr>
-			<td>Location: Muestra la ubicación de cada Scooter en el sistema mediante coordenadas</td>
-			<td>Double</td>
-		</tr>
-		<tr>
-			<td>maintenanceRecords: Se encarga de mostrar los mantenimientos que tuvo cada Scooter</td>
-			<td>Lista</td>
-		</tr>
-		<tr>
-			<td>status: Muesta el estado de disponibilidad de cada Scooter</td>
-			<td>String</td>
-		</tr>
-		<tr>
-			<td>estado: Menciona el estado de disponibilidad del vehículo</td>
-			<td>String</td>
-		</tr>
-	</tbody>
-</table>
+| Clase                             | Descripción                                                                                                               | Tipo de dato |
+|-----------------------------------|---------------------------------------------------------------------------------------------------------------------------|--------------|
+| **Profile**                       |                                                                                                                           |              |
+|                                   | id: Identificación personal del profile para cada usuario                                                                  | Int          |
+|                                   | email: Correo electrónico del usuario                                                                                     | String       |
+|                                   | nombre: Nombre que contendrá el profile de los usuarios                                                                    | String       |
+| **AuditableAbstractAggregateRoot**|                                                                                                                           |              |
+|                                   | id: Identificación para el AuditableAbstractAggregateRoot                                                                  | Int          |
+|                                   | updateAt: Fecha de actualización en la página web                                                                         | Date         |
+|                                   | getID(): Obtiene el Id de los usuarios de la plataforma                                                                   | Int          |
+| **scooterDetails**               |                                                                                                                           |              |
+|                                   | marca: Marca del Scooter que desean alquilar                                                                              | String       |
+|                                   | kilometraje: Kilometraje de uso de cada Scooter en el sistema                                                             | Double       |
+|                                   | estadoBateria: Estado de la batería del Scooter                                                                           | String       |
+| **Reseña**                        |                                                                                                                           |              |
+|                                   | id: Identificador de las reseñas puestas por los usuarios                                                                | Int          |
+|                                   | puntuacion: Puntuación de cada Scooter utilizado por algún usuario                                                        | int          |
+|                                   | comentario: Comentario sobre la experiencia de uso con cada Scooter                                                       | String       |
+|                                   | fechaReseña: Fecha en la que fue realizada cada reseña                                                                   | Date         |
+| **Alquiler**                      |                                                                                                                           |              |
+|                                   | id: Identificador de cada alquiler realizado por el usuario                                                               | Int          |
+|                                   | scooterId: Identificador de cada scooter en el sistema                                                                     | Int          |
+|                                   | precio: Precio del alquiler de cada scooter                                                                                | Double       |
+|                                   | descripcion: Descripción previa de los scooters que le interesen                                                           | String       |
+| **Reservation**                   |                                                                                                                           |              |
+|                                   | id: Identificador de cada reserva realizada en la plataforma                                                              | int          |
+|                                   | reservationDate: Fechas de inicio y fin de los alquileres de Scooters                                                    | Date         |
+|                                   | paymentDetails: Detalles de pago de los alquileres                                                                         | Double       |
+|                                   | status: Estado de disponibilidad de un Scooter                                                                             | Void         |
+| **User**                          |                                                                                                                           |              |
+|                                   | id: Identificador único del usuario                                                                                        | Int          |
+|                                   | email: Dirección de correo electrónico del usuario                                                                         | String       |
+|                                   | password: Contraseña del usuario para acceder al sistema                                                                   | String       |
+|                                   | roles: Roles que puede adquirir un usuario en la plataforma                                                               | set          |
+|                                   | createdAt: Fecha de creación de la cuenta                                                                                 | Date         |
+| **Scooter**                       |                                                                                                                           |              |
+|                                   | id: Identificador para cada Scooter añadido al sistema                                                                    | Int          |
+|                                   | scooterDetails: Detalles técnicos de los Scooters en el sistema                                                           | Void         |
+|                                   | Location: Ubicación de cada Scooter mediante coordenadas                                                                   | Double       |
+|                                   | maintenanceRecords: Mantenimientos que tuvo cada Scooter                                                                  | Lista        |
+|                                   | status: Estado de disponibilidad de cada Scooter                                                                          | String       |
+|                                   | estado: Estado general del vehículo                                                                                       | String       |
+
 
 ## 4.8. Database Design
 
@@ -3096,14 +2924,15 @@ Para desarrollar la estructura de diagrama de base de datos usamos la herramient
 ![Web Database Diagram](https://github.com/user-attachments/assets/abc1c1fd-eb6d-4bd1-9a52-c93867822c18)
 
 
-
----
-
+<div style="page-break-before: always;"></div>
 
 
 # Capítulo V: Product Implementation, Validation & Deployment
+
 ## 5.1. Software Configuration Management
+
 ### 5.1.1. Software Development Environment Configuration
+
 En este apartado, se mencionarán los distintos productos de software empleados por el equipo de desarrollo, para llevar acabo las actividades relacionadas con la elaboración del proyecto.
 
 <br>
@@ -3180,10 +3009,17 @@ Este es un conjunto de reglas que nos permitirán gestionar correctamente la num
 **Version Principal**
 Se incrementa cuando los cambios agregados no son compatibles con las versiones anteriores.
 
-|release-1.0.5|
-|---|
-|release-2.1.3|
-|release-2.2.1|
+<table align="center" border="1">
+    <tr>
+        <td>release-1.0.5</td>
+    </tr>
+    <tr>
+        <td>release-2.1.3</td>
+    </tr>
+    <tr>
+        <td>release-2.2.1</td>
+    </tr>
+</table>
 
 **Conventional commits**
 Se utilizó el estándar de commits convencionales para mantener un historial de cambios limpio y ordenado. Los commits se dividen en los siguientes tipos:
@@ -3219,8 +3055,6 @@ Para desarrollar nuestro proyecto hemos requerido de algunas nomenclaturas, refe
 
 **Conventional commits**
 Se utilizó este estandar para garantizar una facil comprension de nuestros registros. Por lo tanto, nos regimos por la siguiente estructura:<br/>
-`
-<Type>[Scope opcional]:<Descripcion>`
 
 - Type: indica el tipo de commit que se realizó.
 - Scope: define el alcance del commit.
@@ -3251,74 +3085,102 @@ Para desplegar la solución se realizó los siguientes pasos:
 ![Landing01](https://github.com/user-attachments/assets/0ce0b7c6-b630-43da-86e5-d70cde488641)
 
 ## 5.2. Landing Page, Services & Applications Implementation
+
 ### 5.2.1. Sprint 1
+
 #### 5.2.1.1. Sprint Planning 1
-<table>
-     <tr> 
-        <th>  Sprint #  </th>
-        <th> Sprint 1 </th>
-     </tr>
-     <tr> 
-        <td style="font-weight: bold;" colspan="7"> Sprint Planing Background</td>
-     </tr>
-     <tr>
-       <td style="font-weight: bold;"> Date </td>
-       <td> 27/08/2024 </td>
-     </tr>
-     <tr>
-       <td style="font-weight: bold;"> Time </td>
-       <td> 20:00 pm - 02:00 am </td>
-     </tr>
-     <tr>
-       <td style="font-weight: bold;"> Location </td>
-       <td> Modalidad remota a través de WhatsApp y Google Meets </td>
-     </tr>
-      <tr>
-        <td style="font-weight: bold;"> Prepared By </td>
-        <td> Bárbara Espinoza Espinoza Delgado </td>
-     </tr>
-        <tr>
-        <td style="font-weight: bold;"> Attendees (to planning meeting) </td>
-        <td> 
-         Adriana María Diestra Zambrano
-           <br>
-         Bárbara Espinoza Espinoza Delgado 
-          <br>
-         Mathias Adriano Hidalgo López 
-          <br>
-         Néstor Velarde Gonzales 
-          <br>
-         Quique Vladimir Jara Benites
-          <br>
-         Roy Linsh Fernandez Remon
-     </td>
-     </tr>
-     <tr>
-        <td style="font-weight: bold;"> Sprint 0 Review Summary </td>
-        <td> No existe.</td>
-     </tr>
-     <tr>
-        <td style="font-weight: bold;"> Sprint 0 Retrospective Summary </td>
-        <td> No existe. </td>
-     </tr>
-     <tr> 
-        <td style="font-weight: bold;" colspan="7"> Sprint Goal & User Stories</td>
-     </tr>
-       <tr>
-          <td style="font-weight: bold;"> Sprint 1 Goal</td>
-          <td>  En este sprint se espera la implementación y deployado de la landing page con las secciones funcionales, el footer y el diseño responsivo. En el grupo acordamos usar html y css para hacer la landing page. Al finalizar este sprint la landing page se desplegó en Netlifly para que sea accesible por culaquier usuario desde su navegador de preferencia. </td>
-      </tr>
-       <tr>
-          <td style="font-weight: bold;"> Sprint 1 Velocity </td>
-          <td>  18  </td>
-      </tr>
-      <tr>
-          <td style="font-weight: bold;"> Sum of Story Points </td>
-          <td> 18 </td>
-      </tr>
 
+<style>
+    table {
+        border: 1px solid #333;
+        border-collapse: collapse;
+        width: 80%;
+        margin: 20px auto;
+        font-family: Arial, sans-serif;
+    }
+    th, td {
+        border: 1px solid #333;
+        padding: 10px 15px;
+        text-align: left;
+    }
+    th {
+        background-color: #f2f2f2; /* Color de fondo para las cabeceras */
+        text-align: center; /* Centrar cabeceras */
+        font-size: 18px;
+    }
+    td {
+        font-size: 16px;
+    }
+    tr:nth-child(2), /* Fila de encabezado del bloque */
+    tr:nth-child(14) { /* Fila de encabezado del bloque */
+        background-color: #e7e7e7; /* Color de fondo más oscuro para las filas separadoras */
+        font-weight: bold;
+        text-align: center;
+    }
+</style>
 
-  </table>
+<table align="center" border="1px">
+    <tr>
+        <th>Sprint #</th>
+        <th>Sprint 1</th>
+    </tr>
+    <tr> 
+        <td colspan="2" style="text-align: center;">Sprint Planning Background</td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold;">Date</td>
+        <td>27/08/2024</td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold;">Time</td>
+        <td>20:00 pm - 02:00 am</td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold;">Location</td>
+        <td>Modalidad remota a través de WhatsApp y Google Meets</td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold;">Prepared By</td>
+        <td>Bárbara Espinoza Espinoza Delgado</td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold;">Attendees (to planning meeting)</td>
+        <td>
+            Adriana María Diestra Zambrano<br>
+            Bárbara Espinoza Espinoza Delgado<br>
+            Mathias Adriano Hidalgo López<br>
+            Néstor Velarde Gonzales<br>
+            Quique Vladimir Jara Benites<br>
+            Roy Linsh Fernandez Remon
+        </td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold;">Sprint 0 Review Summary</td>
+        <td>No existe.</td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold;">Sprint 0 Retrospective Summary</td>
+        <td>No existe.</td>
+    </tr>
+    <tr> 
+        <td colspan="2" style="text-align: center;">Sprint Goal & User Stories</td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold;">Sprint 1 Goal</td>
+        <td>
+            En este sprint se espera la implementación y despliegue de la landing page con las secciones funcionales, el footer y el diseño responsivo. En el grupo acordamos usar HTML y CSS para hacer la landing page. Al finalizar este sprint, la landing page se desplegó en Netlify para que sea accesible por cualquier usuario desde su navegador de preferencia.
+        </td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold;">Sprint 1 Velocity</td>
+        <td>18</td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold;">Sum of Story Points</td>
+        <td>18</td>
+    </tr>
+</table>
+
   
 #### 5.2.1.2. Sprint Backlog 1
 
@@ -3326,7 +3188,7 @@ Para desplegar la solución se realizó los siguientes pasos:
 
 Link de Trello: [Ver trello](https://trello.com/invite/b/66ccf1855ff6c24fe148a766/ATTI34b50c784e97d0a7ba15dd3b49b56ca5D82CFA4B/sprint-1) 
 
-<table style="font-weight: normal; text-align: left;"> 
+<table align="center" border="1px"> 
    <tr>
       <th colspan="4"> Sprint # </th>
       <th colspan="7"> Sprint 1 </th>
@@ -3411,7 +3273,7 @@ Link de Trello: [Ver trello](https://trello.com/invite/b/66ccf1855ff6c24fe148a76
 #### 5.2.1.3. Development Evidence for Sprint Review  
 En esta sección se detallarán los commits realizados en el desarrollo de la landing page.
 
-<table>
+<table align="center" border="1px">
   <tr>
     <th>User/Repository</th>
     <th>Branch</th>
@@ -3561,7 +3423,7 @@ En esta sección se detallarán los commits realizados en el desarrollo de la la
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
 
 
-<table>
+<table align="center" border="1px">
   <tr>
     <th>User/Repository</th>
     <th>Branch</th>
@@ -3799,14 +3661,16 @@ Hemos desarrollado en conjunto un total de 82 commits para el desarrollo de nues
 
 
 ### 5.2.2. Sprint 2
+
 #### 5.2.2.1. Sprint Planning 2
-<table>
+
+<table align="center" border="1px">
      <tr> 
-        <th>  Sprint #  </th>
+        <th> Sprint # </th>
         <th> Sprint 2 </th>
      </tr>
      <tr> 
-        <td style="font-weight: bold;" colspan="7"> Sprint Planing Background</td>
+        <td style="font-weight: bold;" colspan="2"> Sprint Planning Background</td>
      </tr>
      <tr>
        <td style="font-weight: bold;"> Date </td>
@@ -3820,25 +3684,20 @@ Hemos desarrollado en conjunto un total de 82 commits para el desarrollo de nues
        <td style="font-weight: bold;"> Location </td>
        <td> Modalidad remota a través de WhatsApp y Google Meets </td>
      </tr>
-      <tr>
+     <tr>
         <td style="font-weight: bold;"> Prepared By </td>
         <td> Bárbara Espinoza Espinoza Delgado </td>
      </tr>
-        <tr>
+     <tr>
         <td style="font-weight: bold;"> Attendees (to planning meeting) </td>
         <td> 
-         Adriana María Diestra Zambrano
-           <br>
-         Bárbara Espinoza Espinoza Delgado 
-          <br>
-         Mathias Adriano Hidalgo López 
-          <br>
-         Néstor Velarde Gonzales 
-          <br>
-         Quique Vladimir Jara Benites
-          <br>
+         Adriana María Diestra Zambrano<br>
+         Bárbara Espinoza Espinoza Delgado <br>
+         Mathias Adriano Hidalgo López <br>
+         Néstor Velarde Gonzales <br>
+         Quique Vladimir Jara Benites<br>
          Roy Linsh Fernandez Remon
-     </td>
+        </td>
      </tr>
      <tr>
         <td style="font-weight: bold;"> Sprint 0 Review Summary </td>
@@ -3849,27 +3708,27 @@ Hemos desarrollado en conjunto un total de 82 commits para el desarrollo de nues
         <td> No existe. </td>
      </tr>
      <tr> 
-        <td style="font-weight: bold;" colspan="7"> Sprint Goal & User Stories</td>
+        <td style="font-weight: bold;" colspan="2"> Sprint Goal & User Stories</td>
      </tr>
-       <tr>
+     <tr>
           <td style="font-weight: bold;"> Sprint 2 Goal</td>
-          <td>  En este sprint se espera la implementación y deployado del front-end con las secciones funcionales, el footer y el diseño responsivo. En el grupo acordamos usar JavaScript, html y css para hacer el front-end. Al finalizar este sprint el front-end se desplegó en Firebase para que sea accesible por culaquier usuario desde su navegador de preferencia. </td>
+          <td> En este sprint se espera la implementación y deployado del front-end con las secciones funcionales, el footer y el diseño responsivo. En el grupo acordamos usar JavaScript, html y css para hacer el front-end. Al finalizar este sprint el front-end se desplegó en Firebase para que sea accesible por culaquier usuario desde su navegador de preferencia. </td>
       </tr>
-       <tr>
+      <tr>
           <td style="font-weight: bold;"> Sprint 2 Velocity </td>
-          <td>  18  </td>
+          <td> 18 </td>
       </tr>
       <tr>
           <td style="font-weight: bold;"> Sum of Story Points </td>
           <td> 18 </td>
       </tr>
+</table>
 
-  </table>
 
 
   #### 5.2.2.2. Sprint Backlog 2
 
-  <table style="font-weight: normal; text-align: left;"> 
+<table align="center" border="1px"> 
    <tr>
       <th colspan="4"> Sprint # </th>
       <th colspan="7"> Sprint 2 </th>
@@ -3965,14 +3824,14 @@ Hemos desarrollado en conjunto un total de 82 commits para el desarrollo de nues
 
 En esta sección se detallarán los commits realizados en el desarrollo del frontend de la aplicación web.
 
-<table>
+<table align="center" border="1px">
   <tr>
     <th>User/Repository</th>
     <th>Branch</th>
     <th>Commit ID</th>
     <th>Commit Message</th>
     <th>Commit Message <br> Body</th>
-    <th>Commited<br>On (Date)</th>
+    <th>Committed <br> On (Date)</th>
   </tr>
   <tr>
     <td>VelardeSoft/front-end</td>
@@ -3982,6 +3841,7 @@ En esta sección se detallarán los commits realizados en el desarrollo del fron
     <td>-</td>
     <td>17/09/2024</td>
   </tr>
+  <tr>
     <td>Adriiiiiiiiii/front-end</td>
     <td>privacy-question</td>
     <td>7b348</td>
@@ -4009,7 +3869,7 @@ En esta sección se detallarán los commits realizados en el desarrollo del fron
     <td>RTPX26/front-end</td>
     <td>privacy-question</td>
     <td>fecd0b7</td>
-    <td>feat: add privacity policy and structure</td>
+    <td>feat: add privacy policy and structure</td>
     <td>-</td>
     <td>17/09/2024</td>
   </tr>
@@ -4022,7 +3882,7 @@ En esta sección se detallarán los commits realizados en el desarrollo del fron
     <td>18/09/2024</td>
   </tr>
   <tr>
-    <td>adriiiiiiiiiiii/front-end</td>
+    <td>Adriiiiiiiiii/front-end</td>
     <td>privacy-question</td>
     <td>701b828</td>
     <td>feat: add card to create and delete scooters</td>
@@ -4120,9 +3980,10 @@ En esta sección se detallarán los commits realizados en el desarrollo del fron
 </table>
 
 
+
 #### 5.2.2.4. Testing Suite Evidence for Sprint Review
 
-<table>
+<table align="center" border="1px">
   <tr>
     <th>User/Repository</th>
     <th>Branch</th>
@@ -4211,7 +4072,6 @@ En esta sección se detallarán los commits realizados en el desarrollo del fron
     <td>-</td>
     <td>21/09/2024</td>
   </tr>
-  <tr>
   <tr>
     <td>mathiasadriano/AcceptanceTest</td>
     <td>Main</td>
@@ -4325,7 +4185,7 @@ Pasos
 
 Colaboración por alumno en la aplicación web:
 
-<table>
+<table align="center" border="1px">
   <tr>
     <th>Alumno</th>
     <th>Actividad</th>
@@ -4358,7 +4218,7 @@ Colaboración por alumno en la aplicación web:
  
 Tabla para poder identificarnos:
 
-<table>
+<table align="center" border="1px">
   <tr>
     <th>Username (Github)</th>
     <th>Nombre</th>
@@ -4396,8 +4256,7 @@ Para este sprint se ha realizado la implementación de la web app, para esto los
 ![Captura de pantalla 2024-09-25 161546](https://github.com/user-attachments/assets/53fc2e7d-ffd5-4905-a770-bf01ba552707)
 
 
----
-
+<div style="page-break-before: always;"></div>
 
 
 ### [Conclusiones](#conclusiones)
@@ -4410,31 +4269,11 @@ los pasos seguidos en la planificación, desarrollo y envío del proyecto desarr
 Desde la primera semana de clases, el equipo se organizó para cumplir con los entregables de cada semana, realizando reuniones semanales para 
 verficar los cumplimientos de los objetivos y la planificación de las tareas. Se logró una comunicación efectiva entre los miembros del equipo,
 lo que permitió cumplir con los plazos establecidos y realizar un trabajo de calidad.
-
 
 - TP:
 En esta segunda entrega del desarrollo del front end de la aplicación web, hemos logrado avances significativos en la implementación de las funcionalidades clave, mejorando tanto la experiencia de usuario como la estructura visual del proyecto.
-
 Nuestro proyecto está enfocado en alquiler de vehiculoos especificamente del Scooter, como equipo vemos la oportunidad de promover el transporte
 urbano con vehiculos ecológicos y de bajo costo, para ello hemos realizado un estudio de mercado y entrevistas a los usuarios para identificar
----
-
-
-
-### [Conclusiones](#conclusiones)
-
-#### Conclusiones preliminares 
-- TB1: 
-Se logró realizar un trabajo exhaustiva cumpliendo con todos los segmentos del trabajo y una investigación de mercado que permitió identificar 
-las necesidades de los usuarios y las oportunidades de negocio. Se logró entregar un documento que sirve como sustento escrito para comprender 
-los pasos seguidos en la planificación, desarrollo y envío del proyecto desarrollado por el equipo CiberMach.
-Desde la primera semana de clases, el equipo se organizó para cumplir con los entregables de cada semana, realizando reuniones semanales para 
-verficar los cumplimientos de los objetivos y la planificación de las tareas. Se logró una comunicación efectiva entre los miembros del equipo,
-lo que permitió cumplir con los plazos establecidos y realizar un trabajo de calidad.
-
-Nuestro proyecto está enfocado en alquiler de vehiculoos especificamente del Scooter, como equipo vemos la oportunidad de promover el transporte
-urbano con vehiculos ecológicos y de bajo costo, para ello hemos realizado un estudio de mercado y entrevistas a los usuarios para identificar
-las necesidades y oportunidades de negocio.
 
 
 ### [Recomendaciones](#recomendaciones)
@@ -4459,6 +4298,7 @@ y promuevan el uso de vehículos ecológicos.
 
 - Soto Vargas, L. (2024). *Sistema de priorización de proyectos viales en Lima Metropolitana utilizando modelo de tráfico de Beckmann y teoría de grafos para mejorar la gestión de proyectos de transporte urbano*. Recuperado de [https://repositorio.unfv.edu.pe/handle/20.500.13084/8963](https://repositorio.unfv.edu.pe/handle/20.500.13084/8963) [Consulta: 24 de agosto, 2024].
 
+<div style="page-break-before: always;"></div>
 
 ### [Anexos](#anexos)
 
@@ -4466,7 +4306,7 @@ Enlaces a los desarrollos de trabajo del equipo CiberMach.
 
 <div align="center">
 
-<table align="center", border="1px">
+<table align="center" border="1px">
     <tbody>
         <tr>
             <th style="width: 45%;">Descripción</th>
