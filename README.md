@@ -3962,19 +3962,461 @@ Hemos desarrollado en conjunto un total de 82 commits para el desarrollo de nues
 
 
 #### 5.2.2.3. Development Evidence for Sprint Review  
-En esta sección se detallarán los commits realizados en el desarrollo de la landing page.
 
-#### 5.2.2.4.Testing Suite Evidence for Sprint Review
+En esta sección se detallarán los commits realizados en el desarrollo del frontend de la aplicación web.
 
-#### 5.2.2.5.Execution Evidence for Sprint Review
-En el presente sprint se logro completar el despliegue de la primera versión del front end web application de manera exitosa, la aplicación fue desplegada por medio de netlyfy, se puede encontrar en el siguiente enlace. https://movirent.netlify.app/#/
+<table>
+  <tr>
+    <th>User/Repository</th>
+    <th>Branch</th>
+    <th>Commit ID</th>
+    <th>Commit Message</th>
+    <th>Commit Message <br> Body</th>
+    <th>Commited<br>On (Date)</th>
+  </tr>
+  <tr>
+    <td>VelardeSoft/front-end</td>
+    <td>master</td>
+    <td>7b348b1</td>
+    <td>Initial commit</td>
+    <td>-</td>
+    <td>17/09/2024</td>
+  </tr>
+    <td>Adriiiiiiiiii/front-end</td>
+    <td>privacy-question</td>
+    <td>7b348</td>
+    <td>feat: add response error</td>
+    <td>-</td>
+    <td>17/09/2024</td>
+  </tr>
+  <tr>
+    <td>MesSobble/front-end</td>
+    <td>profile</td>
+    <td>657c3cb</td>
+    <td>feat: add user model, fake api and components</td>
+    <td>-</td>
+    <td>17/09/2024</td>
+  </tr>
+  <tr>
+    <td>MesSobble/front-end</td>
+    <td>profile</td>
+    <td>7db9969</td>
+    <td>fix: login form code and styles</td>
+    <td>-</td>
+    <td>17/09/2024</td>
+  </tr>
+  <tr>
+    <td>RTPX26/front-end</td>
+    <td>privacy-question</td>
+    <td>fecd0b7</td>
+    <td>feat: add privacity policy and structure</td>
+    <td>-</td>
+    <td>17/09/2024</td>
+  </tr>
+  <tr>
+    <td>MesSobble/front-end</td>
+    <td>profile</td>
+    <td>a476fa2</td>
+    <td>feat: add register form</td>
+    <td>-</td>
+    <td>18/09/2024</td>
+  </tr>
+  <tr>
+    <td>adriiiiiiiiiiii/front-end</td>
+    <td>privacy-question</td>
+    <td>701b828</td>
+    <td>feat: add card to create and delete scooters</td>
+    <td>-</td>
+    <td>18/09/2024</td>
+  </tr>
+  <tr>
+    <td>MesSobble/front-end</td>
+    <td>profile</td>
+    <td>6a514e5</td>
+    <td>feat: add general user view structure</td>
+    <td>-</td>
+    <td>18/09/2024</td>
+  </tr>
+  <tr>
+    <td>VelardeSoft/front-end</td>
+    <td>scooter-review</td>
+    <td>19f1c5b</td>
+    <td>feat: add routes for each views component</td>
+    <td>-</td>
+    <td>18/09/2024</td>
+  </tr>
+  <tr>
+    <td>MesSobble/front-end</td>
+    <td>profile</td>
+    <td>43c00b6</td>
+    <td>feat: add validators for user view</td>
+    <td>-</td>
+    <td>21/09/2024</td>
+  </tr>
+  <tr>
+    <td>QuiqueVladimir/front-end</td>
+    <td>user-management</td>
+    <td>c73c9c3</td>
+    <td>feat: add history service for view history</td>
+    <td>-</td>
+    <td>21/09/2024</td>
+  </tr>
+  <tr>
+    <td>QuiqueVladimir/front-end</td>
+    <td>user-management</td>
+    <td>1e3f3b6</td>
+    <td>feat: add data view component and prime flex</td>
+    <td>-</td>
+    <td>21/09/2024</td>
+  </tr>
+  <tr>
+    <td>QuiqueVladimir/front-end</td>
+    <td>user-management</td>
+    <td>6b0e4b8</td>
+    <td>feat: add function to delete reserve from history</td>
+    <td>-</td>
+    <td>22/09/2024</td>
+  </tr>
+  <tr>
+    <td>QuiqueVladimir/front-end</td>
+    <td>user-management</td>
+    <td>c3890f3</td>
+    <td>feat: add function get owner data</td>
+    <td>-</td>
+    <td>22/09/2024</td>
+  </tr>
+  <tr>
+    <td>mathiasadriano/front-end</td>
+    <td>scooter-review</td>
+    <td>ad1738e</td>
+    <td>feat: add Scooter-List</td>
+    <td>-</td>
+    <td>23/09/2024</td>
+  </tr>
+  <tr>
+    <td>mathiasadriano/front-end</td>
+    <td>scooter-review</td>
+    <td>6e8cb8d</td>
+    <td>feat: add Scooter-Detail</td>
+    <td>-</td>
+    <td>23/09/2024</td>
+  </tr>
+  <tr>
+    <td>mathiasadriano/front-end</td>
+    <td>scooter-review</td>
+    <td>dd34f46</td>
+    <td>feat: add card-and-filter-scooter</td>
+    <td>-</td>
+    <td>23/09/2024</td>
+  </tr>
+  <tr>
+    <td>VelardeSoft/front-end</td>
+    <td>develop</td>
+    <td>730e838</td>
+    <td>feat: Conflicts in code were resolved</td>
+    <td>-</td>
+    <td>23/09/2024</td>
+  </tr>
+</table>
 
-#### 5.2.2.6.Services Documentation Evidence for Sprint Review
 
-#### 5.2.2.7.Software Deployment Evidence for Sprint Review
+#### 5.2.2.4. Testing Suite Evidence for Sprint Review
 
-#### 5.2.2.8.Team Collaboration Insights during Sprint
+<table>
+  <tr>
+    <th>User/Repository</th>
+    <th>Branch</th>
+    <th>Commit ID</th>
+    <th>Commit Message</th>
+    <th>Commit Message <br> Body</th>
+    <th>Commited<br>On (Date)</th>
+  </tr>
+  <tr>
+    <td>MesSobble/AcceptanceTest</td>
+    <td>Main</td>
+    <td>42ce1d2</td>
+    <td>feat: add US-07</td>
+    <td>-</td>
+    <td>20/09/2024</td>
+  </tr>
+  <tr>
+    <td>MesSobble/AcceptanceTest</td>
+    <td>Main</td>
+    <td>2341d1f</td>
+    <td>feat: add US-08</td>
+    <td>-</td>
+    <td>20/09/2024</td>
+  </tr>
+  <tr>
+    <td>MesSobble/AcceptanceTest</td>
+    <td>Main</td>
+    <td>286a487</td>
+    <td>feat: add US-09</td>
+    <td>-</td>
+    <td>20/09/2024</td>
+  </tr>
+  <tr>
+    <td>MesSobble/AcceptanceTest</td>
+    <td>Main</td>
+    <td>1e16597</td>
+    <td>feat: add US-10</td>
+    <td>-</td>
+    <td>20/09/2024</td>
+  </tr>
+  <tr>
+    <td>MesSobble/AcceptanceTest</td>
+    <td>Main</td>
+    <td>6795c42</td>
+    <td>feat: add US-11</td>
+    <td>-</td>
+    <td>20/09/2024</td>
+  </tr>
+  <tr>
+    <td>MesSobble/AcceptanceTest</td>
+    <td>Main</td>
+    <td>b2b63a0</td>
+    <td>feat: add US-12</td>
+    <td>-</td>
+    <td>20/09/2024</td>
+  </tr>
+  <tr>
+    <td>VelardeSoft/AcceptanceTest</td>
+    <td>Main</td>
+    <td>44d071e</td>
+    <td>feat: add US-13</td>
+    <td>-</td>
+    <td>21/09/2024</td>
+  </tr>
+  <tr>
+    <td>VelardeSoft/AcceptanceTest</td>
+    <td>Main</td>
+    <td>56f0ad4</td>
+    <td>feat: add US-14</td>
+    <td>-</td>
+    <td>21/09/2024</td>
+  </tr>
+  <tr>
+    <td>adriiiiiiiiiii/AcceptanceTest</td>
+    <td>Main</td>
+    <td>c81401a</td>
+    <td>feat: add US-15</td>
+    <td>-</td>
+    <td>21/09/2024</td>
+  </tr>
+  <tr>
+    <td>adriiiiiiiiiiii/AcceptanceTest</td>
+    <td>Main</td>
+    <td>d4afd91</td>
+    <td>feat: add US-16</td>
+    <td>-</td>
+    <td>21/09/2024</td>
+  </tr>
+  <tr>
+  <tr>
+    <td>mathiasadriano/AcceptanceTest</td>
+    <td>Main</td>
+    <td>95b2fe8</td>
+    <td>feat: add US-17</td>
+    <td>-</td>
+    <td>21/09/2024</td>
+  </tr>
+  <tr>
+    <td>mathiasadriano/AcceptanceTest</td>
+    <td>Main</td>
+    <td>4d7e2b3</td>
+    <td>feat: add US-18</td>
+    <td>-</td>
+    <td>21/09/2024</td>
+  </tr>
+  <tr>
+    <td>mathiasadriano/AcceptanceTest</td>
+    <td>Main</td>
+    <td>92d0c07</td>
+    <td>feat: add US-19</td>
+    <td>-</td>
+    <td>21/09/2024</td>
+  </tr>
+  <tr>
+    <td>QuiqueVladimir/AcceptanceTest</td>
+    <td>Main</td>
+    <td>aa69757</td>
+    <td>feat: add US-20</td>
+    <td>-</td>
+    <td>21/09/2024</td>
+  </tr>
+  <tr>
+    <td>QuiqueVladimir/AcceptanceTest</td>
+    <td>Main</td>
+    <td>5161d21</td>
+    <td>feat: add US-21</td>
+    <td>-</td>
+    <td>21/09/2024</td>
+  </tr>
+  <tr>
+    <td>RTPX26/AcceptanceTest</td>
+    <td>Main</td>
+    <td>06e96a9</td>
+    <td>feat: add US-22</td>
+    <td>-</td>
+    <td>20/09/2024</td>
+  </tr>
+  <tr>
+    <td>RTPX26/AcceptanceTest</td>
+    <td>Main</td>
+    <td>0484b3b</td>
+    <td>feat: add US-23</td>
+    <td>-</td>
+    <td>20/09/2024</td>
+  </tr>
+</table>
 
+#### 5.2.2.5. Execution Evidence for Sprint Review  
+Durante el segundo Sprint se logró implementar el front end de la aplicación web con la mayoria de las secciones funcionales. A continuación se muestra la aplicación implementada y deployada
+
+![Captura de pantalla 2024-09-25 165044](https://github.com/user-attachments/assets/585ee042-2b76-440d-b887-366a1f9b61b3)
+
+![Captura de pantalla 2024-09-25 165057](https://github.com/user-attachments/assets/60ed6992-f0b0-46b2-bd54-f6a7e3423e60)
+
+![Captura 3 front](https://github.com/user-attachments/assets/11e0428a-7820-4f04-a983-6a505fb29630)
+
+Link de la web app mediante: https://movirent.netlify.app/#/
+
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review  
+Para esta entrega, el equipo CiberMach logró implementar de manera exitosa el frontend web app, en la cual se brindará variadas opciones relacionas a la publicación y escritura de libros ilustrados, a la vez de información conr espectos a los autores y artistas.
+
+Enlace del deploy de la web app mediante: https://movirent.netlify.app/#/
+
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review   
+
+Para el despliegue de la aplicacion web se utilizó netlify, a continuación se muestra el link de la aplicación web desplegada junto a los pasos realizados para publicarla: https://movirent.netlify.app/#/
+
+Pasos
+
+![WhatsApp Image 2024-09-25 at 4 17 15 PM (1)](https://github.com/user-attachments/assets/4b953d5d-bc04-4423-95f4-8eb4114b5cc4)
+
+![WhatsApp Image 2024-09-25 at 4 17 15 PM (2)](https://github.com/user-attachments/assets/40868b0a-9aba-4955-8ea6-4c7ebd138eb3)
+
+![WhatsApp Image 2024-09-25 at 4 17 16 PM](https://github.com/user-attachments/assets/4b7d43b5-dcfe-4174-a1b4-aa36bf940721)
+
+
+![WhatsApp Image 2024-09-25 at 4 17 16 PM (1)](https://github.com/user-attachments/assets/c3cb1492-8eba-4094-9549-6d0519f76c80)
+
+
+![WhatsApp Image 2024-09-25 at 4 17 17 PM](https://github.com/user-attachments/assets/97bcffdb-4d18-4564-a47d-471c3e009eba)
+
+
+![WhatsApp Image 2024-09-25 at 4 17 15 PM](https://github.com/user-attachments/assets/7aafafdd-4a94-4dfd-b2b9-adc72464cbb6)
+
+
+![WhatsApp Image 2024-09-25 at 4 17 17 PM (1)](https://github.com/user-attachments/assets/9ad4fef1-a58a-4a6b-a2f0-4ce513541b44)
+
+
+![WhatsApp Image 2024-09-25 at 4 17 17 PM (2)](https://github.com/user-attachments/assets/2553cb2a-c5a4-420e-bf5f-c7dffa61af58)
+
+
+![WhatsApp Image 2024-09-25 at 4 17 18 PM](https://github.com/user-attachments/assets/51025a45-54be-4352-be42-78cf43176b62)
+
+
+![WhatsApp Image 2024-09-25 at 4 17 18 PM (1)](https://github.com/user-attachments/assets/31bb7392-5a9b-484f-ab68-1086b0e7feb2)
+
+![Captura 3 front](https://github.com/user-attachments/assets/11e0428a-7820-4f04-a983-6a505fb29630)
+
+#### 5.2.2.8. Team Collaboration Insights during Sprint. 
+
+Colaboración por alumno en la aplicación web:
+
+<table>
+  <tr>
+    <th>Alumno</th>
+    <th>Actividad</th>
+  </tr>
+  <tr>
+    <td>Velarde Gonzales, Nestor</td>
+    <td>Epic 03</td>
+  </tr>
+  <tr>
+    <td>Espinoza Delgado, Bárbara Antonella</td>
+    <td>Epic 02</td>
+  </tr>
+  <tr>
+    <td>Jara Benites, Quique Vladimir</td>
+    <td>Epic 05</td>
+  </tr>
+  <tr>
+    <td>Hidalgo Lopez, Mathias Adriano</td>
+    <td>Epic 04</td>
+  </tr>
+  <tr>
+    <td>Diestra Zambrano, Adriana María</td>
+    <td>Epic 03</td>
+  </tr>
+  <tr>
+    <td>Fernandez Remon, Roy Linsh</td>
+    <td>Epic 06</td>
+  </tr>
+</table>
+ 
+Tabla para poder identificarnos:
+
+<table>
+  <tr>
+    <th>Username (Github)</th>
+    <th>Nombre</th>
+  </tr>
+  <tr>
+    <td>VelardeSoft</td>
+    <td>Velarde Gonzales, Nestor</td>
+  </tr>
+  <tr>
+    <td>MesSobble</td>
+    <td>Espinoza Delgado, Bárbara Antonella</td>
+  </tr>
+  <tr>
+    <td>QuiqueVladimir</td>
+    <td>Jara Benitez, Quique Vladimir</td>
+  </tr>
+  <tr>
+    <td>mathiasadriano</td>
+    <td>Hidalgo Lopez, Mathias Adriano</td>
+  </tr>
+  <tr>
+    <td>adriiiiiiiiiiii</td>
+    <td>Diestra Zambrano, Adriana María</td>
+  </tr>
+  <tr>
+    <td>RTPX26</td>
+    <td>Fernandez Remon, Roy Linsh</td>
+  </tr>
+</table>
+
+Para este sprint se ha realizado la implementación de la web app, para esto los integrantes del grupo realizaron su aporte a través de commits en la herramienta Git Hub.
+
+![Captura de pantalla 2024-09-25 161615](https://github.com/user-attachments/assets/80971b76-f446-4795-a024-1f89531c36da)
+
+![Captura de pantalla 2024-09-25 161546](https://github.com/user-attachments/assets/53fc2e7d-ffd5-4905-a770-bf01ba552707)
+
+
+---
+
+
+
+### [Conclusiones](#conclusiones)
+
+#### Conclusiones preliminares 
+- TB1: 
+Se logró realizar un trabajo exhaustiva cumpliendo con todos los segmentos del trabajo y una investigación de mercado que permitió identificar 
+las necesidades de los usuarios y las oportunidades de negocio. Se logró entregar un documento que sirve como sustento escrito para comprender 
+los pasos seguidos en la planificación, desarrollo y envío del proyecto desarrollado por el equipo CiberMach.
+Desde la primera semana de clases, el equipo se organizó para cumplir con los entregables de cada semana, realizando reuniones semanales para 
+verficar los cumplimientos de los objetivos y la planificación de las tareas. Se logró una comunicación efectiva entre los miembros del equipo,
+lo que permitió cumplir con los plazos establecidos y realizar un trabajo de calidad.
+
+
+- TP:
+En esta segunda entrega del desarrollo del front end de la aplicación web, hemos logrado avances significativos en la implementación de las funcionalidades clave, mejorando tanto la experiencia de usuario como la estructura visual del proyecto.
+
+Nuestro proyecto está enfocado en alquiler de vehiculoos especificamente del Scooter, como equipo vemos la oportunidad de promover el transporte
+urbano con vehiculos ecológicos y de bajo costo, para ello hemos realizado un estudio de mercado y entrevistas a los usuarios para identificar
 ---
 
 
