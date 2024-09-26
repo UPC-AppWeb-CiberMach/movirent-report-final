@@ -201,8 +201,6 @@
 
 ## Project Report Collaboration Insights
 
-
-
 **TB1**
 
 Para el desarrollo de la entrega TB1, se opto por dividir el trabajo de la siguiente forma
@@ -4444,15 +4442,15 @@ Enlaces a los desarrollos de trabajo del equipo CiberMach.
             <td>
                 3 entrevistas a propietarios de scooters
                 <ul>
-                    <li><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202022365_upc_edu_pe/EZSdPhz59ytBr7yjIHvAProBDVrmA4ru6q7oZv2RxS74Ww?e=a118uE&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Entrevista 01 Owner</a></li>
-                    <li><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c221_upc_edu_pe/EcJxI89tEyVKqjwAXpUzEfQBPCIByK7wqXOgZCX6WY3K_g?e=PHNrCW">Entrevista 02 Owner</a></li>
-                    <li><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c221_upc_edu_pe/ETlt6pWHB7VDiEmJYMLJmzAB-NrsusHtDEDuzZxBuHYBXQ?e=rkizHA">Entrevista 03 Owner</a></li>
+                    <li><a href="https://n9.cl/zcl36">Entrevista 01 Owner</a></li>
+                    <li><a href="https://n9.cl/x08frd">Entrevista 02 Owner</a></li>
+                    <li><a href="https://n9.cl/30vdy">Entrevista 03 Owner</a></li>
                 </ul>
                 3 entrevistas a clientes
                 <ul>
-                    <li><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213222_upc_edu_pe/EYvfM5T1ScdBpoM4ZDAvlQgBLmbxD7DTIk_2O02DixCJBw?e=RxA0RV">Entrevista 01 Client</a></li>
-                    <li><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b778_upc_edu_pe/ESrNi2J7CPxCmG1crP6I85gBDxv_9VtZJzbnSfIrn9WDqA?e=5e70nZ">Entrevista 02 Client</a></li>
-                    <li><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b778_upc_edu_pe/ESYHQW3mA-hDq81S5Vbto-ABpfXj_7VY_dmt5rjmBeJ-Rw?e=YpnHj6&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Entrevista 03 Client</a></li>
+                    <li><a href="https://n9.cl/u3vky">Entrevista 01 Client</a></li>
+                    <li><a href="https://n9.cl/b5rip">Entrevista 02 Client</a></li>
+                    <li><a href="https://n9.cl/trcrn">Entrevista 03 Client</a></li>
                 </ul>
             </td>
         </tr>
@@ -4510,11 +4508,11 @@ Enlaces a los desarrollos de trabajo del equipo CiberMach.
         </tr>
         <tr>
             <td>Video de nuestro landing page</td>
-            <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202022365_upc_edu_pe/EZJdjQ2jmkhOmQY61Gv0nvYBVwudqWkMI20W0xZ74ZnNNA?e=5mJaCt">Video de Landing Page</a></td>
+            <td><a href="https://n9.cl/9jfu0">Video de Landing Page</a></td>
         </tr>
         <tr>
             <td>Nuestro Video del TB1 - Exposición</td>
-            <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c221_upc_edu_pe/Edb2eP0u3Z1JjMTKWAQ2FE4B2VXTJ-kQ2kgp3W0_aAcnOA?e=R9EX1G">Video de Landing Page</a></td>
+            <td><a href="https://n9.cl/w5ve8">Video de Landing Page</a></td>
         </tr>
     </tbody>
 </table>
