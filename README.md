@@ -58,11 +58,12 @@
     </tbody>
 </table>
 
+
 ## <center>Setiembre, 2024</center>
 
 </div>
 
-<br><br><br><br>
+<div style="page-break-before: always;"></div>
 
 ## Registro de versiones del informe
 
@@ -82,113 +83,113 @@
       <td>Velarde Gonzales, Néstor</td>
       <td>Creación del documento de trabajo en formato markdown.</td>
     </tr>
-	<tr>
-      <td>1.1</td>
-      <td>2024/08/21</td>
-      <td>Espinoza Delgado, Bárbara Antonella</td>
-      <td>Redacción del Startup Profile, Descripción de la Startup, Solution Profile, Antecedentes y problemática, Lean UX Process y Segmentos objetivo</td>
-    </tr>
-	<tr>
-	<td>1.2</td>
-      <td>2024/08/23</td>
-      <td>Espinoza Delgado, Bárbara Antonella</td>
-      <td>Information Architecture y Database Diagram.</td>
-    </tr>
-	<tr>
-      <td>1.3</td>
-      <td>2024/08/23</td>
-      <td>Hidalgo Lopez, Mathias Adriano</td>
-      <td>Empathy Mapping, To-Be Mapping</td>
-    </tr>
-	<tr>
-      <td>1.4</td>
-      <td>2024/08/24</td>
-      <td>Espinoza Delgado, Bárbara Antonella</td>
-      <td>User Stories, Product Backlog</td>
-    </tr>
-	<tr>
-      <td>1.5</td>
-      <td>2024/08/30</td>
-      <td>Jara Benitez, Quique Vladimir</td>
-      <td>Entrevista, Redacción del Analisis competitivo, Estrategias frente a competidores, User Persona, User Task Matrix, user journey mapping, As-Is Scenario y Ubiquitous Language.</td>
-    </tr>
-	<tr>
-	<td>1.6</td>
-      <td>2024/08/30</td>
-      <td>Diestra Zambrano, Adriana María</td>
-      <td>Entrevista</td>
-    </tr>
-	<tr>
-      <td>1.7</td>
-      <td>2024/08/30</td>
-      <td>Espinoza Delgado, Bárbara Antonella</td>
-      <td>Sprint Planning y Sprint Backlog</td>
-    </tr>
-	<tr>
-	<td>1.8</td>
-      <td>2024/09/01</td>
-      <td>Fernandez Remon, Roy Linsh</td>
-      <td>Entrevista</td>
-    </tr>
-	<tr>
-	<td>1.9</td>
-      <td>2024/09/02</td>
-      <td>Espinoza Delgado, Bárbara Antonella</td>
-      <td>Style Guidelines, Landing Page UI Design, Web Application UX/UI</td>
-    </tr>
-	<tr>
-	<td>1.10</td>
-      <td>2024/09/02</td>
-      <td>Jara Benitez, Quique Vladimir</td>
-      <td>Software Configuration, Software Development, Source Code Management, Source Code Style y Software Deployment.</td>
-    </tr>
-	<tr>
-	<td>1.11</td>
-      <td>2024/09/04</td>
-      <td>Hidalgo Lopez, Mathias Adriano</td>
-      <td>Entrevista, Impact Mapping</td>
-    </tr>
-	<tr>
-      <td>1.12</td>
-      <td>2024/09/04</td>
-      <td>Jara Benitez, Quique Vladimir</td>
-      <td>Testing Suite, Execution evidence, Service Documentation, Software Deployment y Team Collaboration Insights.</td>
-    </tr>
-	<tr>
-      <td>1.13</td>
-      <td>2024/09/04</td>
-      <td>Velarde Gonzales, Nestor</td>
-      <td>Entrevista y correcciones generales.</td>
-    </tr>
-	<tr>
-      <td>1.14</td>
-      <td>2024/09/05</td>
-      <td>Velarde Gonzales, Nestor</td>
-      <td>Landing Page, Services & Applications, Bibliografía y Conclusiones.</td>
-    </tr>
-	<tr>
-      <td>1.15</td>
-      <td>2024/09/06</td>
-      <td>Jara Benitez, Quique Vladimir</td>
-      <td>Web Prototyping.</td>
-    </tr>
-    </tr>
-	<tr>
-	<td>1.16</td>
-      <td>2024/09/06</td>
-      <td>Diestra Zambrano, Adriana María</td>
-      <td>Domain-Driven Software Architecture</td>
-    </tr>
-    </tr>
-	<tr>
-	<td>1.17</td>
-      <td>2024/09/06</td>
-      <td>Diestra Zambrano, Adriana María</td>
-      <td>Domain-Driven Software Architecture</td>
-    </tr>
-    </tr>
-	<tr>
-	<td>1.18</td>
+    <tr>
+        <td>1.1</td>
+        <td>2024/08/21</td>
+        <td>Espinoza Delgado, Bárbara Antonella</td>
+        <td>Redacción del Startup Profile, Descripción de la Startup, Solution Profile, Antecedentes y problemática, Lean UX Process y Segmentos objetivo</td>
+      </tr>
+    <tr>
+    <td>1.2</td>
+        <td>2024/08/23</td>
+        <td>Espinoza Delgado, Bárbara Antonella</td>
+        <td>Information Architecture y Database Diagram.</td>
+      </tr>
+    <tr>
+        <td>1.3</td>
+        <td>2024/08/23</td>
+        <td>Hidalgo Lopez, Mathias Adriano</td>
+        <td>Empathy Mapping, To-Be Mapping</td>
+      </tr>
+    <tr>
+        <td>1.4</td>
+        <td>2024/08/24</td>
+        <td>Espinoza Delgado, Bárbara Antonella</td>
+        <td>User Stories, Product Backlog</td>
+      </tr>
+    <tr>
+        <td>1.5</td>
+        <td>2024/08/30</td>
+        <td>Jara Benitez, Quique Vladimir</td>
+        <td>Entrevista, Redacción del Analisis competitivo, Estrategias frente a competidores, User Persona, User Task Matrix, user journey mapping, As-Is Scenario y Ubiquitous Language.</td>
+      </tr>
+    <tr>
+    <td>1.6</td>
+        <td>2024/08/30</td>
+        <td>Diestra Zambrano, Adriana María</td>
+        <td>Entrevista</td>
+      </tr>
+    <tr>
+        <td>1.7</td>
+        <td>2024/08/30</td>
+        <td>Espinoza Delgado, Bárbara Antonella</td>
+        <td>Sprint Planning y Sprint Backlog</td>
+      </tr>
+    <tr>
+    <td>1.8</td>
+        <td>2024/09/01</td>
+        <td>Fernandez Remon, Roy Linsh</td>
+        <td>Entrevista</td>
+      </tr>
+    <tr>
+    <td>1.9</td>
+        <td>2024/09/02</td>
+        <td>Espinoza Delgado, Bárbara Antonella</td>
+        <td>Style Guidelines, Landing Page UI Design, Web Application UX/UI</td>
+      </tr>
+    <tr>
+    <td>1.10</td>
+        <td>2024/09/02</td>
+        <td>Jara Benitez, Quique Vladimir</td>
+        <td>Software Configuration, Software Development, Source Code Management, Source Code Style y Software Deployment.</td>
+      </tr>
+    <tr>
+    <td>1.11</td>
+        <td>2024/09/04</td>
+        <td>Hidalgo Lopez, Mathias Adriano</td>
+        <td>Entrevista, Impact Mapping</td>
+      </tr>
+    <tr>
+        <td>1.12</td>
+        <td>2024/09/04</td>
+        <td>Jara Benitez, Quique Vladimir</td>
+        <td>Testing Suite, Execution evidence, Service Documentation, Software Deployment y Team Collaboration Insights.</td>
+      </tr>
+    <tr>
+        <td>1.13</td>
+        <td>2024/09/04</td>
+        <td>Velarde Gonzales, Nestor</td>
+        <td>Entrevista y correcciones generales.</td>
+      </tr>
+    <tr>
+        <td>1.14</td>
+        <td>2024/09/05</td>
+        <td>Velarde Gonzales, Nestor</td>
+        <td>Landing Page, Services & Applications, Bibliografía y Conclusiones.</td>
+      </tr>
+    <tr>
+        <td>1.15</td>
+        <td>2024/09/06</td>
+        <td>Jara Benitez, Quique Vladimir</td>
+        <td>Web Prototyping.</td>
+      </tr>
+      </tr>
+    <tr>
+    <td>1.16</td>
+        <td>2024/09/06</td>
+        <td>Diestra Zambrano, Adriana María</td>
+        <td>Domain-Driven Software Architecture</td>
+      </tr>
+      </tr>
+    <tr>
+    <td>1.17</td>
+        <td>2024/09/06</td>
+        <td>Diestra Zambrano, Adriana María</td>
+        <td>Domain-Driven Software Architecture</td>
+      </tr>
+      </tr>
+    <tr>
+    <td>1.18</td>
       <td>2024/09/06</td>
       <td>Fernandez Remon, Roy Linsh</td>
       <td>Class Diagram y Class Dictionary</td>
@@ -263,7 +264,7 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de
 conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro
 del ABET – EAC - Student Outcome 5.
 
-<table align="center" border="1" cellpadding="10">
+<table align="center" border="1">
     <thead>
         <tr>
             <th>Criterio específico</th>
@@ -323,9 +324,13 @@ del ABET – EAC - Student Outcome 5.
 
 
 
+<div style="page-break-before: always;"></div> 
+
 
 ## Project Report Online
-URL Project Report en Github: https://github.com/UPC-AppWeb-CiberMach/Final-Report 
+
+URL Project Report en Github: [URL Project Report en GitHub](https://github.com/UPC-AppWeb-CiberMach/Final-Report)
+
 
 ## Tabla de contenidos
 
@@ -735,7 +740,7 @@ Aspecto psicográfico: Buscan alquilar scooters eléctricos para momentos espec�
 
 ### 2.1.1. Análisis competitivo
 
-<table border="1px" align="center" style="text-align: center; width: 100%;">
+<table border="1px" align="center">
   <tr>
     <th colspan="6" valign="top">Competitive Analysis Landscape</th>
   </tr>
@@ -2723,6 +2728,7 @@ dispositivos móviles se optó por emplear una barra de navegación desplegable.
 ![LandingPage Mockup movil](https://github.com/user-attachments/assets/4546e3bb-e1aa-444b-bf01-39edce322348)
 
 ## 4.4. Web Applications UX/UI Design
+
 ### 4.4.1. Web Applications Wireframes 
 
 **Wireframes Web versión desktop**
@@ -2845,9 +2851,9 @@ Prototipo aplicación web: [Diseño en figma](https://www.figma.com/design/cQuS3
 
 Para nuestro proyecto se incluyé videos de cada uno de los prototipos realizado (Aplicación Web y landing page).
 
-Link del video del prototipado de Aplicación web:[Ver Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202022365_upc_edu_pe/EQrs6DMydGdDsPdmcx_HQjgBDIcLQMoiQswHEG-thVFKcQ?e=NixHYD)
+Link del video del prototipado de Aplicación web:[Ver Video](https://n9.cl/q3wxc)
 
-Link del video del Prototipado de Landing Page: [Ver Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202022365_upc_edu_pe/EZJdjQ2jmkhOmQY61Gv0nvYBVwudqWkMI20W0xZ74ZnNNA?e=5mJaCt)
+Link del video del Prototipado de Landing Page: [Ver Video](https://n9.cl/9jfu0)
 
 ## 4.6. Domain-Driven Software Architecture
 
@@ -2871,48 +2877,213 @@ Link del video del Prototipado de Landing Page: [Ver Video](https://upcedupe-my.
 
 ### 4.7.2. Class Dictionary
 
-| Clase                             | Descripción                                                                                                               | Tipo de dato |
-|-----------------------------------|---------------------------------------------------------------------------------------------------------------------------|--------------|
-| **Profile**                       |                                                                                                                           |              |
-|                                   | id: Identificación personal del profile para cada usuario                                                                  | Int          |
-|                                   | email: Correo electrónico del usuario                                                                                     | String       |
-|                                   | nombre: Nombre que contendrá el profile de los usuarios                                                                    | String       |
-| **AuditableAbstractAggregateRoot**|                                                                                                                           |              |
-|                                   | id: Identificación para el AuditableAbstractAggregateRoot                                                                  | Int          |
-|                                   | updateAt: Fecha de actualización en la página web                                                                         | Date         |
-|                                   | getID(): Obtiene el Id de los usuarios de la plataforma                                                                   | Int          |
-| **scooterDetails**               |                                                                                                                           |              |
-|                                   | marca: Marca del Scooter que desean alquilar                                                                              | String       |
-|                                   | kilometraje: Kilometraje de uso de cada Scooter en el sistema                                                             | Double       |
-|                                   | estadoBateria: Estado de la batería del Scooter                                                                           | String       |
-| **Reseña**                        |                                                                                                                           |              |
-|                                   | id: Identificador de las reseñas puestas por los usuarios                                                                | Int          |
-|                                   | puntuacion: Puntuación de cada Scooter utilizado por algún usuario                                                        | int          |
-|                                   | comentario: Comentario sobre la experiencia de uso con cada Scooter                                                       | String       |
-|                                   | fechaReseña: Fecha en la que fue realizada cada reseña                                                                   | Date         |
-| **Alquiler**                      |                                                                                                                           |              |
-|                                   | id: Identificador de cada alquiler realizado por el usuario                                                               | Int          |
-|                                   | scooterId: Identificador de cada scooter en el sistema                                                                     | Int          |
-|                                   | precio: Precio del alquiler de cada scooter                                                                                | Double       |
-|                                   | descripcion: Descripción previa de los scooters que le interesen                                                           | String       |
-| **Reservation**                   |                                                                                                                           |              |
-|                                   | id: Identificador de cada reserva realizada en la plataforma                                                              | int          |
-|                                   | reservationDate: Fechas de inicio y fin de los alquileres de Scooters                                                    | Date         |
-|                                   | paymentDetails: Detalles de pago de los alquileres                                                                         | Double       |
-|                                   | status: Estado de disponibilidad de un Scooter                                                                             | Void         |
-| **User**                          |                                                                                                                           |              |
-|                                   | id: Identificador único del usuario                                                                                        | Int          |
-|                                   | email: Dirección de correo electrónico del usuario                                                                         | String       |
-|                                   | password: Contraseña del usuario para acceder al sistema                                                                   | String       |
-|                                   | roles: Roles que puede adquirir un usuario en la plataforma                                                               | set          |
-|                                   | createdAt: Fecha de creación de la cuenta                                                                                 | Date         |
-| **Scooter**                       |                                                                                                                           |              |
-|                                   | id: Identificador para cada Scooter añadido al sistema                                                                    | Int          |
-|                                   | scooterDetails: Detalles técnicos de los Scooters en el sistema                                                           | Void         |
-|                                   | Location: Ubicación de cada Scooter mediante coordenadas                                                                   | Double       |
-|                                   | maintenanceRecords: Mantenimientos que tuvo cada Scooter                                                                  | Lista        |
-|                                   | status: Estado de disponibilidad de cada Scooter                                                                          | String       |
-|                                   | estado: Estado general del vehículo                                                                                       | String       |
+<table align="center" border="1px">
+  <tr>
+    <th>Clase</th>
+    <th>Descripción</th>
+    <th>Tipo de dato</th>
+  </tr>
+  <tr>
+    <td><strong>Profile</strong></td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>id: Identificación personal del profile para cada usuario</td>
+    <td>Int</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>email: Correo electrónico del usuario</td>
+    <td>String</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>nombre: Nombre que contendrá el profile de los usuarios</td>
+    <td>String</td>
+  </tr>
+  <tr>
+    <td><strong>AuditableAbstractAggregateRoot</strong></td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>id: Identificación para el AuditableAbstractAggregateRoot</td>
+    <td>Int</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>updateAt: Fecha de actualización en la página web</td>
+    <td>Date</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>getID(): Obtiene el Id de los usuarios de la plataforma</td>
+    <td>Int</td>
+  </tr>
+  <tr>
+    <td><strong>scooterDetails</strong></td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>marca: Marca del Scooter que desean alquilar</td>
+    <td>String</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>kilometraje: Kilometraje de uso de cada Scooter en el sistema</td>
+    <td>Double</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>estadoBateria: Estado de la batería del Scooter</td>
+    <td>String</td>
+  </tr>
+  <tr>
+    <td><strong>Reseña</strong></td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>id: Identificador de las reseñas puestas por los usuarios</td>
+    <td>Int</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>puntuacion: Puntuación de cada Scooter utilizado por algún usuario</td>
+    <td>int</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>comentario: Comentario sobre la experiencia de uso con cada Scooter</td>
+    <td>String</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>fechaReseña: Fecha en la que fue realizada cada reseña</td>
+    <td>Date</td>
+  </tr>
+  <tr>
+    <td><strong>Alquiler</strong></td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>id: Identificador de cada alquiler realizado por el usuario</td>
+    <td>Int</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>scooterId: Identificador de cada scooter en el sistema</td>
+    <td>Int</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>precio: Precio del alquiler de cada scooter</td>
+    <td>Double</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>descripcion: Descripción previa de los scooters que le interesen</td>
+    <td>String</td>
+  </tr>
+  <tr>
+    <td><strong>Reservation</strong></td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>id: Identificador de cada reserva realizada en la plataforma</td>
+    <td>int</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>reservationDate: Fechas de inicio y fin de los alquileres de Scooters</td>
+    <td>Date</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>paymentDetails: Detalles de pago de los alquileres</td>
+    <td>Double</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>status: Estado de disponibilidad de un Scooter</td>
+    <td>Void</td>
+  </tr>
+  <tr>
+    <td><strong>User</strong></td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>id: Identificador único del usuario</td>
+    <td>Int</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>email: Dirección de correo electrónico del usuario</td>
+    <td>String</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>password: Contraseña del usuario para acceder al sistema</td>
+    <td>String</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>roles: Roles que puede adquirir un usuario en la plataforma</td>
+    <td>set</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>createdAt: Fecha de creación de la cuenta</td>
+    <td>Date</td>
+  </tr>
+  <tr>
+    <td><strong>Scooter</strong></td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>id: Identificador para cada Scooter añadido al sistema</td>
+    <td>Int</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>scooterDetails: Detalles técnicos de los Scooters en el sistema</td>
+    <td>Void</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Location: Ubicación de cada Scooter mediante coordenadas</td>
+    <td>Double</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>maintenanceRecords: Mantenimientos que tuvo cada Scooter</td>
+    <td>Lista</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>status: Estado de disponibilidad de cada Scooter</td>
+    <td>String</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>estado: Estado general del vehículo</td>
+    <td>String</td>
+  </tr>
+</table>
 
 
 ## 4.8. Database Design
