@@ -4256,7 +4256,9 @@ En esta sección se detallarán los commits realizados en el desarrollo del fron
 </table>
 
 #### 5.2.2.5. Execution Evidence for Sprint Review  
-Durante el segundo Sprint se logró implementar el front end de la aplicación web con la mayoria de las secciones funcionales. A continuación se muestra la aplicación implementada y deployada
+
+Para esta entrega, el equipo CiberMach logró implementar de manera exitosa el frontend web app, en la cual se brindará variadas opciones relacionas a la publicación y escritura de libros ilustrados, a la vez de información conr espectos a los autores y artistas.
+Enlace del deploy de la web app mediante: https://movirent.netlify.app/#/profile
 
 ![Captura de pantalla 2024-09-25 165044](https://github.com/user-attachments/assets/585ee042-2b76-440d-b887-366a1f9b61b3)
 
@@ -4273,9 +4275,11 @@ Enlace del deploy de la web app mediante: https://movirent.netlify.app/#/
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review   
 
-Para el despliegue de la aplicacion web se utilizó netlify, a continuación se muestra el link de la aplicación web desplegada junto a los pasos realizados para publicarla: https://movirent.netlify.app/#/
+Para el despliegue de la aplicacion web se utilizó netlify, a continuación se 
+muestra el link de la aplicación web desplegada junto a los pasos realizados para 
+publicarla: https://movirent.netlify.app/#/ 
 
-Pasos
+Pasos:
 
 ![WhatsApp Image 2024-09-25 at 4 17 15 PM (1)](https://github.com/user-attachments/assets/4b953d5d-bc04-4423-95f4-8eb4114b5cc4)
 
@@ -4283,28 +4287,15 @@ Pasos
 
 ![WhatsApp Image 2024-09-25 at 4 17 16 PM](https://github.com/user-attachments/assets/4b7d43b5-dcfe-4174-a1b4-aa36bf940721)
 
-
 ![WhatsApp Image 2024-09-25 at 4 17 16 PM (1)](https://github.com/user-attachments/assets/c3cb1492-8eba-4094-9549-6d0519f76c80)
-
 
 ![WhatsApp Image 2024-09-25 at 4 17 17 PM](https://github.com/user-attachments/assets/97bcffdb-4d18-4564-a47d-471c3e009eba)
 
-
 ![WhatsApp Image 2024-09-25 at 4 17 15 PM](https://github.com/user-attachments/assets/7aafafdd-4a94-4dfd-b2b9-adc72464cbb6)
-
 
 ![WhatsApp Image 2024-09-25 at 4 17 17 PM (1)](https://github.com/user-attachments/assets/9ad4fef1-a58a-4a6b-a2f0-4ce513541b44)
 
-
 ![WhatsApp Image 2024-09-25 at 4 17 17 PM (2)](https://github.com/user-attachments/assets/2553cb2a-c5a4-420e-bf5f-c7dffa61af58)
-
-
-![WhatsApp Image 2024-09-25 at 4 17 18 PM](https://github.com/user-attachments/assets/51025a45-54be-4352-be42-78cf43176b62)
-
-
-![WhatsApp Image 2024-09-25 at 4 17 18 PM (1)](https://github.com/user-attachments/assets/31bb7392-5a9b-484f-ab68-1086b0e7feb2)
-
-![Captura 3 front](https://github.com/user-attachments/assets/11e0428a-7820-4f04-a983-6a505fb29630)
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint. 
 
