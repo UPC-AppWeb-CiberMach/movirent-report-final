@@ -1,66 +1,41 @@
-﻿<br/>
+﻿<div align="center">
 
-<div align="center">
+![Universidad Peruana de Ciencias Aplicadas](https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png)
 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" width="150">
+### **Universidad Peruana de Ciencias Aplicadas**
 
-  ### **Universidad Peruana de Ciencias Aplicadas**
-  ### Ingeniería de Software
-  ### **CURSO:** SI730 Aplicaciones Web - SI92 
-  ### **SECCIÓN:** SI92 
-  ### **Profesor:** Naldo Reupo-Musayon Gastulo 
+### Ingeniería de Software
 
-  <br/>
+### **CURSO:** SI730 Aplicaciones Web - SI92
 
-  ### **Informe de Trabajo Final**
-  
-  <br/>
+### **SECCIÓN:** SI92
 
-  ### **Nombre del startup:** CiberMach
-  ### **Nombre del producto:** MoviRent
+### **Profesor:** Naldo Reupo-Musayon Gastulo
 
-  ### **Integrantes**
+### **Informe de Trabajo Final**
 
-  <table border="1" align="center">
-      <thead>
-          <tr>
-              <th>Nombre</th>
-              <th>Código</th>
-          </tr>
-      </thead>
-      <tbody>
-          <tr>
-              <td>Adriana María Diestra Zambrano</td>
-              <td>u202218110</td>
-          </tr>
-          <tr>
-              <td>Bárbara Antonella Espinoza Delgado</td>
-              <td>u201911727</td>
-          </tr>
-          <tr>
-              <td>Mathias Adriano Hidalgo Lopez</td>
-              <td>u202213222</td>
-          </tr>
-          <tr>
-              <td>Velarde Gonzales, Néstor</td>
-              <td>u20211C221</td>
-          </tr>
-          <tr>
-              <td>Quique Vladimir Jara Benites</td>
-              <td>u202022365</td>
-          </tr>
-          <tr>
-              <td>Roy Linsh Fernandez Remon</td>
-              <td>u20221B778</td>
-          </tr>
-      </tbody>
-  </table>
+### **Nombre del startup:** CiberMach
+
+### **Nombre del producto:** MoviRent
+
+**Integrantes:**
+
+
+| **Nombre**                              | **Código**   |
+| --------------------------------------- | ------------ |
+| Adriana María Diestra Zambrano          | u202218110   |
+| Bárbara Antonella Espinoza Delgado      | u201911727   |
+| Mathias Adriano Hidalgo Lopez           | u202213222   |
+| Néstor Velarde Gonzales                 | u20211C221   |
+| Quique Vladimir Jara Benites            | u202022365   |
+| Roy Linsh Fernandez Remon               | u20221B778   |
+
+
+**Setiembre, 2024**
 
 </div>
 
-## <center>Setiembre, 2024</center>
-
-<div style="page-break-before: always;"></div>
+---
 
 ## Registro de versiones del informe
 
@@ -78,126 +53,128 @@
       <td>1.0</td>
       <td>2024/08/14</td>
       <td>Velarde Gonzales, Néstor</td>
-      <td>Creación del documento de trabajo en formato markdown.</td>
+      <td>Creación del documento de trabajo en formato Markdown.</td>
     </tr>
     <tr>
-        <td>1.1</td>
-        <td>2024/08/21</td>
-        <td>Espinoza Delgado, Bárbara Antonella</td>
-        <td>Redacción del Startup Profile, Descripción de la Startup, Solution Profile, Antecedentes y problemática, Lean UX Process y Segmentos objetivo</td>
-      </tr>
+      <td>1.1</td>
+      <td>2024/08/21</td>
+      <td>Espinoza Delgado, Bárbara Antonella</td>
+      <td>Redacción del *Startup Profile*, Descripción de la *Startup*, *Solution Profile*, Antecedentes y problemática, *Lean UX Process* y Segmentos objetivo.</td>
+    </tr>
     <tr>
-    <td>1.2</td>
-        <td>2024/08/23</td>
-        <td>Espinoza Delgado, Bárbara Antonella</td>
-        <td>Information Architecture y Database Diagram.</td>
-      </tr>
+      <td>1.2</td>
+      <td>2024/08/23</td>
+      <td>Espinoza Delgado, Bárbara Antonella</td>
+      <td>*Information Architecture* y *Database Diagram*.</td>
+    </tr>
     <tr>
-        <td>1.3</td>
-        <td>2024/08/23</td>
-        <td>Hidalgo Lopez, Mathias Adriano</td>
-        <td>Empathy Mapping, To-Be Mapping</td>
-      </tr>
+      <td>1.3</td>
+      <td>2024/08/23</td>
+      <td>Hidalgo Lopez, Mathias Adriano</td>
+      <td>*Empathy Mapping*, *To-Be Mapping*.</td>
+    </tr>
     <tr>
-        <td>1.4</td>
-        <td>2024/08/24</td>
-        <td>Espinoza Delgado, Bárbara Antonella</td>
-        <td>User Stories, Product Backlog</td>
-      </tr>
+      <td>1.4</td>
+      <td>2024/08/24</td>
+      <td>Espinoza Delgado, Bárbara Antonella</td>
+      <td>*User Stories*, *Product Backlog*.</td>
+    </tr>
     <tr>
-        <td>1.5</td>
-        <td>2024/08/30</td>
-        <td>Jara Benitez, Quique Vladimir</td>
-        <td>Entrevista, Redacción del Análisis competitivo, Estrategias frente a competidores, User Persona, User Task Matrix, User Journey Mapping, As-Is Scenario y Ubiquitous Language.</td>
-      </tr>
+      <td>1.5</td>
+      <td>2024/08/30</td>
+      <td>Jara Benitez, Quique Vladimir</td>
+      <td>Entrevista, redacción del análisis competitivo, estrategias frente a competidores, *User Persona*, *User Task Matrix*, *User Journey Mapping*, *As-Is Scenario* y Lenguaje ubicuo.</td>
+    </tr>
     <tr>
-    <td>1.6</td>
-        <td>2024/08/30</td>
-        <td>Diestra Zambrano, Adriana María</td>
-        <td>Entrevista</td>
-      </tr>
+      <td>1.6</td>
+      <td>2024/08/30</td>
+      <td>Diestra Zambrano, Adriana María</td>
+      <td>Entrevista.</td>
+    </tr>
     <tr>
-        <td>1.7</td>
-        <td>2024/08/30</td>
-        <td>Espinoza Delgado, Bárbara Antonella</td>
-        <td>Sprint Planning y Sprint Backlog</td>
-      </tr>
+      <td>1.7</td>
+      <td>2024/08/30</td>
+      <td>Espinoza Delgado, Bárbara Antonella</td>
+      <td>*Sprint Planning* y *Sprint Backlog*.</td>
+    </tr>
     <tr>
-    <td>1.8</td>
-        <td>2024/09/01</td>
-        <td>Fernandez Remon, Roy Linsh</td>
-        <td>Entrevista</td>
-      </tr>
+      <td>1.8</td>
+      <td>2024/09/01</td>
+      <td>Fernandez Remon, Roy Linsh</td>
+      <td>Entrevista.</td>
+    </tr>
     <tr>
-    <td>1.9</td>
-        <td>2024/09/02</td>
-        <td>Espinoza Delgado, Bárbara Antonella</td>
-        <td>Style Guidelines, Landing Page UI Design, Web Application UX/UI</td>
-      </tr>
+      <td>1.9</td>
+      <td>2024/09/02</td>
+      <td>Espinoza Delgado, Bárbara Antonella</td>
+      <td>*Style Guidelines*, Diseño de la *Landing Page UI*, UX/UI de la Aplicación Web.</td>
+    </tr>
     <tr>
-    <td>1.10</td>
-        <td>2024/09/02</td>
-        <td>Jara Benitez, Quique Vladimir</td>
-        <td>Software Configuration, Software Development, Source Code Management, Source Code Style y Software Deployment.</td>
-      </tr>
+      <td>1.10</td>
+      <td>2024/09/02</td>
+      <td>Jara Benitez, Quique Vladimir</td>
+      <td>Configuración de software, desarrollo de software, gestión de código fuente, estilo de código fuente y despliegue de software.</td>
+    </tr>
     <tr>
-    <td>1.11</td>
-        <td>2024/09/04</td>
-        <td>Hidalgo Lopez, Mathias Adriano</td>
-        <td>Entrevista, Impact Mapping</td>
-      </tr>
+      <td>1.11</td>
+      <td>2024/09/04</td>
+      <td>Hidalgo Lopez, Mathias Adriano</td>
+      <td>Entrevista, *Impact Mapping*.</td>
+    </tr>
     <tr>
-        <td>1.12</td>
-        <td>2024/09/04</td>
-        <td>Jara Benitez, Quique Vladimir</td>
-        <td>Testing Suite, Execution evidence, Service Documentation, Software Deployment y Team Collaboration Insights.</td>
-      </tr>
+      <td>1.12</td>
+      <td>2024/09/04</td>
+      <td>Jara Benitez, Quique Vladimir</td>
+      <td>*Testing Suite*, evidencia de ejecución, documentación del servicio, despliegue de software y *Team Collaboration Insights*.</td>
+    </tr>
     <tr>
-        <td>1.13</td>
-        <td>2024/09/04</td>
-        <td>Velarde Gonzales, Nestor</td>
-        <td>Entrevista y correcciones generales.</td>
-      </tr>
+      <td>1.13</td>
+      <td>2024/09/04</td>
+      <td>Velarde Gonzales, Néstor</td>
+      <td>Entrevista y correcciones generales.</td>
+    </tr>
     <tr>
-        <td>1.14</td>
-        <td>2024/09/05</td>
-        <td>Velarde Gonzales, Nestor</td>
-        <td>Landing Page, Services & Applications, Bibliografía y Conclusiones.</td>
-      </tr>
+      <td>1.14</td>
+      <td>2024/09/05</td>
+      <td>Velarde Gonzales, Néstor</td>
+      <td>*Landing Page*, servicios y aplicaciones, bibliografía y conclusiones.</td>
+    </tr>
     <tr>
-        <td>1.15</td>
-        <td>2024/09/06</td>
-        <td>Jara Benitez, Quique Vladimir</td>
-        <td>Web Prototyping.</td>
-      </tr>
-      <tr>
-    <td>1.16</td>
-        <td>2024/09/06</td>
-        <td>Diestra Zambrano, Adriana María</td>
-        <td>Domain-Driven Software Architecture</td>
-      </tr>
-      <tr>
-    <td>1.17</td>
-        <td>2024/09/06</td>
-        <td>Diestra Zambrano, Adriana María</td>
-        <td>Domain-Driven Software Architecture</td>
-      </tr>
-      <tr>
-    <td>1.18</td>
+      <td>1.15</td>
+      <td>2024/09/06</td>
+      <td>Jara Benitez, Quique Vladimir</td>
+      <td>Prototipado web.</td>
+    </tr>
+    <tr>
+      <td>1.16</td>
+      <td>2024/09/06</td>
+      <td>Diestra Zambrano, Adriana María</td>
+      <td>Arquitectura de software basada en dominios (*Domain-Driven Software Architecture*).</td>
+    </tr>
+    <tr>
+      <td>1.17</td>
+      <td>2024/09/06</td>
+      <td>Diestra Zambrano, Adriana María</td>
+      <td>Arquitectura de software basada en dominios (*Domain-Driven Software Architecture*).</td>
+    </tr>
+    <tr>
+      <td>1.18</td>
       <td>2024/09/06</td>
       <td>Fernandez Remon, Roy Linsh</td>
-      <td>Class Diagram y Class Dictionary</td>
+      <td>Diagrama de clases y diccionario de clases.</td>
     </tr>
     <tr>
       <td>1.19</td>
       <td>2024/09/06</td>
-      <td>Velarde Gonzales, Nestor</td>
-      <td>Conclusiones y Anexos.</td>
+      <td>Velarde Gonzales, Néstor</td>
+      <td>Conclusiones y anexos.</td>
     </tr>
   </tbody>
 </table>
 
-<div style="page-break-before: always;"></div>
+
+---
+
 
 ## Project Report Collaboration Insights
 
@@ -3669,7 +3646,8 @@ Footer, sección donde se muestra información de contacto y redes sociales.
 **No aplica para esta entrega**
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
-Para el despliegue de la landing page se utilizó github pages, a continuación se muestra el link de la landing page desplegada junto a los pasos realizados para publicarla:
+Para el despliegue de la landing page se utilizó github pages, a continuación se muestra el link de la landing page 
+desplegada junto a los pasos realizados para publicarla:
 [Link](https://upc-appweb-cibermach.github.io/Landing-Page/)
 
 **Pasos**
@@ -3778,7 +3756,8 @@ rama main.
 
 ![TeamCollab2](https://github.com/user-attachments/assets/0af2c5cf-5f43-4969-bd16-7a4c1385d3d9)
 
-Hemos desarrollado en conjunto un total de 82 commits para el desarrollo de nuestra landing page, tanto en creación de secciones, corrección de bugs, entre otras cosas.
+Hemos desarrollado en conjunto un total de 82 commits para el desarrollo de nuestra landing page, tanto en 
+creación de secciones, corrección de bugs, entre otras cosas.
 
 ![Commits Landing Page](https://github.com/user-attachments/assets/b76b0616-cffc-42da-b724-15cc7e09506e)
 
@@ -4257,7 +4236,9 @@ En esta sección se detallarán los commits realizados en el desarrollo del fron
 
 #### 5.2.2.5. Execution Evidence for Sprint Review  
 
-Para esta entrega, el equipo CiberMach logró implementar de manera exitosa el frontend web app, en la cual se brindará variadas opciones relacionas a la publicación y escritura de libros ilustrados, a la vez de información conr espectos a los autores y artistas.
+Para esta entrega, el equipo CiberMach logró implementar de manera exitosa el frontend web app, en la cual se 
+brindará variadas opciones relacionas a la publicación y escritura de libros ilustrados, a la vez de información con
+espectos a los autores y artistas.
 Enlace del deploy de la web app mediante: https://movirent.netlify.app/#/profile
 
 ![Captura de pantalla 2024-09-25 165044](https://github.com/user-attachments/assets/585ee042-2b76-440d-b887-366a1f9b61b3)
@@ -4269,7 +4250,9 @@ Enlace del deploy de la web app mediante: https://movirent.netlify.app/#/profile
 Link de la web app mediante: https://movirent.netlify.app/#/
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review  
-Para esta entrega, el equipo CiberMach logró implementar de manera exitosa el frontend web app, en la cual se brindará variadas opciones relacionas a la publicación y escritura de libros ilustrados, a la vez de información conr espectos a los autores y artistas.
+Para esta entrega, el equipo CiberMach logró implementar de manera exitosa el frontend web app, en 
+la cual se brindará variadas opciones relacionas a la publicación y escritura de libros ilustrados, a la 
+vez de información conr espectos a los autores y artistas.
 
 Enlace del deploy de la web app mediante: https://movirent.netlify.app/#/
 
