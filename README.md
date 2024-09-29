@@ -402,43 +402,37 @@ URL Project Report en Github: [URL Project Report en GitHub](https://github.com/
 
 
 
-
 # Capítulo I: Introducción
 
 ## 1.1. Startup Profile
 
 ### 1.1.1. Descripción de la Startup
 
-Somos CiberMach, un startup conformado por 6 estudiantes de la Universidad Peruana de Ciencias Aplicadas (UPC), 
-que trabajará en el desarrollo del producto MoviRent, dedicada a facilitar el alquiler de scooters eléctricos. 
-Nuestro enfoque se centra en brindar soluciones tanto para usuarios que buscan alquilar scooters para fines de 
-transporte como para personas que tienen un scooter y buscan generar ganacias alquilandolo, nuestro objetivo es 
-facilitar el acceso a scooters eléctricos de forma segura y conveniente para nuestros usuarios, nuestro sitio 
-web ofrece una experiencia excepcional, garantizando la disponibilidad y seguridad  de sus scooters.  
+Somos CiberMach, una startup conformada por 6 estudiantes de la Universidad Peruana de Ciencias Aplicadas (UPC), que trabaja en el desarrollo del producto MoviRent, dedicado a facilitar el alquiler de scooters eléctricos. Nuestro enfoque se centra en brindar soluciones tanto para usuarios que buscan alquilar scooters para fines de transporte como para personas que tienen un scooter y buscan generar ganancias alquilándolo. Nuestro objetivo es facilitar el acceso a scooters eléctricos de forma segura y conveniente para nuestros usuarios. Nuestro sitio web ofrece una experiencia excepcional, garantizando la disponibilidad y seguridad de sus scooters.
 
 <table border="1px" align="center">
     <tbody>
         <tr>
-            <td><strong>Misión</strong></td>
-            <td><strong>Visión</strong></td>
-            <td><strong>Valores</strong></td>
+            <td>Misión</td>
+            <td>Visión</td>
+            <td>Valores</td>
         </tr>
         <tr>
             <td>Transformar la movilidad urbana y recreativa con un acceso conveniente, económico y seguro a scooters eléctricos.</td>
             <td>Ser líderes en el mercado de desarrollo de aplicaciones orientadas al cuidado del medio ambiente.</td>
             <td>
-                <ul style="list-style-type:none; padding-left: 0;">
-                    <li><strong>Innovación:</strong> La innovación constante para ofrecer soluciones creativas.</li>
-                    <li><strong>Calidad:</strong> Buscamos la excelencia en nuestro producto.</li>
+                <ul>
+                    <li>Innovación: La innovación constante para ofrecer soluciones creativas.</li>
+                    <li>Calidad: Buscamos la excelencia en nuestro producto.</li>
                 </ul>
             </td>
         </tr>
     </tbody>
-</table>  
+</table>
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
-<table border="1px" align="center">
+<table align="center" border="1px">
     <thead>
         <tr>
             <th>Integrante</th>
@@ -449,33 +443,32 @@ web ofrece una experiencia excepcional, garantizando la disponibilidad y segurid
     <tbody>
         <tr>
             <td>Adriana María Diestra Zambrano</td>
-            <td><img src="https://github.com/user-attachments/assets/4bb2fc25-e51f-4b85-bb7c-bc94d02323d4"/></td>
-            <td>Estudiante de la carrera Ingeniería de Software de 6to ciclo. Con conocimientos en 
-                  C++, Python, HTML y CSS. Así como también trabajo colaborativo y participación en grupo.</td>
+            <td><img src="https://github.com/user-attachments/assets/4bb2fc25-e51f-4b85-bb7c-bc94d02323d4" alt="Foto de Adriana María Diestra Zambrano"/></td>
+            <td>Estudiante de la carrera Ingeniería de Software de 6to ciclo. Con conocimientos en C++, Python, HTML y CSS. Así como también trabajo colaborativo y participación en grupo.</td>
         </tr>
         <tr>
             <td>Bárbara Antonella Espinoza Delgado</td>
-            <td><img src="https://github.com/user-attachments/assets/23213ed8-9966-4c39-8be3-d7d895b670c7"/></td>
+            <td><img src="https://github.com/user-attachments/assets/23213ed8-9966-4c39-8be3-d7d895b670c7" alt="Foto de Bárbara Antonella Espinoza Delgado"/></td>
             <td>Estudiante de Ingeniería de Software de 7mo ciclo. Experiencia en dirección de grupos, redacción, búsqueda de información, exposiciones y cumplimiento de tareas de manera estricta y puntual.</td>
         </tr>
         <tr>
             <td>Mathias Adriano Hidalgo Lopez</td>
-            <td><img src="https://github.com/user-attachments/assets/34c47867-1556-49e3-8349-28e7d37275f4"/></td>
+            <td><img src="https://github.com/user-attachments/assets/34c47867-1556-49e3-8349-28e7d37275f4" alt="Foto de Mathias Adriano Hidalgo Lopez"/></td>
             <td>Estudiante de Ingeniería de Software de 6to ciclo. Experiencia en dirección y trabajo en equipo, conocimientos y manejo de lenguajes como C++, C#, entre otros.</td>
         </tr>
         <tr>
             <td>Néstor Velarde Gonzales</td>
-            <td><img src="https://github.com/user-attachments/assets/a93d3997-ae00-4c2f-b98e-98c7b2ad8662"/></td>
+            <td><img src="https://github.com/user-attachments/assets/a93d3997-ae00-4c2f-b98e-98c7b2ad8662" alt="Foto de Néstor Velarde Gonzales"/></td>
             <td>Estudiante de la carrera de Ingeniería de Software de 6to ciclo en la UPC. Mi compromiso con mi grupo es mantener un ambiente colaborativo y trabajo en equipo. Me gusta aprender nuevas herramientas y tecnologías de desarrollo. Tengo experiencia desarrollando pequeños proyectos basados en sistemas de electrónica y sé programación en Python, C++, Arduino, Logo soft.</td>
         </tr>
         <tr>
             <td>Quique Vladimir Jara Benites</td>
-            <td><img src="https://github.com/user-attachments/assets/9c33067f-1712-4333-be1d-f2c15e00918a"/></td>
+            <td><img src="https://github.com/user-attachments/assets/9c33067f-1712-4333-be1d-f2c15e00918a" alt="Foto de Quique Vladimir Jara Benites"/></td>
             <td>Estudiante de la carrera de Ingeniería de Software con conocimientos técnicos en JavaScript, Vue, PHP y SQL. Asimismo, para el desarrollo en equipo, cuento con habilidades como participación comunicativa, creatividad, resolución de problemas, adaptabilidad y toma de decisiones.</td>
         </tr>
         <tr>
             <td>Roy Linsh Fernandez Remon</td>
-            <td><img src="https://github.com/user-attachments/assets/88f9a4e9-750a-4fbe-b19e-2d17bc03402e"/></td>
+            <td><img src="https://github.com/user-attachments/assets/88f9a4e9-750a-4fbe-b19e-2d17bc03402e" alt="Foto de Roy Linsh Fernandez Remon"/></td>
             <td>Me llamo Roy Fernández Remón y estudio la carrera de Ingeniería de Software, actualmente estoy en el 6to ciclo de la carrera. Soy una persona dedicada a mis estudios y trabajos, y me gusta ser responsable con las actividades académicas.</td>
         </tr>
     </tbody>
@@ -485,27 +478,36 @@ web ofrece una experiencia excepcional, garantizando la disponibilidad y segurid
 
 ### 1.2.1. Antecedentes y problemática
 
-Nuestra capital Lima, es una de las ciudades con mayor tráfico del mundo, lo que genera grandes costos económicos para las millones de personas que transitan diariamente por la ciudad de lima y callao, el sistema de transporte se encuentran notablemente retrasados. En el 2023 nuestra ciudad de Lima pasó del quinto al segundo país en el ranking de ciudades con mayor tráfico a nivel mundial. Según TomTom Traffic, trasladarse 10 kilómetros (distancia entre plaza San Martín y el Óvalo Naranjal al norte o al Larcomar al sur) demora 24 a 30 minutos en promedio.  
+Nuestra capital Lima, es una de las ciudades con mayor tráfico del mundo, lo que genera grandes costos económicos para las millones de personas que transitan diariamente por la ciudad de Lima y Callao. El sistema de transporte se encuentra notablemente retrasado. En el 2023, nuestra ciudad de Lima pasó del quinto al segundo lugar en el ranking de ciudades con mayor tráfico a nivel mundial. Según TomTom Traffic, trasladarse 10 kilómetros (distancia entre Plaza San Martín y el Óvalo Naranjal al norte o al Larcomar al sur) demora 24 a 30 minutos en promedio.
 
 - **What (Qué)**  
-El problema identificado radica en el tráfico de Lima, que es uno de los más congestionados del mundo, generando costos económicos significativos y afectando la calidad de vida de millones de personas.  
+  El problema identificado radica en el tráfico de Lima, que es uno de los más congestionados del mundo, generando costos económicos significativos y afectando la calidad de vida de millones de personas.
+
+- **When (Cuándo)**  
+  ¿Cuándo estamos viendo el problema?  
+  El problema del tráfico se experimenta diariamente, especialmente durante las horas pico de la mañana y la tarde, afectando los desplazamientos laborales y personales.
+
+- **Where (Dónde)**  
+  ¿Dónde estamos viendo los problemas?  
+  El tráfico congestionado se encuentra generalmente en las avenidas principales, intersecciones críticas y puntos de entrada y salida de la ciudad.
+
+- **Who (Quiénes)**  
+  ¿A quién le sucede?  
+  El problema afecta a todos los residentes y usuarios de Lima, que dependen del transporte terrestre para sus actividades diarias, incluidos trabajadores, estudiantes y visitantes.
+
+- **Why (Por qué)**  
+  ¿Por qué sucede el problema?  
+  La congestión vehicular se debe a una combinación de factores, como el crecimiento poblacional desmedido, la falta de infraestructura vial adecuada, el aumento del parque automotor, la falta de sistemas de transporte público eficientes y, sobre todo, el desconocimiento de transportes alternativos.
+
+- **How (Cómo)**  
+  ¿Cómo se diferencia el problema del estado normal?  
+  Como una congestión constante en las vías principales, causando retrasos significativos en los tiempos de viaje y aumentando el estrés y la frustración de los usuarios. La congestión tiende a empeorar durante las horas pico y en días laborables.
+
+- **How much (Cuánto)**  
+  ¿Cuánto dinero está implicando?  
+  La congestión vehicular causa un impacto diario a millones de personas, provocando retraso en sus actividades diarias, pérdida de productividad y el aumento en el coste de transporte que asciende a más de 500 soles anuales por manejar en horas pico o la alza de pasajes en el transporte público que ha aumentado en casi 100 soles mensuales desde 2010.
 
 
-- **When (Cuándo)** ¿Cuándo estamos viendo el problema?
-El problema del tráfico se experimenta diariamente, especialmente durante las horas pico de la mañana y la tarde, afectando los desplazamientos laborales y personales.  <br>
-
-
-- **Where (Dónde)** ¿Dónde estamos viendo los problemas?
-El tráfico congestionado se encuentra generalmente en las avenidas principales, intersecciones críticas y puntos de entrada y salida de la ciudad.  <br>
-- **Who (Quiénes)** ¿A quien le sucede?
-El problema afecta a todos los residentes y usuarios de Lima, que dependen del transporte terrestre para sus actividades diarias, incluidos trabajadores, estudiantes y visitantes.  <br>
-- **Why (Por qué)** ¿Por qué sucede el problema?
-La congestion vehicular se debe a una combinación de factores, como el crecimiento poblacional desmedido, la falta de infraestructura vial adecuada, el aumento del parque automotor, la falta de sistemas de transporte público eficientes y sobre todo el desconocimiento de transportes alternativos. <br>
-- **How (Cómo)** ¿Cómo se diferencia el problema del estado normal?
-Como una congestión constante en las vías principales, causando retrasos significativos en los tiempos de viaje y aumentando el estrés y la frustración de los usuarios. La congestión tiende a empeorar durante las horas pico y en días laborables.<br>
-- **How much (Cuánto)** ¿Cuánto dinero están implicando?
-La congestión vehicular causa un impacto diario a millones de personas, provocando retraso en sus actividades diarias, pérdida de productividad y el aumento en el coste de transporte que asciende a mas de 500 soles anuales por manejar en horas pico o la alza de pasajes en el transporte público que a aumentado en casi 100 soles mensuales desde 2010.<br>
-  
 ### 1.2.2. Lean UX Process
 
 #### 1.2.2.1. Lean UX Problem statements  
@@ -530,8 +532,9 @@ En ocasiones pueden haber inconvenientes como robos o daños ¿Cómo podríamos 
 
 **Bussiness Outcomes**  
 
-Utilizando la tecnica de Metrics Mountain se obtuvo lo siguiente:
-1. Adquisición:  
+Utilizando la tecnica de Metrics Mountain se obtuvo lo siguiente.
+
+1. Adquisición:
 Porcentaje de nuevos usuarios registrados como arrendatarios que se suscriben a un plan mensual.
 Porcentaje de propietarios que publican al menos un vehículo en la plataforma
 
@@ -706,9 +709,8 @@ Aspecto psicográfico: Buscan alquilar scooters eléctricos para momentos espec�
 
 # Capítulo II: Requirements Elicitation & Analysis
 
-## 2.1. Competidores.
+## 2.1. Competidores
 
-<div style="margin-left: 30px;">
 
 ### 2.1.1. Análisis competitivo
 
@@ -906,7 +908,7 @@ Ajustar estrategicamente los precios de suscripción para competir de manera efe
 
 Desarrollar mensajes y campañas de marketing que resalten las fortalezas unicas y la propuesta de valor de MoviRent.
 
-</div>
+
 
 ## 2.2. Entrevistas
 
@@ -2492,63 +2494,67 @@ En este apartado se muestra los impact mapping de nuestros segmentos objetivos:
 ### 4.1.1. General Style Guidelines
 
 #### **Misión**  
+
 Proporcionar a nuestros clientes una plataforma donde puedan alquilar de manera rápida, sencilla y segura 
 scooters eléctricos que se adecúen a sus necesidades.
 
 #### **Visión**  
+
 Ser la aplicación web líder en el alquiler de scooters eléctricos, promoción del transporte ecoamigable y 
 reconocidos por grupos y asociaciones de emprendimiento y medio ambiente.
 
 #### **Brand Name**
-El nombre del producto es MoviRent, el cual cuenta con un logo representado por el icono de un scooter y un rayo que 
-simboliza que el vehículo funciona electricamente con el color verde como el más predominante simbolizando el medio ambiente.  
+
+El nombre del producto es MoviRent, el cual cuenta con un logo representado por el icono de un scooter y un rayo que simboliza que el vehículo funciona electricamente con el color verde como el más predominante simbolizando el medio ambiente.  
 
 ![Logo](https://github.com/user-attachments/assets/4117bfeb-a0f2-4a3c-9a45-13fb105fb737)
 
 #### **Colores**
+
 Decidimos elegir los colores verde claro, lila y azul al ser una combinación ligera y agradable a la vista de 
 usuarios de diversad edades.  
 
 ![Paleta de colores](https://github.com/user-attachments/assets/4725a7ff-e7ac-4bf4-b1fd-a60d3bc9c98f)
 
 #### **Tipografía**
-Elegimos la fuente Open Sans porque es legible y popular en el diseño de aplicaciones web, por lo que nos aseguramos de 
-que nuestros clientes con toda clase de necesidades visuales logren leer facilmente el contenido de nuestra web. 
+
+Elegimos la fuente Open Sans porque es legible y popular en el diseño de aplicaciones web, por lo que nos aseguramos de que nuestros clientes con toda clase de necesidades visuales logren leer facilmente el contenido de nuestra web. 
 
 ![Fuentes](https://github.com/user-attachments/assets/75992501-cdf2-4a55-bc42-dd726bab6adc)
 
 #### **Espaciado** 
-Para nuestra aplicación usaremos el espaciado x1.5, el cual es un poco mas amplio que el usual, lo que evitará 
-que el texto se sienta pesado o genere complicaciones de legibilidad
+
+Para nuestra aplicación usaremos el espaciado x1.5, el cual es un poco mas amplio que el usual, lo que evitará que el texto se sienta pesado o genere complicaciones de legibilidad
 
 Tamaño de letra: 42px-20px
 
 Interlineado: 1.5px
 
 #### **Tono de comunicación y lenguaje aplicado**  
+
 Usaremos un tono  de comunicación entusiasta y amigable en toda la web, puesto que consideramos que sería adecuado 
 para nuestro tipo de aplicación al buscar incentivar el uso concurrido de esta. Además haremos uso de un lenguaje 
 popular para ser inclusivos con todo tipo de nivel de lenguaje entre nuestros usuarios.
 
 ### 4.1.2. Web Style Guidelines 
 
-Paleta de colores: Asignamos al color verde y lila como los colores más representativos de la web a demás del color 
+**Paleta de colores:** Asignamos al color verde y lila como los colores más representativos de la web a demás del color 
 blanco para mostrar una disminución en la recarga de colores para que la atención de los usuarios vaya hacia los 
 servicios y no se desvíe a otra parte menos relevante.
 
-Diseño Responsivo: La aplicación debe ser compatible con diferentes dispositivos y tamaños de pantalla para una 
+**Diseño Responsivo:** La aplicación debe ser compatible con diferentes dispositivos y tamaños de pantalla para una 
 experiencia de usuario consistente en todos los dispositivos.
 
-Navegación Intuitiva: Estructura de navegación clara y fácil de usar que permita a los usuarios encontrar rápidamente 
+**Navegación Intuitiva:** Estructura de navegación clara y fácil de usar que permita a los usuarios encontrar rápidamente 
 la información que están buscando, se prioriza la simplicidad.
 
-Carga Rápida: Optimización del rendimiento de la aplicación para tiempos de carga rápidos, lo que incluye la 
+**Carga Rápida:** Optimización del rendimiento de la aplicación para tiempos de carga rápidos, lo que incluye la 
 optimización de imágenes y el uso de técnicas de almacenamiento en caché así como los scripts cargados al inicio de la página.
 
-Diseño de Tarjetas: Diseños de tarjetas para mostrar la información de manera visualmente atractiva y organizada, 
+**Diseño de Tarjetas:** Diseños de tarjetas para mostrar la información de manera visualmente atractiva y organizada, 
 especialmente para la presentación de destinos y detalles de viajes.
 
-Botones de la web: Los botones utilizados para la web serán botones rectangulares con esquinas circulares, ademas de tener 
+**Botones de la web:** Los botones utilizados para la web serán botones rectangulares con esquinas circulares, además de tener 
 botones en forma de texto en la navbar para una mejor navegación en la aplicación.
 
 ![Botones](https://github.com/user-attachments/assets/be33d4a1-f502-4f78-84c1-11eae1f82dee)
@@ -2559,56 +2565,51 @@ botones en forma de texto en la navbar para una mejor navegación en la aplicaci
 
 - **Jerarquía Visual:**
 
-Con el propósito de mantener la estética de nuestra plataforma interactiva y a la vanguardia de
-la competencia actual, hemos decidido priorizar la interfaz según importancia para facilitar la
-interacción con el usuario.
+  Con el propósito de mantener la estética de nuestra plataforma interactiva y a la vanguardia de
+  la competencia actual, hemos decidido priorizar la interfaz según importancia para facilitar la
+  interacción con el usuario.
 
 - **Jerarquía de Tipografía:**
 
-Nuestra plataforma difunde información que es recibida por nuestros usuarios con un orden
-específico según la demanda. Por lo tanto, es importante tener en cuenta las características
-con las que se generan nuestros títulos, subtítulos, párrafos, entre otros.
+  Nuestra plataforma difunde información que es recibida por nuestros usuarios con un orden
+  específico según la demanda. Por lo tanto, es importante tener en cuenta las características
+  con las que se generan nuestros títulos, subtítulos, párrafos, entre otros.
 
 - **Alineación:**
 
-En nuestra plataforma, nuestras imágenes y botones se encuentran alineados siempre de
-manera vertical y horizontal. Permitiendo así agrupar varios objetos de diversos tipos con la
-misma información.
+  En nuestra plataforma, nuestras imágenes y botones se encuentran alineados siempre de
+  manera vertical y horizontal. Permitiendo así agrupar varios objetos de diversos tipos con la
+  misma información.
 
 - **Color y Contraste:**
-A la vista de nuestros segmentos objetivos, el color cumple un rol muy importante en nuestra aplicación, promueve
-las correctas composiciones del color, para dirigir diversas emociones y del contraste para
-enfatizar aquellos objetos de mayor importancia.
+
+  A la vista de nuestros segmentos objetivos, el color cumple un rol muy importante en nuestra aplicación, promueve las correctas composiciones del color, para dirigir diversas emociones y del contraste para
+  enfatizar aquellos objetos de mayor importancia.
 
 - **Organización Secuencial:**
 
-Además, los métodos de almacenamiento sobre los registros que el usuario final emplea
-siguen una organización secuencial, esto con el objetivo de mejorar la simplicidad y la
-rapidez con la que se almacenan y acceden a ellos. En el caso de nuestro proyecto
-organizaremos se visualizarán la lista de Scooter.
-
+  Además, los métodos de almacenamiento sobre los registros que el usuario final emplea siguen una organización secuencial, esto con el objetivo de mejorar la simplicidad y la rapidez con la que se almacenan y acceden a ellos. En el caso de nuestro proyecto organizaremos se visualizarán la lista de Scooter.
 
 - **Esquemas de categorización de contenido de nuestra web:**
 
-Para el caso de organización visual utilizaremos el sistema jerárquico, lo que nos permitirá resaltar los componentes 
-a los que deseamos que el usuario preste mayor atención. Esto dirigirá la atención del usuario a componentes de 
-suma importancia.
-Para el proceso de reservas de scooters haremos uso de la organización secuencial:
-- Solicitud de reserva (clientes):
-  - Búsqueda de scooter.
-  - Elección del scooter.
-  - Solicitud de reserva.
-  - Entrega del scooter.
-  - Devolución del scooter.
+  Para el caso de organización visual utilizaremos el sistema jerárquico, lo que nos permitirá resaltar los componentes a los que deseamos que el usuario preste mayor atención. Esto dirigirá la atención del usuario a componentes de suma importancia.
 
-- Solicitud de la inscripción de scooters (owner):
-  - Inscripción de scooter a la plataforma.
-  - Establecer tarifa y disponibilidad del scooter.
-  - Publicar disponibilidad del scooter.
+  Para el proceso de reservas de scooters haremos uso de la organización secuencial:
+  - **Solicitud de reserva (clientes):**
+    - Búsqueda de scooter.
+    - Elección del scooter.
+    - Solicitud de reserva.
+    - Entrega del scooter.
+    - Devolución del scooter.
 
-Para los esquemas de organización utilizaremos los siguientes tipos:
-- Organización por orden cronológico para el historial de reservas de los clientes.
-- Organización por orden alfabético para la sección “Mis scooters” del Owner.
+  - **Solicitud de la inscripción de scooters (owner):**
+    - Inscripción de scooter a la plataforma.
+    - Establecer tarifa y disponibilidad del scooter.
+    - Publicar disponibilidad del scooter.
+
+  Para los esquemas de organización utilizaremos los siguientes tipos:
+  - Organización por orden cronológico para el historial de reservas de los clientes.
+  - Organización por orden alfabético para la sección “Mis scooters” del Owner.
 
 ### 4.2.2. Labeling Systems
 Para el uso de etiquetas de nuestro landing page, se ha elegido un lenguaje sencillo lo que permite a los usuarios 
@@ -2650,15 +2651,7 @@ En el Landing Page visualizará los siguientes botones de navegación:
     </tbody>
 </table>
 
-Para la página es importante, un sistema de etiquetado efectivo para permitir que los usuarios encuentren fácilmente la 
-información y los servicios que necesitan. Nuestro sistema de etiquetado considera cuidadosamente cómo presentar la 
-información en el sitio web. Después de establecer la organización visual y los esquemas de categorización del contenido, 
-se elegirá etiquetas claras y concisas que reflejan el lenguaje común y la comprensión del usuario con palabras comunes 
-no pasan de tres palabras. Nos aseguraremos de utilizar etiquetas intuitivas y fáciles de recordar para representar los 
-diferentes conjuntos de información y asociaciones entre ellos. También se utilizarán diferentes colores y diseños para 
-resaltar y diferenciar las etiquetas y conjuntos de información en mi sitio web. Para evitar confusiones y asegurar la 
-coherencia visual en todo el sitio web, se mantendrá un sistema de etiquetado consistente y se evitará el uso de términos 
-técnicos o jerga que podría ser confuso para los usuarios.
+Para la página es importante, un sistema de etiquetado efectivo para permitir que los usuarios encuentren fácilmente la información y los servicios que necesitan. Nuestro sistema de etiquetado considera cuidadosamente cómo presentar la información en el sitio web. Después de establecer la organización visual y los esquemas de categorización del contenido, se elegirá etiquetas claras y concisas que reflejan el lenguaje común y la comprensión del usuario con palabras comunes no pasan de tres palabras. Nos aseguraremos de utilizar etiquetas intuitivas y fáciles de recordar para representar los diferentes conjuntos de información y asociaciones entre ellos. También se utilizarán diferentes colores y diseños para resaltar y diferenciar las etiquetas y conjuntos de información en mi sitio web. Para evitar confusiones y asegurar la coherencia visual en todo el sitio web, se mantendrá un sistema de etiquetado consistente y se evitará el uso de términos técnicos o jerga que podría ser confuso para los usuarios.
 
 En el parte superior derecho del home page de la aplicación web contando con tres botones: 
 - Mi perfil: Muestrael perfil del usuario.
@@ -2678,23 +2671,18 @@ aplicación web para que los usuarios las encuentren con mayor facilidad.
 ![Tags App Web](https://github.com/user-attachments/assets/3be44467-aa38-4a40-9b37-9cb7a952d2ac)
 
 ### 4.2.4. Searching Systems
-En esta sección, implementaremos dos métodos para mejorar la experiencia de búsqueda de nuestros usuarios. 
-Se utilizará un sistema de búsqueda por filtros para refinar las búsquedas de la siguiente manera:
+En esta sección, implementaremos dos métodos para mejorar la experiencia de búsqueda de nuestros usuarios. Se utilizará un sistema de búsqueda por filtros para refinar las búsquedas de la siguiente manera:
 
 **Filtros Disponibles:**  
 - Disponibilidad de Ubicación: Este filtro permitirá a los usuarios buscar vehículos disponibles en ubicaciones 
 - específicas, lo que será útil para aquellos que deseen encontrar opciones cercanas a ellos.
 
-Con la implementación de estos sistemas de búsqueda y filtros, esperamos mejorar significativamente la experiencia de 
-nuestros usuarios al encontrar el vehículo perfecto para sus necesidades.  
+Con la implementación de estos sistemas de búsqueda y filtros, esperamos mejorar significativamente la experiencia de nuestros usuarios al encontrar el vehículo perfecto para sus necesidades.  
 
 ![Filtro](https://github.com/user-attachments/assets/3b1cbc6a-b1ec-435a-b59d-c7eb5d019cab)
 
 ### 4.2.5. Navigation Systems
-Como sistema de navegación en pantallas desktop optamos emplear una barra de menú horizontal que guiará al 
-usuario por las diferentes secciones con títulos claves y estáticos, esto facilitará al usuario a 
-tener todas las herramientas a la mano y así disfrutar de una mejor navegación. Mientras que en 
-dispositivos móviles se optó por emplear una barra de navegación desplegable.
+Como sistema de navegación en pantallas desktop optamos emplear una barra de menú horizontal que guiará al usuario por las diferentes secciones con títulos claves y estáticos, esto facilitará al usuario a tener todas las herramientas a la mano y así disfrutar de una mejor navegación. Mientras que en dispositivos móviles se optó por emplear una barra de navegación desplegable.
 
 ![Navbar web](https://github.com/user-attachments/assets/fda3de2b-4cc6-47a6-a8d1-b18697d6ea73)
 
@@ -2782,57 +2770,45 @@ dispositivos móviles se optó por emplear una barra de navegación desplegable.
 
 ### 4.4.4. Web Applications User Flow Diagrams  
 
-**User Goal 01:** El usuario quiere Registrarse, iniciar sesión, ver, editar y eliminar su cuenta.  
-Cuando el usuario quiera registrarse ingresa sus datos y se registra, cuando quiera iniciar sesión, ingresa 
-su correo y contraseña y se lo redirigirá a su perfil, el cual tendra las opciones de editar sus 
-datos y eliminar su cuenta con un previa confirmación. Cuenta con la opción de cancelar las operaciones.  
+**User Goal 01:** El usuario quiere Registrarse, iniciar sesión, ver, editar y eliminar su cuenta. Cuando el usuario quiera registrarse ingresa sus datos y se registra, cuando quiera iniciar sesión, ingresa su correo y contraseña y se lo redirigirá a su perfil, el cual tendra las opciones de editar sus datos y eliminar su cuenta con un previa confirmación. Cuenta con la opción de cancelar las operaciones.  
 
 ![UF_UserGoal1](https://github.com/user-attachments/assets/7065a576-560c-4ee5-b2a7-f7fbc3d923b9)
 
 **User Goal 02:** El Owner quiere ver, crear, editar y eliminar sus scooters.  
-Cuando el Owner se encuentre en la sección de sus scooters podrá verlos, publicar uno nuevo, editarlos y 
-eliminarlos.  Cuenta con la opción de cancelar las operaciones.  
+Cuando el Owner se encuentre en la sección de sus scooters podrá verlos, publicar uno nuevo, editarlos y eliminarlos.  Cuenta con la opción de cancelar las operaciones.  
 
 ![UF_UserGoal2](https://github.com/user-attachments/assets/fe80df66-b6a5-4dda-99c7-08cc2c5a69b7)
 
 **User Goal 03:** El Cliente quiere buscar y alquilar un scooter.  
-Cuando el Cliente quiera alquilar un scooter, puede buscarlo con el filtro por distrito, ver una 
-lista de todos los scooters disponibles, seleccionar el de su preferencia, alquilarlo y pagarlo. 
-Cuenta con la opción de cancelar las operaciones.  
+Cuando el Cliente quiera alquilar un scooter, puede buscarlo con el filtro por distrito, ver una lista de todos los scooters disponibles, seleccionar el de su preferencia, alquilarlo y pagarlo. Cuenta con la opción de cancelar las operaciones.  
 
 ![UF_UserGoal3](https://github.com/user-attachments/assets/57b44f93-04dd-4a4f-825f-78cff41bb273)
 
 
 **User Goal 04:** El Cliente quiere ver reseñas y dejar una reseña.  
-Cuando el Cliente quiera ver reseñas de un scooter puede ingresar a ellas entrando a detalles del scooter, 
-tambien puede dejar su reseña luego de alquilar un scooter. Cuenta con la opción de cancelarla.  
+Cuando el Cliente quiera ver reseñas de un scooter puede ingresar a ellas entrando a detalles del scooter, tambien puede dejar su reseña luego de alquilar un scooter. Cuenta con la opción de cancelarla.  
 
 ![UF_UserGoal4](https://github.com/user-attachments/assets/f194398a-95ce-4e75-ba52-4bc1cc90868c)
 
 **User Goal 05:** El Cliente quiere ver su historial y volver a alquilar un scooter.  
-Cuando el Cliente quiera ver su historial, puede acceder a esta opción desde su perfil y ver la lista de todos 
-los scooters que fueron alquilados por uno mismo, también puede volver a alquilar un scooter. Cuenta con la opción 
-de cancelar las operaciones.  
+Cuando el Cliente quiera ver su historial, puede acceder a esta opción desde su perfil y ver la lista de todos los scooters que fueron alquilados por uno mismo, también puede volver a alquilar un scooter. Cuenta con la opción de cancelar las operaciones.  
 
 ![UF_UserGoal5](https://github.com/user-attachments/assets/4c0efcd2-a931-446f-bae8-bb882ef445db)
 
 
 **User Goal 06:** El Cliente quiere eliminar su historial.  
-Cuando el Cliente quiera eliminar su historial puede hacerlo dando click a eliminar historial. Cuenta con la 
-opción de cancelar la operación.  
+Cuando el Cliente quiera eliminar su historial puede hacerlo dando click a eliminar historial. Cuenta con la opción de cancelar la operación.  
 
 ![UF_UserGoal6](https://github.com/user-attachments/assets/dcc7533c-ab7a-4883-9534-7d5ca947be7e)
 
 **User Goal 07:** El usuario quiere compar, ver, cambiar y cancelar suscripción.  
-Cuando el usuario quiere ver su suscripción, se dirigirá a Mi Sucripción y podrá verla, cambiarla y 
-cancelarla. Cuenta con la opción de cancelar las operaciones.  
+Cuando el usuario quiere ver su suscripción, se dirigirá a Mi Sucripción y podrá verla, cambiarla y cancelarla. Cuenta con la opción de cancelar las operaciones.  
 
 ![UF_UserGoal7](https://github.com/user-attachments/assets/35282287-cdcb-4d62-a3b3-ee9abf45e71e)
 
 ## 4.5. Web Applications Prototyping
 
-Nuestro prototipo está diseñado con estructura muy organizado, en los siguientes Link podrá ver los wireframes y 
-Mockups de nuestra aplicación web y landing page.
+Nuestro prototipo está diseñado con estructura muy organizado, en los siguientes Link podrá ver los wireframes y Mockups de nuestra aplicación web y landing page.
 
 Prototipo landing Page: [Diseño en figma](https://www.figma.com/design/cQuS3bFffjnBjo9RGwcl2D/Web-Application---MoviRent?node-id=5-658&t=v7TUuZ1SCVdOPNmo-1) 
 
@@ -3046,6 +3022,7 @@ Para desarrollar nuestro proyecto hemos requerido de algunas nomenclaturas, refe
   - Separar los nombres de las clases y ID con un guión
 
 - **Gherkin:** Es un lenguaje de dominio específico diseñado para escribir especificaciones legibles por humanos que describen el comportamiento del software en un formato estructurado y comprensible. En busca de una buena práctica, se utilizarán saltos de línea para mejorar el orden de los escenarios y poder diferenciarlos de forma más óptima. Además, se escribirán los escenarios bajo el formato “Given”, “When”, “Then”, “And” para definir claramente el contexto, la acción y el resultado esperado.
+- 
 **Herramientas:** Nos apoyamos de las tecnologias mas utilziadas y recomendadeas para el desarrollo web, como los son Webstorm, Git, GitHub, LudcidChart, Figma y Miro.
 
 **Convenciones de idioma:** Uso del idioma ingles para elaborar nuestro codigo, incluyendo la parte de la landing page.
