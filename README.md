@@ -31,6 +31,7 @@
 | Roy Linsh Fernandez Remon               | u20221B778   |
 
 
+
 **Setiembre, 2024**
 
 </div>
@@ -218,10 +219,11 @@ Para el desarrollo de la entrega TB1, se optó por dividir el trabajo de la sigu
 </table>
 
 
-![Commits informe](https://github.com/user-attachments/assets/c038f415-19aa-465d-9b29-bb3441532e43) {: style="width: 100%;"}
+<img src="https://github.com/user-attachments/assets/c038f415-19aa-465d-9b29-bb3441532e43" alt="Commits informe" width="80%" align="center">
 
 
 ---
+
 
 ## Student Outcome
 
