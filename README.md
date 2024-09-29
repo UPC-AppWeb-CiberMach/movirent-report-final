@@ -1,6 +1,6 @@
 ﻿<div align="center">
 
-![Universidad Peruana de Ciencias Aplicadas](https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png)
+![Universidad Peruana de Ciencias Aplicadas](https://static.wikia.nocookie.net/logopedia/images/2/2d/UPC-Logo-Actual.png/revision/latest/scale-to-width-down/384?cb=20230305155749&path-prefix=es)
 
 ### **Universidad Peruana de Ciencias Aplicadas**
 
@@ -180,7 +180,7 @@
 
 **TB1**
 
-Para el desarrollo de la entrega TB1, se opto por dividir el trabajo de la siguiente forma
+Para el desarrollo de la entrega TB1, se optó por dividir el trabajo de la siguiente forma:
 
 <table align="center" border="1" cellpadding="10">
     <thead>
@@ -192,35 +192,36 @@ Para el desarrollo de la entrega TB1, se opto por dividir el trabajo de la sigui
     <tbody>
         <tr>
             <td>Espinoza Delgado, Bárbara Antonella</td>
-            <td>Capítulo 1, User Stories, Product Backlog, Style Guidelines, Landing Page UI Design, Web Application UX/UI, Information Architecture, Database Diagram, Sprint Planning y Sprint Backlog
-Landing Page</td>
+            <td>Capítulo 1, User Stories, Product Backlog, Style Guidelines, Landing Page UI Design, Web Application UX/UI, Information Architecture, Database Diagram, Sprint Planning y Sprint Backlog.</td>
         </tr>
         <tr>
             <td>Velarde Gonzales, Néstor</td>
-            <td>Entrevistas Owner, User histories funcionales, Software Configuration Management, Diseño de prototipado para landing en figma</td>
+            <td>Entrevistas Owner, User historias funcionales, Software Configuration Management, Diseño de prototipado para landing en Figma.</td>
         </tr>
         <tr>
             <td>Diestra Zambrano, Adriana María</td>
-            <td>Entrevistas y Bounded Context diagrams.</td>
+            <td>Entrevistas y Bounded Context Diagrams.</td>
         </tr>
         <tr>
-            <td>Hidalgo Lopez, Mathias Adriano</td>
-            <td>Entrevista Cliente, User Persona, Empathy Mapping, To-Be Mapping, Impact Mapping</td>
+            <td>Hidalgo López, Mathias Adriano</td>
+            <td>Entrevista Cliente, User Persona, Empathy Mapping, To-Be Mapping, Impact Mapping.</td>
         </tr>
         <tr>
             <td>Jara Benitez, Quique Vladimir</td>
-            <td>Entrevista, Redacción del Análisis competitivo, Estrategias frente a competidores, User Persona, User Task Matrix, user journey mapping, As-Is Scenario, Ubiquitous Language, Software Configuration, Software Development, Source Code Management, Source Code Style, Software Deployment, Testing Suite, Execution evidence, Service Documentation, Software Deployment y Team Collaboration Insights.</td>
+            <td>Entrevista, Redacción del Análisis competitivo, Estrategias frente a competidores, User Persona, User Task Matrix, User Journey Mapping, As-Is Scenario, Ubiquitous Language, Software Configuration, Software Development, Source Code Management, Source Code Style, Software Deployment, Testing Suite, Execution Evidence, Service Documentation, Software Deployment y Team Collaboration Insights.</td>
         </tr>
-	    <tr>
+        <tr>
             <td>Fernandez Remon, Roy Linsh</td>
-            <td>Entrevistas y Diagrama de clases.</td>
+            <td>Entrevistas y Diagrama de Clases.</td>
         </tr>
     </tbody>
 </table>
 
-![Commits informe](https://github.com/user-attachments/assets/c038f415-19aa-465d-9b29-bb3441532e43)
 
-<div style="page-break-before: always;"></div>
+![Commits informe](https://github.com/user-attachments/assets/c038f415-19aa-465d-9b29-bb3441532e43) {: style="width: 100%;"}
+
+
+---
 
 ## Student Outcome
 
@@ -293,7 +294,8 @@ del ABET – EAC - Student Outcome 5.
 
 
 
-<div style="page-break-before: always;"></div> 
+---
+
 
 
 ## Project Report Online
@@ -392,7 +394,12 @@ URL Project Report en Github: [URL Project Report en GitHub](https://github.com/
 
 - [5.4. Video about the product](#54-video-about-the-product)
 
-<div style="page-break-before: always;"></div>
+
+
+---
+
+
+
 
 # Capítulo I: Introducción
 
@@ -689,10 +696,14 @@ Zona geográfica en la que viven: Zonas urbanas.
 
 Aspecto psicográfico: Buscan alquilar scooters eléctricos para momentos específicos y no ven viable comprar uno propio.
 
-<div style="page-break-before: always;"></div>
+
+
+---
+
 
 
 # Capítulo II: Requirements Elicitation & Analysis
+
 ## 2.1. Competidores.
 
 <div style="margin-left: 30px;">
@@ -1475,7 +1486,7 @@ objetivos.
 
 ## 2.4. Ubiquitous Language.
 
-<table border="1">
+<table border="1px" align="center">
     <thead>
         <tr>
             <th>Término (Inglés)</th>
@@ -1583,9 +1594,13 @@ objetivos.
 </table>
 
 
-<div style="page-break-before: always;"></div>
+
+---
+
+
 
 # Capítulo III: Requirements Specification
+
 ## 3.1. To-Be Scenario Mapping
 
 Aquí se expone el análisis de los escenarios, organizando una tabla que detalla la situación que necesita ser optimizada para el segmento objetivo. Se examinan los pasos a seguir y se describe cómo se perciben. 
@@ -1601,7 +1616,7 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
 
 ## 3.2. User Stories
 
-<table >
+<table border="1px" align="center">
     <tr>
         <th>Epic / Story ID</th>
         <th>Título</th>
@@ -2269,7 +2284,7 @@ En este apartado se muestra los impact mapping de nuestros segmentos objetivos:
 
 ## 3.4. Product Backlog    
         
-<table border="1px" style="text-align: center; width: 100%;">
+<table border="1px" align="center">
 <tr>
     <td valign="top"> #Orden </td>
     <td valign="top"> User Story Id </td>
@@ -2464,7 +2479,7 @@ En este apartado se muestra los impact mapping de nuestros segmentos objetivos:
 
 
 
-<div style="page-break-before: always;"></div>
+---
 
 
 
@@ -2475,10 +2490,12 @@ En este apartado se muestra los impact mapping de nuestros segmentos objetivos:
 ### 4.1.1. General Style Guidelines
 
 #### **Misión**  
-Proporcionar a nuestros clientes una plataforma donde puedan alquilar de manera rápida, sencilla y segura scooters eléctricos que se adecúen a sus necesidades.
+Proporcionar a nuestros clientes una plataforma donde puedan alquilar de manera rápida, sencilla y segura 
+scooters eléctricos que se adecúen a sus necesidades.
 
 #### **Visión**  
-Ser la aplicación web líder en el alquiler de scooters eléctricos, promoción del transporte ecoamigable y reconocidos por grupos y asociaciones de emprendimiento y medio ambiente.
+Ser la aplicación web líder en el alquiler de scooters eléctricos, promoción del transporte ecoamigable y 
+reconocidos por grupos y asociaciones de emprendimiento y medio ambiente.
 
 #### **Brand Name**
 El nombre del producto es MoviRent, el cual cuenta con un logo representado por el icono de un scooter y un rayo que 
@@ -2507,21 +2524,30 @@ Tamaño de letra: 42px-20px
 Interlineado: 1.5px
 
 #### **Tono de comunicación y lenguaje aplicado**  
-Usaremos un tono  de comunicación entusiasta y amigable en toda la web, puesto que consideramos que sería adecuado para nuestro tipo de aplicación al buscar incentivar el uso concurrido de esta. Además haremos uso de un lenguaje popular para ser inclusivos con todo tipo de nivel de lenguaje entre nuestros usuarios.
+Usaremos un tono  de comunicación entusiasta y amigable en toda la web, puesto que consideramos que sería adecuado 
+para nuestro tipo de aplicación al buscar incentivar el uso concurrido de esta. Además haremos uso de un lenguaje 
+popular para ser inclusivos con todo tipo de nivel de lenguaje entre nuestros usuarios.
 
 ### 4.1.2. Web Style Guidelines 
 
-Paleta de colores: Asignamos al color verde y lila como los colores más representativos de la web a demás del color blanco para mostrar una disminución en la recarga de colores para que la atención de los usuarios vaya hacia los servicios y no se desvíe a otra parte menos relevante.
+Paleta de colores: Asignamos al color verde y lila como los colores más representativos de la web a demás del color 
+blanco para mostrar una disminución en la recarga de colores para que la atención de los usuarios vaya hacia los 
+servicios y no se desvíe a otra parte menos relevante.
 
-Diseño Responsivo: La aplicación debe ser compatible con diferentes dispositivos y tamaños de pantalla para una experiencia de usuario consistente en todos los dispositivos.
+Diseño Responsivo: La aplicación debe ser compatible con diferentes dispositivos y tamaños de pantalla para una 
+experiencia de usuario consistente en todos los dispositivos.
 
-Navegación Intuitiva: Estructura de navegación clara y fácil de usar que permita a los usuarios encontrar rápidamente la información que están buscando, se prioriza la simplicidad.
+Navegación Intuitiva: Estructura de navegación clara y fácil de usar que permita a los usuarios encontrar rápidamente 
+la información que están buscando, se prioriza la simplicidad.
 
-Carga Rápida: Optimización del rendimiento de la aplicación para tiempos de carga rápidos, lo que incluye la optimización de imágenes y el uso de técnicas de almacenamiento en caché así como los scripts cargados al inicio de la página.
+Carga Rápida: Optimización del rendimiento de la aplicación para tiempos de carga rápidos, lo que incluye la 
+optimización de imágenes y el uso de técnicas de almacenamiento en caché así como los scripts cargados al inicio de la página.
 
-Diseño de Tarjetas: Diseños de tarjetas para mostrar la información de manera visualmente atractiva y organizada, especialmente para la presentación de destinos y detalles de viajes.
+Diseño de Tarjetas: Diseños de tarjetas para mostrar la información de manera visualmente atractiva y organizada, 
+especialmente para la presentación de destinos y detalles de viajes.
 
-Botones de la web: Los botones utilizados para la web serán botones rectangulares con esquinas circulares, ademas de tener botones en forma de texto en la navbar para una mejor navegación en la aplicación.
+Botones de la web: Los botones utilizados para la web serán botones rectangulares con esquinas circulares, ademas de tener 
+botones en forma de texto en la navbar para una mejor navegación en la aplicación.
 
 ![Botones](https://github.com/user-attachments/assets/be33d4a1-f502-4f78-84c1-11eae1f82dee)
 
@@ -2589,7 +2615,7 @@ intuitiva.
 
 En el Landing Page visualizará los siguientes botones de navegación:
 
-<table border="1" align="center">
+<table border="1px" align="center">
     <tbody>
         <tr>
             <td>Etiqueta</td>
@@ -2650,10 +2676,12 @@ aplicación web para que los usuarios las encuentren con mayor facilidad.
 ![Tags App Web](https://github.com/user-attachments/assets/3be44467-aa38-4a40-9b37-9cb7a952d2ac)
 
 ### 4.2.4. Searching Systems
-En esta sección, implementaremos dos métodos para mejorar la experiencia de búsqueda de nuestros usuarios. Se utilizará un sistema de búsqueda por filtros para refinar las búsquedas de la siguiente manera:
+En esta sección, implementaremos dos métodos para mejorar la experiencia de búsqueda de nuestros usuarios. 
+Se utilizará un sistema de búsqueda por filtros para refinar las búsquedas de la siguiente manera:
 
 **Filtros Disponibles:**  
-- Disponibilidad de Ubicación: Este filtro permitirá a los usuarios buscar vehículos disponibles en ubicaciones específicas, lo que será útil para aquellos que deseen encontrar opciones cercanas a ellos.
+- Disponibilidad de Ubicación: Este filtro permitirá a los usuarios buscar vehículos disponibles en ubicaciones 
+- específicas, lo que será útil para aquellos que deseen encontrar opciones cercanas a ellos.
 
 Con la implementación de estos sistemas de búsqueda y filtros, esperamos mejorar significativamente la experiencia de 
 nuestros usuarios al encontrar el vehículo perfecto para sus necesidades.  
@@ -2836,213 +2864,48 @@ Link del video del Prototipado de Landing Page: [Ver Video](https://n9.cl/9jfu0)
 
 ### 4.7.2. Class Dictionary
 
-<table align="center" border="1px">
-  <tr>
-    <th>Clase</th>
-    <th>Descripción</th>
-    <th>Tipo de dato</th>
-  </tr>
-  <tr>
-    <td><strong>Profile</strong></td>
-    <td>-</td>
-    <td>-</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>id: Identificación personal del profile para cada usuario</td>
-    <td>Int</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>email: Correo electrónico del usuario</td>
-    <td>String</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>nombre: Nombre que contendrá el profile de los usuarios</td>
-    <td>String</td>
-  </tr>
-  <tr>
-    <td><strong>AuditableAbstractAggregateRoot</strong></td>
-    <td>-</td>
-    <td>-</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>id: Identificación para el AuditableAbstractAggregateRoot</td>
-    <td>Int</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>updateAt: Fecha de actualización en la página web</td>
-    <td>Date</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>getID(): Obtiene el Id de los usuarios de la plataforma</td>
-    <td>Int</td>
-  </tr>
-  <tr>
-    <td><strong>scooterDetails</strong></td>
-    <td>-</td>
-    <td>-</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>marca: Marca del Scooter que desean alquilar</td>
-    <td>String</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>kilometraje: Kilometraje de uso de cada Scooter en el sistema</td>
-    <td>Double</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>estadoBateria: Estado de la batería del Scooter</td>
-    <td>String</td>
-  </tr>
-  <tr>
-    <td><strong>Reseña</strong></td>
-    <td>-</td>
-    <td>-</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>id: Identificador de las reseñas puestas por los usuarios</td>
-    <td>Int</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>puntuacion: Puntuación de cada Scooter utilizado por algún usuario</td>
-    <td>int</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>comentario: Comentario sobre la experiencia de uso con cada Scooter</td>
-    <td>String</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>fechaReseña: Fecha en la que fue realizada cada reseña</td>
-    <td>Date</td>
-  </tr>
-  <tr>
-    <td><strong>Alquiler</strong></td>
-    <td>-</td>
-    <td>-</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>id: Identificador de cada alquiler realizado por el usuario</td>
-    <td>Int</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>scooterId: Identificador de cada scooter en el sistema</td>
-    <td>Int</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>precio: Precio del alquiler de cada scooter</td>
-    <td>Double</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>descripcion: Descripción previa de los scooters que le interesen</td>
-    <td>String</td>
-  </tr>
-  <tr>
-    <td><strong>Reservation</strong></td>
-    <td>-</td>
-    <td>-</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>id: Identificador de cada reserva realizada en la plataforma</td>
-    <td>int</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>reservationDate: Fechas de inicio y fin de los alquileres de Scooters</td>
-    <td>Date</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>paymentDetails: Detalles de pago de los alquileres</td>
-    <td>Double</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>status: Estado de disponibilidad de un Scooter</td>
-    <td>Void</td>
-  </tr>
-  <tr>
-    <td><strong>User</strong></td>
-    <td>-</td>
-    <td>-</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>id: Identificador único del usuario</td>
-    <td>Int</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>email: Dirección de correo electrónico del usuario</td>
-    <td>String</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>password: Contraseña del usuario para acceder al sistema</td>
-    <td>String</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>roles: Roles que puede adquirir un usuario en la plataforma</td>
-    <td>set</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>createdAt: Fecha de creación de la cuenta</td>
-    <td>Date</td>
-  </tr>
-  <tr>
-    <td><strong>Scooter</strong></td>
-    <td>-</td>
-    <td>-</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>id: Identificador para cada Scooter añadido al sistema</td>
-    <td>Int</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>scooterDetails: Detalles técnicos de los Scooters en el sistema</td>
-    <td>Void</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>Location: Ubicación de cada Scooter mediante coordenadas</td>
-    <td>Double</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>maintenanceRecords: Mantenimientos que tuvo cada Scooter</td>
-    <td>Lista</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>status: Estado de disponibilidad de cada Scooter</td>
-    <td>String</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>estado: Estado general del vehículo</td>
-    <td>String</td>
-  </tr>
-</table>
+| **Clase**                       | **Descripción**                                                                 | **Tipo de dato** |
+|---------------------------------|---------------------------------------------------------------------------------|-----------------|
+| **Profile**                     | -                                                                               | -               |
+|                                 | id: Identificación personal del profile para cada usuario                       | Int             |
+|                                 | email: Correo electrónico del usuario                                           | String          |
+|                                 | nombre: Nombre que contendrá el profile de los usuarios                         | String          |
+| **AuditableAbstractAggregateRoot** | -                                                                               | -               |
+|                                 | id: Identificación para el AuditableAbstractAggregateRoot                       | Int             |
+|                                 | updateAt: Fecha de actualización en la página web                               | Date            |
+|                                 | getID(): Obtiene el Id de los usuarios de la plataforma                         | Int             |
+| **scooterDetails**              | -                                                                               | -               |
+|                                 | marca: Marca del Scooter que desean alquilar                                     | String          |
+|                                 | kilometraje: Kilometraje de uso de cada Scooter en el sistema                   | Double          |
+|                                 | estadoBateria: Estado de la batería del Scooter                                 | String          |
+| **Reseña**                      | -                                                                               | -               |
+|                                 | id: Identificador de las reseñas puestas por los usuarios                       | Int             |
+|                                 | puntuacion: Puntuación de cada Scooter utilizado por algún usuario              | int             |
+|                                 | comentario: Comentario sobre la experiencia de uso con cada Scooter             | String          |
+|                                 | fechaReseña: Fecha en la que fue realizada cada reseña                          | Date            |
+| **Alquiler**                    | -                                                                               | -               |
+|                                 | id: Identificador de cada alquiler realizado por el usuario                     | Int             |
+|                                 | scooterId: Identificador de cada scooter en el sistema                          | Int             |
+|                                 | precio: Precio del alquiler de cada scooter                                     | Double          |
+|                                 | descripcion: Descripción previa de los scooters que le interesen                | String          |
+| **Reservation**                 | -                                                                               | -               |
+|                                 | id: Identificador de cada reserva realizada en la plataforma                    | int             |
+|                                 | reservationDate: Fechas de inicio y fin de los alquileres de Scooters           | Date            |
+|                                 | paymentDetails: Detalles de pago de los alquileres                              | Double          |
+|                                 | status: Estado de disponibilidad de un Scooter                                  | Void            |
+| **User**                        | -                                                                               | -               |
+|                                 | id: Identificador único del usuario                                             | Int             |
+|                                 | email: Dirección de correo electrónico del usuario                              | String          |
+|                                 | password: Contraseña del usuario para acceder al sistema                        | String          |
+|                                 | roles: Roles que puede adquirir un usuario en la plataforma                     | set             |
+|                                 | createdAt: Fecha de creación de la cuenta                                       | Date            |
+| **Scooter**                     | -                                                                               | -               |
+|                                 | id: Identificador para cada Scooter añadido al sistema                          | Int             |
+|                                 | scooterDetails: Detalles técnicos de los Scooters en el sistema                 | Void            |
+|                                 | Location: Ubicación de cada Scooter mediante coordenadas                        | Double          |
+|                                 | maintenanceRecords: Mantenimientos que tuvo cada Scooter                        | Lista           |
+|                                 | status: Estado de disponibilidad de cada Scooter                                | String          |
+|                                 | estado: Estado general del vehículo                                             | String          |
 
 
 ## 4.8. Database Design
@@ -3054,7 +2917,9 @@ Para desarrollar la estructura de diagrama de base de datos usamos la herramient
 ![Web Database Diagram](https://github.com/user-attachments/assets/abc1c1fd-eb6d-4bd1-9a52-c93867822c18)
 
 
-<div style="page-break-before: always;"></div>
+
+---
+
 
 
 # Capítulo V: Product Implementation, Validation & Deployment
@@ -3220,7 +3085,7 @@ Para desplegar la solución se realizó los siguientes pasos:
 
 #### 5.2.1.1. Sprint Planning 1
 
-<table align="center" border="1px">
+<table border="1px" align="center">
     <tr>
         <th>Sprint #</th>
         <th>Sprint 1</th>
@@ -3289,7 +3154,7 @@ Para desplegar la solución se realizó los siguientes pasos:
 
 Link de Trello: [Ver trello](https://trello.com/invite/b/66ccf1855ff6c24fe148a766/ATTI34b50c784e97d0a7ba15dd3b49b56ca5D82CFA4B/sprint-1) 
 
-<table align="center" border="1px"> 
+<table border="1px" align="center"> 
    <tr>
       <th colspan="4"> Sprint # </th>
       <th colspan="7"> Sprint 1 </th>
@@ -3676,7 +3541,7 @@ desplegada junto a los pasos realizados para publicarla:
 
 Colaboración por alumno en la Landing Page:
 
-<table>
+<table border="1px" align="center">
   <tr>
     <th>Alumno</th>
     <th>Actividad</th>
@@ -3709,7 +3574,7 @@ Colaboración por alumno en la Landing Page:
  
 Tabla para poder identificarnos:
 
-<table>
+<table border="1px" align="center">
   <tr>
     <th>Username (Github)</th>
     <th>Nombre</th>
@@ -3768,7 +3633,7 @@ creación de secciones, corrección de bugs, entre otras cosas.
 
 #### 5.2.2.1. Sprint Planning 2
 
-<table align="center" border="1px">
+<table border="1px" align="center">
      <tr> 
         <th> Sprint # </th>
         <th> Sprint 2 </th>
@@ -3832,7 +3697,7 @@ creación de secciones, corrección de bugs, entre otras cosas.
 
   #### 5.2.2.2. Sprint Backlog 2
 
-<table align="center" border="1px"> 
+<table border="1px" align="center"> 
    <tr>
       <th colspan="4"> Sprint # </th>
       <th colspan="7"> Sprint 2 </th>
@@ -3928,7 +3793,7 @@ creación de secciones, corrección de bugs, entre otras cosas.
 
 En esta sección se detallarán los commits realizados en el desarrollo del frontend de la aplicación web.
 
-<table align="center" border="1px">
+<table border="1px" align="center">
   <tr>
     <th>User/Repository</th>
     <th>Branch</th>
@@ -4087,7 +3952,7 @@ En esta sección se detallarán los commits realizados en el desarrollo del fron
 
 #### 5.2.2.4. Testing Suite Evidence for Sprint Review
 
-<table align="center" border="1px">
+<table border="1px" align="center">
   <tr>
     <th>User/Repository</th>
     <th>Branch</th>
@@ -4284,7 +4149,7 @@ Pasos:
 
 Colaboración por alumno en la aplicación web:
 
-<table align="center" border="1px">
+<table border="1px" align="center">
   <tr>
     <th>Alumno</th>
     <th>Actividad</th>
@@ -4317,7 +4182,7 @@ Colaboración por alumno en la aplicación web:
  
 Tabla para poder identificarnos:
 
-<table align="center" border="1px">
+<table border="1px" align="center">
   <tr>
     <th>Username (Github)</th>
     <th>Nombre</th>
@@ -4355,7 +4220,9 @@ Para este sprint se ha realizado la implementación de la web app, para esto los
 ![Captura de pantalla 2024-09-25 161546](https://github.com/user-attachments/assets/53fc2e7d-ffd5-4905-a770-bf01ba552707)
 
 
-<div style="page-break-before: always;"></div>
+
+---
+
 
 
 ### [Conclusiones](#conclusiones)
@@ -4397,15 +4264,17 @@ y promuevan el uso de vehículos ecológicos.
 
 - Soto Vargas, L. (2024). *Sistema de priorización de proyectos viales en Lima Metropolitana utilizando modelo de tráfico de Beckmann y teoría de grafos para mejorar la gestión de proyectos de transporte urbano*. Recuperado de [https://repositorio.unfv.edu.pe/handle/20.500.13084/8963](https://repositorio.unfv.edu.pe/handle/20.500.13084/8963) [Consulta: 24 de agosto, 2024].
 
-<div style="page-break-before: always;"></div>
+
+
+---
+
+
 
 ### [Anexos](#anexos)
 
 Enlaces a los desarrollos de trabajo del equipo CiberMach.
 
-<div align="center">
-
-<table align="center" border="1px">
+<table border="1px" align="center">
     <tbody>
         <tr>
             <th style="width: 45%;">Descripción</th>
@@ -4491,4 +4360,3 @@ Enlaces a los desarrollos de trabajo del equipo CiberMach.
     </tbody>
 </table>
 
-</div>
