@@ -1,4 +1,4 @@
-﻿<center>
+﻿<div align="center">
 
   ![Universidad Peruana de Ciencias Aplicadas](https://static.wikia.nocookie.net/logopedia/images/2/2d/UPC-Logo-Actual.png/revision/latest/scale-to-width-down/384?cb=20230305155749&path-prefix=es)
   
@@ -20,7 +20,7 @@
   
   ***Integrantes:***
   
-  <table border="1" align="center">
+  <table border="1px" align="center">
     <thead>
         <tr>
             <th>Nombre</th>
@@ -57,7 +57,7 @@
   
   **Octubre, 2024**
 
-</center>
+</div>
 
 <div style="page-break-before: always;"></div>
 
