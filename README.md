@@ -1,42 +1,39 @@
-﻿<div align="center">
+﻿<center>
 
-![Universidad Peruana de Ciencias Aplicadas](https://static.wikia.nocookie.net/logopedia/images/2/2d/UPC-Logo-Actual.png/revision/latest/scale-to-width-down/384?cb=20230305155749&path-prefix=es)
+  ![Universidad Peruana de Ciencias Aplicadas](https://static.wikia.nocookie.net/logopedia/images/2/2d/UPC-Logo-Actual.png/revision/latest/scale-to-width-down/384?cb=20230305155749&path-prefix=es)
+  
+  **Universidad Peruana de Ciencias Aplicadas**
+  
+  Ingeniería de Software
+  
+  **CURSO:** SI730 Aplicaciones Web - SI92
+  
+  **SECCIÓN:** SI92
+  
+  **Profesor:** Naldo Reupo-Musayon Gastul
+  
+  ***Informe de Trabajo Final***
+  
+  **Nombre del startup:** CiberMach
+  
+  **Nombre del producto:** MoviRent
+  
+  ***Integrantes:***
+  
+  | **Nombre**                              | **Código**   |
+  | --------------------------------------- | ------------ |
+  | Adriana María Diestra Zambrano          | u202218110   |
+  | Bárbara Antonella Espinoza Delgado      | u201911727   |
+  | Mathias Adriano Hidalgo Lopez           | u202213222   |
+  | Néstor Velarde Gonzales                 | u20211C221   |
+  | Quique Vladimir Jara Benites            | u202022365   |
+  | Roy Linsh Fernandez Remon               | u20221B778   |
+  
+  **Octubre, 2024**
 
-### **Universidad Peruana de Ciencias Aplicadas**
+</center>
 
-### Ingeniería de Software
-
-### **CURSO:** SI730 Aplicaciones Web - SI92
-
-### **SECCIÓN:** SI92
-
-### **Profesor:** Naldo Reupo-Musayon Gastulo
-
-### **Informe de Trabajo Final**
-
-### **Nombre del startup:** CiberMach
-
-### **Nombre del producto:** MoviRent
-
-**Integrantes:**
-
-
-| **Nombre**                              | **Código**   |
-| --------------------------------------- | ------------ |
-| Adriana María Diestra Zambrano          | u202218110   |
-| Bárbara Antonella Espinoza Delgado      | u201911727   |
-| Mathias Adriano Hidalgo Lopez           | u202213222   |
-| Néstor Velarde Gonzales                 | u20211C221   |
-| Quique Vladimir Jara Benites            | u202022365   |
-| Roy Linsh Fernandez Remon               | u20221B778   |
-
-
-
-**Setiembre, 2024**
-
-</div>
-
----
+<div style="page-break-before: always;"></div>
 
 ## Registro de versiones del informe
 
@@ -173,9 +170,7 @@
   </tbody>
 </table>
 
-
----
-
+<div style="page-break-before: always;"></div>
 
 ## Project Report Collaboration Insights
 
@@ -222,8 +217,7 @@ Para el desarrollo de la entrega TB1, se optó por dividir el trabajo de la sigu
 <img src="https://github.com/user-attachments/assets/c038f415-19aa-465d-9b29-bb3441532e43" alt="Commits informe" width="80%" align="center">
 
 
----
-
+<div style="page-break-before: always;"></div>
 
 ## Student Outcome
 
@@ -398,7 +392,7 @@ URL Project Report en Github: [URL Project Report en GitHub](https://github.com/
 
 
 
----
+<div style="page-break-before: always;"></div>
 
 
 
@@ -619,16 +613,17 @@ Búsqueda de ingresos extra: Aborda la dificultad que tienen las personas hoy en
 Los arrendatarios usarán la plataforma cuando quieran poner en alquiler un scooter eléctrico.  
 Los arrendadores la utilizarán para alquilar un scooter cuando lo necesiten.  
 
-¿Qué características son importantes?  
-- Registro de scooter: Funcionalidades para poner en alquiler un scooter.
+¿Qué características son importantes?
+- Registro de scooter: Funcionalidades para poner en alquiler un scooter,
 - Búsqueda y Filtros: Funcionalidades para buscar scooters que se adecuen a las preferencias del usuario.
 
 ¿Cómo debería verse y comportarse nuestro producto?
-- Diseño Limpio y Atractivo: Interfaz intuitiva con un enfoque en las fotos e información precisa .
+- Diseño Limpio y Atractivo: Interfaz intuitiva con un enfoque en las fotos e información precisa.
 - Facilidad de Uso: Navegación sencilla y procesos claros para cargar contenido.
 - Transparencia en Compensación: Información clara sobre cómo se alquila un scooter.  
 
 **Business Assumptions**  
+
 1. Creemos que nuestros clientes necesitan una plataforma que les permita alquilar y dar en alquiler scooters eléctricos de manera rápida y sencilla. Los arrendadores buscan personas que alquilen sus scooters mientras que los arrendatarios buscan alquilar el scooter ideal para sus necesidades.
 
 2. Estas necesidades se pueden resolver con una aplicación web que de alquiler de scooters eléctricos y permita a las personas dueñas de uno o más scooters obtengan un ingreso extra.  
@@ -650,6 +645,7 @@ Los arrendadores la utilizarán para alquilar un scooter cuando lo necesiten.
 9. Resolveremos esto a través de fomentar una comunidad activa, garantizar la remuneración a los arrendadores y estar en constante mejora de calidad de la aplicación.  
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
+
 Utilizando los bussines outcomes, user outcomes y solutions se formularon las siguientes hipótesis:  
 
 **Cliente:**  
@@ -665,6 +661,7 @@ Utilizando los bussines outcomes, user outcomes y solutions se formularon las si
 ![Lean UX Canvas](https://github.com/user-attachments/assets/cf260007-279c-463a-9ed3-f6399dc5bad9)
 
 ## 1.3. Segmentos Objetivo
+
 Según Huamanraime y Echevarría (2022) Se ha observado a adultos y adultos mayores hacer uso de los e-scooters, 
 principalmente en distritos con un alto índice de desarrollo humano, como Miraflores o San Isidro, por lo que 
 nuestros segmentos objetivo del proyecto propuesto son dos, a continuación los presentamos:  
@@ -701,11 +698,7 @@ Zona geográfica en la que viven: Zonas urbanas.
 
 Aspecto psicográfico: Buscan alquilar scooters eléctricos para momentos específicos y no ven viable comprar uno propio.
 
-
-
----
-
-
+<div style="page-break-before: always;"></div>
 
 # Capítulo II: Requirements Elicitation & Analysis
 
@@ -1599,7 +1592,7 @@ objetivos.
 
 
 
----
+<div style="page-break-before: always;"></div>
 
 
 
@@ -2482,9 +2475,7 @@ En este apartado se muestra los impact mapping de nuestros segmentos objetivos:
 </table>
 
 
-
----
-
+<div style="page-break-before: always;"></div>
 
 
 # Capítulo IV: Product Design
@@ -2493,69 +2484,54 @@ En este apartado se muestra los impact mapping de nuestros segmentos objetivos:
 
 ### 4.1.1. General Style Guidelines
 
-#### **Misión**  
+**Misión**  
+Proporcionar a nuestros clientes una plataforma donde puedan alquilar de manera rápida, sencilla y segura scooters eléctricos que se adecúen a sus necesidades.
 
-Proporcionar a nuestros clientes una plataforma donde puedan alquilar de manera rápida, sencilla y segura 
-scooters eléctricos que se adecúen a sus necesidades.
+**Visión**  
+Ser la aplicación web líder en el alquiler de scooters eléctricos, promoviendo el transporte ecoamigable y siendo reconocidos por grupos y asociaciones de emprendimiento y medio ambiente.
 
-#### **Visión**  
+### Brand Name
 
-Ser la aplicación web líder en el alquiler de scooters eléctricos, promoción del transporte ecoamigable y 
-reconocidos por grupos y asociaciones de emprendimiento y medio ambiente.
-
-#### **Brand Name**
-
-El nombre del producto es MoviRent, el cual cuenta con un logo representado por el icono de un scooter y un rayo que simboliza que el vehículo funciona electricamente con el color verde como el más predominante simbolizando el medio ambiente.  
+El nombre del producto es **MoviRent**, el cual cuenta con un logo representado por el ícono de un scooter y un rayo que simboliza que el vehículo funciona eléctricamente. El color verde es el más predominante, simbolizando el medio ambiente.
 
 ![Logo](https://github.com/user-attachments/assets/4117bfeb-a0f2-4a3c-9a45-13fb105fb737)
 
-#### **Colores**
+#### Colores
 
-Decidimos elegir los colores verde claro, lila y azul al ser una combinación ligera y agradable a la vista de 
-usuarios de diversad edades.  
+Hemos elegido una paleta de colores que incluye **verde claro**, **lila** y **azul**, creando una combinación ligera y agradable a la vista para usuarios de diversas edades.
 
 ![Paleta de colores](https://github.com/user-attachments/assets/4725a7ff-e7ac-4bf4-b1fd-a60d3bc9c98f)
 
-#### **Tipografía**
+#### Tipografía
 
-Elegimos la fuente Open Sans porque es legible y popular en el diseño de aplicaciones web, por lo que nos aseguramos de que nuestros clientes con toda clase de necesidades visuales logren leer facilmente el contenido de nuestra web. 
+Elegimos la fuente **Open Sans** porque es legible y popular en el diseño de aplicaciones web. Esto asegura que nuestros clientes, con toda clase de necesidades visuales, logren leer fácilmente el contenido de nuestra web.
 
 ![Fuentes](https://github.com/user-attachments/assets/75992501-cdf2-4a55-bc42-dd726bab6adc)
 
-#### **Espaciado** 
+#### Espaciado
 
-Para nuestra aplicación usaremos el espaciado x1.5, el cual es un poco mas amplio que el usual, lo que evitará que el texto se sienta pesado o genere complicaciones de legibilidad
+Para nuestra aplicación, usaremos un espaciado de **1.5**, que es un poco más amplio que el habitual. Esto evitará que el texto se sienta pesado o genere complicaciones de legibilidad.
 
-Tamaño de letra: 42px-20px
+- **Tamaño de letra:** 42px - 20px
+- **Interlineado:** 1.5px
 
-Interlineado: 1.5px
+#### Tono de comunicación y lenguaje aplicado  
 
-#### **Tono de comunicación y lenguaje aplicado**  
+Usaremos un tono de comunicación **entusiasta y amigable** en toda la web, ya que consideramos que es adecuado para nuestro tipo de aplicación al buscar incentivar el uso frecuente de esta. Además, haremos uso de un lenguaje popular para ser inclusivos con todo tipo de niveles lingüísticos entre nuestros usuarios.
 
-Usaremos un tono  de comunicación entusiasta y amigable en toda la web, puesto que consideramos que sería adecuado 
-para nuestro tipo de aplicación al buscar incentivar el uso concurrido de esta. Además haremos uso de un lenguaje 
-popular para ser inclusivos con todo tipo de nivel de lenguaje entre nuestros usuarios.
+### 4.1.2. Web Style Guidelines
 
-### 4.1.2. Web Style Guidelines 
+- **Paleta de colores:** Asignamos los colores **verde** y **lila** como los más representativos de la web, además del color blanco, para reducir la saturación cromática y dirigir la atención de los usuarios hacia los servicios.
 
-**Paleta de colores:** Asignamos al color verde y lila como los colores más representativos de la web a demás del color 
-blanco para mostrar una disminución en la recarga de colores para que la atención de los usuarios vaya hacia los 
-servicios y no se desvíe a otra parte menos relevante.
+- **Diseño Responsivo:** La aplicación debe ser compatible con diferentes dispositivos y tamaños de pantalla para asegurar una experiencia de usuario consistente.
 
-**Diseño Responsivo:** La aplicación debe ser compatible con diferentes dispositivos y tamaños de pantalla para una 
-experiencia de usuario consistente en todos los dispositivos.
+- **Navegación Intuitiva:** Se establecerá una estructura de navegación clara y fácil de usar que permita a los usuarios encontrar rápidamente la información que buscan, priorizando la simplicidad.
 
-**Navegación Intuitiva:** Estructura de navegación clara y fácil de usar que permita a los usuarios encontrar rápidamente 
-la información que están buscando, se prioriza la simplicidad.
+- **Carga Rápida:** Se optimizará el rendimiento de la aplicación para tiempos de carga rápidos, incluyendo la optimización de imágenes y el uso de técnicas de almacenamiento en caché.
 
-**Carga Rápida:** Optimización del rendimiento de la aplicación para tiempos de carga rápidos, lo que incluye la 
-optimización de imágenes y el uso de técnicas de almacenamiento en caché así como los scripts cargados al inicio de la página.
+- **Diseño de Tarjetas:** Usaremos diseños de tarjetas para presentar información de manera visualmente atractiva y organizada, especialmente para destinos y detalles de viajes.
 
-**Diseño de Tarjetas:** Diseños de tarjetas para mostrar la información de manera visualmente atractiva y organizada, 
-especialmente para la presentación de destinos y detalles de viajes.
-
-**Botones de la web:** Los botones utilizados para la web serán botones rectangulares con esquinas circulares, además de tener 
-botones en forma de texto en la navbar para una mejor navegación en la aplicación.
+- **Botones de la web:** Los botones serán rectangulares con esquinas redondeadas, además de incluir botones en forma de texto en la barra de navegación para mejorar la usabilidad.
 
 ![Botones](https://github.com/user-attachments/assets/be33d4a1-f502-4f78-84c1-11eae1f82dee)
 
@@ -2564,37 +2540,31 @@ botones en forma de texto en la navbar para una mejor navegación en la aplicaci
 ### 4.2.1. Organization Systems
 
 - **Jerarquía Visual:**
-
-  Con el propósito de mantener la estética de nuestra plataforma interactiva y a la vanguardia de
-  la competencia actual, hemos decidido priorizar la interfaz según importancia para facilitar la
-  interacción con el usuario.
+  
+  Para mantener la estética de nuestra plataforma interactiva y a la vanguardia de la competencia, hemos decidido priorizar la interfaz según importancia, facilitando así la interacción con el usuario.
 
 - **Jerarquía de Tipografía:**
-
-  Nuestra plataforma difunde información que es recibida por nuestros usuarios con un orden
-  específico según la demanda. Por lo tanto, es importante tener en cuenta las características
-  con las que se generan nuestros títulos, subtítulos, párrafos, entre otros.
+  
+  La información en nuestra plataforma se presenta en un orden específico según la demanda. Es fundamental considerar las características que definen nuestros títulos, subtítulos y párrafos.
 
 - **Alineación:**
-
-  En nuestra plataforma, nuestras imágenes y botones se encuentran alineados siempre de
-  manera vertical y horizontal. Permitiendo así agrupar varios objetos de diversos tipos con la
-  misma información.
+  
+  Las imágenes y botones en nuestra plataforma están siempre alineados vertical y horizontalmente, permitiendo agrupar objetos de diversos tipos con información similar.
 
 - **Color y Contraste:**
-
-  A la vista de nuestros segmentos objetivos, el color cumple un rol muy importante en nuestra aplicación, promueve las correctas composiciones del color, para dirigir diversas emociones y del contraste para
-  enfatizar aquellos objetos de mayor importancia.
+  
+  El color juega un rol crucial en nuestra aplicación, promoviendo composiciones adecuadas para dirigir emociones y utilizando el contraste para enfatizar elementos importantes.
 
 - **Organización Secuencial:**
+  
+  Los métodos de almacenamiento de registros que utiliza el usuario final siguen una organización secuencial, mejorando la simplicidad y rapidez en el acceso a los mismos. En nuestro proyecto, se visualizará una lista de scooters.
 
-  Además, los métodos de almacenamiento sobre los registros que el usuario final emplea siguen una organización secuencial, esto con el objetivo de mejorar la simplicidad y la rapidez con la que se almacenan y acceden a ellos. En el caso de nuestro proyecto organizaremos se visualizarán la lista de Scooter.
+- **Esquemas de Categorización de Contenido:**
+  
+  Utilizaremos un sistema jerárquico para resaltar los componentes a los que deseamos que el usuario preste mayor atención, dirigiendo su enfoque hacia elementos clave.
 
-- **Esquemas de categorización de contenido de nuestra web:**
-
-  Para el caso de organización visual utilizaremos el sistema jerárquico, lo que nos permitirá resaltar los componentes a los que deseamos que el usuario preste mayor atención. Esto dirigirá la atención del usuario a componentes de suma importancia.
-
-  Para el proceso de reservas de scooters haremos uso de la organización secuencial:
+  Para el proceso de reservas de scooters utilizaremos organización secuencial:
+  
   - **Solicitud de reserva (clientes):**
     - Búsqueda de scooter.
     - Elección del scooter.
@@ -2602,65 +2572,48 @@ botones en forma de texto en la navbar para una mejor navegación en la aplicaci
     - Entrega del scooter.
     - Devolución del scooter.
 
-  - **Solicitud de la inscripción de scooters (owner):**
-    - Inscripción de scooter a la plataforma.
-    - Establecer tarifa y disponibilidad del scooter.
-    - Publicar disponibilidad del scooter.
+  - **Solicitud de inscripción de scooters (propietarios):**
+    - Inscripción del scooter en la plataforma.
+    - Establecimiento de tarifa y disponibilidad.
+    - Publicación de disponibilidad del scooter.
 
-  Para los esquemas de organización utilizaremos los siguientes tipos:
-  - Organización por orden cronológico para el historial de reservas de los clientes.
-  - Organización por orden alfabético para la sección “Mis scooters” del Owner.
+  Para los esquemas de organización utilizaremos:
+  - Organización por orden cronológico para el historial de reservas.
+  - Organización por orden alfabético para la sección “Mis scooters” del propietario.
 
 ### 4.2.2. Labeling Systems
-Para el uso de etiquetas de nuestro landing page, se ha elegido un lenguaje sencillo lo que permite a los usuarios 
-familiarizarse con facilidad a las opciones proporcionadas. Esto logrará que los usuarios puedan navegar de manera 
-intuitiva.
 
-En el Landing Page visualizará los siguientes botones de navegación:
+Para las etiquetas en nuestra landing page, hemos elegido un lenguaje sencillo que permite a los usuarios familiarizarse fácilmente con las opciones proporcionadas, logrando una navegación intuitiva.
 
-<table border="1px" align="center">
-    <tbody>
-        <tr>
-            <td>Etiqueta</td>
-            <td>Descripción</td>
-        </tr>
-        <tr>
-            <td>Inicio</td>
-            <td>Apartado donde se muestra la información de la aplicación explicando sus características.</td>
-        </tr>
-        <tr>
-            <td>Sobre Nosotros</td>
-            <td>Apartado donde se informa al usuario sobre el equipo y el propósito.</td>
-        </tr>
-        <tr>
-            <td>Servicios</td>
-            <td>Apartado donde se muestra el tipo de usuario que puede ser y sus ventajas.</td>
-        </tr>
-        <tr>
-            <td>Planes</td>
-            <td>Apartado donde se muestran todos los planes de suscripción.</td>
-        </tr>
-        <tr>
-            <td>Team</td>
-            <td>Apartado donde el usuario puede comunicarse con nosotros.</td>
-        </tr>
-        <tr>
-            <td>Empieza Ya!</td>
-            <td>Apartado redirigir ir a la aplicación web.</td>
-        </tr>
-    </tbody>
-</table>
+En la Landing Page se visualizarán los siguientes botones de navegación:
+
+| **Etiqueta**      | **Descripción**                                                                 |
+|-------------------|---------------------------------------------------------------------------------|
+| **Inicio**        | Apartado donde se muestra la información de la aplicación explicando sus características. |
+| **Sobre Nosotros**| Apartado donde se informa al usuario sobre el equipo y el propósito.           |
+| **Servicios**     | Apartado donde se muestra el tipo de usuario que puede ser y sus ventajas.     |
+| **Planes**        | Apartado donde se muestran todos los planes de suscripción.                    |
+| **Team**          | Apartado donde el usuario puede comunicarse con nosotros.                       |
+| **Empieza Ya!**   | Apartado para redirigir a la aplicación web.                                   |
 
 Para la página es importante, un sistema de etiquetado efectivo para permitir que los usuarios encuentren fácilmente la información y los servicios que necesitan. Nuestro sistema de etiquetado considera cuidadosamente cómo presentar la información en el sitio web. Después de establecer la organización visual y los esquemas de categorización del contenido, se elegirá etiquetas claras y concisas que reflejan el lenguaje común y la comprensión del usuario con palabras comunes no pasan de tres palabras. Nos aseguraremos de utilizar etiquetas intuitivas y fáciles de recordar para representar los diferentes conjuntos de información y asociaciones entre ellos. También se utilizarán diferentes colores y diseños para resaltar y diferenciar las etiquetas y conjuntos de información en mi sitio web. Para evitar confusiones y asegurar la coherencia visual en todo el sitio web, se mantendrá un sistema de etiquetado consistente y se evitará el uso de términos técnicos o jerga que podría ser confuso para los usuarios.
 
-En el parte superior derecho del home page de la aplicación web contando con tres botones: 
-- Mi perfil: Muestrael perfil del usuario.
-- Suscripción: Muestra las suscripciones disponibles o la suscripción que el usuario ha comprado.
-- Scooters: Muestra tanto los scooters en alquiler como los scooters que el usuario ha puesto en alquiler.
+## Botones en la Parte Superior Derecha del Home Page
 
-### 4.2.3. SEO Tags and Meta Tags  
-A continuación se mostrarán las etiquetas que representarán el contenido de la Landing Page y de la 
-aplicación web para que los usuarios las encuentren con mayor facilidad.
+En la parte superior derecha de la aplicación web, se encuentran tres botones que permiten a los usuarios acceder a diferentes secciones de su perfil y servicios. Estos son:
+
+- **Mi Perfil:**  
+  Este botón permite al usuario acceder a su perfil personal, donde puede ver y editar su información, así como gestionar sus preferencias.
+
+- **Suscripción:**  
+  Al hacer clic en este botón, el usuario puede ver las suscripciones disponibles y consultar los detalles de la suscripción que ha adquirido.
+
+- **Scooters:**  
+  Este botón muestra tanto los scooters disponibles para alquiler como aquellos que el usuario ha puesto en alquiler, facilitando la gestión de ambos tipos de scooters.
+
+### 4.2.3. SEO Tags and Meta Tags
+
+A continuación se mostrarán las etiquetas que representarán el contenido de la Landing Page y de la aplicación web para que los usuarios las encuentren con mayor facilidad.
 
 #### **Landing Page**  
 
@@ -2671,23 +2624,25 @@ aplicación web para que los usuarios las encuentren con mayor facilidad.
 ![Tags App Web](https://github.com/user-attachments/assets/3be44467-aa38-4a40-9b37-9cb7a952d2ac)
 
 ### 4.2.4. Searching Systems
-En esta sección, implementaremos dos métodos para mejorar la experiencia de búsqueda de nuestros usuarios. Se utilizará un sistema de búsqueda por filtros para refinar las búsquedas de la siguiente manera:
 
-**Filtros Disponibles:**  
-- Disponibilidad de Ubicación: Este filtro permitirá a los usuarios buscar vehículos disponibles en ubicaciones 
-- específicas, lo que será útil para aquellos que deseen encontrar opciones cercanas a ellos.
+Implementaremos dos métodos para mejorar la experiencia de búsqueda de nuestros usuarios, utilizando un sistema de búsqueda por filtros para refinar las búsquedas de la siguiente manera:
 
-Con la implementación de estos sistemas de búsqueda y filtros, esperamos mejorar significativamente la experiencia de nuestros usuarios al encontrar el vehículo perfecto para sus necesidades.  
+**Filtros Disponibles:**
+
+- **Disponibilidad de Ubicación:** Este filtro permitirá a los usuarios buscar vehículos disponibles en ubicaciones específicas, lo que será útil para aquellos que deseen encontrar opciones cercanas.
+
+Con la implementación de estos sistemas de búsqueda y filtros, esperamos mejorar significativamente la experiencia de nuestros usuarios al encontrar el vehículo perfecto para sus necesidades.
 
 ![Filtro](https://github.com/user-attachments/assets/3b1cbc6a-b1ec-435a-b59d-c7eb5d019cab)
 
 ### 4.2.5. Navigation Systems
-Como sistema de navegación en pantallas desktop optamos emplear una barra de menú horizontal que guiará al usuario por las diferentes secciones con títulos claves y estáticos, esto facilitará al usuario a tener todas las herramientas a la mano y así disfrutar de una mejor navegación. Mientras que en dispositivos móviles se optó por emplear una barra de navegación desplegable.
+
+Para el sistema de navegación en pantallas desktop, optamos por emplear una **barra de menú horizontal** que guiará al usuario por las diferentes secciones con títulos clave y estáticos, facilitando así el acceso a todas las herramientas necesarias para una mejor navegación. En dispositivos móviles, se utilizará una **barra de navegación desplegable**.
 
 ![Navbar web](https://github.com/user-attachments/assets/fda3de2b-4cc6-47a6-a8d1-b18697d6ea73)
 
 ![Navbar movil](https://github.com/user-attachments/assets/ad1b8a37-5013-4e80-8c20-b695133028ae)
-  
+
 ## 4.3. Landing Page UI Design
 
 ### 4.3.1. Landing Page Wireframe  
@@ -2706,7 +2661,7 @@ Como sistema de navegación en pantallas desktop optamos emplear una barra de me
 
 ## 4.4. Web Applications UX/UI Design
 
-### 4.4.1. Web Applications Wireframes 
+### 4.4.1. Web Applications Wireframes
 
 **Wireframes Web versión desktop**
 
@@ -2724,43 +2679,43 @@ Como sistema de navegación en pantallas desktop optamos emplear una barra de me
 
 ### 4.4.2. Web Applications Wireflow Diagrams  
 
-**User Goal 01:** El usuario quiere Registrarse, iniciar sesión, ver, editar y eliminar su cuenta.  
+**User Goal 01:** El usuario quiere registrarse, iniciar sesión, ver, editar y eliminar su cuenta
 
 ![WF_UserGoal1](https://github.com/user-attachments/assets/b33c90dc-bce2-4c2f-80d5-80fd10b455b8)
 
-**User Goal 02:** El usuario quiere ver, crear, editar y eliminar sus scooters.  
+**User Goal 02:** El usuario quiere ver, crear, editar y eliminar sus scooters
 
 ![WF_UserGoal2](https://github.com/user-attachments/assets/632e6147-82d9-4bf7-a53f-bdd31e9e659a)
 
-**User Goal 03:** EL usuario quiere buscar y alquilar un scooter.  
+**User Goal 03:** El usuario quiere buscar y alquilar un scooter
 
 ![WF_UserGoal3](https://github.com/user-attachments/assets/e4324249-8197-403b-aebf-07c7aefb6a36)
 
-**User Goal 04:** El usuario quiere ver reseñas y dejar una reseña.  
+**User Goal 04:** El usuario quiere ver reseñas y dejar una reseña
 
 ![WF_UserGoal4](https://github.com/user-attachments/assets/7d33036d-9b78-469d-8d56-bc4be96ebccc)  
 
-**User Goal 05:** El usuario quiere ver su historial y volver a alquilar un scooter. 
+**User Goal 05:** El usuario quiere ver su historial y volver a alquilar un scooter
 
 ![WF_UserGoal5](https://github.com/user-attachments/assets/e444ce03-d704-4366-b7cb-505f9e2dd8c1)
 
-<b>User Goal 06:</b> El usuario quiere eliminar su historial.  
+**User Goal 06:** El usuario quiere eliminar su historial
 
 ![WF_UserGoal6](https://github.com/user-attachments/assets/ea3181fd-bd68-4268-baa5-ef2e4de78866)
 
-**User Goal 07:** El usuario quiere compar, ver, cambiar y cancelar suscripción.  
+**User Goal 07:** El usuario quiere comparar, ver, cambiar y cancelar su suscripción
 
 ![WF_UserGoal7](https://github.com/user-attachments/assets/5b6346c1-d349-49bf-bd8a-599be88fbbb6)
 
 ### 4.4.3. Web Applications Mock-ups  
 
-**Mockups Web versión desktop**  
+- **Mockups Web versión desktop**  
 
-![Mockups web1](https://github.com/user-attachments/assets/dabe4247-87ef-4d9b-991a-eec3e651a8c4)
+![Mockups web 1](https://github.com/user-attachments/assets/dabe4247-87ef-4d9b-991a-eec3e651a8c4)
 
 ![Mockups web 2](https://github.com/user-attachments/assets/3f28e05a-693f-4e48-a867-aab717aa4a52)
 
-**Mockups Web versión móvil** 
+- **Mockups Web versión móvil**
 
 ![Mockups movil1](https://github.com/user-attachments/assets/0775e370-e8cf-4397-86d1-bf2146cd4c12)
 
@@ -2770,55 +2725,52 @@ Como sistema de navegación en pantallas desktop optamos emplear una barra de me
 
 ### 4.4.4. Web Applications User Flow Diagrams  
 
-**User Goal 01:** El usuario quiere Registrarse, iniciar sesión, ver, editar y eliminar su cuenta. Cuando el usuario quiera registrarse ingresa sus datos y se registra, cuando quiera iniciar sesión, ingresa su correo y contraseña y se lo redirigirá a su perfil, el cual tendra las opciones de editar sus datos y eliminar su cuenta con un previa confirmación. Cuenta con la opción de cancelar las operaciones.  
+**User Goal 01:** El usuario quiere registrarse, iniciar sesión, ver, editar y eliminar su cuenta. Cuando el usuario quiera registrarse, ingresa sus datos y se registra; cuando quiera iniciar sesión, ingresa su correo y contraseña, y se lo redirigirá a su perfil, el cual tendrá las opciones de editar sus datos y eliminar su cuenta con previa confirmación. Cuenta con la opción de cancelar las operaciones.
 
 ![UF_UserGoal1](https://github.com/user-attachments/assets/7065a576-560c-4ee5-b2a7-f7fbc3d923b9)
 
-**User Goal 02:** El Owner quiere ver, crear, editar y eliminar sus scooters.  
-Cuando el Owner se encuentre en la sección de sus scooters podrá verlos, publicar uno nuevo, editarlos y eliminarlos.  Cuenta con la opción de cancelar las operaciones.  
+**User Goal 02:** El Owner quiere ver, crear, editar y eliminar sus scooters. Cuando el Owner se encuentre en la sección de sus scooters, podrá verlos, publicar uno nuevo, editarlos y eliminarlos. Cuenta con la opción de cancelar las operaciones.
 
 ![UF_UserGoal2](https://github.com/user-attachments/assets/fe80df66-b6a5-4dda-99c7-08cc2c5a69b7)
 
-**User Goal 03:** El Cliente quiere buscar y alquilar un scooter.  
-Cuando el Cliente quiera alquilar un scooter, puede buscarlo con el filtro por distrito, ver una lista de todos los scooters disponibles, seleccionar el de su preferencia, alquilarlo y pagarlo. Cuenta con la opción de cancelar las operaciones.  
+**User Goal 03:** El Cliente quiere buscar y alquilar un scooter. Cuando el Cliente quiera alquilar un scooter, puede buscarlo con el filtro por distrito, ver una lista de todos los scooters disponibles, seleccionar el de su preferencia, alquilarlo y pagarlo. Cuenta con la opción de cancelar las operaciones.
 
 ![UF_UserGoal3](https://github.com/user-attachments/assets/57b44f93-04dd-4a4f-825f-78cff41bb273)
 
-
-**User Goal 04:** El Cliente quiere ver reseñas y dejar una reseña.  
-Cuando el Cliente quiera ver reseñas de un scooter puede ingresar a ellas entrando a detalles del scooter, tambien puede dejar su reseña luego de alquilar un scooter. Cuenta con la opción de cancelarla.  
+**User Goal 04:** El Cliente quiere ver reseñas y dejar una reseña. Cuando el Cliente quiera ver reseñas de un scooter, puede ingresara ellas entrando a detalles del scooter; también puede dejar su reseña luego de alquilar un scooter. Cuenta con la opción de cancelarla.
 
 ![UF_UserGoal4](https://github.com/user-attachments/assets/f194398a-95ce-4e75-ba52-4bc1cc90868c)
 
-**User Goal 05:** El Cliente quiere ver su historial y volver a alquilar un scooter.  
-Cuando el Cliente quiera ver su historial, puede acceder a esta opción desde su perfil y ver la lista de todos los scooters que fueron alquilados por uno mismo, también puede volver a alquilar un scooter. Cuenta con la opción de cancelar las operaciones.  
-
+**User Goal 05:** El Cliente quiere ver su historial y volver a alquilar un scooter. Cuando el Cliente quiera ver su historial, puede acceder a esta opción desde su perfil y ver la lista de todos los scooters que fueron alquilados por él mismo; también puede volver a alquilar un scooter. Cuenta con la opción de cancelar las operaciones.
 ![UF_UserGoal5](https://github.com/user-attachments/assets/4c0efcd2-a931-446f-bae8-bb882ef445db)
 
-
-**User Goal 06:** El Cliente quiere eliminar su historial.  
-Cuando el Cliente quiera eliminar su historial puede hacerlo dando click a eliminar historial. Cuenta con la opción de cancelar la operación.  
+**User Goal 06:** El Cliente quiere eliminar su historial. Cuando el Cliente quiera eliminar su historial, puede hacerlo dando clic en eliminar historial. Cuenta con la opción de cancelar la operación.
 
 ![UF_UserGoal6](https://github.com/user-attachments/assets/dcc7533c-ab7a-4883-9534-7d5ca947be7e)
 
-**User Goal 07:** El usuario quiere compar, ver, cambiar y cancelar suscripción.  
-Cuando el usuario quiere ver su suscripción, se dirigirá a Mi Sucripción y podrá verla, cambiarla y cancelarla. Cuenta con la opción de cancelar las operaciones.  
+**User Goal 07:** El usuario quiere comparar, ver, cambiar y cancelar su suscripción. Cuando el usuario quiere ver su suscripción, se dirigirá a "Mi Suscripción" y podrá verla, cambiarla y cancelarla. Cuenta con la opción de cancelar las operaciones.
 
 ![UF_UserGoal7](https://github.com/user-attachments/assets/35282287-cdcb-4d62-a3b3-ee9abf45e71e)
 
 ## 4.5. Web Applications Prototyping
 
-Nuestro prototipo está diseñado con estructura muy organizado, en los siguientes Link podrá ver los wireframes y Mockups de nuestra aplicación web y landing page.
+Nuestro prototipo está diseñado con una estructura muy organizada; en los siguientes enlaces podrá ver los wireframes y mockups de nuestra aplicación web y landing page.
 
-Prototipo landing Page: [Diseño en figma](https://www.figma.com/design/cQuS3bFffjnBjo9RGwcl2D/Web-Application---MoviRent?node-id=5-658&t=v7TUuZ1SCVdOPNmo-1) 
+- **Prototipo Landing Page:**
 
-Prototipo aplicación web: [Diseño en figma](https://www.figma.com/design/cQuS3bFffjnBjo9RGwcl2D/Web-Application---MoviRent?node-id=0-1&t=v7TUuZ1SCVdOPNmo-1)
+  ![Diseño en Figma](https://www.figma.com/design/cQuS3bFffjnBjo9RGwcl2D/Web-Application---MoviRent?node-id=5-658&t=v7TUuZ1SCVdOPNmo-1)
 
-Para nuestro proyecto se incluyé videos de cada uno de los prototipos realizado (Aplicación Web y landing page).
+- **Prototipo Aplicación Web:**
+  
+  ![Diseño en Figma](https://www.figma.com/design/cQuS3bFffjnBjo9RGwcl2D/Web-Application---MoviRent?node-id=0-1&t=v7TUuZ1SCVdOPNmo-1)
 
-Link del video del prototipado de Aplicación web:[Ver Video](https://n9.cl/q3wxc)
+Para nuestro proyecto se incluyen videos de cada uno de los prototipos realizados (Aplicación Web y Landing Page).
 
-Link del video del Prototipado de Landing Page: [Ver Video](https://n9.cl/9jfu0)
+- **Link del video del prototipado de Aplicación Web:**
+  [Ver Video](https://n9.cl/q3wxc)
+
+- **Link del video del Prototipado de Landing Page:**
+  [Ver Video](https://n9.cl/9jfu0)
 
 ## 4.6. Domain-Driven Software Architecture
 
@@ -2826,7 +2778,7 @@ Link del video del Prototipado de Landing Page: [Ver Video](https://n9.cl/9jfu0)
 
 ![DiagramC4-Context](https://github.com/user-attachments/assets/bc0022bf-8304-4f36-97b2-111f191b4d56)
 
-### 4.6.2. Software Architecture Container Diagrams.
+### 4.6.2. Software Architecture Container Diagrams
 
 ![DiagramContainer](https://github.com/user-attachments/assets/afb829bb-6166-46f8-8193-136e5696cda9)
 
@@ -2895,9 +2847,7 @@ Para desarrollar la estructura de diagrama de base de datos usamos la herramient
 ![Web Database Diagram](https://github.com/user-attachments/assets/abc1c1fd-eb6d-4bd1-9a52-c93867822c18)
 
 
-
----
-
+<div style="page-break-before: always;"></div>
 
 
 # Capítulo V: Product Implementation, Validation & Deployment
@@ -4200,11 +4150,11 @@ Para este sprint se ha realizado la implementación de la web app, para esto los
 
 
 
----
+<div style="page-break-before: always;"></div>
 
 
 
-### [Conclusiones](#conclusiones)
+# [Conclusiones](#conclusiones)
 
 #### Conclusiones preliminares 
 - TB1: 
@@ -4229,7 +4179,7 @@ y promuevan el uso de vehículos ecológicos.
 
 ### [Video about the team](#video-about-the-team)
 
-### [Bibliografía](#bibliografía)
+# [Bibliografía](#bibliografía)
 
 - Aguirre, C., Canelo, G., & Mendiola, L. (2024). *Una mirada hacia la movilidad sostenible*. Recuperado de [https://observatorio.esan.edu.pe/wp-content/uploads/2024/03/Libro-Movilidad-urbana-vfinal.pdf](https://observatorio.esan.edu.pe/wp-content/uploads/2024/03/Libro-Movilidad-urbana-vfinal.pdf) [Consulta: 24 de agosto, 2024].
 
@@ -4245,11 +4195,11 @@ y promuevan el uso de vehículos ecológicos.
 
 
 
----
+<div style="page-break-before: always;"></div>
 
 
 
-### [Anexos](#anexos)
+# [Anexos](#anexos)
 
 Enlaces a los desarrollos de trabajo del equipo CiberMach.
 
