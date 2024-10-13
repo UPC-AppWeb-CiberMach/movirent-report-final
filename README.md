@@ -55,7 +55,7 @@
     </tbody>
 </table>
   
-  **Octubre, 2024**
+  ## **Octubre, 2024**
 
 </div>
 
@@ -83,13 +83,13 @@
       <td>1.1</td>
       <td>2024/08/21</td>
       <td>Espinoza Delgado, Bárbara Antonella</td>
-      <td>Redacción del *Startup Profile*, Descripción de la *Startup*, *Solution Profile*, Antecedentes y problemática, *Lean UX Process* y Segmentos objetivo.</td>
+      <td>Redacción del <b>Startup Profile</b>, Descripción de la <b>Startup</b>, <b>Solution Profile</b>, Antecedentes y problemática, <b>Lean UX Process</b> y Segmentos objetivo.</td>
     </tr>
     <tr>
       <td>1.2</td>
       <td>2024/08/23</td>
       <td>Espinoza Delgado, Bárbara Antonella</td>
-      <td>*Information Architecture* y *Database Diagram*.</td>
+      <td><b>Information Architecture</b> y Database Diagram*.</td>
     </tr>
     <tr>
       <td>1.3</td>
@@ -411,11 +411,7 @@ URL Project Report en Github: [URL Project Report en GitHub](https://github.com/
 
 - [5.4. Video about the product](#54-video-about-the-product)
 
-
-
 <div style="page-break-before: always;"></div>
-
-
 
 # Capítulo I: Introducción
 
@@ -999,21 +995,8 @@ Datos del entrevistado:
 ![entrevista-David](https://github.com/user-attachments/assets/5a091cd9-7b13-47b8-bdc3-69c7e3d485ea)
 
 **Informe del resumen de la entrevista:**
-David Beltrán un joven de 23 años, residente de San Borja. Actualmente trabaja en el sector
-financiero, sus funciones las cumple en el departamento de cobranzas del BCP. Sus sitemas
-operativos de preferencia son IOS en moviles y windows en ordenadores. El navegador que usa
-con mayor frecuencia es chrome. Tiene preferencia por la marca Apple y lenovo. Su canal
-informativo favorito es Twitter y de entretenimiento instagram. Beltrán posee un scooter
-eléctrico como vehiculo personal y no tiene experiencia previa en el alquiler de vehiculos.
-Considera que las tarifas de alquiler deberían depender del tiempo de uso de cada equipo y
-prefiere los pagos a través de transferencias bancarias o aplicativos móviles como YAPE o Plin.
-Sugiere que el límite de tiempo o distancia para el alquiler debería restringirse solo a Lima.
-En caso de daños durante el uso del vehículo, espera una compensación por parte de la empresa.
-Valora la posibilidad de visualizar la identidad y el historial de rentas de los clientes.
-Recomienda medidas de seguridad como el uso de casco y respetar las normas de tránsito.
-Prefiere entregar los vehículos en módulos con supervisión. Inicialmente, espera pocas reservas, pero prevé un aumento
-con el tiempo. La entrevista concluyó con la posibilidad de requerir feedback en el futuro y
-agradecimientos mutuos.
+David Beltrán un joven de 23 años, residente de San Borja. Actualmente trabaja en el sector financiero, sus funciones las cumple en el departamento de cobranzas del BCP. Sus sitemas operativos de preferencia son IOS en moviles y windows en ordenadores. El navegador que usa con mayor frecuencia es chrome. Tiene preferencia por la marca Apple y lenovo. Su canal informativo favorito es Twitter y de entretenimiento instagram. Beltrán posee un scooter eléctrico como vehiculo personal y no tiene experiencia previa en el alquiler de vehiculos.
+Considera que las tarifas de alquiler deberían depender del tiempo de uso de cada equipo y prefiere los pagos a través de transferencias bancarias o aplicativos móviles como YAPE o Plin. Sugiere que el límite de tiempo o distancia para el alquiler debería restringirse solo a Lima. En caso de daños durante el uso del vehículo, espera una compensación por parte de la empresa. Valora la posibilidad de visualizar la identidad y el historial de rentas de los clientes. Recomienda medidas de seguridad como el uso de casco y respetar las normas de tránsito. Prefiere entregar los vehículos en módulos con supervisión. Inicialmente, espera pocas reservas, pero prevé un aumento con el tiempo. La entrevista concluyó con la posibilidad de requerir feedback en el futuro y agradecimientos mutuos.
 
 #### Entrevista 2:
 
@@ -1033,17 +1016,7 @@ Datos del entrevistado:
 
 **Informe del resumen de la entrevista:**
 
-Sebastián Flores, un joven de 25 años, residente de Villa María del Triunfo. Actualmente trabaja
-en una empresa de logística, desempeñando funciones de sistemas y soporte técnico. El usa dispositivos
-como Android y Windows, y prefiere el navegador Chrome. Su marca preferida es Samsung y Lenovo.
-Los fines de semana le gusta salir de paseo a los parques con su familia en scooter, a veces de
-caminata por el distrito, siempre a poseido desde muchos años mas de un Scooter electrico en su casa,
-de hecho el a veces alquila su scooter a sus amigos o conocidos, pero nunca a tenenido la experiencia
-de alquilar mediante aplicaciones web o plataformas que ofrezcan este serviccio, el considera que las
-el alquiler es una oportunidad por que le permite ganar dinero extra, y le gustaria que las tarifas
-de alquiler sean flexibles y dependan del tiempo de uso, esta tambien a el le permite recuperar lo
-invertido en su scooter, basado en nuestro proyecto, le parece una idea interesante, y estaria dispuesto
-a usar nuestra aplicacion web, le gustaria visualizar las operaciones necesarias para el alquiler.
+Sebastián Flores, un joven de 25 años, residente de Villa María del Triunfo. Actualmente trabaja en una empresa de logística, desempeñando funciones de sistemas y soporte técnico. Él usa dispositivos como Android y Windows, y prefiere el navegador Chrome. Su marca preferida es Samsung y Lenovo. Los fines de semana le gusta salir de paseo a los parques con su familia en scooter, a veces de caminata por el distrito; siempre ha poseído desde muchos años más de un scooter eléctrico en su casa. De hecho, él a veces alquila su scooter a sus amigos o conocidos, pero nunca ha tenido la experiencia de alquilar mediante aplicaciones web o plataformas que ofrezcan este servicio. Él considera que el alquiler es una oportunidad porque le permite ganar dinero extra, y le gustaría que las tarifas de alquiler sean flexibles y dependan del tiempo de uso; esto también le permite recuperar lo invertido en su scooter. Basado en nuestro proyecto, le parece una idea interesante y estaría dispuesto a usar nuestra aplicación web; le gustaría visualizar las operaciones necesarias para el alquiler.
 
 
 #### Entrevista 3:
