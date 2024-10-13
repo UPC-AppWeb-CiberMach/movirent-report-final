@@ -20,14 +20,40 @@
   
   ***Integrantes:***
   
-  | **Nombre**                              | **Código**   |
-  | --------------------------------------- | ------------ |
-  | Adriana María Diestra Zambrano          | u202218110   |
-  | Bárbara Antonella Espinoza Delgado      | u201911727   |
-  | Mathias Adriano Hidalgo Lopez           | u202213222   |
-  | Néstor Velarde Gonzales                 | u20211C221   |
-  | Quique Vladimir Jara Benites            | u202022365   |
-  | Roy Linsh Fernandez Remon               | u20221B778   |
+  <table border="1" align="center">
+    <thead>
+        <tr>
+            <th>Nombre</th>
+            <th>Código</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Adriana María Diestra Zambrano</td>
+            <td>u202218110</td>
+        </tr>
+        <tr>
+            <td>Bárbara Antonella Espinoza Delgado</td>
+            <td>u201911727</td>
+        </tr>
+        <tr>
+            <td>Mathias Adriano Hidalgo Lopez</td>
+            <td>u202213222</td>
+        </tr>
+        <tr>
+            <td>Néstor Velarde Gonzales</td>
+            <td>u20211C221</td>
+        </tr>
+        <tr>
+            <td>Quique Vladimir Jara Benites</td>
+            <td>u202022365</td>
+        </tr>
+        <tr>
+            <td>Roy Linsh Fernandez Remon</td>
+            <td>u20221B778</td>
+        </tr>
+    </tbody>
+</table>
   
   **Octubre, 2024**
 
@@ -178,7 +204,7 @@
 
 Para el desarrollo de la entrega TB1, se optó por dividir el trabajo de la siguiente forma:
 
-<table align="center" border="1" cellpadding="10">
+<table align="center" border="1">
     <thead>
         <tr>
             <th>Integrante</th>
@@ -288,16 +314,11 @@ del ABET – EAC - Student Outcome 5.
     </tbody>
 </table>
 
-
-
----
-
-
-
 ## Project Report Online
 
-URL Project Report en Github: [URL Project Report en GitHub](https://github.com/UPC-AppWeb-CiberMach/Final-Report)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  
 
+URL Project Report en Github: [URL Project Report en GitHub](https://github.com/UPC-AppWeb-CiberMach/Final-Report)
 
 ## Tabla de contenidos
 
