@@ -193,6 +193,30 @@
       <td>Velarde Gonzales, Néstor</td>
       <td>Conclusiones y anexos.</td>
     </tr>
+    <tr>
+      <td>2.0</td>
+      <td>2024/09/20</td>
+      <td>Espinoza Delgado, Bárbara Antonella</td>
+      <td>Capítulo 5</td>
+    </tr>
+     <tr>
+      <td>2.1</td>
+      <td>2024/09/20</td>
+      <td>Velarde Gonzales, Néstor</td>
+      <td>Conclusiones y anexos.</td>
+    </tr>
+    <tr>
+      <td>3.0</td>
+      <td>2024/10/20</td>
+      <td>Espinoza Delgado, Bárbara Antonella</td>
+      <td>Capítulo 5</td>
+    </tr>
+    <tr>
+      <td>3.1</td>
+      <td>2024/10/27</td>
+      <td>Velarde Gonzales, Néstor</td>
+      <td>Conclusiones y anexos.</td>
+    </tr>
   </tbody>
 </table>
 
@@ -403,12 +427,28 @@ URL Project Report en Github: [URL Project Report en GitHub](https://github.com/
         - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
         - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
         - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
-
+    - [5.2.2. Sprint 2](#522-sprint-2)
+        - [5.2.2.1. Sprint Planning 1](#5221-sprint-planning-2)
+        - [5.2.2.2. Sprint Backlog 1](#5222-sprint-backlog-2)
+        - [5.2.2.3. Development Evidence for Sprint Review](#5223-development-evidence-for-sprint-review)
+        - [5.2.2.4. Testing Suite Evidence for Sprint Review](#5224-testing-suite-evidence-for-sprint-review)
+        - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
+        - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
+        - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
+        - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
+    - [5.2.3. Sprint 3](#523-sprint-3)
+        - [5.2.3.1. Sprint Planning 3](#5231-sprint-planning-3)
+        - [5.2.3.2. Sprint Backlog 3](#5232-sprint-backlog-3)
+        - [5.2.3.3. Development Evidence for Sprint Review](#5233-development-evidence-for-sprint-review)
+        - [5.2.3.4. Testing Suite Evidence for Sprint Review](#5234-testing-suite-evidence-for-sprint-review)
+        - [5.2.3.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
+        - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
+        - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
+        - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
 - [5.3. Validation Interviews](#53-validation-interviews)
     - [5.3.1. Diseño de entrevistas](#531-diseño-de-entrevistas)
     - [5.3.2. Registro de entrevistas](#532-registro-de-entrevistas)
-    - [5.3.3. Evaluación según heurísticas](#532-evaluación-según-heurísticas)
-
+    - [5.3.3. Evaluación según heurísticas](#533-evaluación-según-heurísticas)
 - [5.4. Video about the product](#54-video-about-the-product)
 
 <div style="page-break-before: always;"></div>
@@ -3592,11 +3632,11 @@ creación de secciones, corrección de bugs, entre otras cosas.
         </td>
      </tr>
      <tr>
-        <td style="font-weight: bold;"> Sprint 0 Review Summary </td>
+        <td style="font-weight: bold;"> Sprint 1 Review Summary </td>
         <td> No existe.</td>
      </tr>
      <tr>
-        <td style="font-weight: bold;"> Sprint 0 Retrospective Summary </td>
+        <td style="font-weight: bold;"> Sprint 1 Retrospective Summary </td>
         <td> No existe. </td>
      </tr>
      <tr> 
@@ -4024,9 +4064,7 @@ En esta sección se detallarán los commits realizados en el desarrollo del fron
 
 #### 5.2.2.5. Execution Evidence for Sprint Review  
 
-Para esta entrega, el equipo CiberMach logró implementar de manera exitosa el frontend web app, en la cual se 
-brindará variadas opciones relacionas a la publicación y escritura de libros ilustrados, a la vez de información con
-espectos a los autores y artistas.
+Para esta entrega, el equipo CiberMach logró implementar de manera exitosa el frontend web app.
 Enlace del deploy de la web app mediante: https://movirent.netlify.app/#/profile
 
 ![Captura de pantalla 2024-09-25 165044](https://github.com/user-attachments/assets/585ee042-2b76-440d-b887-366a1f9b61b3)
@@ -4038,17 +4076,13 @@ Enlace del deploy de la web app mediante: https://movirent.netlify.app/#/profile
 Link de la web app mediante: https://movirent.netlify.app/#/
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review  
-Para esta entrega, el equipo CiberMach logró implementar de manera exitosa el frontend web app, en 
-la cual se brindará variadas opciones relacionas a la publicación y escritura de libros ilustrados, a la 
-vez de información conr espectos a los autores y artistas.
+Para esta entrega, el equipo CiberMach logró implementar de manera exitosa el frontend web app.
 
 Enlace del deploy de la web app mediante: https://movirent.netlify.app/#/
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review   
 
-Para el despliegue de la aplicacion web se utilizó netlify, a continuación se 
-muestra el link de la aplicación web desplegada junto a los pasos realizados para 
-publicarla: https://movirent.netlify.app/#/ 
+Para el despliegue de la aplicacion web se utilizó netlify, a continuación se muestra el link de la aplicación web desplegada junto a los pasos realizados para publicarla: https://movirent.netlify.app/#/ 
 
 Pasos:
 
@@ -4143,7 +4177,298 @@ Para este sprint se ha realizado la implementación de la web app, para esto los
 ![Captura de pantalla 2024-09-25 161546](https://github.com/user-attachments/assets/53fc2e7d-ffd5-4905-a770-bf01ba552707)
 
 
+### 5.2.3. Sprint 3
 
+#### 5.2.3.1. Sprint Planning 3
+
+<table border="1px" align="center">
+     <tr> 
+        <th> Sprint # </th>
+        <th> Sprint 3 </th>
+     </tr>
+     <tr> 
+        <td style="font-weight: bold;" colspan="2"> Sprint Planning Background</td>
+     </tr>
+     <tr>
+       <td style="font-weight: bold;"> Date </td>
+       <td> 10/10/2024 </td>
+     </tr>
+     <tr>
+       <td style="font-weight: bold;"> Time </td>
+       <td> 15:00 pm - 17:00 pm </td>
+     </tr>
+     <tr>
+       <td style="font-weight: bold;"> Location </td>
+       <td> Modalidad remota a través de WhatsApp y Google Meets </td>
+     </tr>
+     <tr>
+        <td style="font-weight: bold;"> Prepared By </td>
+        <td> Bárbara Espinoza Espinoza Delgado </td>
+     </tr>
+     <tr>
+        <td style="font-weight: bold;"> Attendees (to planning meeting) </td>
+        <td> 
+         Adriana María Diestra Zambrano<br>
+         Bárbara Espinoza Espinoza Delgado <br>
+         Mathias Adriano Hidalgo López <br>
+         Néstor Velarde Gonzales <br>
+         Quique Vladimir Jara Benites<br>
+         Roy Linsh Fernandez Remon
+        </td>
+     </tr>
+     <tr>
+        <td style="font-weight: bold;"> Sprint 2 Review Summary </td>
+        <td> No existe.</td>
+     </tr>
+     <tr>
+        <td style="font-weight: bold;"> Sprint 2 Retrospective Summary </td>
+        <td> No existe. </td>
+     </tr>
+     <tr> 
+        <td style="font-weight: bold;" colspan="2"> Sprint Goal & User Stories</td>
+     </tr>
+     <tr>
+          <td style="font-weight: bold;"> Sprint 3 Goal</td>
+          <td> En este sprint se espera la implementación y deployado del front-end terminado y tener un buen avance del código del backend. </td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;"> Sprint 3 Velocity </td>
+          <td> 24 </td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;"> Sum of Story Points </td>
+          <td> 24 </td>
+      </tr>
+</table>
+
+
+
+  #### 5.2.3.2. Sprint Backlog 3
+
+<table border="1px" align="center"> 
+   <tr>
+      <th colspan="4"> Sprint # </th>
+      <th colspan="7"> Sprint 3 </th>
+   </tr>
+   <tr >
+     <th colspan="4"> User Story </th>
+     <th colspan="7"> Work-Item / Task</th>
+   </tr>
+   <tr>
+     <th> Id </th>
+     <th colspan="3"> Title </th>
+     <th> Id </th>
+     <th> Title </th>
+     <th> Description </th>
+     <th> Estimation (Hours) </th>
+     <th> Assigned To </th> 
+     <th> Status (To-do / In-Process / To- Review / Done) </th>
+   </tr>
+   <tr>
+      <td> EP07-TS-01 </td>
+      <td colspan="3">Endpoint de Usuario</td>
+      <td> W01  </td>
+      <td> Endpoint usuario </td>
+      <td>Implementar el endpoint usuario </td>
+      <td> 8  </td>
+      <td> Bárbara Espinoza </td> 
+      <td> Done </td>
+   </tr>
+   <tr>
+      <td> EP07-TS-02 </td>
+      <td colspan="3">Endpoint de Scooter</td>
+      <td> W02  </td>
+      <td> Endpoint scooter </td>
+      <td>Implementar el endpoint scooter </td>
+      <td> 8  </td>
+      <td> Nestor Velarde </td> 
+      <td> Done </td>
+   </tr>
+</table>
+
+
+#### 5.2.3.3. Development Evidence for Sprint Review  
+
+En esta sección se detallarán los commits realizados en el desarrollo del backend de la aplicación web.
+
+<table border="1px" align="center">
+  <tr>
+    <th>User/Repository</th>
+    <th>Branch</th>
+    <th>Commit ID</th>
+    <th>Commit Message</th>
+    <th>Commit Message <br> Body</th>
+    <th>Committed <br> On (Date)</th>
+  </tr>
+  <tr>
+    <td>VelardeSoft/front-end</td>
+    <td>master</td>
+    <td>7b348b1</td>
+    <td>Initial commit</td>
+    <td>-</td>
+    <td>17/09/2024</td>
+  </tr>
+
+</table>
+
+
+
+#### 5.2.3.4. Testing Suite Evidence for Sprint Review
+
+<table border="1px" align="center">
+  <tr>
+    <th>User/Repository</th>
+    <th>Branch</th>
+    <th>Commit ID</th>
+    <th>Commit Message</th>
+    <th>Commit Message <br> Body</th>
+    <th>Commited<br>On (Date)</th>
+  </tr>
+  <tr>
+    <td>MesSobble/AcceptanceTest</td>
+    <td>Main</td>
+    <td>42ce1d2</td>
+    <td>feat: add TS-01</td>
+    <td>-</td>
+    <td>20/09/2024</td>
+  </tr>
+  <tr>
+    <td>VelardeSoft/AcceptanceTest</td>
+    <td>Main</td>
+    <td>42ce1d2</td>
+    <td>feat: add TS-02</td>
+    <td>-</td>
+    <td>20/09/2024</td>
+  </tr>
+</table>
+
+#### 5.2.3.5. Execution Evidence for Sprint Review  
+
+Para esta entrega, el equipo CiberMach logró implementar de manera exitosa el frontend web app y un avance del backend de la aplicación
+Enlace del deploy de la web app mediante: https://movirent.netlify.app/#/
+
+
+Link de la web app mediante: https://movirent.netlify.app/#/
+
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review  
+Para esta entrega, el equipo CiberMach logró implementar de manera exitosa el frontend web app, en 
+la cual se brindará variadas opciones relacionas a la publicación y escritura de libros ilustrados, a la 
+vez de información conr espectos a los autores y artistas. Ademas, se hizo un avance del backend de la aplicación.
+
+Enlace del deploy de la web app mediante: https://movirent.netlify.app/#/
+
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review   
+
+Para el despliegue del backend de la aplicacion web se utilizó ... , a continuación se 
+muestra el link de la aplicación web desplegada junto a los pasos realizados para 
+publicarla: 
+
+Pasos:
+
+
+#### 5.2.3.8. Team Collaboration Insights during Sprint. 
+
+Colaboración por alumno en la aplicación web:
+
+<table border="1px" align="center">
+  <tr>
+    <th>Alumno</th>
+    <th>Actividad</th>
+  </tr>
+  <tr>
+    <td>Velarde Gonzales, Nestor</td>
+    <td>Epic 03</td>
+  </tr>
+  <tr>
+    <td>Espinoza Delgado, Bárbara Antonella</td>
+    <td>Epic 02</td>
+  </tr>
+  <tr>
+    <td>Jara Benites, Quique Vladimir</td>
+    <td>Epic 05</td>
+  </tr>
+  <tr>
+    <td>Hidalgo Lopez, Mathias Adriano</td>
+    <td>Epic 04</td>
+  </tr>
+  <tr>
+    <td>Diestra Zambrano, Adriana María</td>
+    <td>Epic 03</td>
+  </tr>
+  <tr>
+    <td>Fernandez Remon, Roy Linsh</td>
+    <td>Epic 06</td>
+  </tr>
+</table>
+ 
+Tabla para poder identificarnos:
+
+<table border="1px" align="center">
+  <tr>
+    <th>Username (Github)</th>
+    <th>Nombre</th>
+  </tr>
+  <tr>
+    <td>VelardeSoft</td>
+    <td>Velarde Gonzales, Nestor</td>
+  </tr>
+  <tr>
+    <td>MesSobble</td>
+    <td>Espinoza Delgado, Bárbara Antonella</td>
+  </tr>
+  <tr>
+    <td>QuiqueVladimir</td>
+    <td>Jara Benitez, Quique Vladimir</td>
+  </tr>
+  <tr>
+    <td>mathiasadriano</td>
+    <td>Hidalgo Lopez, Mathias Adriano</td>
+  </tr>
+  <tr>
+    <td>adriiiiiiiiiiii</td>
+    <td>Diestra Zambrano, Adriana María</td>
+  </tr>
+  <tr>
+    <td>RTPX26</td>
+    <td>Fernandez Remon, Roy Linsh</td>
+  </tr>
+</table>
+
+Para este sprint se ha realizado la implementación de la web app, para esto los integrantes del grupo realizaron su aporte a través de commits en la herramienta Git Hub.
+
+### 5.3. Validation Interviews
+
+#### 5.3.1. Diseño de entrevistas
+
+### 5.3.1 Diseño de Entrevistas
+
+Para la validación de nuestro proyecto, hemos diseñado una serie de entrevistas con el fin de obtener feedback de nuestros usuarios. A continuación se presentan las preguntas que se realizarán en las entrevistas:
+
+Preguntas generales:
+- ¿Cuál es tu nombre?
+- ¿Qué edad tienes?
+- ¿Dónde vives actualmente?
+- ¿A qué te dedicas?
+
+Preguntas segmento Owner:
+- ¿Qué característica te llama más la atención del aplicativo? ¿Por qué?
+- ¿Qué opinas sobre el diseño y la funcionalidad de gestión de tus scooters para alquilar, tales como las caracterisitcas que se deben describir y la opción de actualizarlas?
+- ¿Qué opinas sobre la funcionalidad de reseñas de tus scooters?
+
+Preguntas segmento Client:
+
+- ¿Hay alguna característica que sientes que falta aún optimizar? ¿Qué consideras que le haría falta?
+- ¿Qué opinas sobre el diseño y la funcionalidad de alquiler de scooters, tales como la busqueda, la información de cada scooter y sus reseñas?
+- ¿Qué opinas sobre la funcionalidad de historial de scooters alquilados?
+
+
+#### 5.3.2. Registro de entrevistas
+
+#### 5.3.3. Evaluación según heurísticas
+
+### 5.4. Video about the team 
+
+  
 <div style="page-break-before: always;"></div>
 
 
@@ -4171,7 +4496,6 @@ Nuestro contexto actual afronta una serie de problemas en el transporte urbano, 
 y falta de infraestructura se recomienda analizar y proponer nuevas ideas de soluciones que mejoren la calidad de vida de las personas 
 y promuevan el uso de vehículos ecológicos.
 
-### [Video about the team](#video-about-the-team)
 
 # [Bibliografía](#bibliografía)
 
