@@ -207,15 +207,9 @@
     </tr>
     <tr>
       <td>3.0</td>
-      <td>2024/10/20</td>
+      <td>2024/10/25</td>
       <td>Espinoza Delgado, Bárbara Antonella</td>
-      <td>Capítulo 5</td>
-    </tr>
-    <tr>
-      <td>3.1</td>
-      <td>2024/10/27</td>
-      <td>Velarde Gonzales, Néstor</td>
-      <td>Conclusiones y anexos.</td>
+      <td>Sprint 3, evaluación según heurisiticas y conclusiones</td>
     </tr>
   </tbody>
 </table>
@@ -267,6 +261,86 @@ Para el desarrollo de la entrega TB1, se optó por dividir el trabajo de la sigu
 <img src="https://github.com/user-attachments/assets/c038f415-19aa-465d-9b29-bb3441532e43" alt="Commits informe" width="80%" align="center">
 
 
+**TP**
+
+Para el desarrollo de la entrega TP, se optó por dividir el trabajo de la siguiente forma:
+
+<table align="center" border="1">
+    <thead>
+        <tr>
+            <th>Integrante</th>
+            <th>Actividades Asignadas</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Espinoza Delgado, Bárbara Antonella</td>
+            <td> Sprint Planning, Sprint Backlog, Development evidence, Testing Suite, Execution Evidence y Team Collaboration Insights.</td>
+        </tr>
+        <tr>
+            <td>Velarde Gonzales, Néstor</td>
+            <td>Conclusiones y Anexos</td>
+        </tr>
+        <tr>
+            <td>Diestra Zambrano, Adriana María</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Hidalgo López, Mathias Adriano</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Jara Benitez, Quique Vladimir</td>
+            <td> Service Documentation y Software Deployment.</td>
+        </tr>
+        <tr>
+            <td>Fernandez Remon, Roy Linsh</td>
+            <td>-</td>
+        </tr>
+    </tbody>
+</table>
+
+
+**TB2**
+
+Para el desarrollo de la entrega TB2, se optó por dividir el trabajo de la siguiente forma:
+
+<table align="center" border="1">
+    <thead>
+        <tr>
+            <th>Integrante</th>
+            <th>Actividades Asignadas</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Espinoza Delgado, Bárbara Antonella</td>
+            <td> Sprint Planning, Sprint Backlog, Development evidence, Testing Suite, Execution Evidence, Team Collaboration Insights y Evaluación según heuristicas.</td>
+        </tr>
+        <tr>
+            <td>Velarde Gonzales, Néstor</td>
+            <td>Entrevista, Conclusiones y Anexos</td>
+        </tr>
+        <tr>
+            <td>Diestra Zambrano, Adriana María</td>
+            <td>Entrevista</td>
+        </tr>
+        <tr>
+            <td>Hidalgo López, Mathias Adriano</td>
+            <td>Entrevista</td>
+        </tr>
+        <tr>
+            <td>Jara Benitez, Quique Vladimir</td>
+            <td>Entrevista, Service Documentation y Software Deployment.</td>
+        </tr>
+        <tr>
+            <td>Fernandez Remon, Roy Linsh</td>
+            <td>Entrevista</td>
+        </tr>
+    </tbody>
+</table>
+
+
 <div style="page-break-before: always;"></div>
 
 ## Student Outcome
@@ -299,17 +373,25 @@ del ABET – EAC - Student Outcome 5.
                 - <b>Quique Vladimir Jara Benites</b>: Realicé entrevistas a propietarios, desarrollé historias de usuario funcionales y no funcionales basadas en las entrevistas y colaboré en el desarrollo de la landing page usando GitHub Pages.<br><br>
                 - <b>Fernández Remón, Roy</b>: Realicé entrevistas para conocer las necesidades de los clientes y elaboré el diagrama de clases UML para organizar el desarrollo.<br><br>
                 - <b>Velarde Gonzales, Néstor Hernan</b>: Realicé entrevistas para obtener necesidades de clientes y dueños, colaboré en historias de usuario y el diseño de prototipos en Figma.<br><br><br>
-                <b>TP1</b>:<br>
+                <b>TP</b>:<br>
                 - <b>Adriana María Diestra Zambrano</b>: Colaboro en equipo para liderar la implementación del front-end, la conexión a la API y funcionalidades como <code>i18n</code> y el componente de <code>Not Found</code>. Aseguro la planificación y ejecución del sprint, ajustando el sprint backlog junto al equipo y asegurando que las evidencias reflejen el progreso colectivo.<br><br>
                 - <b>Bárbara Antonella Espinoza Delgado</b>: Trabajo en equipo para implementar el login y registro en el front-end, asegurando un flujo de autenticación intuitivo. Superviso el progreso y me adapto a los cambios necesarios en el proceso.<br><br>
                 - <b>Mathias Adriano Hidalgo Lopez</b>: Trabajo en equipo para diseñar y desarrollar un sistema de interfaz de usuario donde los usuarios pueden dejar reseñas sobre scooters, asumiendo un rol de liderazgo compartido.<br><br>
                 - <b>Quique Vladimir Jara Benites</b>: Lidero la implementación de la funcionalidad de eliminación, garantizando que el proceso sea efectivo y cumpla con los estándares de seguridad.<br><br>
-                - <b>Fernández Remón, Roy</b>: Lidero la creación de preguntas frecuentes y políticas de privacidad, y el Epic 6 que incluye la cancelación de suscripción y el guardado de pagos exitosos.<br><br>
+                - <b>Fernández Remón, Roy</b>: Lidero la creación de preguntas frecuentes y políticas de privacidad.<br><br>
                 - <b>Velarde Gonzales, Néstor Hernan</b>: Participo activamente en la creación de la pantalla para subir y editar scooters, asegurando un liderazgo colaborativo.<br>
+              <b>TB2</b>:<br>
+                - <b>Adriana María Diestra Zambrano</b>: <br><br>
+                - <b>Bárbara Antonella Espinoza Delgado</b>: Como líder del equipo, en esta tercera entrega, trabajé en conjunto para proporcionar dirección clara, fomentar la participación activa de todos los miembros y reportar los inclumplimientos de los miembros.<br><br>
+                - <b>Mathias Adriano Hidalgo Lopez</b>: <br><br>
+                - <b>Quique Vladimir Jara Benites</b>: <br><br>
+                - <b>Fernández Remón, Roy</b>:<br><br>
+                - <b>Velarde Gonzales, Néstor Hernan</b>: <br><br>
             </td>
             <td>
                 <b>TB1</b>: Se cumplió con los objetivos y se entregó un documento detallado que sirve como sustento escrito para comprender los pasos seguidos en la planificación, desarrollo y envío del proyecto a producción.<br><br>
-                <b>TP1</b>: Se desarrolló un front-end sobresaliente, completando funcionalidades clave como reseñas de scooters, login, registro y eliminación, reflejando un proceso detallado de planificación y entrega del proyecto.
+                <b>TP</b>: Se desarrolló un front-end sobresaliente, completando funcionalidades clave como reseñas de scooters, login, registro y eliminación, reflejando un proceso detallado de planificación y entrega del proyecto. <br><br>
+               <b>TB2</b>: Se culminó el front-end de la aplicación, completando todas las funcionalidades. Ademas de realizar un avance con el backend de la aplicación. <br><br>
             </td>
         </tr>
         <tr>
@@ -328,11 +410,19 @@ del ABET – EAC - Student Outcome 5.
                 - <b>Mathias Adriano Hidalgo Lopez</b>: Fomento un entorno colaborativo estableciendo metas claras y planificando de manera organizada con el equipo.<br><br>
                 - <b>Quique Vladimir Jara Benites</b>: Fomento un entorno inclusivo al desarrollar la funcionalidad de eliminar, estableciendo metas claras y planificando con el equipo.<br><br>
                 - <b>Fernández Remón, Roy</b>: Creo un entorno colaborativo al desarrollar preguntas frecuentes y políticas de privacidad, estableciendo metas específicas en cada fase.<br><br>
-                - <b>Velarde Gonzales, Néstor Hernan</b>: Desarrollo la pantalla para subir y editar scooters, asegurando que todos los miembros del equipo participen activamente.<br>
+                - <b>Velarde Gonzales, Néstor Hernan</b>: Desarrollo la pantalla para subir y editar scooters, asegurando que todos los miembros del equipo participen activamente.<br><br>
+              <b>TB2</b>:<br>
+                - <b>Adriana María Diestra Zambrano</b>:<br><br>
+                - <b>Bárbara Antonella Espinoza Delgado</b>:  Como líder, creé un entorno colaborativo, estableciendo metas claras y planificando tareas de forma eficiente para culminar con el desarrollo del front end y el avance del backend.<br><br>
+                - <b>Mathias Adriano Hidalgo Lopez</b>:<br><br>
+                - <b>Quique Vladimir Jara Benites</b>: <br><br>
+                - <b>Fernández Remón, Roy</b>: <br><br>
+                - <b>Velarde Gonzales, Néstor Hernan</b>:<br>
             </td>
             <td>
                 <b>TB1</b>: El equipo estableció medios de comunicación efectivos y cumplió con la entrega del proyecto a tiempo, con presentaciones detalladas y comunicación constante con stakeholders.<br><br>
-                <b>TP1</b>: Se cumplieron los objetivos, implementando funcionalidades esenciales como reseñas, login y registro, asegurando la calidad del proyecto en cada fase.
+                <b>TP1</b>: Se cumplieron los objetivos, implementando funcionalidades esenciales como reseñas, login y registro, asegurando la calidad del proyecto en cada fase.<br><br>
+              <b>TB2</b>: Se cumplieron los objetivos, implementando todas las funcionalidades pendientes en el front end y se avanzaron los endpoints escenciales como el de scooter y suscripción.<br><br>
             </td>
         </tr>
     </tbody>
@@ -2190,6 +2280,7 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
             <b>Dado que</b> el desarrollador quiera actualizar un usuario existente <br>
             <b>Cuando</b> el usuario con el ID proporcionado exista<br/>
             <b>Entonces</b> el desarrollador recibe una respuesta 200 OK con los detalles del usuario actualizado.<br/>
+            <br>
             <b>Scenario 4: Solicitud DELETE exitosa</b> <br/>
             <b>Dado que</b> el desarrollador quiera eliminar un usuario<br>
             <b>Cuando</b> el usuario con el ID proporcionado exista<br/>
@@ -2238,6 +2329,7 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
             <b>Dado que</b> el desarrollador quiera actualizar un scooter existente <br>
             <b>Cuando</b> el scooter con el ID proporcionado exista<br/>
             <b>Entonces</b> el desarrollador recibe una respuesta 200 OK con los detalles del scooter actualizado.<br/>
+            <br>
             <b>Scenario 4: Solicitud DELETE exitosa</b> <br/>
             <b>Dado que</b> el desarrollador quiera eliminar un scooter<br>
             <b>Cuando</b> el scooter con el ID proporcionado exista<br/>
@@ -2267,29 +2359,48 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
     </tr>
     <tr>
         <td>TS03</td>
-        <td>Endpoint Historial </td>
+        <td>Endpoint Suscription </td>
         <td><b>Cómo</b> desarrollador de MoviRent
-        <b>Quiero</b> hacer uso del endpoint /historial
-        <b>Para</b> gestionar los datos de los historiales.
+        <b>Quiero</b> hacer uso del endpoint /suscription
+        <b>Para</b> gestionar los datos de los planes de suscripción
         <td>
             <b>Scenario 1: Solicitud GET exitosa</b> <br/>
-            <b>Dado que</b> el desarrollador hace una solicitud GET al endpoint /historial<br>
-            <b>Cuando</b> existan registros de historiales disponibles<br/>
-            <b>Entonces</b> el desarrollador recibe una respuesta 200 OK con una lista de historiales<br/>
+            <b>Dado que</b> el desarrollador hace una solicitud GET al endpoint /suscription<br>
+            <b>Cuando</b> existan registros de suscripciones disponibles<br/>
+            <b>Entonces</b> el desarrollador recibe una respuesta 200 OK con una lista de planes.<br/>
             <br>
-            <b>Scenario 2: Solicitud DELETE exitosa</b> <br/>
-            <b>Dado que</b> el desarrollador quiera eliminar un historial<br>
-            <b>Cuando</b> el historial con el ID proporcionado exista<br/>
-            <b>Entonces</b>el desarrollador recibe una respuesta 200 OK confirmando la eliminación.<br/>
-            <br>
-            <b>Scenario 3: Solicitud GET fallida</b> <br/>
-            <b>Dado que</b> el desarrollador hace una solicitud GET al endpoint /historial<br>
-            <b>Cuando</b> no existan registros de historiales<br/>
+            <b>Scenario 2: Solicitud GET fallida</b> <br/>
+            <b>Dado que</b> el desarrollador hace una solicitud GET al endpoint /suscriptión<br>
+            <b>Cuando</b> no existan registros de suscripciones disponibles<br/>
             <b>Entonces</b> el desarrollador recibe una respuesta 404 Not Found.<br/>
             <br>
-            <b>Scenario 4: Solicitud DELETE fallida</b> <br/>
+        <td>EP07</td>
+    </tr>
+    <tr>
+        <td>TS04</td>
+        <td>Endpoint Historial </td>
+        <td><b>Como</b> desarrollador de MoviRent
+        <b>Quiero</b> hacer uso del endpoint /historial
+        <b>Para</b> gestionar los datos del historial de un usuario
+        <td>
+            <b>Scenario 1: Solicitud GET exitosa</b> <br/>
+            <b>Dado que</b> desarrollador hace una solicitud GET al endpoint /historial<br>
+            <b>Cuando</b> existan registros en el historial del usuario<br/>
+            <b>Entonces</b> el desarrollador recibe una respuesta 200 OK con el historial<br/>
+            <br>
+            <b>Scenario 4: Solicitud DELETE exitosa</b> <br/>
             <b>Dado que</b> el desarrollador quiera eliminar un historial<br>
-            <b>Cuando</b>el historial con el ID proporcionado no exista<br/>
+            <b>Cuando</b> el historial exista<br/>
+            <b>Entonces</b> el desarrollador recibe una respuesta 200 OK confirmando la eliminación.<br/>
+            <br>
+            <b>Scenario 5: Solicitud GET fallida</b> <br/>
+            <b>Dado que</b> el desarrollador hace una solicitud GET al endpoint /historial<br>
+            <b>Cuando</b> no existan registros en el historial<br/>
+            <b>Entonces</b> el desarrollador recibe una respuesta 404 Not Found.<br/>
+            <br>
+            <b>Scenario 8: Solicitud DELETE fallida</b> <br/>
+            <b>Dado que</b> el desarrollador quiera eliminar un historial<br>
+            <b>Cuando</b> el historial no exista<br/>
             <b>Entonces</b> el desarrollador recibe una respuesta 404 Not Found.<br/>
             <br>
         <td>EP07</td>
@@ -2502,8 +2613,15 @@ En este apartado se muestra los impact mapping de nuestros segmentos objetivos:
   <tr>
     <td valign="top"> 26 </td>
     <td valign="top"> TS03 </td>
+    <td valign="top"> Endpoint Suscription </td>
+    <td valign="top"> Como desarrollador de MoviRent Quiero hacer uso del endpoint /suscription Para gestionar los datos de las suscripciones.</td>
+    <td valign="top"> 8 </td>
+  </tr> 
+  <tr>
+    <td valign="top"> 27 </td>
+    <td valign="top"> TS04 </td>
     <td valign="top"> Endpoint Historial </td>
-    <td valign="top"> Como desarrollador de MoviRent Quiero hacer uso del endpoint /historial Para gestionar los datos de los historiales</td>
+    <td valign="top"> Como desarrollador de MoviRent Quiero hacer uso del endpoint /hitorial Para gestionar los datos de los historiales.</td>
     <td valign="top"> 8 </td>
   </tr> 
 </table>
@@ -3633,26 +3751,28 @@ creación de secciones, corrección de bugs, entre otras cosas.
      </tr>
      <tr>
         <td style="font-weight: bold;"> Sprint 1 Review Summary </td>
-        <td> No existe.</td>
+        <td> Durante el desarrolo del Sprint 1, se logró implementar con éxito la landing page, la cuál fue desplegada mediante Netlify. Se llego a
+          cumplir con todo los requisitos funcionales indicados en el Sprint.</td>
      </tr>
      <tr>
         <td style="font-weight: bold;"> Sprint 1 Retrospective Summary </td>
-        <td> No existe. </td>
+        <td> El sprint 1 se logró de manera satisfactoria. Sin embargo, como punto de mejora encontramos el realizar las tareas con mayor
+          puntualidad. </td>
      </tr>
      <tr> 
         <td style="font-weight: bold;" colspan="2"> Sprint Goal & User Stories</td>
      </tr>
      <tr>
           <td style="font-weight: bold;"> Sprint 2 Goal</td>
-          <td> En este sprint se espera la implementación y deployado del front-end con las secciones funcionales, el footer y el diseño responsivo. En el grupo acordamos usar JavaScript, html y css para hacer el front-end. Al finalizar este sprint el front-end se desplegó en Firebase para que sea accesible por culaquier usuario desde su navegador de preferencia. </td>
+          <td> En este sprint se espera la implementación y deployado del front-end con las secciones funcionales y el diseño responsivo. En el grupo acordamos usar Vue para hacer el front-end. Al finalizar este sprint el front-end se desplegó en Firebase para que sea accesible por culaquier usuario desde su navegador de preferencia. </td>
       </tr>
       <tr>
           <td style="font-weight: bold;"> Sprint 2 Velocity </td>
-          <td> 18 </td>
+          <td> 57 </td>
       </tr>
       <tr>
           <td style="font-weight: bold;"> Sum of Story Points </td>
-          <td> 18 </td>
+          <td> 57 </td>
       </tr>
 </table>
 
@@ -3685,7 +3805,7 @@ creación de secciones, corrección de bugs, entre otras cosas.
       <td> W01  </td>
       <td> Registrar usuario </td>
       <td>Implementar Registro de usuario. </td>
-      <td> 2  </td>
+      <td> 3  </td>
       <td> Bárbara Espinoza </td> 
       <td> Done </td>
    </tr>
@@ -3695,58 +3815,128 @@ creación de secciones, corrección de bugs, entre otras cosas.
       <td> W02  </td>
       <td> Iniciar sesión </td>
       <td> Implementar Iniciar sesión  </td>
-      <td> 2  </td>
+      <td> 5  </td>
       <td> Bárbara Espinoza  </td> 
       <td> Done </td>
    </tr>
    <tr>
-      <td> EP02-US010 </td>
+      <td> EP02-US10 </td>
       <td colspan="3">Visualizar perfil de usuario del front-end </td>
       <td> W03  </td>
       <td> Visualizar perfil de usuario </td>
       <td> Implementar Visualizar perfil de usuario. </td>
-      <td> 2  </td>
+      <td> 5  </td>
       <td> Bárbara Espinoza </td> 
       <td> Done </td>
    </tr>
    <tr>
-      <td> EP02-US011 </td>
+      <td> EP02-US11 </td>
       <td colspan="3">Cambiar datos personales del front-end </td>
       <td> W04  </td>
       <td> Cambiar datos personales </td>
       <td> Implementar Cambiar datos personales </td>
-      <td> 1  </td>
+      <td> 3  </td>
       <td> Bárbara Espinoza </td> 
       <td> Done </td>
    </tr>
    <tr>
-      <td> EP02-US012 </td>
+      <td> EP02-US12 </td>
       <td colspan="3">Eliminar cuenta de usuario del front-end </td>
       <td> W05  </td>
       <td> Eliminar cuenta de usuario </td>
       <td>Implementar Eliminar cuenta de usuario. </td>
-      <td> 2  </td>
+      <td> 3  </td>
       <td> Bárbara Espinoza </td> 
       <td> Done </td>
    </tr>
+  <tr>
+      <td> EP03-US13 </td>
+      <td colspan="3">Publicar Scooter en alquiler del front-end </td>
+      <td> W06  </td>
+      <td> Publicar Scooter en alquiler </td>
+      <td>Implementación de Publicar Scooter en alquiler. </td>
+      <td> 5  </td>
+      <td> Nestor Velarde </td> 
+      <td> Done </td>
+   </tr>
+  <tr>
+      <td> EP03-US14 </td>
+      <td colspan="3">Visualizar Scooter en alquiler del front-end </td>
+      <td> W07  </td>
+      <td> Visualizar Scooter en alquiler </td>
+      <td>Implementación de Visualizar Scooter en alquiler. </td>
+      <td> 3  </td>
+      <td> Nestor Velarde </td> 
+      <td> Done </td>
+   </tr>
    <tr>
-      <td> EP02-US015 </td>
+      <td> EP03-US15 </td>
       <td colspan="3">Editar Scooter en alquiler del front-end </td>
-      <td> W03  </td>
+      <td> W08  </td>
       <td> Editar Scooter en alquiler </td>
       <td>Implementación de Editar Scooter en alquiler. </td>
-      <td> 2  </td>
+      <td> 3  </td>
       <td> Adriana Diestra </td> 
       <td> Done </td>
    </tr>
    <tr>
-      <td> EP02-US016 </td>
+      <td> EP03-US16 </td>
       <td colspan="3">Eliminar scooter en alquiler del front-end </td>
-      <td> W03  </td>
+      <td> W09  </td>
       <td> Eliminar scooter en alquiler </td>
       <td>Implementación de Eliminar scooter en alquiler. </td>
-      <td> 2  </td>
+      <td> 3  </td>
       <td> Adriana Diestra </td> 
+      <td> Done </td>
+   </tr>
+   <tr>
+      <td> EP04-US17 </td>
+      <td colspan="3">Buscar scooters en un distrito específico </td>
+      <td> W10  </td>
+      <td> Búsqueda de scooters cercanos </td>
+      <td>Implementación de Búsqueda de scooters cercanos. </td>
+      <td> 8  </td>
+      <td> Mathias Hidalgo </td> 
+      <td> Done </td>
+   </tr>
+   <tr>
+      <td> EP04-US18 </td>
+      <td colspan="3">Alquilar scooters disponibles </td>
+      <td> W11  </td>
+      <td> Alquiler de Scooter </td>
+      <td>Implementación de Alquilar Scooters disponibles </td>
+      <td> 5  </td>
+      <td> Mathias Hidalgo </td> 
+      <td> Done </td>
+   </tr>
+   <tr>
+      <td> EP04-US019 </td>
+      <td colspan="3">Funcionalidad de claificación y reseñas </td>
+      <td> W12  </td>
+      <td> Calificación y reseñas </td>
+      <td>Implementación de Calificación y reseñas. </td>
+      <td> 3  </td>
+      <td> Mathias Hidalgo </td> 
+      <td> Done </td>
+   </tr>
+  <tr>
+      <td> EP05-US20 </td>
+      <td colspan="3">Visualizar historial de scooters alquilados anteriormente</td>
+      <td> W13  </td>
+      <td> Visualizar historial de scooters alquilados </td>
+      <td>Implementación de visualizar historial de scooters alquilados.</td>
+      <td> 5  </td>
+      <td> Vladimir Jara </td> 
+      <td> Done </td>
+   </tr>
+   <tr>
+      <td> EP05-US21 </td>
+      <td colspan="3">Eliminar historial de scooters alquilados anteriormente</td>
+      <td> W14  </td>
+      <td> Eliminar historial de scooters alquilados</td>
+      <td>Implementación de eliminar historial de scooters alquilados. </td>
+      <td> 3  </td>
+      <td> Vladimir Jara </td> 
       <td> Done </td>
    </tr>
 </table>
@@ -4044,28 +4234,12 @@ En esta sección se detallarán los commits realizados en el desarrollo del fron
     <td>-</td>
     <td>21/09/2024</td>
   </tr>
-  <tr>
-    <td>RTPX26/AcceptanceTest</td>
-    <td>Main</td>
-    <td>06e96a9</td>
-    <td>feat: add US-22</td>
-    <td>-</td>
-    <td>20/09/2024</td>
-  </tr>
-  <tr>
-    <td>RTPX26/AcceptanceTest</td>
-    <td>Main</td>
-    <td>0484b3b</td>
-    <td>feat: add US-23</td>
-    <td>-</td>
-    <td>20/09/2024</td>
-  </tr>
 </table>
 
 #### 5.2.2.5. Execution Evidence for Sprint Review  
 
 Para esta entrega, el equipo CiberMach logró implementar de manera exitosa el frontend web app.
-Enlace del deploy de la web app mediante: https://movirent.netlify.app/#/profile
+Enlace del deploy de la web app mediante: https://movirent.netlify.app/#/
 
 ![Captura de pantalla 2024-09-25 165044](https://github.com/user-attachments/assets/585ee042-2b76-440d-b887-366a1f9b61b3)
 
@@ -4073,7 +4247,6 @@ Enlace del deploy de la web app mediante: https://movirent.netlify.app/#/profile
 
 ![Captura 3 front](https://github.com/user-attachments/assets/11e0428a-7820-4f04-a983-6a505fb29630)
 
-Link de la web app mediante: https://movirent.netlify.app/#/
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review  
 Para esta entrega, el equipo CiberMach logró implementar de manera exitosa el frontend web app.
@@ -4130,10 +4303,6 @@ Colaboración por alumno en la aplicación web:
   <tr>
     <td>Diestra Zambrano, Adriana María</td>
     <td>Epic 03</td>
-  </tr>
-  <tr>
-    <td>Fernandez Remon, Roy Linsh</td>
-    <td>Epic 06</td>
   </tr>
 </table>
  
@@ -4218,11 +4387,11 @@ Para este sprint se ha realizado la implementación de la web app, para esto los
      </tr>
      <tr>
         <td style="font-weight: bold;"> Sprint 2 Review Summary </td>
-        <td> No existe.</td>
+        <td>Durante el desarrolo del Sprint 2, se logró implementar con éxito la web app, la cuál fue desplegada mediante Netlify. Se llego a cumplir con todo los requisitos funcionales indicados en el Sprint.</td>
      </tr>
      <tr>
         <td style="font-weight: bold;"> Sprint 2 Retrospective Summary </td>
-        <td> No existe. </td>
+        <td> El sprint 2 se logró de manera satisfactoria. Sin embargo, como punto de mejora encontramos el realizar el trabajo de manera conjunta y equitativa. </td>
      </tr>
      <tr> 
         <td style="font-weight: bold;" colspan="2"> Sprint Goal & User Stories</td>
@@ -4265,23 +4434,43 @@ Para este sprint se ha realizado la implementación de la web app, para esto los
      <th> Status (To-do / In-Process / To- Review / Done) </th>
    </tr>
    <tr>
-      <td> EP07-TS-01 </td>
-      <td colspan="3">Endpoint de Usuario</td>
+      <td> EP06-US-22 </td>
+      <td colspan="3">Adquisición de suscripción de paga</td>
       <td> W01  </td>
-      <td> Endpoint usuario </td>
-      <td>Implementar el endpoint usuario </td>
-      <td> 8  </td>
+      <td> Adquirir plan </td>
+      <td>Implementar el adquirir plan. </td>
+      <td> 5  </td>
       <td> Bárbara Espinoza </td> 
+      <td> Done </td>
+   </tr>
+  <tr>
+      <td> EP06-US-23 </td>
+      <td colspan="3">Cancelación de suscripción elegida</td>
+      <td> W02  </td>
+      <td> Cancelar suscripción </td>
+      <td>Implementar el cancelar suscripción. </td>
+      <td> 3  </td>
+      <td> Mathias Hidalgo </td> 
       <td> Done </td>
    </tr>
    <tr>
       <td> EP07-TS-02 </td>
       <td colspan="3">Endpoint de Scooter</td>
-      <td> W02  </td>
+      <td> W03  </td>
       <td> Endpoint scooter </td>
       <td>Implementar el endpoint scooter </td>
       <td> 8  </td>
       <td> Nestor Velarde </td> 
+      <td> Done </td>
+   </tr>
+  <tr>
+      <td> EP07-TS-03 </td>
+      <td colspan="3">Endpoint de Suscripción</td>
+      <td> W04  </td>
+      <td> Endpoint suscription </td>
+      <td>Implementar el endpoint suscription </td>
+      <td> 8  </td>
+      <td> Vladimir Jara </td> 
       <td> Done </td>
    </tr>
 </table>
@@ -4325,18 +4514,18 @@ En esta sección se detallarán los commits realizados en el desarrollo del back
     <th>Commited<br>On (Date)</th>
   </tr>
   <tr>
-    <td>MesSobble/AcceptanceTest</td>
+    <td>RTPX26/AcceptanceTest</td>
     <td>Main</td>
-    <td>42ce1d2</td>
-    <td>feat: add TS-01</td>
+    <td>06e96a9</td>
+    <td>feat: add US-22</td>
     <td>-</td>
     <td>20/09/2024</td>
   </tr>
   <tr>
-    <td>VelardeSoft/AcceptanceTest</td>
+    <td>RTPX26/AcceptanceTest</td>
     <td>Main</td>
-    <td>42ce1d2</td>
-    <td>feat: add TS-02</td>
+    <td>0484b3b</td>
+    <td>feat: add US-23</td>
     <td>-</td>
     <td>20/09/2024</td>
   </tr>
@@ -4344,26 +4533,53 @@ En esta sección se detallarán los commits realizados en el desarrollo del back
 
 #### 5.2.3.5. Execution Evidence for Sprint Review  
 
-Para esta entrega, el equipo CiberMach logró implementar de manera exitosa el frontend web app y un avance del backend de la aplicación
+Para esta entrega, el equipo CiberMach logró implementar de manera exitosa el frontend web app y un avance del backend de la aplicación.
+
 Enlace del deploy de la web app mediante: https://movirent.netlify.app/#/
 
+En el landing page se agregaron los videos about the product y about the team, para que de ese modo podamos dar a conocer de mejor manera al público tanto nuestro producto mediante un vidoe promocional como a nuestro equipo.
 
-Link de la web app mediante: https://movirent.netlify.app/#/
+**FALTA LINK DE LA LANDING**
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review  
 Para esta entrega, el equipo CiberMach logró implementar de manera exitosa el frontend web app, en 
-la cual se brindará variadas opciones relacionas a la publicación y escritura de libros ilustrados, a la 
-vez de información conr espectos a los autores y artistas. Ademas, se hizo un avance del backend de la aplicación.
+la cual se brindará variadas opciones de creación de usuarios, publicar scooters y visualizar y elegir una suscripción. 
 
 Enlace del deploy de la web app mediante: https://movirent.netlify.app/#/
 
+Ademas, se hizo un avance del backend de la aplicación. A continuación se presentaran los endpoints desarrollados en el presente sprint y se adjuntan capturas de pantalla de las acciones Crud y otros metodos realiazados en OpenApi. 
+
+Se adjunta el link del repositorio del backend en Github.: **FALTA LINK DEL BACKEND**
+
+<table>
+  <tr>
+   <th style="text-align:center;"> <strong> Bounded Context </strong> </th>
+    <th style="text-align:center;"> <strong> Enpoint Url </strong> </th>
+    <th style="text-align:center;"> <strong> Swagger </strong> </th>
+  </tr>
+
+  <tr>
+   <th style="text-align:center;"> <strong> Scooter Bounded Context </strong> </th>
+    <th style="text-align:center;"> <strong> /scooter </strong> </th>
+    <th> <**FALTA CAPTURA DEL SWAGGER**> </th>
+  </tr>
+
+
+  <tr>
+   <th style="text-align:center;"> <strong> Suscription Bounded Context </strong> </th>
+    <th style="text-align:center;"> <strong> /suscripction </strong> </th>
+    <th> <**FALTA CAPTURA DEL SWAGGER**> </th>
+  </tr>
+</table>
+
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review   
 
-Para el despliegue del backend de la aplicacion web se utilizó ... , a continuación se 
-muestra el link de la aplicación web desplegada junto a los pasos realizados para 
-publicarla: 
+Para el presente sprint, se ha desarollado el backend de la web application. Para lo cual se emplearon las siguientes herramientas. Sin embargo, dentro del alcance de este sprint no se contempla el deploy del backend.
 
-Pasos:
+Git: Sistema de control de versiones el cual empleamos para trabajar de manera colaborativa y monitorear las versiones de la web application en un repositorio remoto.
+Gitflow: Flujo de trabajo colaborativo, esto nos permitió dividir el trabajo por ramas dentro de nuestro repositorio con la finalidad de facilitar la colaboración en el desarrollo.
+GitHub: Plataforma que nos brindo la herramienta de crear nuestro repositorio para almacenar las versiones de nuestro proyecto.
+Swagger Ui: Herramienta para probar y documentar nuestra API.
 
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint. 
@@ -4377,26 +4593,18 @@ Colaboración por alumno en la aplicación web:
   </tr>
   <tr>
     <td>Velarde Gonzales, Nestor</td>
-    <td>Epic 03</td>
+    <td>Epic 07</td>
   </tr>
   <tr>
     <td>Espinoza Delgado, Bárbara Antonella</td>
-    <td>Epic 02</td>
+    <td>Epic 06</td>
   </tr>
   <tr>
     <td>Jara Benites, Quique Vladimir</td>
-    <td>Epic 05</td>
+    <td>Epic 07</td>
   </tr>
   <tr>
     <td>Hidalgo Lopez, Mathias Adriano</td>
-    <td>Epic 04</td>
-  </tr>
-  <tr>
-    <td>Diestra Zambrano, Adriana María</td>
-    <td>Epic 03</td>
-  </tr>
-  <tr>
-    <td>Fernandez Remon, Roy Linsh</td>
     <td>Epic 06</td>
   </tr>
 </table>
@@ -4438,9 +4646,7 @@ Para este sprint se ha realizado la implementación de la web app, para esto los
 
 ### 5.3. Validation Interviews
 
-#### 5.3.1. Diseño de entrevistas
-
-### 5.3.1 Diseño de Entrevistas
+#### 5.3.1 Diseño de Entrevistas
 
 Para la validación de nuestro proyecto, hemos diseñado una serie de entrevistas con el fin de obtener feedback de nuestros usuarios. A continuación se presentan las preguntas que se realizarán en las entrevistas:
 
@@ -4466,7 +4672,112 @@ Preguntas segmento Client:
 
 #### 5.3.3. Evaluación según heurísticas
 
-### 5.4. Video about the team 
+
+### 5.3.3. Evaluaciones según heurísticas
+
+**Carrera**: Ingeniería de Software </p>
+**Curso**: WS54
+
+**Profesor**: Naldo Reupo-Musayón Gastulo
+
+**Auditor**:  Grupo 1 - CiberMach </p>
+**Cliente**:  Grupo X - **NOMBRE DEL GRUPO A EVALUAR**
+
+**SITE o APP evaluar:** **NOMBRE DEL APP A EVALUAR**
+
+**Tareas a evaluar**
+- Web Application
+- Registro de un nuevo usuario
+- Inicio de sesión de usuario existente
+- Registro de un nuevo vehículo
+- Adaptabilidad a dispositivos móviles
+
+
+**Escala de severidad**
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
+
+<table>
+  <tr>
+    <th><strong>Nivel</strong></th>
+    <th><strong>Descripción</strong></th>
+  </tr>
+  <tr>
+    <td><strong>1</strong></td>
+    <td><p>Problema superficial: puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.</p></td>
+  </tr>
+  <tr>
+    <td><strong>2</strong></td>
+    <td><p>Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente lanzamiento.</p></td>
+  </tr>
+  <tr>
+    <td><strong>3</strong></td>
+    <td><p>Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlo. Es importante que sea corregido y se le debe asignar una prioridad alta.</p></td>
+  </tr>
+  <tr>
+    <td><strong>4</strong></td>
+    <td><p>Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.</p></td>
+  </tr>
+</table>
+
+
+**Tabla de resumen**  
+
+<table>
+  <tr>
+    <th><strong>#</strong></th>
+    <th><strong>Problema</strong></th>
+    <th><strong>Escala de severidad</strong></th>
+    <th><strong>Heurística/Principio violada(o)</strong></th>
+  </tr>
+  <tr>
+    <td><strong>1</strong></td>
+    <td>No notifica cuando una cuenta fue creada.</td>
+    <td>2</td>
+    <td>It is usable?</td>
+  </tr>
+  <tr>
+    <td><strong>2</strong></td>
+    <td>Problemas en la adaptabilidad en dispositivos móviles, la pantalla de registro de cuentas no se adapta correctamente en dispositivos móviles, lo que impide el registro de una nueva cuenta.</td>
+    <td>4</td>
+    <td>Libertad de uso y control</td>
+  </tr>
+  <tr>
+    <td><strong>3</strong></td>
+    <td>Algunas pantallas no se adaptan bien en dispositivos móviles.</td>
+    <td>1</td>
+    <td>Libertad de uso y control</td>
+  </tr>
+  <tr>
+    <td><strong>4</strong></td>
+    <td>No hay opción para volver a la página de inicio desde la pantalla de registro.</td>
+    <td>3</td>
+    <td>Usability - Libertad y control del usuario</td>
+  </tr>
+  <tr>
+    <td><strong>5</strong></td>
+    <td>No se actualiza la página con los vehículos registrados.</td>
+    <td>4</td>
+    <td>Information Architecture: Is it usable?</td>
+  </tr>
+</table>
+
+
+**Descripción de problemas**  
+
+**Problema 1:** No notifica cuando una cuenta fue creada.
+
+**Severidad:** 2
+
+**Heurística violada:** Is it usable
+
+**Problema:** Al momento de haber acabado de registrar una nueva cuenta, la aplicación no indica al usuario si la cuenta fue creada con éxito o no.
+
+**Recomendación:** Se recomienda incluir un componente de notificación o popup que le pueda indicar al usuario el estado de la creación de una nueva cuenta.
+
+**FALTA IMAGEN**
+
+
+### 5.4. Video about the team
 
   
 <div style="page-break-before: always;"></div>
@@ -4486,8 +4797,12 @@ lo que permitió cumplir con los plazos establecidos y realizar un trabajo de ca
 
 - TP:
 En esta segunda entrega del desarrollo del front end de la aplicación web, hemos logrado avances significativos en la implementación de las funcionalidades clave, mejorando tanto la experiencia de usuario como la estructura visual del proyecto.
-Nuestro proyecto está enfocado en alquiler de vehiculoos especificamente del Scooter, como equipo vemos la oportunidad de promover el transporte
-urbano con vehiculos ecológicos y de bajo costo, para ello hemos realizado un estudio de mercado y entrevistas a los usuarios para identificar
+Nuestro proyecto está enfocado en alquiler de vehiculos especificamente del Scooter, como equipo vemos la oportunidad de promover el transporte
+urbano con vehiculos ecológicos y de bajo costo, para ello hemos realizado un estudio de mercado y entrevistas a los usuarios para identificar.
+
+- TB2:
+En esta tercera entrega, hemos logrado terminar con el desarrollo del front end de la aplicación. Ademas de realizar un pequeño avance en el backend con los endpoints principales.
+Tambien se realizaron nuevas entrevistas para saber la opinión de posibles usuarios con respecto a nuestra aplicación y se evaluó a otro equipo basandonos en heurisiticas.
 
 
 ### [Recomendaciones](#recomendaciones)
