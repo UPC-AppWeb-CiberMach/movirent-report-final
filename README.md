@@ -2388,17 +2388,17 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
             <b>Cuando</b> existan registros en el historial del usuario<br/>
             <b>Entonces</b> el desarrollador recibe una respuesta 200 OK con el historial<br/>
             <br>
-            <b>Scenario 4: Solicitud DELETE exitosa</b> <br/>
+            <b>Scenario 2: Solicitud DELETE exitosa</b> <br/>
             <b>Dado que</b> el desarrollador quiera eliminar un historial<br>
             <b>Cuando</b> el historial exista<br/>
             <b>Entonces</b> el desarrollador recibe una respuesta 200 OK confirmando la eliminación.<br/>
             <br>
-            <b>Scenario 5: Solicitud GET fallida</b> <br/>
+            <b>Scenario 3: Solicitud GET fallida</b> <br/>
             <b>Dado que</b> el desarrollador hace una solicitud GET al endpoint /historial<br>
             <b>Cuando</b> no existan registros en el historial<br/>
             <b>Entonces</b> el desarrollador recibe una respuesta 404 Not Found.<br/>
             <br>
-            <b>Scenario 8: Solicitud DELETE fallida</b> <br/>
+            <b>Scenario 4: Solicitud DELETE fallida</b> <br/>
             <b>Dado que</b> el desarrollador quiera eliminar un historial<br>
             <b>Cuando</b> el historial no exista<br/>
             <b>Entonces</b> el desarrollador recibe una respuesta 404 Not Found.<br/>
