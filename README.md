@@ -3780,6 +3780,10 @@ creación de secciones, corrección de bugs, entre otras cosas.
 
   #### 5.2.2.2. Sprint Backlog 2
 
+![Trello2](https://github.com/user-attachments/assets/6be477ac-5f85-4ff7-a084-7bd30fe1a56a)
+
+Link de Trello: [Ver trello](https://trello.com/invite/b/66ea5e555e1fe62ad4e43808/ATTIfd63d37e5a0a0e9ae88c9cf340da51a799AA9A3A/sprint-2) 
+
 <table border="1px" align="center"> 
    <tr>
       <th colspan="4"> Sprint # </th>
@@ -4412,7 +4416,11 @@ Para este sprint se ha realizado la implementación de la web app, para esto los
 
 
 
-  #### 5.2.3.2. Sprint Backlog 3
+  #### 5.2.3.2. Sprint Backlog 3  
+
+![Trello3](https://github.com/user-attachments/assets/2b239226-9d6a-4674-ba4c-adce531a93fd)
+
+Link del Trello: [Ver trello](https://trello.com/invite/b/671b1ba2f142ab4e27fc4eeb/ATTId71a3914fa327f13001d08f8c97cdf38211543E8/sprint-3) 
 
 <table border="1px" align="center"> 
    <tr>
