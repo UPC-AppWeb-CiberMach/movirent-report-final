@@ -2405,6 +2405,34 @@ Aquí se expone el análisis de los escenarios, organizando una tabla que detall
             <br>
         <td>EP07</td>
     </tr>
+  <tr>
+        <td>TS05</td>
+        <td>Endpoint Reviews </td>
+        <td><b>Como</b> desarrollador de MoviRent
+        <b>Quiero</b> hacer uso del endpoint /reviews
+        <b>Para</b> gestionar los datos de las reseñas
+        <td>
+            <b>Scenario 1: Solicitud GET exitosa</b> <br/>
+            <b>Dado que</b> desarrollador hace una solicitud GET al endpoint /reviews<br>
+            <b>Cuando</b> existan registros de reseñas disponibles<br/>
+            <b>Entonces</b> el desarrollador recibe una respuesta 200 OK con una lista de reseñas<br/>
+            <br>
+            <b>Scenario 2: Solicitud POST exitosa</b> <br/>
+            <b>Dado que</b> el desarrollador quiere crear una nueva reseña<br>
+            <b>Cuando</b> los datos de la reseña sean válidos y completos<br/>
+            <b>Entonces</b> el desarrollador recibe una respuesta 201 Created con los detalles de la reseña creada<br/>
+            <br>
+            <b>Scenario 3: Solicitud GET fallida</b> <br/>
+            <b>Dado que</b> el desarrollador hace una solicitud GET al endpoint /reviews<br>
+            <b>Cuando</b> no existan registros de reseñas<br/>
+            <b>Entonces</b> el desarrollador recibe una respuesta 404 Not Found.<br/>
+            <br>
+            <b>Scenario 4: Solicitud POST fallida</b> <br/>
+            <b>Dado que</b> el desarrollador quiere crear una nueva reseña<br>
+            <b>Cuando</b> los datos de la reseña estén incompletos o no sean válidos<br/>
+            <b>Entonces</b> el desarrollador recibe una respuesta 400 Bad Request.<br/>
+        <td>EP07</td>
+    </tr>
 </table>
 
 ## 3.3. Impact Mapping
@@ -2621,7 +2649,14 @@ En este apartado se muestra los impact mapping de nuestros segmentos objetivos:
     <td valign="top"> 27 </td>
     <td valign="top"> TS04 </td>
     <td valign="top"> Endpoint Historial </td>
-    <td valign="top"> Como desarrollador de MoviRent Quiero hacer uso del endpoint /hitorial Para gestionar los datos de los historiales.</td>
+    <td valign="top"> Como desarrollador de MoviRent Quiero hacer uso del endpoint /historial Para gestionar los datos de los historiales.</td>
+    <td valign="top"> 8 </td>
+  </tr> 
+  <tr>
+    <td valign="top"> 28 </td>
+    <td valign="top"> TS05 </td>
+    <td valign="top"> Endpoint Review </td>
+    <td valign="top"> Como desarrollador de MoviRent Quiero hacer uso del endpoint /reviews Para gestionar los datos de las reseñas</td>
     <td valign="top"> 8 </td>
   </tr> 
 </table>
@@ -4543,7 +4578,7 @@ En esta sección se detallarán los commits realizados en el desarrollo del back
     <td>f2db580</td>
     <td>feat: add TS-02</td>
     <td>-</td>
-    <td>20/09/2024</td>
+    <td>20/10/2024</td>
   </tr>
   <tr>
     <td>MesSobble/AcceptanceTest</td>
@@ -4551,7 +4586,7 @@ En esta sección se detallarán los commits realizados en el desarrollo del back
     <td>be72af0</td>
     <td>feat: add TS-03</td>
     <td>-</td>
-    <td>20/09/2024</td>
+    <td>20/10/2024</td>
   </tr>
 </table>
 
