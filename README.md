@@ -4537,6 +4537,22 @@ En esta sección se detallarán los commits realizados en el desarrollo del back
     <td>-</td>
     <td>20/09/2024</td>
   </tr>
+  <tr>
+    <td>MesSobble/AcceptanceTest</td>
+    <td>Main</td>
+    <td>f2db580</td>
+    <td>feat: add TS-02</td>
+    <td>-</td>
+    <td>20/09/2024</td>
+  </tr>
+  <tr>
+    <td>MesSobble/AcceptanceTest</td>
+    <td>Main</td>
+    <td>be72af0</td>
+    <td>feat: add TS-03</td>
+    <td>-</td>
+    <td>20/09/2024</td>
+  </tr>
 </table>
 
 #### 5.2.3.5. Execution Evidence for Sprint Review  
@@ -4575,7 +4591,7 @@ Se adjunta el link del repositorio del backend en Github.: **FALTA LINK DEL BACK
 
   <tr>
    <th style="text-align:center;"> <strong> Suscription Bounded Context </strong> </th>
-    <th style="text-align:center;"> <strong> /suscripction </strong> </th>
+    <th style="text-align:center;"> <strong> /suscription </strong> </th>
     <th> <**FALTA CAPTURA DEL SWAGGER**> </th>
   </tr>
 </table>
