@@ -4608,7 +4608,7 @@ Enlace del deploy de la web app mediante: https://movirent.netlify.app/#/
 
 Ademas, se hizo un avance del backend de la aplicación. A continuación se presentaran los endpoints desarrollados en el presente sprint y se adjuntan capturas de pantalla de las acciones Crud y otros metodos realiazados en OpenApi. 
 
-Se adjunta el link del repositorio del backend en Github.: **FALTA LINK DEL BACKEND**
+Se adjunta el link del repositorio del backend en Github.: [movirent-backend](https://github.com/UPC-AppWeb-CiberMach/movirent-back-end)
 
 <table>
   <tr>
@@ -4620,16 +4620,15 @@ Se adjunta el link del repositorio del backend en Github.: **FALTA LINK DEL BACK
   <tr>
    <th style="text-align:center;"> <strong> Scooter Bounded Context </strong> </th>
     <th style="text-align:center;"> <strong> /scooter </strong> </th>
-    <th> <**FALTA CAPTURA DEL SWAGGER**> </th>
+    <th> <img src="https://github.com/user-attachments/assets/7f675f78-f77e-4538-a08d-d979ceaf73f1"> </th>
   </tr>
-
-
   <tr>
    <th style="text-align:center;"> <strong> Suscription Bounded Context </strong> </th>
     <th style="text-align:center;"> <strong> /suscription </strong> </th>
-    <th> <**FALTA CAPTURA DEL SWAGGER**> </th>
+    <th> <img src="https://github.com/user-attachments/assets/99212dd9-f370-46a1-ba13-58633fa96cb1" > </th>
   </tr>
 </table>
+
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review   
 
@@ -4652,19 +4651,23 @@ Colaboración por alumno en la aplicación web:
   </tr>
   <tr>
     <td>Velarde Gonzales, Nestor</td>
-    <td>Epic 07</td>
+    <td>-</td>
   </tr>
   <tr>
     <td>Espinoza Delgado, Bárbara Antonella</td>
-    <td>Epic 06</td>
+    <td>Epic 06, Epic 07</td>
   </tr>
   <tr>
     <td>Jara Benites, Quique Vladimir</td>
-    <td>Epic 07</td>
+    <td>-</td>
   </tr>
   <tr>
     <td>Hidalgo Lopez, Mathias Adriano</td>
     <td>Epic 06</td>
+  </tr>
+ <tr>
+    <td>Diestra Zambrano, Adriana María</td>
+    <td>-</td>
   </tr>
 </table>
  
