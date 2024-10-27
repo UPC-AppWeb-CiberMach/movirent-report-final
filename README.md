@@ -4718,14 +4718,16 @@ Preguntas generales:
 Preguntas segmento Owner:
 - ¿Qué característica te llama más la atención del aplicativo? ¿Por qué?
 - ¿Qué opinas sobre el diseño y la funcionalidad de gestión de tus scooters para alquilar, tales como las caracterisitcas que se deben describir y la opción de actualizarlas?
-- ¿Qué cosas le agregarias a la aplicación o que recomendaciones darías?
+- ¿Qué funcionalidades le agregarias a la aplicación?
+- ¿Hay alguna cosa que le quitarías a la aplicación?
+- Como dueño de un scooter ¿Tienes alguna recomendación que ayude a mejorar la experiencia de usarla para dar en alquiler un scooter?
 
 Preguntas segmento Client:
-
-- ¿Hay alguna característica que sientes que falta aún optimizar? ¿Qué consideras que le haría falta?
+- ¿Qué característica te llama más la atención del aplicativo? ¿Por qué?
 - ¿Qué opinas sobre el diseño y la funcionalidad de alquiler de scooters, tales como la busqueda, la información de cada scooter y sus reseñas?
-- ¿Qué cosas le agregarias a la aplicación o que recomendaciones darías?
-
+- ¿Qué funcionalidades le agregarias a la aplicación?
+- ¿Hay alguna cosa que le quitarías a la aplicación?
+- ¿Tienes alguna recomendación que ayude a mejorar la experiencia de usarla para alquilar un scooter?
 
 ### 5.3.2. Registro de entrevistas
 
