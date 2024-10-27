@@ -12,13 +12,13 @@
   
   **Profesor:** Naldo Reupo-Musayon Gastul
   
-  ***Informe de Trabajo Final***
+  **Informe de Trabajo Final**
   
   **Nombre del startup:** CiberMach
   
   **Nombre del producto:** MoviRent
   
-  ***Integrantes:***
+  **Integrantes:**
   
   <table border="1px" align="center">
     <thead>
@@ -4703,9 +4703,9 @@ Tabla para poder identificarnos:
 
 Para este sprint se ha realizado la implementación de la web app, para esto los integrantes del grupo realizaron su aporte a través de commits en la herramienta Git Hub.
 
-### 5.3. Validation Interviews
+## 5.3. Validation Interviews
 
-#### 5.3.1 Diseño de Entrevistas
+### 5.3.1 Diseño de Entrevistas
 
 Para la validación de nuestro proyecto, hemos diseñado una serie de entrevistas con el fin de obtener feedback de nuestros usuarios. A continuación se presentan las preguntas que se realizarán en las entrevistas:
 
@@ -4727,9 +4727,7 @@ Preguntas segmento Client:
 - ¿Qué cosas le agregarias a la aplicación o que recomendaciones darías?
 
 
-#### 5.3.2. Registro de entrevistas
-
-#### 5.3.3. Evaluación según heurísticas
+### 5.3.2. Registro de entrevistas
 
 
 ### 5.3.3. Evaluaciones según heurísticas
@@ -4740,7 +4738,7 @@ Preguntas segmento Client:
 **Profesor**: Naldo Reupo-Musayón Gastulo
 
 **Auditor**:  Grupo 1 - CiberMach </p>
-**Cliente**:  Grupo X - **NOMBRE DEL GRUPO A EVALUAR**
+**Cliente**:  Grupo 3 - BiciBreeze
 
 **SITE o APP evaluar:** **NOMBRE DEL APP A EVALUAR**
 
@@ -4748,8 +4746,14 @@ Preguntas segmento Client:
 - Web Application
 - Registro de un nuevo usuario
 - Inicio de sesión de usuario existente
-- Registro de un nuevo vehículo
+- Registro de una reserva
 - Adaptabilidad a dispositivos móviles
+- Edición de datos
+- Mostrar listado de reservas
+- Prueba de buscador
+- Eliminación de datos
+- Botones de redirección
+- Sistema de suscripción
 
 
 **Escala de severidad**
@@ -4790,50 +4794,331 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
   </tr>
   <tr>
     <td><strong>1</strong></td>
-    <td>No notifica cuando una cuenta fue creada.</td>
+    <td>Los botones de iniciar sesión con Google o Apple no funcionan</td>
     <td>2</td>
-    <td>It is usable?</td>
+    <td>Libertad y control del usuario</td>
   </tr>
   <tr>
     <td><strong>2</strong></td>
-    <td>Problemas en la adaptabilidad en dispositivos móviles, la pantalla de registro de cuentas no se adapta correctamente en dispositivos móviles, lo que impide el registro de una nueva cuenta.</td>
+    <td>Al registrarse redirige a una ventana vacía</td>
     <td>4</td>
     <td>Libertad de uso y control</td>
   </tr>
   <tr>
     <td><strong>3</strong></td>
-    <td>Algunas pantallas no se adaptan bien en dispositivos móviles.</td>
-    <td>1</td>
-    <td>Libertad de uso y control</td>
+    <td>El registro no tiene validaciones ni alertas para el usuario cuando intenta registrarse poniendo dos contraseñas diferentes o un correo sin formato</td>
+    <td>3</td>
+    <td>Ayudar a los usuarios a reconocer, diagnosticar y recuperarse de errores</td>
   </tr>
   <tr>
     <td><strong>4</strong></td>
-    <td>No hay opción para volver a la página de inicio desde la pantalla de registro.</td>
-    <td>3</td>
-    <td>Usability - Libertad y control del usuario</td>
+    <td>El botón de login en la ventana de register no redirige</td>
+    <td>4</td>
+    <td>Libertad y control del usuario</td>
   </tr>
   <tr>
     <td><strong>5</strong></td>
-    <td>No se actualiza la página con los vehículos registrados.</td>
+    <td>La aplicación no es responsiva a pantallas medianas y pequeñas</td>
+    <td>3</td>
+    <td>Libertad de uso y control</td>
+  </tr>
+  <tr>
+    <td><strong>6</strong></td>
+    <td>El botón de confirmar reserva al ser presionado no notifica si se realizó la reserva o hubo algún error.</td>
+    <td>3</td>
+    <td>Visibilidad del estado del sistema</td>
+  </tr>
+  <tr>
+    <td><strong>7</strong></td>
+    <td>El botón de Manage Subscription no muestra la suscripción comprada</td>
+    <td>3</td>
+    <td>Reconocimiento en lugar de recordar</td>
+  </tr>
+  <tr>
+    <td><strong>8</strong></td>
+    <td>El buscador no funciona</td>
     <td>4</td>
-    <td>Information Architecture: Is it usable?</td>
+    <td>Libertad y control del usuario</td>
+  </tr>
+  <tr>
+    <td><strong>9</strong></td>
+    <td>El Payment Form no tiene validaciones</td>
+    <td>3</td>
+    <td>Ayudar a los usuarios a reconocer, diagnosticar y recuperarse de errores</td>
+  </tr>
+  <tr>
+    <td><strong>10</strong></td>
+    <td>El perfil muestra datos de un usuario por defecto enves de los datos del usuario con el que se inició sesión</td>
+    <td>3</td>
+    <td>Visibilidad del estado del sistema</td>
+  </tr>
+  <tr>
+    <td><strong>11</strong></td>
+    <td>Los botones de edición de datos del perfil no funcionan.</td>
+    <td>3</td>
+    <td>Libertad y control del usuario</td>
+  </tr>
+  <tr>
+    <td><strong>12</strong></td>
+    <td>Los settings no funcionan</td>
+    <td>3</td>
+    <td>Libertad y control del usuario</td>
+  </tr>
+  <tr>
+    <td><strong>13</strong></td>
+    <td>No se muestran las notificaciones</td>
+    <td>2</td>
+    <td>Visibilidad del estado del sistema</td>
+  </tr>
+  <tr>
+    <td><strong>14</strong></td>
+    <td>No permite cerrar sesión</td>
+    <td>3</td>
+    <td>Libertad y control del usuario</td>
+  </tr>
+  <tr>
+    <td><strong>15</strong></td>
+    <td>No permite desactivar la cuenta</td>
+    <td>3</td>
+    <td>Libertad y control del usuario</td>
+  </tr>
+   <tr>
+    <td><strong>16</strong></td>
+    <td>Muestra reservas por defecto y no las reservas hechas por el usuario</td>
+    <td>3</td></td>
+    <td>Visibilidad del estado del sistema</td>
   </tr>
 </table>
 
 
+
 **Descripción de problemas**  
 
-**Problema 1:** No notifica cuando una cuenta fue creada.
+**Problema 1:** Los botones de iniciar sesión con Google o Apple no funcionan
 
 **Severidad:** 2
 
-**Heurística violada:** Is it usable
+**Heurística violada:** Libertad y control del usuario
+
+**Problema:** Cuando se quiere iniciar sesión con Google o Apple, los botones no lo permiten.
+
+**Recomendación:** Se recomienda hacer que los botones redirijan a la pestana de registro general y permitir que el input deje registrar con cuentas Google o Apple.
+
+
+![Problema1](https://github.com/user-attachments/assets/6e85f96a-b4e0-4fba-af42-7fbcf47e72c8)  
+
+
+**Problema 2:** Al registrarse redirige a una ventana vacía
+
+**Severidad:** 4
+
+**Heurística violada:** Libertad y control del usuario
+
+**Problema:** Al momento de terminar de llenar los datos en el formulario de registro y dar click en registrarte, el botón redirige a una ventana en blanco.
+
+**Recomendación:** Se recomienda hacer que el botón redirija a la ventana de inicio de sesión.  
+
+
+![Problema2](https://github.com/user-attachments/assets/c281ba08-393e-461a-8850-a180b6191dbb)
+
+
+![Problema2-3](https://github.com/user-attachments/assets/22a3717d-d95e-47ef-8624-8caabf587612)  
+
+
+**Problema 3:** El registro no tiene validaciones ni alertas para el usuario cuando intenta registrarse poniendo dos contraseñas diferentes o un correo sin formato
+
+**Severidad:** 3
+
+**Heurística violada:** Ayudar a los usuarios a reconocer, diagnosticar y recuperarse de errores
+
+**Problema:** Al momento de llenar el formulario con datos erróneos, se permite el registro sin alertar al usuario que esta ingresando datos que no deberían ser válidos.
+
+**Recomendación:** Se recomienda incluir mensajes de error debajo de cada input especificando que los datos que se están ingresando no son válidos.
+
+
+![Problema3](https://github.com/user-attachments/assets/44adc02b-e176-4954-b6d0-af20157be40f)
+
+
+**Problema 4:** El botón de login en la ventana de register no redirige
+
+**Severidad:** 4
+
+**Heurística violada:** Libertad y control del usuario
+
+**Problema:** Al momento de terminar de llenar los datos en el formulario de inicio de sesión y dar click en el botón, se redirige a una ventana en blanco.
+
+**Recomendación:** Se recomienda hacer que el botón redirija a la ventana Home.
+
+
+![Problema4](https://github.com/user-attachments/assets/293c59e0-d0ad-41c5-b3df-c211ae14c066)
+
+
+**Problema 5:** La aplicación no es responsiva a pantallas medianas y pequeñas
+
+**Severidad:** 3
+
+**Heurística violada:** Libertad de uso y control
+
+**Problema:** Los componentes de la aplicación se sobreponen en lugar de acomodarse al reducir el tamaño de la pantalla
+
+**Recomendación:** Se recomienda el uso de prime flex o media queries para controlar el tamaño y posición de los componentes cuando la pantalla es reducida.
+
+
+![Problema5](https://github.com/user-attachments/assets/85effa13-20ce-44f5-87c0-e796108d8906)
+
+
+**Problema 6:** El botón de confirmar reserva al ser presionado no notifica si se realizó la reserva o hubo algún error.
+
+**Severidad:** 3
+
+**Heurística violada:** Visibilidad del estado del sistema
+
+**Problema:** Al momento de haber acabado de llenar los datos de la reserva, no hay manera de saber si la reserva se realizó u ocurrió algún error.
+
+**Recomendación:** Se recomienda incluir un componente de notificación o popup que le pueda indicar al usuario el estado de la creación de una nueva reserva.
+
+
+![Problema6](https://github.com/user-attachments/assets/758c057a-0f03-45ab-bb27-621ccc13b213)
+
+
+**Problema 7:** El botón de Manage Subscription no muestra la suscripción comprada
+
+**Severidad:** 3
+
+**Heurística violada:** Reconocimiento en lugar de recordar
+
+**Problema:** Al momento de dar click en Manage Subscription, no muestra la suscripción comprada o si el usuario no ha comprado ninguna.
+
+**Recomendación:** Se recomienda incluir un componente que muestre los datos de la suscripción adquirida.
+
+
+![Problema7](https://github.com/user-attachments/assets/d1e1ee5c-ca37-42fc-9f4e-a32bb179b55b)
+
+
+**Problema 8:** El buscador no funciona
+
+**Severidad:** 4
+
+**Heurística violada:** Libertad y control del usuario
+
+**Problema:** Al momento de querer buscar una ubicación, este no muestra nada.
+
+**Recomendación:** Se recomienda que el componente del buscador pueda tener acceso al componente que muestre los lugares para que sean mostrados únicamente los lugares que tengan un nombre que coincida.
+
+
+![Problema8](https://github.com/user-attachments/assets/9701f7e7-7c98-44e7-a9e2-4dbd6ccf831e)
+
+
+**Problema 9:** El Payment Form no tiene validaciones
+
+**Severidad:** 3
+
+**Heurística violada:** Ayudar a los usuarios a reconocer, diagnosticar y recuperarse de errores
+
+**Problema:** Al momento de llenar el formulario con datos erróneos, se permite el pago sin alertar al usuario que esta ingresando datos que no deberían ser válidos.
+
+**Recomendación:** Se recomienda incluir mensajes de error debajo de cada input especificando que los datos que se están ingresando no son válidos.
+
+
+![Problema9](https://github.com/user-attachments/assets/f1be1fa7-ad15-451f-9f0f-7db5fe7d37bc)
+
+
+**Problema 10:** El perfil muestra datos de un usuario por defecto enves de los datos del usuario con el que se inició sesión
+
+**Severidad:** 3
+
+**Heurística violada:** Visibilidad del estado del sistema
+
+**Problema:** Al momento de iniciar sesión con una cuenta recién creada y dirigrse al perfil, se muestran datos por defecto y no los datos con los que se inició sesión
+
+**Recomendación:** Se recomienda que los componentes tengan acceso a los datos almacenados en el local storage cuando se inicie sesión o que los datos se obtengan desde la api.
+
+
+![Problema10](https://github.com/user-attachments/assets/e6184f93-0877-4c98-9236-04774a2bf173)
+
+
+**Problema 11:** Los botones de edición de datos del perfil no funcionan
+
+**Severidad:** 3
+
+**Heurística violada:** Libertad y control del usuario
+
+**Problema:** Al momento de querer editar datos, el botón no permite la acción ni notifica al usuario sobre algún error.
+
+**Recomendación:** Se recomienda manejar una solicitud POST y notificar al usuario cuando se editaron los datos o si ocurrió algún error.
+
+
+![Problema11](https://github.com/user-attachments/assets/ac55d5fd-d1c3-4ead-926f-9b3137e3953f)
+
+
+**Problema 12:** Los settings no funcionan
+
+**Severidad:** 3
+
+**Heurística violada:** Libertad y control del usuario
+
+**Problema:** Al momento de querer configurar la vista de la aplicación, no guarda los cambios y la vista se sigue viendo igual.
+
+**Recomendación:** Se recomienda manejar una solicitud PUT y notificar al usuario cuando se editaron los datos o si ocurrió algún error.
+
+
+![Problema12](https://github.com/user-attachments/assets/f805f40b-aa77-4a98-8a9c-8818e9691ee8)
+
+
+**Problema 13:** No se muestran las notificaciones
+
+**Severidad:** 2
+
+**Heurística violada:** Visibilidad del estado del sistema
 
 **Problema:** Al momento de haber acabado de registrar una nueva cuenta, la aplicación no indica al usuario si la cuenta fue creada con éxito o no.
 
-**Recomendación:** Se recomienda incluir un componente de notificación o popup que le pueda indicar al usuario el estado de la creación de una nueva cuenta.
+**Recomendación:** Se recomienda incluir alertas al realizar acciones, guardarlas y mostrarse y guardarse en notificaciones.
 
-**FALTA IMAGEN**
+
+![Problema13](https://github.com/user-attachments/assets/41aadac4-6957-41b2-ac86-8feb2589686c)
+
+
+**Problema 14:** No permite cerrar sesión
+
+**Severidad:** 3
+
+**Heurística violada:** Libertad y control del usuario
+
+**Problema:** Al momento de haber acabado de registrar una nueva cuenta, la aplicación no indica al usuario si la cuenta fue creada con éxito o no.
+
+**Recomendación:** Se recomienda que el botón redirija a la ventana de inicio de sesión y limpie el local storage.
+
+
+![Problema14](https://github.com/user-attachments/assets/4bd7ba93-3a24-4204-a695-34f3877e2a56)
+
+
+**Problema 15:** No permite desactivar la cuenta
+
+**Severidad:** 3
+
+**Heurística violada:** Libertad y control del usuario
+
+**Problema:** Al momento de haber acabado de registrar una nueva cuenta, la aplicación no indica al usuario si la cuenta fue creada con éxito o no.
+
+**Recomendación:** Se recomienda manejar una solicitud DELETE y notificar al usuario cuando se borraron los datos o si ocurrió algún error.
+
+
+![Problema15](https://github.com/user-attachments/assets/45c9ecb6-2284-4d8c-b50b-4e309390668c)
+
+
+**Problema 16:** Muestra reservas por defecto y no las reservas hechas por el usuario
+
+**Severidad:** 3
+
+**Heurística violada:** Visibilidad del estado del sistema
+
+**Problema:** Se muestran reservas que no hizo el usuario con el que se inicia sesión y no guarda las reservas que se realizan con la cuenta logeada.
+
+**Recomendación:** Se recomienda manejar una solicitud POST y mostrar la lista de reservas creadas.
+
+
+![Problema16](https://github.com/user-attachments/assets/5bcf8788-da59-42a2-aff6-e668e67e1c3c)
 
 
 ### 5.4. Video about the team
