@@ -4770,9 +4770,9 @@ Datos del entrevistado:
 * Edad: 23
 * Distrito de residencia: San Juan de Lurigancho
 * Enlace a la entrevista: [Ver Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b778_upc_edu_pe/ER0p20kL8wBIhliFaWRD__kBIYKsHk826DNPummgwqgmDA?e=iz2qCj&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
-* Duración de la entrevista: 11:11
+* Duración de la entrevista: 3:42
 
-![Entrevista-Maryori](https://github.com/UPC-AppWeb-CiberMach/movirent-report-final/blob/977c61f79090548ddccef692c59e1b0ad0939b12/assets/chapter-05/interviews/entrevista%20mar.png)
+-foto-
 
 **Informe del resumen de la entrevista:**
 
@@ -4780,6 +4780,19 @@ Maryori Atanacio Cruces, es una joven de 23 años, residente de San Juan de Luri
 
 La entrevista concluyó de manera satisfactoria con agradecimientos mutuos entre ambas personas.
 
+### Entrevista 3:
+
+Datos del entrevistador:
+* Nombre: Adriana
+* Apellido: Diestra
+
+Datos del entrevistado:
+* Nombres: Nicolas
+* Apellidos: Pardo
+* Edad: 20
+* Distrito de residencia: Chorrillos
+* Enlace a la entrevista: [Ver Video](https://upcedupe-my.sharepoint.com/personal/u202218110_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202218110_upc_edu_pe%2FDocuments%2FEntrevista%20cliente%20Nicolas%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E349976f4-abac-449c-a40e-9e9115d4af4f&isDarkMode=false)
+* Duración de la entrevista: 9:00
 ### 5.3.3. Evaluaciones según heurísticas
 
 **Carrera**: Ingeniería de Software </p>
