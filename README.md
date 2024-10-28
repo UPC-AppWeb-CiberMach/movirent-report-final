@@ -3928,6 +3928,7 @@ Link de Trello: [Ver trello](https://trello.com/invite/b/66ea5e555e1fe62ad4e4380
       <td> Adriana Diestra </td> 
       <td> Done </td>
    </tr>
+
    <tr>
       <td> EP04-US17 </td>
       <td colspan="3">Buscar scooters en un distrito específico </td>
@@ -4747,6 +4748,27 @@ Datos del entrevistado:
 * Distrito de residencia: Cajamarca
 * Enlace a la entrevista: [Ver Video](https://upcedupe-my.sharepoint.com/personal/u202218110_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202218110_upc_edu_pe%2FDocuments%2FEntrevista%20owner%20Brad%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eda1ff25b-411b-4a7e-9150-a7103d037055&isDarkMode=false)
 * Duración de la entrevista: 5:21
+
+
+#### Entrevista 2:
+Datos del entrevistador:
+* Nombres: Quique Vladimir
+* Apellidos: Jara Benites
+
+Datos del entrevistado:
+* Nombres: David
+* Apellidos: Beltran Burgos
+* Edad: 25
+* Distrito de residencia: San Borja
+* Enlace a la entrevista: [Ver Video](https://upcedupe-my.sharepoint.com/personal/u202218110_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202218110_upc_edu_pe%2FDocuments%2FEntrevista%20owner%20Brad%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eda1ff25b-411b-4a7e-9150-a7103d037055&isDarkMode=false)
+* Duración de la entrevista: 7:36
+
+![Screenshot 2024-10-28 121431](https://github.com/user-attachments/assets/7f1050d2-1d9f-4d8b-9574-dadd5fdb2828)
+
+**Informe del resumen de la entrevista:**
+En la entrevista al señor Beltrán se mostro los avances en el desarrollo de la plataforma "Movi Rent." Quique explicó las principales funcionalidades: registro de usuarios, perfiles personalizables, opciones de suscripción para el alquiler de vehículos y scooters, y la posibilidad de gestionar estos scooters en la plataforma.
+
+David ofreció varias sugerencias, como añadir colores a la barra de navegación y soporte para más idiomas, además del español e inglés. También propuso que los usuarios pudieran subir imágenes directamente desde su dispositivo en lugar de usar una URL. Además, preguntó sobre la responsividad de la plataforma y los métodos de pago, señalando que aún se estaba trabajando en la integración de pagos.
 
 
 ### Entrevistas segmento 2: Clientes
