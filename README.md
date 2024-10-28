@@ -89,25 +89,25 @@
       <td>1.2</td>
       <td>2024/08/23</td>
       <td>Espinoza Delgado, Bárbara Antonella</td>
-      <td><b>Information Architecture</b> y Database Diagram*.</td>
+      <td><b>Information Architecture</b> y <b>Database Diagram</b>.</td>
     </tr>
     <tr>
       <td>1.3</td>
       <td>2024/08/23</td>
       <td>Hidalgo Lopez, Mathias Adriano</td>
-      <td>*Empathy Mapping*, *To-Be Mapping*.</td>
+      <td><b>Empathy Mapping, To-Be Mapping</b>.</td>
     </tr>
     <tr>
       <td>1.4</td>
       <td>2024/08/24</td>
       <td>Espinoza Delgado, Bárbara Antonella</td>
-      <td>*User Stories*, *Product Backlog*.</td>
+      <td><b>User Stories, Product Backlog</b>.</td>
     </tr>
     <tr>
       <td>1.5</td>
       <td>2024/08/30</td>
       <td>Jara Benitez, Quique Vladimir</td>
-      <td>Entrevista, redacción del análisis competitivo, estrategias frente a competidores, *User Persona*, *User Task Matrix*, *User Journey Mapping*, *As-Is Scenario* y Lenguaje ubicuo.</td>
+      <td>Entrevista, redacción del análisis competitivo, estrategias frente a competidores, <b>User Persona, User Task Matrix, User Journey Mapping, As-Is Scenario* y Lenguaje ubicuo</b>.</td>
     </tr>
     <tr>
       <td>1.6</td>
@@ -119,7 +119,7 @@
       <td>1.7</td>
       <td>2024/08/30</td>
       <td>Espinoza Delgado, Bárbara Antonella</td>
-      <td>*Sprint Planning* y *Sprint Backlog*.</td>
+      <td><b>Sprint Planning* y *Sprint Backlog</b>.</td>
     </tr>
     <tr>
       <td>1.8</td>
@@ -131,7 +131,7 @@
       <td>1.9</td>
       <td>2024/09/02</td>
       <td>Espinoza Delgado, Bárbara Antonella</td>
-      <td>*Style Guidelines*, Diseño de la *Landing Page UI*, UX/UI de la Aplicación Web.</td>
+      <td><b>Style Guidelines</b>, Diseño de la <b>Landing Page UI</b>, UX/UI de la Aplicación Web.</td>
     </tr>
     <tr>
       <td>1.10</td>
@@ -143,13 +143,13 @@
       <td>1.11</td>
       <td>2024/09/04</td>
       <td>Hidalgo Lopez, Mathias Adriano</td>
-      <td>Entrevista, *Impact Mapping*.</td>
+      <td>Entrevista, <b>Impact Mapping</b>.</td>
     </tr>
     <tr>
       <td>1.12</td>
       <td>2024/09/04</td>
       <td>Jara Benitez, Quique Vladimir</td>
-      <td>*Testing Suite*, evidencia de ejecución, documentación del servicio, despliegue de software y *Team Collaboration Insights*.</td>
+      <td><b>Testing Suite</b>, evidencia de ejecución, documentación del servicio, despliegue de software y <b>Team Collaboration Insights</b>.</td>
     </tr>
     <tr>
       <td>1.13</td>
@@ -161,7 +161,7 @@
       <td>1.14</td>
       <td>2024/09/05</td>
       <td>Velarde Gonzales, Néstor</td>
-      <td>*Landing Page*, servicios y aplicaciones, bibliografía y conclusiones.</td>
+      <td><b>Landing Page</b>, servicios y aplicaciones, bibliografía y conclusiones.</td>
     </tr>
     <tr>
       <td>1.15</td>
@@ -173,13 +173,13 @@
       <td>1.16</td>
       <td>2024/09/06</td>
       <td>Diestra Zambrano, Adriana María</td>
-      <td>Arquitectura de software basada en dominios (*Domain-Driven Software Architecture*).</td>
+      <td>Arquitectura de software basada en dominios (<b>Domain-Driven Software Architecture</b>).</td>
     </tr>
     <tr>
       <td>1.17</td>
       <td>2024/09/06</td>
       <td>Diestra Zambrano, Adriana María</td>
-      <td>Arquitectura de software basada en dominios (*Domain-Driven Software Architecture*).</td>
+      <td>Arquitectura de software basada en dominios (<b>Domain-Driven Software Architecture</b>).</td>
     </tr>
     <tr>
       <td>1.18</td>
@@ -191,7 +191,7 @@
       <td>1.19</td>
       <td>2024/09/06</td>
       <td>Velarde Gonzales, Néstor</td>
-      <td>Conclusiones y anexos.</td>
+      <td><b>Conclusiones</b> y anexos.</td>
     </tr>
     <tr>
       <td>2.0</td>
@@ -209,7 +209,7 @@
       <td>3.0</td>
       <td>2024/10/25</td>
       <td>Espinoza Delgado, Bárbara Antonella</td>
-      <td>Sprint 3, evaluación según heurisiticas y conclusiones</td>
+      <td><b>Sprint 3</b>, evaluación según heurisiticas y conclusiones</td>
     </tr>
   </tbody>
 </table>
