@@ -278,7 +278,7 @@ Para el desarrollo de la entrega TP, se optó por dividir el trabajo de la sigui
             <td> Sprint Planning, Sprint Backlog, Development evidence, Testing Suite, Execution Evidence y Team Collaboration Insights.</td>
         </tr>
         <tr>
-            <td>Velarde Gonzales, Néstor</td>
+            <td>Velarde Gonzales, Néstor Hernán</td>
             <td>Conclusiones y Anexos</td>
         </tr>
         <tr>
