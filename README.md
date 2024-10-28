@@ -4783,7 +4783,8 @@ Datos del entrevistado:
 * Enlace a la entrevista: [Ver Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213222_upc_edu_pe/ER6yCwPN9GVGr8TvNmwlTD8Bu_VTpoH15RJe45P-NjA0YQ?e=AuKGXy&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 * Duración de la entrevista: 10:02
 
-![Screenshot 2024-10-28 121431](https://github.com/user-attachments/assets/7f1050d2-1d9f-4d8b-9574-dadd5fdb2828)
+<img width="773" alt="Captura de pantalla 2024-10-28 a la(s) 17 09 47" src="https://github.com/user-attachments/assets/e2ce94cf-80fc-40ac-a3f6-012eaca15f50">
+
 
 **Informe del resumen de la entrevista:**
 En la entrevista, le presentamos nuestra aplicacion a la joven Brissa mostrandole todas las funcionalidades y el tipo de servicios que ofrecemos. Brissa comenta que la aplicacion le parece muy bien para el negocio, destaca las funcionalidades como el filtro de busqueda de los scooters, ademas de que opina sobre el estilo de la pagina.
