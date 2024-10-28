@@ -4770,6 +4770,25 @@ En la entrevista al señor Beltrán se mostro los avances en el desarrollo de la
 
 David ofreció varias sugerencias, como añadir colores a la barra de navegación y soporte para más idiomas, además del español e inglés. También propuso que los usuarios pudieran subir imágenes directamente desde su dispositivo en lugar de usar una URL. Además, preguntó sobre la responsividad de la plataforma y los métodos de pago, señalando que aún se estaba trabajando en la integración de pagos.
 
+#### Entrevista 2:
+Datos del entrevistador:
+* Nombres: Quique Vladimir
+* Apellidos: Jara Benites
+
+Datos del entrevistado:
+* Nombres: Brissa
+* Apellidos: Hoyos Arevalo
+* Edad: 19
+* Distrito de residencia: Rimac
+* Enlace a la entrevista: [Ver Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213222_upc_edu_pe/ER6yCwPN9GVGr8TvNmwlTD8Bu_VTpoH15RJe45P-NjA0YQ?e=AuKGXy&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+* Duración de la entrevista: 10:02
+
+![Screenshot 2024-10-28 121431](https://github.com/user-attachments/assets/7f1050d2-1d9f-4d8b-9574-dadd5fdb2828)
+
+**Informe del resumen de la entrevista:**
+En la entrevista, le presentamos nuestra aplicacion a la joven Brissa mostrandole todas las funcionalidades y el tipo de servicios que ofrecemos. Brissa comenta que la aplicacion le parece muy bien para el negocio, destaca las funcionalidades como el filtro de busqueda de los scooters, ademas de que opina sobre el estilo de la pagina.
+
+Nos brinda recomendaciones y funcionalidades que podemos agregar a la aplicacion como la de un chat en donde el cliente puede comunicarse con el propietario del scooter.
 
 ### Entrevistas segmento 2: Clientes
 
