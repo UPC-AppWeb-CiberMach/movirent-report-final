@@ -4747,10 +4747,13 @@ Datos del entrevistado:
 * Enlace a la entrevista: [Ver Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b778_upc_edu_pe/EdcL2jU9tttAtfnSoP_r9b4BP4rnCXU6wiVGyAJJUjEBog?e=sugqaR&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 * Duración de la entrevista: 9:00
 
-![Entrevista-Jefry](https://github.com/user-attachments/assets/5bd87a6d-a65d-41b4-9613-18bd224e8a26)
+![Entrevista-Jefry](https://github.com/UPC-AppWeb-CiberMach/movirent-report-final/blob/977c61f79090548ddccef692c59e1b0ad0939b12/assets/chapter-05/interviews/entrevista%20jefry.png)
 
 **Informe del resumen de la entrevista:**
 
+Jefrey Prado, es un joven de 24 años, residente de San Juan de Lurigancho. Actualmente es estudiante de la carrera de Arquitectura. A Jefrey le parece muy interesante la sectorización que se le da al alquiler de los scooter y que este servicio se brinde mediante una página web. También opina que, le parece una propuesta muy interesante el poder ver a que scooter puede acceder y que tan próximo se encuentra a su ubicación. El considera que se le deberia añadir a la aplicación los datos de los Owner, esto le serviría mucho para poder conocer sobre con quien trata el alquiler del scooter. Menciona que, todas las funcionalidades le gustaron y que no se debería quitar ninguna de los que se encuentran. Recomienda que haya una mayor difusión sobre el alquiler de scooter en muchos más distritos para que el servicio pueda llegar a más personas.
+
+La entrevista concluyó de manera satisfactoria con agradecimientos mutuos entre ambas personas.
 
 
 ### Entrevista 2:
@@ -4767,10 +4770,13 @@ Datos del entrevistado:
 * Enlace a la entrevista: [Ver Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b778_upc_edu_pe/ER0p20kL8wBIhliFaWRD__kBIYKsHk826DNPummgwqgmDA?e=iz2qCj&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 * Duración de la entrevista: 11:11
 
-![Entrevista-Maryori](https://github.com/user-attachments/assets/8f9a9323-a165-4aeb-a300-bc71f0921720)
+![Entrevista-Maryori](https://github.com/UPC-AppWeb-CiberMach/movirent-report-final/blob/977c61f79090548ddccef692c59e1b0ad0939b12/assets/chapter-05/interviews/entrevista%20mar.png)
 
 **Informe del resumen de la entrevista:**
 
+Maryori Atanacio Cruces, es una joven de 23 años, residente de San Juan de Lurigancho. Actualmente es estudiante de la carrera de Ingeniería de Gestión Empresarial. A maryori le parece muy interesante que al ingresar a la página le aparezca la sección de registro de cuenta ya que le facilita a que pueda registrarse en el sistema y le evita tener que buscar ese apartado. También opina que, al iniciar sesión en la página, debería salir directamente el apartado de scooter que se puedan alquilar en vez que la del perfil porque siente que le sería mucho mas cómodo el uso. Ella considera que, al momento de registrarse en la página, le gustaria que aparecieran casilleros donde pueda autorizar el poder recibir notificaciones a su correo sobre publicidad y ofertas de scooter así como también si desea aceptar las políticas de privacidad. Menciona que, la opción de buscar scooter no sería muy necesario para ella cuando existan pocas cantidad que poder alquilar pero si es que hubieran muchas más cantidadades de scooter, sería muy importante esa función. Ella recomienda que, cada scooter existente en la página, pueda tener una vista previa en 360° para poder ver su diseño y que también tengan información sobre la altura y peso.
+
+La entrevista concluyó de manera satisfactoria con agradecimientos mutuos entre ambas personas.
 
 ### 5.3.3. Evaluaciones según heurísticas
 
