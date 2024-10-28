@@ -4731,6 +4731,46 @@ Preguntas segmento Client:
 
 ### 5.3.2. Registro de entrevistas
 
+### Entrevistas segmento 2: Clientes
+
+#### Entrevista 1:
+
+Datos del entrevistador:
+* Nombres: Roy Linsh
+* Apellidos: Fernández Remón
+
+Datos del entrevistado:
+* Nombres: Jefry
+* Apellidos: Prado Remón
+* Edad: 24
+* Distrito de residencia: San Juan de Lurigancho
+* Enlace a la entrevista: [Ver Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b778_upc_edu_pe/EdcL2jU9tttAtfnSoP_r9b4BP4rnCXU6wiVGyAJJUjEBog?e=sugqaR&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+* Duración de la entrevista: 9:00
+
+![Entrevista-Jefry](https://github.com/user-attachments/assets/5bd87a6d-a65d-41b4-9613-18bd224e8a26)
+
+**Informe del resumen de la entrevista:**
+
+
+
+### Entrevista 2:
+
+Datos del entrevistador:
+* Nombres: Roy Linsh
+* Apellidos: Fernández Remón
+
+Datos del entrevistado:
+* Nombres: Maryori
+* Apellidos: Atanacio Cruces
+* Edad: 23
+* Distrito de residencia: San Juan de Lurigancho
+* Enlace a la entrevista: [Ver Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b778_upc_edu_pe/ER0p20kL8wBIhliFaWRD__kBIYKsHk826DNPummgwqgmDA?e=iz2qCj&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+* Duración de la entrevista: 11:11
+
+![Entrevista-Maryori](https://github.com/user-attachments/assets/8f9a9323-a165-4aeb-a300-bc71f0921720)
+
+**Informe del resumen de la entrevista:**
+
 
 ### 5.3.3. Evaluaciones según heurísticas
 
