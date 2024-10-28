@@ -540,6 +540,8 @@ URL Project Report en Github: [URL Project Report en GitHub](https://github.com/
     - [5.3.2. Registro de entrevistas](#532-registro-de-entrevistas)
     - [5.3.3. Evaluación según heurísticas](#533-evaluación-según-heurísticas)
 - [5.4. Video about the product](#54-video-about-the-product)
+- [Conclusiones](conclusiones)
+- [About The Team](about-the-team)
 
 <div style="page-break-before: always;"></div>
 
@@ -5169,7 +5171,13 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
 ![Problema16](https://github.com/user-attachments/assets/5bcf8788-da59-42a2-aff6-e668e67e1c3c)
 
 
-### 5.4. Video about the team
+### 5.4. Video about the product
+
+En esta sección se encuentra el video About The Product, donde explicamos brevemente en que consiste nuestra aplicación, acompañado de una breve demostración de su uso enfocandonos en las principales funcionalidades.  
+
+![Foto About The Product](https://github.com/user-attachments/assets/00ccea88-c0ad-41cf-97ae-35d2931a2939)
+
+Link del video About The Product: [About The Product](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201911727_upc_edu_pe/EYNcmZpNH6NLsZ5s0G630iABhZWL8cImsc4pwBsfBDvk7A?e=gLEQYZ )
 
   
 <div style="page-break-before: always;"></div>
@@ -5196,8 +5204,12 @@ urbano con vehiculos ecológicos y de bajo costo, para ello hemos realizado un e
 En esta tercera entrega, hemos logrado terminar con el desarrollo del front end de la aplicación. Ademas de realizar un pequeño avance en el backend con los endpoints principales.
 Tambien se realizaron nuevas entrevistas para saber la opinión de posibles usuarios con respecto a nuestra aplicación y se evaluó a otro equipo basandonos en heurisiticas.
 
+# [About The Team](#about-the-team)
 
-### [Recomendaciones](#recomendaciones)
+En esta sección tenemos el video About The Team, donde cada integrante se presenta y explica sus aportes al proyecto
+
+Link del video About The Team: [About The Team](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201911727_upc_edu_pe/ERTAYUO3gRtIgHnputXgUiEBtPM08R-S4LiJ7bqeZ-vVXQ?e=moxVwD)
+# [Recomendaciones](#recomendaciones)
 
 Nuestro contexto actual afronta una serie de problemas en el transporte urbano, como la congestión vehicular, la contaminación ambiental 
 y falta de infraestructura se recomienda analizar y proponer nuevas ideas de soluciones que mejoren la calidad de vida de las personas 
@@ -5310,6 +5322,14 @@ Enlaces a los desarrollos de trabajo del equipo CiberMach.
         <tr>
             <td>Nuestro Video del TB1 - Exposición</td>
             <td><a href="https://n9.cl/w5ve8">Video de Landing Page</a></td>
+        </tr>
+      <tr>
+            <td>Nuestro Video About The Product</td>
+            <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u201911727_upc_edu_pe/EYNcmZpNH6NLsZ5s0G630iABhZWL8cImsc4pwBsfBDvk7A?e=gLEQYZ">Video About The Product</a></td>
+        </tr>
+      <tr>
+            <td>Nuestro Video About The Team</td>
+            <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u201911727_upc_edu_pe/ERTAYUO3gRtIgHnputXgUiEBtPM08R-S4LiJ7bqeZ-vVXQ?e=moxVwD ">Video About The Team</a></td>
         </tr>
     </tbody>
 </table>
