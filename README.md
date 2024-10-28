@@ -4760,7 +4760,7 @@ Datos del entrevistado:
 * Apellidos: Beltran Burgos
 * Edad: 25
 * Distrito de residencia: San Borja
-* Enlace a la entrevista: [Ver Video](https://upcedupe-my.sharepoint.com/personal/u202218110_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202218110_upc_edu_pe%2FDocuments%2FEntrevista%20owner%20Brad%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eda1ff25b-411b-4a7e-9150-a7103d037055&isDarkMode=false)
+* Enlace a la entrevista: [Ver Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202022365_upc_edu_pe/EYGmpJTK9cZFs0mMcUQkUXgBFO8PioPu37mMjlgaLDlNhA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=0iDvHP)
 * Duración de la entrevista: 7:36
 
 ![Screenshot 2024-10-28 121431](https://github.com/user-attachments/assets/7f1050d2-1d9f-4d8b-9574-dadd5fdb2828)
