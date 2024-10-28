@@ -383,15 +383,15 @@ del ABET – EAC - Student Outcome 5.
               <b>TB2</b>:<br>
                 - <b>Adriana María Diestra Zambrano</b>: <br><br>
                 - <b>Bárbara Antonella Espinoza Delgado</b>: Como líder del equipo, en esta tercera entrega, trabajé en conjunto para proporcionar dirección clara, fomentar la participación activa de todos los miembros y reportar los inclumplimientos de los miembros.<br><br>
-                - <b>Mathias Adriano Hidalgo Lopez</b>: <br><br>
-                - <b>Quique Vladimir Jara Benites</b>: <br><br>
+                - <b>Mathias Adriano Hidalgo Lopez</b>: Para esta entrega del TB2 mi participación se vasó en realizar las entrevistas a nuestros segmentos objetivos para la validación de nuestro producto, tambein ayudé en la parte de desarrollo de Back junto a mi compañera Barbara Espinoza Antonella <br><br>
+                - <b>Quique Vladimir Jara Benites</b>:  <br><br>
                 - <b>Fernández Remón, Roy</b>:<br><br>
-                - <b>Velarde Gonzales, Néstor Hernan</b>: <br><br>
+                - <b>Velarde Gonzales, Néstor Hernan</b>: Dentro del equipo, mi participación se basó en realizar las mejoras el Front, un 30% de avance del Back-End para los enpoint de scooter y realizar las entrevistas a los segmentos objetivos para validar sus experiencias de usuario. <br><br>
             </td>
             <td>
                 <b>TB1</b>: Se cumplió con los objetivos y se entregó un documento detallado que sirve como sustento escrito para comprender los pasos seguidos en la planificación, desarrollo y envío del proyecto a producción.<br><br>
                 <b>TP</b>: Se desarrolló un front-end sobresaliente, completando funcionalidades clave como reseñas de scooters, login, registro y eliminación, reflejando un proceso detallado de planificación y entrega del proyecto. <br><br>
-               <b>TB2</b>: Se culminó el front-end de la aplicación, completando todas las funcionalidades. Ademas de realizar un avance con el backend de la aplicación. <br><br>
+               <b>TB2</b>: Se culminó el front-end de la aplicación, completando todas las funcionalidades. Además de realizar un avance con el backend de la aplicación. <br><br>
             </td>
         </tr>
         <tr>
@@ -4832,7 +4832,32 @@ Datos del entrevistado:
 * Enlace a la entrevista: [Ver Video](https://upcedupe-my.sharepoint.com/personal/u202218110_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202218110_upc_edu_pe%2FDocuments%2FEntrevista%20cliente%20Nicolas%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E349976f4-abac-449c-a40e-9e9115d4af4f&isDarkMode=false)
 * Duración de la entrevista: 3:42
 
-  
+
+### Entrevista 4:
+
+Datos del entrevistador:
+* Nombres: Néstor Hernán
+* Apellidos: Velarde Gonzales
+
+Datos del entrevistado:
+* Nombres:Brandom 
+* Apellidos: Mejia Zarate
+* Edad: 21
+* Distrito de residencia: Santiago de Surco
+* Enlace a la entrevista: [Ver Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c221_upc_edu_pe/EXgNMBH3FBhHhOxbOmcsjiEBEXUrrbxheUd1LwjKSYAnww?e=4O0cZP&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+* Duración de la entrevista: 0:7:39 minutos
+
+![Entrevista a Owner - Mejía Brandon](https://github.com/user-attachments/assets/a1e37586-3583-4e45-893c-dc6a1397daf6)
+
+
+**Informe del resumen de la entrevista:**
+
+Brandom Mejía, actualmente es estudiante de la UPC y reside en la ciudad de Lima, él cuenta con 1 Scooter que suele usar para ir a la universidad o pasear dentro de la ciudad, basandose a nuestro Front-End (Aplicación web) Brandom nos comenta su buena experiencia de usuario al interactuar con nuestro sistema, como primer punto los colores, las informaciones, los botones están bastanbte claro, además le gusta el color y en base de la funcionalidad nos a dado algunas observaciones como agregar a otros idiomas como el Portugues, según él de su propia experiencia nos demuestra que sí estaría dispuesto usar nuestro servicios para rentar su Scooter.
+Finalmente, la conclusión con Brandom a sido bastante positiva, ya que nos a dado una buena retroalimentación de nuestro sistema y nos a dado algunas recomendaciones para mejorar nuestro sistema.
+
+La entrevista concluyó de manera satisfactoria con agradecimientos mutuos entre ambas personas.
+
+
 ### 5.3.3. Evaluaciones según heurísticas
 
 **Carrera**: Ingeniería de Software </p>
@@ -5241,27 +5266,24 @@ Link del video About The Product: [About The Product](https://upcedupe-my.sharep
 
 #### Conclusiones preliminares 
 - TB1: 
-Se logró realizar un trabajo exhaustiva cumpliendo con todos los segmentos del trabajo y una investigación de mercado que permitió identificar 
-las necesidades de los usuarios y las oportunidades de negocio. Se logró entregar un documento que sirve como sustento escrito para comprender 
-los pasos seguidos en la planificación, desarrollo y envío del proyecto desarrollado por el equipo CiberMach.
-Desde la primera semana de clases, el equipo se organizó para cumplir con los entregables de cada semana, realizando reuniones semanales para 
-verficar los cumplimientos de los objetivos y la planificación de las tareas. Se logró una comunicación efectiva entre los miembros del equipo,
-lo que permitió cumplir con los plazos establecidos y realizar un trabajo de calidad.
+Se logró realizar un trabajo exhaustiva cumpliendo con todos los segmentos del trabajo y una investigación de mercado que permitió identificar las necesidades de los usuarios y las oportunidades de negocio. Se logró entregar un documento que sirve como sustento escrito para comprender los pasos seguidos en la planificación, desarrollo y envío del proyecto desarrollado por el equipo CiberMach.
+Desde la primera semana de clases, el equipo se organizó para cumplir con los entregables de cada semana, realizando reuniones semanales para verficar los cumplimientos de los objetivos y la planificación de las tareas. Se logró una comunicación efectiva entre los miembros del equipo, lo que permitió cumplir con los plazos establecidos y realizar un trabajo de calidad.
 
 - TP:
 En esta segunda entrega del desarrollo del front end de la aplicación web, hemos logrado avances significativos en la implementación de las funcionalidades clave, mejorando tanto la experiencia de usuario como la estructura visual del proyecto.
-Nuestro proyecto está enfocado en alquiler de vehiculos especificamente del Scooter, como equipo vemos la oportunidad de promover el transporte
-urbano con vehiculos ecológicos y de bajo costo, para ello hemos realizado un estudio de mercado y entrevistas a los usuarios para identificar.
+Nuestro proyecto está enfocado en alquiler de vehiculos especificamente del Scooter, como equipo vemos la oportunidad de promover el transporte urbano con vehiculos ecológicos y de bajo costo, para ello hemos realizado un estudio de mercado y entrevistas a los usuarios para identificar.
 
 - TB2:
-En esta tercera entrega, hemos logrado terminar con el desarrollo del front end de la aplicación. Ademas de realizar un pequeño avance en el backend con los endpoints principales.
-Tambien se realizaron nuevas entrevistas para saber la opinión de posibles usuarios con respecto a nuestra aplicación y se evaluó a otro equipo basandonos en heurisiticas.
+En esta tercera entrega, hemos logrado terminar con el desarrollo del front-end de la aplicación. Además de realizar un pequeño avance en el backend con los endpoints principales.
+También se realizaron nuevas entrevistas para saber la opinión de posibles usuarios con respecto a nuestra aplicación y se evaluó a otro equipo basandonos en heurisiticas.
 
 # [About The Team](#about-the-team)
 
 En esta sección tenemos el video About The Team, donde cada integrante se presenta y explica sus aportes al proyecto
 
 Link del video About The Team: [About The Team](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201911727_upc_edu_pe/ERTAYUO3gRtIgHnputXgUiEBtPM08R-S4LiJ7bqeZ-vVXQ?e=moxVwD)
+
+
 # [Recomendaciones](#recomendaciones)
 
 Nuestro contexto actual afronta una serie de problemas en el transporte urbano, como la congestión vehicular, la contaminación ambiental 
@@ -5300,7 +5322,7 @@ Enlaces a los desarrollos de trabajo del equipo CiberMach.
             <th>Enlace</th>
         </tr>
         <tr>
-            <td>Nuestras entrevistas:</td>
+            <td>Nuestras entrevistas para conocer nuestros Segmentos y obtener datos:</td>
             <td>
                 3 entrevistas a propietarios de scooters
                 <ul>
@@ -5376,13 +5398,24 @@ Enlaces a los desarrollos de trabajo del equipo CiberMach.
             <td>Nuestro Video del TB1 - Exposición</td>
             <td><a href="https://n9.cl/w5ve8">Video de Landing Page</a></td>
         </tr>
-      <tr>
+        <tr>
             <td>Nuestro Video About The Product</td>
             <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u201911727_upc_edu_pe/EYNcmZpNH6NLsZ5s0G630iABhZWL8cImsc4pwBsfBDvk7A?e=gLEQYZ">Video About The Product</a></td>
         </tr>
-      <tr>
+        <tr>
             <td>Nuestro Video About The Team</td>
             <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u201911727_upc_edu_pe/ERTAYUO3gRtIgHnputXgUiEBtPM08R-S4LiJ7bqeZ-vVXQ?e=moxVwD ">Video About The Team</a></td>
+        </tr>
+        <tr>
+            <td>Entrevistas para conocer su experiencia de usuario a nuestros segmentos objetivos:</td>
+            <td>
+                <ul>
+                    <li><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b778_upc_edu_pe/EdcL2jU9tttAtfnSoP_r9b4BP4rnCXU6wiVGyAJJUjEBog?e=sugqaR&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Entrevista a nuestros usuario</a></li>
+                    <li><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b778_upc_edu_pe/ER0p20kL8wBIhliFaWRD__kBIYKsHk826DNPummgwqgmDA?e=iz2qCj&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Entrevista 02 Owner</a></li>
+                    <li><a href="https://upcedupe-my.sharepoint.com/personal/u202218110_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202218110_upc_edu_pe%2FDocuments%2FEntrevista%20cliente%20Nicolas%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E349976f4-abac-449c-a40e-9e9115d4af4f&isDarkMode=false">Entrevista 03 Owner</a></li>
+                    <li><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c221_upc_edu_pe/EXgNMBH3FBhHhOxbOmcsjiEBEXUrrbxheUd1LwjKSYAnww?e=4O0cZP&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Entrevista 03 Owner</a></li>
+                </ul>
+            </td>
         </tr>
     </tbody>
 </table>
