@@ -2944,12 +2944,10 @@ Para el sistema de navegación en pantallas desktop, optamos por emplear una **b
 Nuestro prototipo está diseñado con una estructura muy organizada; en los siguientes enlaces podrá ver los wireframes y mockups de nuestra aplicación web y landing page.
 
 - **Prototipo Landing Page:**
-
-  ![Diseño en Figma](https://www.figma.com/design/cQuS3bFffjnBjo9RGwcl2D/Web-Application---MoviRent?node-id=5-658&t=v7TUuZ1SCVdOPNmo-1)
+  [Diseño en Figma](https://www.figma.com/design/cQuS3bFffjnBjo9RGwcl2D/Web-Application---MoviRent?node-id=5-658&t=v7TUuZ1SCVdOPNmo-1)
 
 - **Prototipo Aplicación Web:**
-  
-  ![Diseño en Figma](https://www.figma.com/design/cQuS3bFffjnBjo9RGwcl2D/Web-Application---MoviRent?node-id=0-1&t=v7TUuZ1SCVdOPNmo-1)
+  [Diseño en Figma](https://www.figma.com/design/cQuS3bFffjnBjo9RGwcl2D/Web-Application---MoviRent?node-id=0-1&t=v7TUuZ1SCVdOPNmo-1)
 
 Para nuestro proyecto se incluyen videos de cada uno de los prototipos realizados (Aplicación Web y Landing Page).
 
@@ -4616,7 +4614,6 @@ Se adjunta el link del repositorio del backend en Github.: [movirent-backend](ht
     <th style="text-align:center;"> <strong> Enpoint Url </strong> </th>
     <th style="text-align:center;"> <strong> Swagger </strong> </th>
   </tr>
-
   <tr>
    <th style="text-align:center;"> <strong> Scooter Bounded Context </strong> </th>
     <th style="text-align:center;"> <strong> /scooter </strong> </th>
