@@ -4749,6 +4749,11 @@ Datos del entrevistado:
 * Enlace a la entrevista: [Ver Video](https://upcedupe-my.sharepoint.com/personal/u202218110_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202218110_upc_edu_pe%2FDocuments%2FEntrevista%20owner%20Brad%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eda1ff25b-411b-4a7e-9150-a7103d037055&isDarkMode=false)
 * Duración de la entrevista: 5:21
 
+![Entrevista Brad](https://github.com/UPC-AppWeb-CiberMach/movirent-report-final/issues/5#issuecomment-2443036923)
+
+**Informe del resumen de la entrevista:**
+
+Brad Salas, es un joven de 25 años, es productor de música y músico. A Brad le llamó la atención editar los datos porque generalmente en este tipo de páginas no se encuentra la opción rápida. También opina que, le parece interesante el poder alquilar sus scooters en esta aplicación. Menciona que, todas las funcionalidades le gustaron y que no se debería quitar ninguna de los que se encuentran. Recomienda que para mejor experiencia como dueño de un scooter haya cuidado con la limpieza y las horas de carga.
 
 #### Entrevista 2:
 Datos del entrevistador:
@@ -4828,9 +4833,9 @@ Datos del entrevistado:
 * Edad: 23
 * Distrito de residencia: San Juan de Lurigancho
 * Enlace a la entrevista: [Ver Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b778_upc_edu_pe/ER0p20kL8wBIhliFaWRD__kBIYKsHk826DNPummgwqgmDA?e=iz2qCj&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
-* Duración de la entrevista: 11:00
+* Duración de la entrevista: 11:11
 
--foto-
+![Entrevista-Maryori](https://github.com/user-attachments/assets/8f9a9323-a165-4aeb-a300-bc71f0921720)
 
 **Informe del resumen de la entrevista:**
 
@@ -4852,6 +4857,11 @@ Datos del entrevistado:
 * Enlace a la entrevista: [Ver Video](https://upcedupe-my.sharepoint.com/personal/u202218110_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202218110_upc_edu_pe%2FDocuments%2FEntrevista%20cliente%20Nicolas%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E349976f4-abac-449c-a40e-9e9115d4af4f&isDarkMode=false)
 * Duración de la entrevista: 3:42
 
+![Entrevista Nicolas](https://github.com/UPC-AppWeb-CiberMach/movirent-report-final/issues/5#issuecomment-2443036513).
+
+**Informe del resumen de la entrevista:**
+
+Nicolas Pardo, es un joven de 20 años, actualmente es estudiante universitario. A Nicolas le parece muy interesante la página. También opina que, al iniciar sesión en la página, debería ser más fácil arrastrar la foto que poner la url. Él agregaría un chat entre el cliente y owner para que se contacten directamente. Él recomienda agregar un poco más de color y diseño para que sea más llamativo.
 
 ### Entrevista 4:
 
