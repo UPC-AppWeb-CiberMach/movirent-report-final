@@ -383,7 +383,7 @@ del ABET – EAC - Student Outcome 5.
               <b>TB2</b>:<br>
                 - <b>Adriana María Diestra Zambrano</b>:  Realicé las entrevistas a nuestros dos segmentos objetivos para la validación de nuestro producto.<br><br>
                 - <b>Bárbara Antonella Espinoza Delgado</b>: Como líder del equipo, en esta tercera entrega, trabajé en conjunto para proporcionar dirección clara, fomentar la participación activa de todos los miembros y reportar los inclumplimientos de los miembros.<br><br>
-                - <b>Mathias Adriano Hidalgo Lopez</b>: Para esta entrega del TB2 mi participación se vasó en realizar las entrevistas a nuestros segmentos objetivos para la validación de nuestro producto, tambein ayudé en la parte de desarrollo de Back junto a mi compañera Barbara Espinoza Antonella <br><br>
+                - <b>Mathias Adriano Hidalgo Lopez</b>: Para esta entrega del TB2 mi participación se vasó en realizar las entrevistas a nuestros segmentos objetivos para la validación de nuestro producto, tambien ayudé en la parte de desarrollo de Back junto a mi compañera Barbara Espinoza Antonella y correcciones del front-end. <br><br>
                 - <b>Quique Vladimir Jara Benites</b>:  <br>Desarrollé la API para gestionar reservas y ver el historial, coordinando con el equipo para integrar estas funcionalidades de manera eficiente. <br>
                 - <b>Fernández Remón, Roy</b>:<br><br>
                 - <b>Velarde Gonzales, Néstor Hernan</b>: Dentro del equipo, mi participación se basó en realizar las mejoras el Front, un 30% de avance del Back-End para los enpoint de scooter y realizar las entrevistas a los segmentos objetivos para validar sus experiencias de usuario. <br><br>
@@ -414,7 +414,7 @@ del ABET – EAC - Student Outcome 5.
               <b>TB2</b>:<br>
                 - <b>Adriana María Diestra Zambrano</b>: Cumplí con las tareas asignadas semanalmente y colaboré eficazmente con mi equipo.<br><br>
                 - <b>Bárbara Antonella Espinoza Delgado</b>:  Como líder, creé un entorno colaborativo, estableciendo metas claras y planificando tareas de forma eficiente para culminar con el desarrollo del front end y el avance del backend.<br><br>
-                - <b>Mathias Adriano Hidalgo Lopez</b>:<br><br>
+                - <b>Mathias Adriano Hidalgo Lopez</b>: Cumplí con las tareas que se me asignaron a tiempo y colabore con mi equipo asegurando una cominucacion clara y efectiva.<br><br>
                 - <b>Quique Vladimir Jara Benites</b>: <br>Colabore estrechamente con el equipo asegurando una comunicacion efectiva y una integracion fluida de las funcionalidades de reserva <br>
                 - <b>Fernández Remón, Roy</b>: <br><br>
                 - <b>Velarde Gonzales, Néstor Hernan</b>:<br>
