@@ -379,7 +379,7 @@ del ABET – EAC - Student Outcome 5.
                 - <b>Mathias Adriano Hidalgo Lopez</b>: Trabajo en equipo para diseñar y desarrollar un sistema de interfaz de usuario donde los usuarios pueden dejar reseñas sobre scooters, asumiendo un rol de liderazgo compartido.<br><br>
                 - <b>Quique Vladimir Jara Benites</b>: Lidero la implementación de la funcionalidad de eliminación, garantizando que el proceso sea efectivo y cumpla con los estándares de seguridad.<br><br>
                 - <b>Fernández Remón, Roy</b>: Lidero la creación de preguntas frecuentes y políticas de privacidad.<br><br>
-                - <b>Velarde Gonzales, Néstor Hernan</b>: Participo activamente en la creación de la pantalla para subir y editar scooters, asegurando un liderazgo colaborativo.<br>
+                - <b>Velarde Gonzales, Néstor Hernan</b>: Participo activamente en la creación de la pantalla para subir y editar scooters, asegurando un liderazgo colaborativo.<br><br>
               <b>TB2</b>:<br>
                 - <b>Adriana María Diestra Zambrano</b>:  Realicé las entrevistas a nuestros dos segmentos objetivos para la validación de nuestro producto.<br><br>
                 - <b>Bárbara Antonella Espinoza Delgado</b>: Como líder del equipo, en esta tercera entrega, trabajé en conjunto para proporcionar dirección clara, fomentar la participación activa de todos los miembros y reportar los inclumplimientos de los miembros.<br><br>
@@ -4442,11 +4442,11 @@ Para este sprint se ha realizado la implementación de la web app, para esto los
       </tr>
       <tr>
           <td style="font-weight: bold;"> Sprint 3 Velocity </td>
-          <td> 24 </td>
+          <td> 32 </td>
       </tr>
       <tr>
           <td style="font-weight: bold;"> Sum of Story Points </td>
-          <td> 24 </td>
+          <td> 32 </td>
       </tr>
 </table>
 
@@ -4454,7 +4454,9 @@ Para este sprint se ha realizado la implementación de la web app, para esto los
 
   #### 5.2.3.2. Sprint Backlog 3  
 
-![Trello3](https://github.com/user-attachments/assets/2b239226-9d6a-4674-ba4c-adce531a93fd)
+
+![Trello3](https://github.com/user-attachments/assets/f091a66e-b3f3-4156-a9f4-994a41e90281)
+6f6c2dd)
 
 Link del Trello: [Ver trello](https://trello.com/invite/b/671b1ba2f142ab4e27fc4eeb/ATTId71a3914fa327f13001d08f8c97cdf38211543E8/sprint-3) 
 
@@ -4504,7 +4506,7 @@ Link del Trello: [Ver trello](https://trello.com/invite/b/671b1ba2f142ab4e27fc4e
       <td> Endpoint scooter </td>
       <td>Implementar el endpoint scooter </td>
       <td> 8  </td>
-      <td> Nestor Velarde </td> 
+      <td> Bárbara Espinoza </td> 
       <td> Done </td>
    </tr>
   <tr>
@@ -4513,6 +4515,16 @@ Link del Trello: [Ver trello](https://trello.com/invite/b/671b1ba2f142ab4e27fc4e
       <td> W04  </td>
       <td> Endpoint suscription </td>
       <td>Implementar el endpoint suscription </td>
+      <td> 8  </td>
+      <td> Bárbara Espinoza </td> 
+      <td> Done </td>
+   </tr>
+  <tr>
+      <td> EP07-TS-04 </td>
+      <td colspan="3">Endpoint de Historial</td>
+      <td> W05  </td>
+      <td> Endpoint historial </td>
+      <td>Implementar el endpoint historial </td>
       <td> 8  </td>
       <td> Vladimir Jara </td> 
       <td> Done </td>
@@ -4534,16 +4546,177 @@ En esta sección se detallarán los commits realizados en el desarrollo del back
     <th>Committed <br> On (Date)</th>
   </tr>
   <tr>
-    <td>VelardeSoft/front-end</td>
+    <td>MesSobble/front-end</td>
     <td>master</td>
-    <td>7b348b1</td>
-    <td>Initial commit</td>
+    <td>da6d649</td>
+    <td>feat: upload file</td>
     <td>-</td>
-    <td>17/09/2024</td>
+    <td>20/10/2024</td>
   </tr>
-
+  <tr>
+    <td>VelardeSoft/front-end</td>
+    <td>develop</td>
+    <td>e8b7655</td>
+    <td>feat: add gitflow</td>
+    <td>-</td>
+    <td>23/10/2024</td>
+  </tr>
+  <tr>
+    <td>MesSobble/front-end</td>
+    <td>scooter-managment</td>
+    <td>f1c2d66</td>
+    <td>feat: add scooter and shared in domain</td>
+    <td>-</td>
+    <td>24/10/2024</td>
+  </tr>
+  <tr>
+    <td>MesSobble/front-end</td>
+    <td>scooter-managment</td>
+    <td>dd99384</td>
+    <td>feat: add scooter in application</td>
+    <td>-</td>
+    <td>24/10/2024</td>
+  </tr>
+  <tr>
+    <td>MesSobble/front-end</td>
+    <td>scooter-managment</td>
+    <td>275ee35</td>
+    <td>feat: add scooter in presentation</td>
+    <td>-</td>
+    <td>24/10/2024</td>
+  </tr>
+  <tr>
+    <td>MesSobble/front-end</td>
+    <td>scooter-managment</td>
+    <td>56e5a69</td>
+    <td>feat: add scooter endpoint</td>
+    <td>-</td>
+    <td>25/10/2024</td>
+  </tr>
+  <tr>
+    <td>MesSobble/front-end</td>
+    <td>scooter-managment</td>
+    <td>9954fcd</td>
+    <td>feat: add dependencies</td>
+    <td>-</td>
+    <td>25/10/2024</td>
+  </tr>
+   <tr>
+    <td>MesSobble/front-end</td>
+    <td>scooter-managment</td>
+    <td>dceb797</td>
+    <td>fix: all endpoint</td>
+    <td>-</td>
+    <td>27/10/2024</td>
+  </tr>
+  <tr>
+    <td>MesSobble/front-end</td>
+    <td>suscription</td>
+    <td>1dae58a</td>
+    <td>feat: add suscription endpoint</td>
+    <td>-</td>
+    <td>27/10/2024</td>
+  </tr>
+  <tr>
+    <td>MesSobble/front-end</td>
+    <td>suscription</td>
+    <td>e6fa0b0</td>
+    <td>fix: columns for table suscription</td>
+    <td>-</td>
+    <td>27/10/2024</td>
+  </tr>
+  <tr>
+    <td>MesSobble/front-end</td>
+    <td>suscription</td>
+    <td>fa4377c</td>
+    <td>feat: add HTTP POST</td>
+    <td>-</td>
+    <td>27/10/2024</td>
+  </tr>
+  <tr>
+    <td>MesSobble/front-end</td>
+    <td>suscription</td>
+    <td>dceb797</td>
+    <td>fix: all endpoint</td>
+    <td>-</td>
+    <td>27/10/2024</td>
+  </tr>
+  <tr>
+    <td>QuiqueVladimir/front-end</td>
+    <td>historial-management</td>
+    <td>6b4b0fa</td>
+    <td>feat: add controller</td>
+    <td>-</td>
+    <td>29/10/2024</td>
+  </tr>
+  <tr>
+    <td>QuiqueVladimir/front-end</td>
+    <td>historial-management</td>
+    <td>35ae902</td>
+    <td>feat: add entity</td>
+    <td>-</td>
+    <td>29/10/2024</td>
+  </tr>
+  <tr>
+    <td>QuiqueVladimir/front-end</td>
+    <td>historial-management</td>
+    <td>6e5c2e6</td>
+    <td>feat: add query to get all</td>
+    <td>-</td>
+    <td>29/10/2024</td>
+  </tr>
+  <tr>
+    <td>QuiqueVladimir/front-end</td>
+    <td>historial-management</td>
+    <td>fd1caba</td>
+    <td>update: methods async to update and remove</td>
+    <td>-</td>
+    <td>29/10/2024</td>
+  </tr>
+  <tr>
+    <td>QuiqueVladimir/back-end</td>
+    <td>historial-management</td>
+    <td>dde945b</td>
+    <td>update: build table in database</td>
+    <td>-</td>
+    <td>29/10/2024</td>
+  </tr>
+  <tr>
+    <td>QuiqueVladimir/back-end</td>
+    <td>historial-management</td>
+    <td>2b3dc8b</td>
+    <td>update: add command service</td>
+    <td>-</td>
+    <td>29/10/2024</td>
+  </tr>
+  <tr>
+    <td>QuiqueVladimir/back-end</td>
+    <td>historial-management</td>
+    <td>dde945b</td>
+    <td>update: build table in database</td>
+    <td>-</td>
+    <td>29/10/2024</td>
+  </tr>
+  <tr>
+    <td>QuiqueVladimir/back-end</td>
+    <td>historial-management</td>
+    <td>54f287f</td>
+    <td>feat: add model creating on AppDbContext</td>
+    <td>-</td>
+    <td>29/10/2024</td>
+  </tr>
 </table>
 
+
+![c4](https://github.com/user-attachments/assets/ab16382b-c11a-4e81-a60a-7e614fe877e6)
+
+![c1](https://github.com/user-attachments/assets/7d9e0a3a-bbb3-44b7-be10-465e4ec8e4d1)
+
+![c2](https://github.com/user-attachments/assets/d5bbe321-85fd-40c3-b3dd-c130de8750a8)
+
+![c3](https://github.com/user-attachments/assets/a1bd11c0-d4cc-4684-9731-79e9a2ea96a7)
+
+![c5](https://github.com/user-attachments/assets/83b1ecb5-8767-4681-ab19-09f2230f4aa0)
 
 
 #### 5.2.3.4. Testing Suite Evidence for Sprint Review
@@ -4589,6 +4762,14 @@ En esta sección se detallarán los commits realizados en el desarrollo del back
     <td>-</td>
     <td>20/10/2024</td>
   </tr>
+  <tr>
+    <td>MesSobble/AcceptanceTest</td>
+    <td>Main</td>
+    <td>96fdc77</td>
+    <td>feat: add TS-04</td>
+    <td>-</td>
+    <td>30/10/2024</td>
+  </tr>
 </table>
 
 #### 5.2.3.5. Execution Evidence for Sprint Review  
@@ -4627,8 +4808,12 @@ Se adjunta el link del repositorio del backend en Github.: [movirent-backend](ht
     <th style="text-align:center;"> <strong> /suscription </strong> </th>
     <th> <img src="https://github.com/user-attachments/assets/99212dd9-f370-46a1-ba13-58633fa96cb1" > </th>
   </tr>
+  <tr>
+   <th style="text-align:center;"> <strong> Historial Bounded Context </strong> </th>
+    <th style="text-align:center;"> <strong> /historial </strong> </th>
+    <th> <img src="https://github.com/user-attachments/assets/a59a6ada-64d0-4d5d-872a-2776c8f657fa" > </th>
+  </tr>
 </table>
-
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review   
 
@@ -4659,7 +4844,7 @@ Colaboración por alumno en la aplicación web:
   </tr>
   <tr>
     <td>Jara Benites, Quique Vladimir</td>
-    <td>-</td>
+    <td>Epic 07</td>
   </tr>
   <tr>
     <td>Hidalgo Lopez, Mathias Adriano</td>
