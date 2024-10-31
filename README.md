@@ -257,10 +257,6 @@ Para el desarrollo de la entrega TB1, se optó por dividir el trabajo de la sigu
     </tbody>
 </table>
 
-
-<img src="https://github.com/user-attachments/assets/c038f415-19aa-465d-9b29-bb3441532e43" alt="Commits informe" width="80%" align="center">
-
-
 **TP**
 
 Para el desarrollo de la entrega TP, se optó por dividir el trabajo de la siguiente forma:
@@ -340,6 +336,15 @@ Para el desarrollo de la entrega TB2, se optó por dividir el trabajo de la sigu
     </tbody>
 </table>
 
+### Evidencia en el desarrollo del Front-end versión actual
+
+![Desarrollo del FrontEnd](https://github.com/user-attachments/assets/edcd067d-e7ce-4375-a57b-e7b96cc90dae)
+
+### Evidencia en el desarrollo del BackEnd versión actual
+
+![Desarrollo de BackEnd](https://github.com/user-attachments/assets/a1d8b2d3-b05e-4ca6-929b-3d27c9f20e3b)
+
+
 
 <div style="page-break-before: always;"></div>
 
@@ -385,7 +390,7 @@ del ABET – EAC - Student Outcome 5.
                 - <b>Bárbara Antonella Espinoza Delgado</b>: Como líder del equipo, en esta tercera entrega, trabajé en conjunto para proporcionar dirección clara, fomentar la participación activa de todos los miembros y reportar los inclumplimientos de los miembros.<br><br>
                 - <b>Mathias Adriano Hidalgo Lopez</b>: Para esta entrega del TB2 mi participación se vasó en realizar las entrevistas a nuestros segmentos objetivos para la validación de nuestro producto, tambien ayudé en la parte de desarrollo de Back junto a mi compañera Barbara Espinoza Antonella y correcciones del front-end. <br><br>
                 - <b>Quique Vladimir Jara Benites</b>:  <br>Desarrollé la API para gestionar reservas y ver el historial, coordinando con el equipo para integrar estas funcionalidades de manera eficiente. <br>
-                - <b>Fernández Remón, Roy</b>:<br><br>
+                - <b>Fernández Remón, Roy</b>: <br> Mi particpación se reflejó en ayudar en mejorar el documento y realicé las entrevistas para la validación a los segementos objetivos.<br>
                 - <b>Velarde Gonzales, Néstor Hernan</b>: Dentro del equipo, mi participación se basó en realizar las mejoras el Front, un 30% de avance del Back-End para los enpoint de scooter y realizar las entrevistas a los segmentos objetivos para validar sus experiencias de usuario. <br><br>
             </td>
             <td>
@@ -412,12 +417,12 @@ del ABET – EAC - Student Outcome 5.
                 - <b>Fernández Remón, Roy</b>: Creo un entorno colaborativo al desarrollar preguntas frecuentes y políticas de privacidad, estableciendo metas específicas en cada fase.<br><br>
                 - <b>Velarde Gonzales, Néstor Hernan</b>: Desarrollo la pantalla para subir y editar scooters, asegurando que todos los miembros del equipo participen activamente.<br><br>
               <b>TB2</b>:<br>
-                - <b>Adriana María Diestra Zambrano</b>: Cumplí con las tareas asignadas semanalmente y colaboré eficazmente con mi equipo.<br><br>
-                - <b>Bárbara Antonella Espinoza Delgado</b>:  Como líder, creé un entorno colaborativo, estableciendo metas claras y planificando tareas de forma eficiente para culminar con el desarrollo del front end y el avance del backend.<br><br>
-                - <b>Mathias Adriano Hidalgo Lopez</b>: Cumplí con las tareas que se me asignaron a tiempo y colabore con mi equipo asegurando una cominucacion clara y efectiva.<br><br>
+                - <b>Adriana María Diestra Zambrano</b>: <br>Cumplí con las tareas asignadas semanalmente y colaboré eficazmente con mi equipo.<br>
+                - <b>Bárbara Antonella Espinoza Delgado</b>: <br>Como líder, creé un entorno colaborativo, estableciendo metas claras y planificando tareas de forma eficiente para culminar con el desarrollo del front end y el avance del backend.<br>
+                - <b>Mathias Adriano Hidalgo Lopez</b>: <br> Cumplí con las tareas que se me asignaron a tiempo y colabore con mi equipo asegurando una cominucacion clara y efectiva.<br>
                 - <b>Quique Vladimir Jara Benites</b>: <br>Colabore estrechamente con el equipo asegurando una comunicacion efectiva y una integracion fluida de las funcionalidades de reserva <br>
-                - <b>Fernández Remón, Roy</b>: <br><br>
-                - <b>Velarde Gonzales, Néstor Hernan</b>:<br>
+                - <b>Fernández Remón, Roy</b>: <br>Colaboré con las mejoras asignadas tanto en el documento y ayudé en el desarrollo de front para finalizar al 100%.<br>
+                - <b>Velarde Gonzales, Néstor Hernan</b>: <br>En esta entrega colaboré tanto en el desarrollo de front de nueva versión, despliegue a la nube y finalmente colaboré con 40% de Backend.<br/>
             </td>
             <td>
                 <b>TB1</b>: El equipo estableció medios de comunicación efectivos y cumplió con la entrega del proyecto a tiempo, con presentaciones detalladas y comunicación constante con stakeholders.<br><br>
@@ -3602,7 +3607,7 @@ Durante el primer Sprint se logró implementar la landing page con las secciones
 el footer y el diseño responsivo. A continuación se muestra la landing page implementada tanto 
 la version web para escritorio como la version mobile:
 
-Link de nuestra landing page: [Visita nuestro sitio](https://upc-appweb-cibermach.github.io/Landing-Page/)
+Link de nuestra landing page: [Visita nuestro sitio](https://upc-appweb-cibermach.github.io/movirent-landing-page/)
 
 ![Landing02](https://github.com/user-attachments/assets/d65230a1-f8ef-4193-9119-e2803fc78242)
 Nuestra portada principal de la landing page, donde se muestra una foto de fondo a que nos dedicamos. 
@@ -4279,7 +4284,7 @@ En esta sección se detallarán los commits realizados en el desarrollo del fron
 #### 5.2.2.5. Execution Evidence for Sprint Review  
 
 Para esta entrega, el equipo CiberMach logró implementar de manera exitosa el frontend web app.
-Enlace del deploy de la web app mediante: https://movirent.netlify.app/#/
+Enlace del deploy de la web app mediante: https://movirent-tb2.web.app/
 
 ![Captura de pantalla 2024-09-25 165044](https://github.com/user-attachments/assets/585ee042-2b76-440d-b887-366a1f9b61b3)
 
@@ -4291,11 +4296,11 @@ Enlace del deploy de la web app mediante: https://movirent.netlify.app/#/
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review  
 Para esta entrega, el equipo CiberMach logró implementar de manera exitosa el frontend web app.
 
-Enlace del deploy de la web app mediante: https://movirent.netlify.app/#/
+Enlace del deploy de la web app mediante: https://movirent-tb2.web.app/
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review   
 
-Para el despliegue de la aplicacion web se utilizó netlify, a continuación se muestra el link de la aplicación web desplegada junto a los pasos realizados para publicarla: https://movirent.netlify.app/#/ 
+Para el despliegue de la aplicacion web se utilizó netlify, a continuación se muestra el link de la aplicación web desplegada junto a los pasos realizados para publicarla: https://movirent-tb2.web.app/
 
 Pasos:
 
@@ -4776,17 +4781,17 @@ En esta sección se detallarán los commits realizados en el desarrollo del back
 
 Para esta entrega, el equipo CiberMach logró implementar de manera exitosa el frontend web app y un avance del backend de la aplicación.
 
-Enlace del deploy de la web app mediante: https://movirent.netlify.app/#/
+Enlace del deploy de la web app mediante: https://movirent-tb2.web.app/
 
 En el landing page se agregaron los videos about the product y about the team, para que de ese modo podamos dar a conocer de mejor manera al público tanto nuestro producto mediante un vidoe promocional como a nuestro equipo.
 
-**FALTA LINK DE LA LANDING**
+Enlace del deploy de la web app mediante: https://upc-appweb-cibermach.github.io/movirent-landing-page/
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review  
 Para esta entrega, el equipo CiberMach logró implementar de manera exitosa el frontend web app, en 
 la cual se brindará variadas opciones de creación de usuarios, publicar scooters y visualizar y elegir una suscripción. 
 
-Enlace del deploy de la web app mediante: https://movirent.netlify.app/#/
+Enlace del deploy de la web app mediante: https://movirent-tb2.web.app/
 
 Ademas, se hizo un avance del backend de la aplicación. A continuación se presentaran los endpoints desarrollados en el presente sprint y se adjuntan capturas de pantalla de las acciones Crud y otros metodos realiazados en OpenApi. 
 
@@ -5601,11 +5606,15 @@ Enlaces a los desarrollos de trabajo del equipo CiberMach.
         </tr>
         <tr>
             <td>Landing page desplegado</td>
-            <td><a href="https://upc-appweb-cibermach.github.io/Landing-Page/">Landing Page</a></td>
+            <td><a href="https://upc-appweb-cibermach.github.io/movirent-landing-page/">Landing Page</a></td>
         </tr>
         <tr>
             <td>Nuestra organización en GitHub</td>
-            <td><a href="https://github.com/UPC-AppWeb-CiberMach">GitHub</a></td>
+            <td><a href="https://github.com/orgs/UPC-AppWeb-CiberMach/repositories">GitHub</a></td>
+        </tr>
+        <tr>
+            <td>Frontend deployada</td>
+            <td><a href="https://movirent-tb2.web.app/">Frontend</a></td>
         </tr>
         <tr>
             <td>Video de nuestro landing page</td>
