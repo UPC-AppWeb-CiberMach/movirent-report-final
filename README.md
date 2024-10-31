@@ -391,7 +391,7 @@ del ABET – EAC - Student Outcome 5.
                 - <b>Mathias Adriano Hidalgo Lopez</b>: Para esta entrega del TB2 mi participación se vasó en realizar las entrevistas a nuestros segmentos objetivos para la validación de nuestro producto, tambien ayudé en la parte de desarrollo de Back junto a mi compañera Barbara Espinoza Antonella y correcciones del front-end. <br><br>
                 - <b>Quique Vladimir Jara Benites</b>:  <br>Desarrollé la API para gestionar reservas y ver el historial, coordinando con el equipo para integrar estas funcionalidades de manera eficiente. <br>
                 - <b>Fernández Remón, Roy</b>: <br> Mi particpación se reflejó en ayudar en mejorar el documento y realicé las entrevistas para la validación a los segementos objetivos.<br>
-                - <b>Velarde Gonzales, Néstor Hernan</b>: Dentro del equipo, mi participación se basó en realizar las mejoras el Front, un 30% de avance del Back-End para los enpoint de scooter y realizar las entrevistas a los segmentos objetivos para validar sus experiencias de usuario. <br><br>
+                - <b>Velarde Gonzales, Néstor Hernan</b>: Dentro del equipo, mi participación se basó en realizar las mejoras el Front, un 0% de avance del Back-End para los enpoint de scooter y realizar las entrevistas a los segmentos objetivos para validar sus experiencias de usuario. <br><br>
             </td>
             <td>
                 <b>TB1</b>: Se cumplió con los objetivos y se entregó un documento detallado que sirve como sustento escrito para comprender los pasos seguidos en la planificación, desarrollo y envío del proyecto a producción.<br><br>
