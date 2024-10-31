@@ -4775,7 +4775,7 @@ En la entrevista al señor Beltrán se mostro los avances en el desarrollo de la
 
 David ofreció varias sugerencias, como añadir colores a la barra de navegación y soporte para más idiomas, además del español e inglés. También propuso que los usuarios pudieran subir imágenes directamente desde su dispositivo en lugar de usar una URL. Además, preguntó sobre la responsividad de la plataforma y los métodos de pago, señalando que aún se estaba trabajando en la integración de pagos.
 
-#### Entrevista 2:
+#### Entrevista 3:
 Datos del entrevistador:
 * Nombres: Quique Vladimir
 * Apellidos: Jara Benites
@@ -4857,7 +4857,7 @@ Datos del entrevistado:
 * Enlace a la entrevista: [Ver Video](https://upcedupe-my.sharepoint.com/personal/u202218110_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202218110_upc_edu_pe%2FDocuments%2FEntrevista%20cliente%20Nicolas%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E349976f4-abac-449c-a40e-9e9115d4af4f&isDarkMode=false)
 * Duración de la entrevista: 3:42
 
-![Entrevista Nicolas](https://github.com/UPC-AppWeb-CiberMach/movirent-report-final/issues/5#issuecomment-2443036513).
+![WhatsApp Image 2024-10-30 at 9 57 15 PM-2](https://github.com/user-attachments/assets/81b0ed85-1d60-45ca-8eae-843227a9ee59)
 
 **Informe del resumen de la entrevista:**
 
