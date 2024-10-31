@@ -4889,7 +4889,9 @@ Tabla para poder identificarnos:
   </tr>
 </table>
 
-Para este sprint se ha realizado la implementación de la web app, para esto los integrantes del grupo realizaron su aporte a través de commits en la herramienta Git Hub.
+Para este sprint se ha realizado la implementación de la web app, para esto los integrantes del grupo realizaron su aporte a través de commits en la herramienta Git Hub.  
+
+![Commits sprint 3](https://github.com/user-attachments/assets/c4841792-7c9e-40f0-8c7a-bfc66851e211)
 
 ## 5.3. Validation Interviews
 
