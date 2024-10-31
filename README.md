@@ -4746,10 +4746,10 @@ Datos del entrevistado:
 * Apellidos: Salas Cabrera
 * Edad: 25
 * Distrito de residencia: Cajamarca
-* Enlace a la entrevista: ![WhatsApp Image 2024-10-30 at 9 57 15 PM](https://github.com/user-attachments/assets/c3eb6122-0c79-42df-b489-7cd3edea93fd)
+* Enlace a la entrevista: [ver video](https://upcedupe-my.sharepoint.com/personal/u202218110_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202218110_upc_edu_pe%2FDocuments%2FEntrevista%20owner%20Brad%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eda1ff25b-411b-4a7e-9150-a7103d037055&isDarkMode=false)
 * Duración de la entrevista: 5:21
 
-![Entrevista Brad](https://github.com/UPC-AppWeb-CiberMach/movirent-report-final/issues/5#issuecomment-2443036923)
+![WhatsApp Image 2024-10-30 at 9 57 15 PM](https://github.com/user-attachments/assets/c3eb6122-0c79-42df-b489-7cd3edea93fd)
 
 **Informe del resumen de la entrevista:**
 
