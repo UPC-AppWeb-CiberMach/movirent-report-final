@@ -5513,7 +5513,7 @@ También se realizaron nuevas entrevistas para saber la opinión de posibles usu
 
 # [About The Team](#about-the-team)
 
-En esta sección tenemos el video About The Team, donde cada integrante se presenta y explica sus aportes al proyecto
+En esta sección tenemos el video About The Team, donde cada integrante se presenta y explica sus aportes al proyecto.
 
 Link del video About The Team: [About The Team](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201911727_upc_edu_pe/ERTAYUO3gRtIgHnputXgUiEBtPM08R-S4LiJ7bqeZ-vVXQ?e=moxVwD)
 
