@@ -4397,6 +4397,7 @@ Para este sprint se ha realizado la implementación de la web app, para esto los
 
 ![Captura de pantalla 2024-09-25 161546](https://github.com/user-attachments/assets/53fc2e7d-ffd5-4905-a770-bf01ba552707)
 
+<div style="page-break-before: always;"></div>
 
 ### 5.2.3. Sprint 3
 
@@ -4462,10 +4463,9 @@ Para este sprint se ha realizado la implementación de la web app, para esto los
       </tr>
 </table>
 
+<div style="page-break-before: always;"></div>
 
-
-  #### 5.2.3.2. Sprint Backlog 3  
-
+#### 5.2.3.2. Sprint Backlog 3  
 
 ![Trello3](https://github.com/user-attachments/assets/f091a66e-b3f3-4156-a9f4-994a41e90281)
 6f6c2dd)
@@ -4931,7 +4931,10 @@ Preguntas segmento Client:
 - ¿Hay alguna cosa que le quitarías a la aplicación?
 - ¿Tienes alguna recomendación que ayude a mejorar la experiencia de usarla para alquilar un scooter?
 
+<div style="page-break-before: always;"></div>
+
 ### 5.3.2. Registro de entrevistas
+
 ### Entrevistas segmento 1: Owner
 
 #### Entrevista 1:
@@ -5056,7 +5059,7 @@ Datos del entrevistado:
 * Enlace a la entrevista: [Ver Video](https://upcedupe-my.sharepoint.com/personal/u202218110_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202218110_upc_edu_pe%2FDocuments%2FEntrevista%20cliente%20Nicolas%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E349976f4-abac-449c-a40e-9e9115d4af4f&isDarkMode=false)
 * Duración de la entrevista: 3:42
 
-![WhatsApp Image 2024-10-30 at 9 57 15 PM-2](https://github.com/user-attachments/assets/81b0ed85-1d60-45ca-8eae-843227a9ee59)
+![entrevista 12](https://github.com/user-attachments/assets/81b0ed85-1d60-45ca-8eae-843227a9ee59)
 
 **Informe del resumen de la entrevista:**
 
@@ -5086,14 +5089,13 @@ Finalmente, la conclusión con Brandom a sido bastante positiva, ya que nos a da
 
 La entrevista concluyó de manera satisfactoria con agradecimientos mutuos entre ambas personas.
 
+<div style="page-break-before: always;"></div>
 
 ### 5.3.3. Evaluaciones según heurísticas
 
 **Carrera**: Ingeniería de Software </p>
 **Curso**: WS54
-
 **Profesor**: Naldo Reupo-Musayón Gastulo
-
 **Auditor**:  Grupo 1 - CiberMach </p>
 **Cliente**:  Grupo 3 - BiciBreeze
 
