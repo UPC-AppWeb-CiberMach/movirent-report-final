@@ -391,8 +391,8 @@ del ABET – EAC - Student Outcome 5.
                 - <b>Adriana María Diestra Zambrano</b>:  Realicé las entrevistas a nuestros dos segmentos objetivos para la validación de nuestro producto.<br><br>
                 - <b>Bárbara Antonella Espinoza Delgado</b>: Como líder del equipo, en esta tercera entrega, trabajé en conjunto para proporcionar dirección clara, fomentar la participación activa de todos los miembros y reportar los inclumplimientos de los miembros.<br><br>
                 - <b>Mathias Adriano Hidalgo Lopez</b>: Para esta entrega del TB2 mi participación se vasó en realizar las entrevistas a nuestros segmentos objetivos para la validación de nuestro producto, tambien ayudé en la parte de desarrollo de Back junto a mi compañera Barbara Espinoza Antonella y correcciones del front-end. <br><br>
-                - <b>Quique Vladimir Jara Benites</b>:  <br>Desarrollé la API para gestionar reservas y ver el historial, coordinando con el equipo para integrar estas funcionalidades de manera eficiente. <br>
-                - <b>Fernández Remón, Roy</b>: <br> Mi particpación se reflejó en ayudar en mejorar el documento y realicé las entrevistas para la validación a los segementos objetivos.<br>
+                - <b>Quique Vladimir Jara Benites</b>:  <br>Desarrollé la API para gestionar reservas y ver el historial, coordinando con el equipo para integrar estas funcionalidades de manera eficiente. <br><br>
+                - <b>Fernández Remón, Roy</b>: <br> Mi particpación se reflejó en ayudar en mejorar el documento y realicé las entrevistas para la validación a los segementos objetivos.<br><br>
                 - <b>Velarde Gonzales, Néstor Hernan</b>: Dentro del equipo, mi participación se basó en realizar las mejoras el Front, un 0% de avance del Back-End para los enpoint de scooter y realizar las entrevistas a los segmentos objetivos para validar sus experiencias de usuario. <br><br>
             </td>
             <td>
@@ -419,17 +419,17 @@ del ABET – EAC - Student Outcome 5.
                 - <b>Fernández Remón, Roy</b>: Creo un entorno colaborativo al desarrollar preguntas frecuentes y políticas de privacidad, estableciendo metas específicas en cada fase.<br><br>
                 - <b>Velarde Gonzales, Néstor Hernan</b>: Desarrollo la pantalla para subir y editar scooters, asegurando que todos los miembros del equipo participen activamente.<br><br>
               <b>TB2</b>:<br>
-                - <b>Adriana María Diestra Zambrano</b>: <br>Cumplí con las tareas asignadas semanalmente y colaboré eficazmente con mi equipo.<br>
-                - <b>Bárbara Antonella Espinoza Delgado</b>: <br>Como líder, creé un entorno colaborativo, estableciendo metas claras y planificando tareas de forma eficiente para culminar con el desarrollo del front end y el avance del backend.<br>
-                - <b>Mathias Adriano Hidalgo Lopez</b>: <br> Cumplí con las tareas que se me asignaron a tiempo y colabore con mi equipo asegurando una cominucacion clara y efectiva.<br>
-                - <b>Quique Vladimir Jara Benites</b>: <br>Colabore estrechamente con el equipo asegurando una comunicacion efectiva y una integracion fluida de las funcionalidades de reserva <br>
-                - <b>Fernández Remón, Roy</b>: <br>Colaboré con las entrevistas asignadas en el documento.<br>
-                - <b>Velarde Gonzales, Néstor Hernan</b>: <br>En esta entrega colaboré tanto en el desarrollo de front de nueva versión y despliegue a la nube.<br/>
+                - <b>Adriana María Diestra Zambrano</b>: <br>Cumplí con las tareas asignadas semanalmente y colaboré eficazmente con mi equipo.<br><br>
+                - <b>Bárbara Antonella Espinoza Delgado</b>: <br>Como líder, creé un entorno colaborativo, estableciendo metas claras y planificando tareas de forma eficiente para culminar con el desarrollo del front end y el avance del backend.<br><br>
+                - <b>Mathias Adriano Hidalgo Lopez</b>: <br> Cumplí con las tareas que se me asignaron a tiempo y colabore con mi equipo asegurando una cominucacion clara y efectiva.<br><br>
+                - <b>Quique Vladimir Jara Benites</b>: <br>Colabore estrechamente con el equipo asegurando una comunicacion efectiva y una integracion fluida de las funcionalidades de reserva <br><br>
+                - <b>Fernández Remón, Roy</b>: <br>Colaboré con las entrevistas asignadas en el documento.<br><br>
+                - <b>Velarde Gonzales, Néstor Hernan</b>: <br>En esta entrega colaboré tanto en el desarrollo de front de nueva versión y despliegue a la nube.<br/><br>
             </td>
             <td>
                 <b>TB1</b>: El equipo estableció medios de comunicación efectivos y cumplió con la entrega del proyecto a tiempo, con presentaciones detalladas y comunicación constante con stakeholders.<br><br>
                 <b>TP1</b>: Se cumplieron los objetivos, implementando funcionalidades esenciales como reseñas, login y registro, asegurando la calidad del proyecto en cada fase.<br><br>
-              <b>TB2</b>: Se cumplieron los objetivos, implementando todas las funcionalidades pendientes en el front end y se avanzaron los endpoints escenciales como el de scooter y suscripción.<br><br>
+              <b>TB2</b>: Se cumplieron los objetivos, implementando todas las funcionalidades pendientes en el front end y se avanzaron los endpoints escenciales como el de scooter y suscripción.<br><
             </td>
         </tr>
     </tbody>
@@ -3642,7 +3642,7 @@ Footer, sección donde se muestra información de contacto y redes sociales.
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 Para el despliegue de la landing page se utilizó github pages, a continuación se muestra el link de la landing page 
 desplegada junto a los pasos realizados para publicarla:
-[Link](https://upc-appweb-cibermach.github.io/Landing-Page/)
+[Landing Page](https://upc-appweb-cibermach.github.io/movirent-landing-page/)
 
 **Pasos**
 
@@ -3941,7 +3941,6 @@ Link de Trello: [Ver trello](https://trello.com/invite/b/66ea5e555e1fe62ad4e4380
       <td> Adriana Diestra </td> 
       <td> Done </td>
    </tr>
-
    <tr>
       <td> EP04-US17 </td>
       <td colspan="3">Buscar scooters en un distrito específico </td>
@@ -4469,7 +4468,6 @@ Para este sprint se ha realizado la implementación de la web app, para esto los
 #### 5.2.3.2. Sprint Backlog 3  
 
 ![Trello3](https://github.com/user-attachments/assets/f091a66e-b3f3-4156-a9f4-994a41e90281)
-6f6c2dd)
 
 Link del Trello: [Ver trello](https://trello.com/invite/b/671b1ba2f142ab4e27fc4eeb/ATTId71a3914fa327f13001d08f8c97cdf38211543E8/sprint-3) 
 
@@ -4793,7 +4791,7 @@ Enlace del deploy de la web app mediante: https://movirent-tb2.web.app/
 
 En el landing page se agregaron los videos about the product y about the team, para que de ese modo podamos dar a conocer de mejor manera al público tanto nuestro producto mediante un vidoe promocional como a nuestro equipo.
 
-Enlace del deploy de la web app mediante: https://upc-appweb-cibermach.github.io/movirent-landing-page/
+Enlace del deploy de la landing page mediante: https://upc-appweb-cibermach.github.io/movirent-landing-page/
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review  
 Para esta entrega, el equipo CiberMach logró implementar de manera exitosa el frontend web app, en 
@@ -5015,7 +5013,7 @@ Datos del entrevistado:
 * Enlace a la entrevista: [Ver Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b778_upc_edu_pe/EdcL2jU9tttAtfnSoP_r9b4BP4rnCXU6wiVGyAJJUjEBog?e=sugqaR&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 * Duración de la entrevista: 9:00
 
-![Entrevista-Jefry](https://github.com/UPC-AppWeb-CiberMach/movirent-report-final/blob/977c61f79090548ddccef692c59e1b0ad0939b12/assets/chapter-05/interviews/entrevista%20jefry.png)
+![Jefri](https://github.com/user-attachments/assets/f80b982d-3ca5-40fd-81d3-756421f1ec9a)
 
 **Informe del resumen de la entrevista:**
 
@@ -5038,7 +5036,7 @@ Datos del entrevistado:
 * Enlace a la entrevista: [Ver Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b778_upc_edu_pe/ER0p20kL8wBIhliFaWRD__kBIYKsHk826DNPummgwqgmDA?e=iz2qCj&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 * Duración de la entrevista: 11:11
 
-![Entrevista-Maryori](https://github.com/user-attachments/assets/8f9a9323-a165-4aeb-a300-bc71f0921720)
+![Marjori](https://github.com/user-attachments/assets/c3123665-0b21-4497-9103-566b9910b99f)
 
 **Informe del resumen de la entrevista:**
 
