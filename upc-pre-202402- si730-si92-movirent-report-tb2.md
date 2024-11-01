@@ -1,65 +1,67 @@
 ﻿<div align="center">
 
-  ![Universidad Peruana de Ciencias Aplicadas](https://static.wikia.nocookie.net/logopedia/images/2/2d/UPC-Logo-Actual.png/revision/latest/scale-to-width-down/384?cb=20230305155749&path-prefix=es)
+  <center>
+    <img src="https://static.wikia.nocookie.net/logopedia/images/2/2d/UPC-Logo-Actual.png/revision/latest/scale-to-width-down/384?cb=20230305155749&path-prefix=es" alt="Universidad Peruana de Ciencias Aplicadas" />
+    </center> <br/>
   
-  **Universidad Peruana de Ciencias Aplicadas**
+  <center><strong>Universidad Peruana de Ciencias Aplicadas</strong></center> <br/>
   
-  Ingeniería de Software
+  <center>Ingeniería de Software</center> <br/>
   
-  **CURSO:** SI730 Aplicaciones Web - SI92
+  <center><strong>CURSO:</strong> SI730 Aplicaciones Web - SI92</center> <br/>
   
-  **SECCIÓN:** SI92
+  <center><strong>SECCIÓN:</strong> SI92</center> <br/>
   
-  **Profesor:** Naldo Reupo-Musayon Gastul
+  <center><strong>Profesor:</strong> Naldo Reupo-Musayon Gastul</center> <br/>
   
-  **Informe de Trabajo Final**
+  <center><strong>Informe de Trabajo Final</strong></center> <br/>
   
-  **Nombre del startup:** CiberMach
+  <center><strong>Nombre del startup:</strong> CiberMach</center> <br/>
   
-  **Nombre del producto:** MoviRent
+  <center><strong>Nombre del producto:</strong> MoviRent</center> <br/>
   
-  **Integrantes:**
+  <center><strong>Integrantes:</strong></center>
   
   <table border="1px" align="center">
     <thead>
         <tr>
-            <th>Nombre</th>
-            <th>Código</th>
+            <th><center>Nombres y Apellido</center></th>
+            <th><center>Código</center></th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td>Adriana María Diestra Zambrano</td>
-            <td>u202218110</td>
+            <td><center>Adriana María Diestra Zambrano</center></td>
+            <td><center>u202218110</center></td>
         </tr>
         <tr>
-            <td>Bárbara Antonella Espinoza Delgado</td>
-            <td>u201911727</td>
+            <td><center>Bárbara Antonella Espinoza Delgado</center></td>
+            <td><center>u201911727</center></td>
         </tr>
         <tr>
-            <td>Mathias Adriano Hidalgo Lopez</td>
-            <td>u202213222</td>
+            <td><center>Mathias Adriano Hidalgo Lopez</center></td>
+            <td><center>u202213222</center></td>
         </tr>
         <tr>
-            <td>Néstor Velarde Gonzales</td>
-            <td>u20211C221</td>
+            <td><center>Néstor Velarde Gonzales</center></td>
+            <td><center>u20211C221</center></td>
         </tr>
         <tr>
-            <td>Quique Vladimir Jara Benites</td>
-            <td>u202022365</td>
+            <td><center>Quique Vladimir Jara Benites</center></td>
+            <td><center>u202022365</center></td>
         </tr>
         <tr>
-            <td>Roy Linsh Fernandez Remon</td>
-            <td>u20221B778</td>
+            <td><center>Roy Linsh Fernandez Remon</center></td>
+            <td><center>u20221B778</center></td>
         </tr>
     </tbody>
-</table>
-  
-  ## **Octubre, 2024**
+  </table> 
+
+  <br/><br/>
+
+  ## <center><strong>Noviembre, 2024</strong></center> <br/>
 
 </div>
-
-<br/><br/>
 
 <div style="page-break-before: always;"></div>
 
@@ -439,8 +441,9 @@ del ABET – EAC - Student Outcome 5.
 
 ## Project Report Online
 
-[![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
-URL Project Report en Github: [URL Project Report en GitHub](https://github.com/UPC-AppWeb-CiberMach/Final-Report)
+Project Report-Final en Github: [URL Project Report en GitHub](https://github.com/UPC-AppWeb-CiberMach/Final-Report)
+
+Visita nuestra landing page: [www.movirent.com](https://upc-appweb-cibermach.github.io/movirent-landing-page/)
 
 ## Tabla de contenidos
 
@@ -5521,6 +5524,7 @@ Nuestro contexto actual afronta una serie de problemas en el transporte urbano, 
 y falta de infraestructura se recomienda analizar y proponer nuevas ideas de soluciones que mejoren la calidad de vida de las personas 
 y promuevan el uso de vehículos ecológicos.
 
+<div style="page-break-before: always;"></div>
 
 # [Bibliografía](#bibliografía)
 
@@ -5652,6 +5656,9 @@ Enlaces a los desarrollos de trabajo del equipo CiberMach.
                 </ul>
             </td>
         </tr>
+        <tr>
+            <td>Video del Sprint 3</td>
+            <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c221_upc_edu_pe/EYQP3ejPMohOq7cU9lZBf5QBALzJerpP-cwiL9ccAXgOGQ?e=SvSWAM">Ver Video</a></td>
+        </tr>
     </tbody>
 </table>
-
