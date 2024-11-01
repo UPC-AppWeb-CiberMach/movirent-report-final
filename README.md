@@ -59,6 +59,8 @@
 
 </div>
 
+<br/><br/>
+
 <div style="page-break-before: always;"></div>
 
 ## Registro de versiones del informe
@@ -433,10 +435,11 @@ del ABET – EAC - Student Outcome 5.
     </tbody>
 </table>
 
+<div style="page-break-before: always;"></div>
+
 ## Project Report Online
 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  
-
+[![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
 URL Project Report en Github: [URL Project Report en GitHub](https://github.com/UPC-AppWeb-CiberMach/Final-Report)
 
 ## Tabla de contenidos
@@ -1569,6 +1572,8 @@ usuarios necesitan encontrar scooters disponibles rápidamente.
 
 - Ambos también asignan importancia a la seguridad y verificación de identidad, asegurando confianza y fiabilidad en las transacciones.
 
+<div style="page-break-before: always;"></div>
+
 ### 2.3.3. User Journey Mapping
 
 En esta sección se presentan los User Journey Mapping de los segmentos, que realizamos con el fin de dar a entender
@@ -1577,6 +1582,8 @@ cómo se siente nuestro usuario al usar la aplicación, detallando cada paso que
 **Segmento 1 - Owner:**   
 
 ![Customer-journey-map-1](https://github.com/user-attachments/assets/336994de-80fc-4925-aa9b-b79c0a110560)
+
+<div style="page-break-before: always;"></div>
 
 **Segmento 2 - Client:**   
 
