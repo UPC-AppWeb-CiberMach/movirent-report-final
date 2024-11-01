@@ -1,65 +1,63 @@
-﻿<div align="center">
+<div align="center">
 
-  <center>
-    <img src="https://static.wikia.nocookie.net/logopedia/images/2/2d/UPC-Logo-Actual.png/revision/latest/scale-to-width-down/384?cb=20230305155749&path-prefix=es" alt="Universidad Peruana de Ciencias Aplicadas" />
-    </center> <br/>
+  ![Universidad Peruana de Ciencias Aplicadas](https://static.wikia.nocookie.net/logopedia/images/2/2d/UPC-Logo-Actual.png/revision/latest/scale-to-width-down/384?cb=20230305155749&path-prefix=es)
   
-  <center><strong>Universidad Peruana de Ciencias Aplicadas</strong></center> <br/>
+  **Universidad Peruana de Ciencias Aplicadas**
   
-  <center>Ingeniería de Software</center> <br/>
+  Ingeniería de Software
   
-  <center><strong>CURSO:</strong> SI730 Aplicaciones Web - SI92</center> <br/>
+  **CURSO:** SI730 Aplicaciones Web - SI92
   
-  <center><strong>SECCIÓN:</strong> SI92</center> <br/>
+  **SECCIÓN:** SI92
   
-  <center><strong>Profesor:</strong> Naldo Reupo-Musayon Gastul</center> <br/>
+  **Profesor:** Naldo Reupo-Musayon Gastul
   
-  <center><strong>Informe de Trabajo Final</strong></center> <br/>
+  **Informe de Trabajo Final**
   
-  <center><strong>Nombre del startup:</strong> CiberMach</center> <br/>
+  **Nombre del startup:** CiberMach
   
-  <center><strong>Nombre del producto:</strong> MoviRent</center> <br/>
+  **Nombre del producto:** MoviRent
   
-  <center><strong>Integrantes:</strong></center>
+  **Integrantes:**
   
   <table border="1px" align="center">
     <thead>
         <tr>
-            <th><center>Nombres y Apellido</center></th>
-            <th><center>Código</center></th>
+            <th>Nombre</th>
+            <th>Código</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td><center>Adriana María Diestra Zambrano</center></td>
-            <td><center>u202218110</center></td>
+            <td>Adriana María Diestra Zambrano</td>
+            <td>u202218110</td>
         </tr>
         <tr>
-            <td><center>Bárbara Antonella Espinoza Delgado</center></td>
-            <td><center>u201911727</center></td>
+            <td>Bárbara Antonella Espinoza Delgado</td>
+            <td>u201911727</td>
         </tr>
         <tr>
-            <td><center>Mathias Adriano Hidalgo Lopez</center></td>
-            <td><center>u202213222</center></td>
+            <td>Mathias Adriano Hidalgo Lopez</td>
+            <td>u202213222</td>
         </tr>
         <tr>
-            <td><center>Néstor Velarde Gonzales</center></td>
-            <td><center>u20211C221</center></td>
+            <td>Néstor Velarde Gonzales</td>
+            <td>u20211C221</td>
         </tr>
         <tr>
-            <td><center>Quique Vladimir Jara Benites</center></td>
-            <td><center>u202022365</center></td>
+            <td>Quique Vladimir Jara Benites</td>
+            <td>u202022365</td>
         </tr>
         <tr>
-            <td><center>Roy Linsh Fernandez Remon</center></td>
-            <td><center>u20221B778</center></td>
+            <td>Roy Linsh Fernandez Remon</td>
+            <td>u20221B778</td>
         </tr>
     </tbody>
-  </table> 
+</table>
 
-  <br/><br/>
-
-  ## <center><strong>Noviembre, 2024</strong></center> <br/>
+<br/><br/>
+  
+  ## **Octubre, 2024**
 
 </div>
 
