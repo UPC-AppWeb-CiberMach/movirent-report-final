@@ -421,8 +421,8 @@ del ABET – EAC - Student Outcome 5.
                 - <b>Bárbara Antonella Espinoza Delgado</b>: <br>Como líder, creé un entorno colaborativo, estableciendo metas claras y planificando tareas de forma eficiente para culminar con el desarrollo del front end y el avance del backend.<br>
                 - <b>Mathias Adriano Hidalgo Lopez</b>: <br> Cumplí con las tareas que se me asignaron a tiempo y colabore con mi equipo asegurando una cominucacion clara y efectiva.<br>
                 - <b>Quique Vladimir Jara Benites</b>: <br>Colabore estrechamente con el equipo asegurando una comunicacion efectiva y una integracion fluida de las funcionalidades de reserva <br>
-                - <b>Fernández Remón, Roy</b>: <br>Colaboré con las mejoras asignadas tanto en el documento y ayudé en el desarrollo de front para finalizar al 100%.<br>
-                - <b>Velarde Gonzales, Néstor Hernan</b>: <br>En esta entrega colaboré tanto en el desarrollo de front de nueva versión, despliegue a la nube y finalmente colaboré con 40% de Backend.<br/>
+                - <b>Fernández Remón, Roy</b>: <br>Colaboré con las entrevistas asignadas en el documento.<br>
+                - <b>Velarde Gonzales, Néstor Hernan</b>: <br>En esta entrega colaboré tanto en el desarrollo de front de nueva versión y despliegue a la nube.<br/>
             </td>
             <td>
                 <b>TB1</b>: El equipo estableció medios de comunicación efectivos y cumplió con la entrega del proyecto a tiempo, con presentaciones detalladas y comunicación constante con stakeholders.<br><br>
