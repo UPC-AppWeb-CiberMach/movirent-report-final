@@ -4863,6 +4863,7 @@ En el landing page se agregaron los videos about the product y about the team, p
 
 Enlace del deploy de la landing page mediante: https://upc-appweb-cibermach.github.io/movirent-landing-page/
 
+
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review  
 Para esta entrega, el equipo CiberMach logró implementar de manera exitosa el frontend web app, en 
 la cual se brindará variadas opciones de creación de usuarios, publicar scooters y visualizar y elegir una suscripción. 
@@ -4901,7 +4902,9 @@ Se adjunta el link del repositorio del backend en Github.: [movirent-backend](ht
 Para el presente sprint, se ha desarollado el backend de la web application. Para lo cual se emplearon las siguientes herramientas. Sin embargo, dentro del alcance de este sprint no se contempla el deploy del backend.
 
 Git: Sistema de control de versiones el cual empleamos para trabajar de manera colaborativa y monitorear las versiones de la web application en un repositorio remoto.
+
 Gitflow: Flujo de trabajo colaborativo, esto nos permitió dividir el trabajo por ramas dentro de nuestro repositorio con la finalidad de facilitar la colaboración en el desarrollo.
+
 GitHub: Plataforma que nos brindo la herramienta de crear nuestro repositorio para almacenar las versiones de nuestro proyecto.
 Swagger Ui: Herramienta para probar y documentar nuestra API.
 
@@ -4974,21 +4977,21 @@ Para este sprint se ha realizado la implementación de la web app, para esto los
 
 ![Commits sprint 3](https://github.com/user-attachments/assets/c4841792-7c9e-40f0-8c7a-bfc66851e211)
 
-### 5.2.3. Sprint 3
+### 5.2.4. Sprint 4
 
-#### 5.2.3.1. Sprint Planning 3
+#### 5.2.4.1. Sprint Planning 4
 
 <table border="1px" align="center">
      <tr> 
         <th> Sprint # </th>
-        <th> Sprint 3 </th>
+        <th> Sprint 4</th>
      </tr>
      <tr> 
         <td style="font-weight: bold;" colspan="2"> Sprint Planning Background</td>
      </tr>
      <tr>
        <td style="font-weight: bold;"> Date </td>
-       <td> 10/10/2024 </td>
+       <td> 06/11/2024 </td>
      </tr>
      <tr>
        <td style="font-weight: bold;"> Time </td>
@@ -5014,37 +5017,37 @@ Para este sprint se ha realizado la implementación de la web app, para esto los
         </td>
      </tr>
      <tr>
-        <td style="font-weight: bold;"> Sprint 2 Review Summary </td>
-        <td>Durante el desarrolo del Sprint 2, se logró implementar con éxito la web app, la cuál fue desplegada mediante Netlify. Se llego a cumplir con todo los requisitos funcionales indicados en el Sprint.</td>
+        <td style="font-weight: bold;"> Sprint 3 Review Summary </td>
+        <td>Durante el desarrolo del Sprint 3, se logró implementar con éxito la web app, la cuál fue desplegada mediante Firebase. Además de avanzar con 3 endpoints del backend.</td>
      </tr>
      <tr>
-        <td style="font-weight: bold;"> Sprint 2 Retrospective Summary </td>
-        <td> El sprint 2 se logró de manera satisfactoria. Sin embargo, como punto de mejora encontramos el realizar el trabajo de manera conjunta y equitativa. </td>
+        <td style="font-weight: bold;"> Sprint 3 Retrospective Summary </td>
+        <td> El sprint 3 se logró de manera satisfactoria. Sin embargo, como puntos de mejora encontramos el poner mas atención a los puntos de mejora dados en la retroalimentación dada por el profesor y que los integrantes colaboren de forma similar. </td>
      </tr>
      <tr> 
         <td style="font-weight: bold;" colspan="2"> Sprint Goal & User Stories</td>
      </tr>
      <tr>
-          <td style="font-weight: bold;"> Sprint 3 Goal</td>
-          <td> En este sprint se espera la implementación y deployado del front-end terminado y tener un buen avance del código del backend. </td>
+          <td style="font-weight: bold;"> Sprint 4 Goal</td>
+          <td> En este sprint se espera la implementación y deployado del backend terminado e integrarlo con el frontend. </td>
       </tr>
       <tr>
-          <td style="font-weight: bold;"> Sprint 3 Velocity </td>
-          <td> 32 </td>
+          <td style="font-weight: bold;"> Sprint 4 Velocity </td>
+          <td> 16 </td>
       </tr>
       <tr>
           <td style="font-weight: bold;"> Sum of Story Points </td>
-          <td> 32 </td>
+          <td> 16 </td>
       </tr>
 </table>
 
 <div style="page-break-before: always;"></div>
 
-#### 5.2.3.2. Sprint Backlog 3  
+#### 5.2.4.2. Sprint Backlog 4 
 
-![Trello3](https://github.com/user-attachments/assets/f091a66e-b3f3-4156-a9f4-994a41e90281)
+**FALTA IMAGEN Y LINK DEL TRELLO 4**
 
-Link del Trello: [Ver trello](https://trello.com/invite/b/671b1ba2f142ab4e27fc4eeb/ATTId71a3914fa327f13001d08f8c97cdf38211543E8/sprint-3) 
+Link del Trello:
 
 <table border="1px" align="center"> 
    <tr>
@@ -5065,60 +5068,30 @@ Link del Trello: [Ver trello](https://trello.com/invite/b/671b1ba2f142ab4e27fc4e
      <th> Assigned To </th> 
      <th> Status (To-do / In-Process / To- Review / Done) </th>
    </tr>
-   <tr>
-      <td> EP06-US-22 </td>
-      <td colspan="3">Adquisición de suscripción de paga</td>
-      <td> W01  </td>
-      <td> Adquirir plan </td>
-      <td>Implementar el adquirir plan. </td>
-      <td> 5  </td>
-      <td> Bárbara Espinoza </td> 
-      <td> Done </td>
-   </tr>
   <tr>
-      <td> EP06-US-23 </td>
-      <td colspan="3">Cancelación de suscripción elegida</td>
-      <td> W02  </td>
-      <td> Cancelar suscripción </td>
-      <td>Implementar el cancelar suscripción. </td>
-      <td> 3  </td>
-      <td> Mathias Hidalgo </td> 
-      <td> Done </td>
-   </tr>
-   <tr>
-      <td> EP07-TS-02 </td>
-      <td colspan="3">Endpoint de Scooter</td>
-      <td> W03  </td>
-      <td> Endpoint scooter </td>
-      <td>Implementar el endpoint scooter </td>
-      <td> 8  </td>
-      <td> Bárbara Espinoza </td> 
-      <td> Done </td>
-   </tr>
-  <tr>
-      <td> EP07-TS-03 </td>
-      <td colspan="3">Endpoint de Suscripción</td>
-      <td> W04  </td>
-      <td> Endpoint suscription </td>
-      <td>Implementar el endpoint suscription </td>
-      <td> 8  </td>
-      <td> Bárbara Espinoza </td> 
-      <td> Done </td>
-   </tr>
-  <tr>
-      <td> EP07-TS-04 </td>
-      <td colspan="3">Endpoint de Historial</td>
-      <td> W05  </td>
-      <td> Endpoint historial </td>
-      <td>Implementar el endpoint historial </td>
+      <td> EP07-TS-01 </td>
+      <td colspan="3">Endpoint de Usuario</td>
+      <td> W01 </td>
+      <td> Endpoint user </td>
+      <td>Implementar el endpoint usuario </td>
       <td> 8  </td>
       <td> Vladimir Jara </td> 
+      <td> Done </td>
+   </tr>
+  <tr>
+      <td> EP07-TS-05 </td>
+      <td colspan="3">Endpoint de Reseña</td>
+      <td> W02  </td>
+      <td> Endpoint reviews </td>
+      <td>Implementar el endpoint reviews </td>
+      <td> 8  </td>
+      <td> Bárbara Espinoza </td> 
       <td> Done </td>
    </tr>
 </table>
 
 
-#### 5.2.3.3. Development Evidence for Sprint Review  
+#### 5.2.4.3. Development Evidence for Sprint Review  
 
 En esta sección se detallarán los commits realizados en el desarrollo del backend de la aplicación web.
 
@@ -5132,158 +5105,6 @@ En esta sección se detallarán los commits realizados en el desarrollo del back
     <th>Committed <br> On (Date)</th>
   </tr>
   <tr>
-    <td>MesSobble/front-end</td>
-    <td>master</td>
-    <td>da6d649</td>
-    <td>feat: upload file</td>
-    <td>-</td>
-    <td>20/10/2024</td>
-  </tr>
-  <tr>
-    <td>VelardeSoft/front-end</td>
-    <td>develop</td>
-    <td>e8b7655</td>
-    <td>feat: add gitflow</td>
-    <td>-</td>
-    <td>23/10/2024</td>
-  </tr>
-  <tr>
-    <td>MesSobble/front-end</td>
-    <td>scooter-managment</td>
-    <td>f1c2d66</td>
-    <td>feat: add scooter and shared in domain</td>
-    <td>-</td>
-    <td>24/10/2024</td>
-  </tr>
-  <tr>
-    <td>MesSobble/front-end</td>
-    <td>scooter-managment</td>
-    <td>dd99384</td>
-    <td>feat: add scooter in application</td>
-    <td>-</td>
-    <td>24/10/2024</td>
-  </tr>
-  <tr>
-    <td>MesSobble/front-end</td>
-    <td>scooter-managment</td>
-    <td>275ee35</td>
-    <td>feat: add scooter in presentation</td>
-    <td>-</td>
-    <td>24/10/2024</td>
-  </tr>
-  <tr>
-    <td>MesSobble/front-end</td>
-    <td>scooter-managment</td>
-    <td>56e5a69</td>
-    <td>feat: add scooter endpoint</td>
-    <td>-</td>
-    <td>25/10/2024</td>
-  </tr>
-  <tr>
-    <td>MesSobble/front-end</td>
-    <td>scooter-managment</td>
-    <td>9954fcd</td>
-    <td>feat: add dependencies</td>
-    <td>-</td>
-    <td>25/10/2024</td>
-  </tr>
-   <tr>
-    <td>MesSobble/front-end</td>
-    <td>scooter-managment</td>
-    <td>dceb797</td>
-    <td>fix: all endpoint</td>
-    <td>-</td>
-    <td>27/10/2024</td>
-  </tr>
-  <tr>
-    <td>MesSobble/front-end</td>
-    <td>suscription</td>
-    <td>1dae58a</td>
-    <td>feat: add suscription endpoint</td>
-    <td>-</td>
-    <td>27/10/2024</td>
-  </tr>
-  <tr>
-    <td>MesSobble/front-end</td>
-    <td>suscription</td>
-    <td>e6fa0b0</td>
-    <td>fix: columns for table suscription</td>
-    <td>-</td>
-    <td>27/10/2024</td>
-  </tr>
-  <tr>
-    <td>MesSobble/front-end</td>
-    <td>suscription</td>
-    <td>fa4377c</td>
-    <td>feat: add HTTP POST</td>
-    <td>-</td>
-    <td>27/10/2024</td>
-  </tr>
-  <tr>
-    <td>MesSobble/front-end</td>
-    <td>suscription</td>
-    <td>dceb797</td>
-    <td>fix: all endpoint</td>
-    <td>-</td>
-    <td>27/10/2024</td>
-  </tr>
-  <tr>
-    <td>QuiqueVladimir/front-end</td>
-    <td>historial-management</td>
-    <td>6b4b0fa</td>
-    <td>feat: add controller</td>
-    <td>-</td>
-    <td>29/10/2024</td>
-  </tr>
-  <tr>
-    <td>QuiqueVladimir/front-end</td>
-    <td>historial-management</td>
-    <td>35ae902</td>
-    <td>feat: add entity</td>
-    <td>-</td>
-    <td>29/10/2024</td>
-  </tr>
-  <tr>
-    <td>QuiqueVladimir/front-end</td>
-    <td>historial-management</td>
-    <td>6e5c2e6</td>
-    <td>feat: add query to get all</td>
-    <td>-</td>
-    <td>29/10/2024</td>
-  </tr>
-  <tr>
-    <td>QuiqueVladimir/front-end</td>
-    <td>historial-management</td>
-    <td>fd1caba</td>
-    <td>update: methods async to update and remove</td>
-    <td>-</td>
-    <td>29/10/2024</td>
-  </tr>
-  <tr>
-    <td>QuiqueVladimir/back-end</td>
-    <td>historial-management</td>
-    <td>dde945b</td>
-    <td>update: build table in database</td>
-    <td>-</td>
-    <td>29/10/2024</td>
-  </tr>
-  <tr>
-    <td>QuiqueVladimir/back-end</td>
-    <td>historial-management</td>
-    <td>2b3dc8b</td>
-    <td>update: add command service</td>
-    <td>-</td>
-    <td>29/10/2024</td>
-  </tr>
-  <tr>
-    <td>QuiqueVladimir/back-end</td>
-    <td>historial-management</td>
-    <td>dde945b</td>
-    <td>update: build table in database</td>
-    <td>-</td>
-    <td>29/10/2024</td>
-  </tr>
-  <tr>
     <td>QuiqueVladimir/back-end</td>
     <td>historial-management</td>
     <td>54f287f</td>
@@ -5294,18 +5115,9 @@ En esta sección se detallarán los commits realizados en el desarrollo del back
 </table>
 
 
-![c4](https://github.com/user-attachments/assets/ab16382b-c11a-4e81-a60a-7e614fe877e6)
+**FALTA IMAGENES DE LOS COMMITS**
 
-![c1](https://github.com/user-attachments/assets/7d9e0a3a-bbb3-44b7-be10-465e4ec8e4d1)
-
-![c2](https://github.com/user-attachments/assets/d5bbe321-85fd-40c3-b3dd-c130de8750a8)
-
-![c3](https://github.com/user-attachments/assets/a1bd11c0-d4cc-4684-9731-79e9a2ea96a7)
-
-![c5](https://github.com/user-attachments/assets/83b1ecb5-8767-4681-ab19-09f2230f4aa0)
-
-
-#### 5.2.3.4. Testing Suite Evidence for Sprint Review
+#### 5.2.4.4. Testing Suite Evidence for Sprint Review
 
 <table border="1px" align="center">
   <tr>
@@ -5317,36 +5129,12 @@ En esta sección se detallarán los commits realizados en el desarrollo del back
     <th>Commited<br>On (Date)</th>
   </tr>
   <tr>
-    <td>RTPX26/AcceptanceTest</td>
-    <td>Main</td>
-    <td>06e96a9</td>
-    <td>feat: add US-22</td>
-    <td>-</td>
-    <td>20/09/2024</td>
-  </tr>
-  <tr>
-    <td>RTPX26/AcceptanceTest</td>
-    <td>Main</td>
-    <td>0484b3b</td>
-    <td>feat: add US-23</td>
-    <td>-</td>
-    <td>20/09/2024</td>
-  </tr>
-  <tr>
     <td>MesSobble/AcceptanceTest</td>
     <td>Main</td>
-    <td>f2db580</td>
-    <td>feat: add TS-02</td>
+    <td>96fdc77</td>
+    <td>feat: add TS-01</td>
     <td>-</td>
-    <td>20/10/2024</td>
-  </tr>
-  <tr>
-    <td>MesSobble/AcceptanceTest</td>
-    <td>Main</td>
-    <td>be72af0</td>
-    <td>feat: add TS-03</td>
-    <td>-</td>
-    <td>20/10/2024</td>
+    <td>30/10/2024</td>
   </tr>
   <tr>
     <td>MesSobble/AcceptanceTest</td>
@@ -5358,7 +5146,7 @@ En esta sección se detallarán los commits realizados en el desarrollo del back
   </tr>
 </table>
 
-#### 5.2.3.5. Execution Evidence for Sprint Review  
+#### 5.2.4.5. Execution Evidence for Sprint Review  
 
 Para esta entrega, el equipo CiberMach logró implementar de manera exitosa el frontend web app y un avance del backend de la aplicación.
 
@@ -5368,13 +5156,14 @@ En el landing page se agregaron los videos about the product y about the team, p
 
 Enlace del deploy de la landing page mediante: https://upc-appweb-cibermach.github.io/movirent-landing-page/
 
-#### 5.2.3.6. Services Documentation Evidence for Sprint Review  
-Para esta entrega, el equipo CiberMach logró implementar de manera exitosa el frontend web app, en 
-la cual se brindará variadas opciones de creación de usuarios, publicar scooters y visualizar y elegir una suscripción. 
+El backend terminado de nuestra aplicación fue desplegado y se puede acceder desde el siguiente enlace: **FALTA LINK DEL DEPLOY BACKEND**
+
+#### 5.2.4.6. Services Documentation Evidence for Sprint Review  
+Para esta entrega, el equipo CiberMach logró corregir de manera exitosa el frontend web app. 
 
 Enlace del deploy de la web app mediante: https://movirent-tb2.web.app/
 
-Ademas, se hizo un avance del backend de la aplicación. A continuación se presentaran los endpoints desarrollados en el presente sprint y se adjuntan capturas de pantalla de las acciones Crud y otros metodos realiazados en OpenApi. 
+Ademas, secompletaron los endpoints del backend de la aplicación. A continuación se presentaran los endpoints desarrollados en el presente sprint y se adjuntan capturas de pantalla de las acciones Crud y otros metodos realiazados en OpenApi. 
 
 Se adjunta el link del repositorio del backend en Github.: [movirent-backend](https://github.com/UPC-AppWeb-CiberMach/movirent-back-end)
 
@@ -5401,17 +5190,19 @@ Se adjunta el link del repositorio del backend en Github.: [movirent-backend](ht
   </tr>
 </table>
 
-#### 5.2.3.7. Software Deployment Evidence for Sprint Review   
+#### 5.2.4.7. Software Deployment Evidence for Sprint Review   
 
-Para el presente sprint, se ha desarollado el backend de la web application. Para lo cual se emplearon las siguientes herramientas. Sin embargo, dentro del alcance de este sprint no se contempla el deploy del backend.
+Para el presente sprint, se ha desarollado y deployado el backend de la web application. Para lo cual se emplearon las siguientes herramientas
 
 Git: Sistema de control de versiones el cual empleamos para trabajar de manera colaborativa y monitorear las versiones de la web application en un repositorio remoto.
+
 Gitflow: Flujo de trabajo colaborativo, esto nos permitió dividir el trabajo por ramas dentro de nuestro repositorio con la finalidad de facilitar la colaboración en el desarrollo.
+
 GitHub: Plataforma que nos brindo la herramienta de crear nuestro repositorio para almacenar las versiones de nuestro proyecto.
 Swagger Ui: Herramienta para probar y documentar nuestra API.
 
 
-#### 5.2.3.8. Team Collaboration Insights during Sprint. 
+#### 5.2.4.8. Team Collaboration Insights during Sprint. 
 
 Colaboración por alumno en la aplicación web:
 
@@ -5426,7 +5217,7 @@ Colaboración por alumno en la aplicación web:
   </tr>
   <tr>
     <td>Espinoza Delgado, Bárbara Antonella</td>
-    <td>Endpoint Reseñas</td>
+    <td>Endpoint Reviews</td>
   </tr>
   <tr>
     <td>Jara Benites, Quique Vladimir</td>
@@ -6081,6 +5872,9 @@ Nuestro proyecto está enfocado en alquiler de vehiculos especificamente del Sco
 - TB2:
 En esta tercera entrega, hemos logrado terminar con el desarrollo del front-end de la aplicación. Además de realizar un pequeño avance en el backend con los endpoints principales.
 También se realizaron nuevas entrevistas para saber la opinión de posibles usuarios con respecto a nuestra aplicación y se evaluó a otro equipo basandonos en heurisiticas.
+
+- TF:
+En esta cuarta y última entrega, hemos corregido los errores y deficiencias de las entregas anteriores, además de desarrollar los endopints faltantes, logrado la finalización del backend de la aplicación, desplegarla y vincularla con el front end, logrando asi una aplicación completa y funcional que cumple con todos los requisitos y abarca todas las historias de usuario redactadas en el product backlog.
 
 # [About The Team](#about-the-team)
 
