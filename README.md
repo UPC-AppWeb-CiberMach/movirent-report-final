@@ -57,7 +57,7 @@
 
 <br/><br/>
   
-  ## **Octubre, 2024**
+  ## **Noviembre, 2024**
 
 </div>
 
@@ -213,6 +213,12 @@
       <td>Espinoza Delgado, Bárbara Antonella</td>
       <td><b>Sprint 3</b>, evaluación según heurisiticas y conclusiones</td>
     </tr>
+    <tr>
+      <td>4.0</td>
+      <td>2024/11/06</td>
+      <td>Espinoza Delgado, Bárbara Antonella</td>
+      <td>Sprint 4 y conclusiones</td>
+    </tr>
   </tbody>
 </table>
 
@@ -338,6 +344,45 @@ Para el desarrollo de la entrega TB2, se optó por dividir el trabajo de la sigu
     </tbody>
 </table>
 
+**TF**
+
+Para el desarrollo de la entrega TF, se optó por dividir el trabajo de la siguiente forma:
+
+<table align="center" border="1">
+    <thead>
+        <tr>
+            <th>Integrante</th>
+            <th>Actividades Asignadas</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Espinoza Delgado, Bárbara Antonella</td>
+            <td> Sprint Planning, Sprint Backlog, Development evidence, Testing Suite, Execution Evidence y Team Collaboration Insights.</td>
+        </tr>
+        <tr>
+            <td>Velarde Gonzales, Néstor</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Diestra Zambrano, Adriana María</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Hidalgo López, Mathias Adriano</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Jara Benitez, Quique Vladimir</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Fernandez Remon, Roy Linsh</td>
+            <td>-</td>
+        </tr>
+    </tbody>
+</table>
+
 ### Evidencia en el desarrollo del Front-end versión actual
 
 ![Desarrollo del FrontEnd](https://github.com/user-attachments/assets/edcd067d-e7ce-4375-a57b-e7b96cc90dae)
@@ -394,11 +439,19 @@ del ABET – EAC - Student Outcome 5.
                 - <b>Quique Vladimir Jara Benites</b>:  <br>Desarrollé la API para gestionar reservas y ver el historial, coordinando con el equipo para integrar estas funcionalidades de manera eficiente. <br><br>
                 - <b>Fernández Remón, Roy</b>: <br> Mi particpación se reflejó en ayudar en mejorar el documento y realicé las entrevistas para la validación a los segementos objetivos.<br><br>
                 - <b>Velarde Gonzales, Néstor Hernan</b>: Dentro del equipo, mi participación se basó en realizar las mejoras el Front, un 0% de avance del Back-End para los enpoint de scooter y realizar las entrevistas a los segmentos objetivos para validar sus experiencias de usuario. <br><br>
+              <b>TF</b>:<br>
+                - <b>Adriana María Diestra Zambrano</b>:  <br><br>
+                - <b>Bárbara Antonella Espinoza Delgado</b>: Como líder del equipo, en esta cuarta y ultima entrega, trabajé en conjunto para proporcionar los pendientes y asignar las partes obligatorias a realizar de cada miembro del equipo.<br><br>
+                - <b>Mathias Adriano Hidalgo Lopez</b>: <br><br>
+                - <b>Quique Vladimir Jara Benites</b>: <br><br>
+                - <b>Fernández Remón, Roy</b>: <br><br>
+                - <b>Velarde Gonzales, Néstor Hernan</b>: <br><br>
             </td>
             <td>
                 <b>TB1</b>: Se cumplió con los objetivos y se entregó un documento detallado que sirve como sustento escrito para comprender los pasos seguidos en la planificación, desarrollo y envío del proyecto a producción.<br><br>
                 <b>TP</b>: Se desarrolló un front-end sobresaliente, completando funcionalidades clave como reseñas de scooters, login, registro y eliminación, reflejando un proceso detallado de planificación y entrega del proyecto. <br><br>
                <b>TB2</b>: Se culminó el front-end de la aplicación, completando todas las funcionalidades. Además de realizar un avance con el backend de la aplicación. <br><br>
+              <b>TF</b>: Se corrigió el front-end de la aplicación, se culminó el desarrollo del backend y se hicieron los despliegues y vinvulaciones respectivas. <br><br>
             </td>
         </tr>
         <tr>
@@ -425,11 +478,19 @@ del ABET – EAC - Student Outcome 5.
                 - <b>Quique Vladimir Jara Benites</b>: <br>Colabore estrechamente con el equipo asegurando una comunicacion efectiva y una integracion fluida de las funcionalidades de reserva <br><br>
                 - <b>Fernández Remón, Roy</b>: <br>Colaboré con las entrevistas asignadas en el documento.<br><br>
                 - <b>Velarde Gonzales, Néstor Hernan</b>: <br>En esta entrega colaboré tanto en el desarrollo de front de nueva versión y despliegue a la nube.<br/><br>
+              <b>TF</b>:<br>
+                - <b>Adriana María Diestra Zambrano</b>: <br><br>
+                - <b>Bárbara Antonella Espinoza Delgado</b>: <br>Como líder, creé un entorno colaborativo, estableciendo deadlines para la realización de tareas y pronta culminación del proyecto.<br><br>
+                - <b>Mathias Adriano Hidalgo Lopez</b>: <br> Cumplí con las tareas que se me asignaron a tiempo y colabore con mi equipo asegurando una cominucacion clara y efectiva.<br><br>
+                - <b>Quique Vladimir Jara Benites</b>: <br><br>
+                - <b>Fernández Remón, Roy</b>:<br><br>
+                - <b>Velarde Gonzales, Néstor Hernan</b>: <br/><br>
             </td>
             <td>
                 <b>TB1</b>: El equipo estableció medios de comunicación efectivos y cumplió con la entrega del proyecto a tiempo, con presentaciones detalladas y comunicación constante con stakeholders.<br><br>
                 <b>TP1</b>: Se cumplieron los objetivos, implementando funcionalidades esenciales como reseñas, login y registro, asegurando la calidad del proyecto en cada fase.<br><br>
-              <b>TB2</b>: Se cumplieron los objetivos, implementando todas las funcionalidades pendientes en el front end y se avanzaron los endpoints escenciales como el de scooter y suscripción.<br><
+              <b>TB2</b>: Se cumplieron los objetivos, implementando todas las funcionalidades pendientes en el front end y se avanzaron los endpoints escenciales como el de scooter y suscripción.<br><br>
+              <b>TF</b>: Se cumplieron los objetivos, corrigiendo los puntos de mejora del front end proporcionados por el profesor en la retroalimentación de la entrega anterior y se terminaron los endpoints en el backend.<br><br>
             </td>
         </tr>
     </tbody>
@@ -544,6 +605,15 @@ Visita nuestra landing page: [www.movirent.com](https://upc-appweb-cibermach.git
         - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
         - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
         - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
+    - [5.2.4. Sprint 4](#524-sprint-4)
+        - [5.2.4.1. Sprint Planning 4](#5241-sprint-planning-4)
+        - [5.2.4.2. Sprint Backlog 4](#5242-sprint-backlog-4)
+        - [5.2.4.3. Development Evidence for Sprint Review](#5243-development-evidence-for-sprint-review)
+        - [5.2.4.4. Testing Suite Evidence for Sprint Review](#5244-testing-suite-evidence-for-sprint-review)
+        - [5.2.4.5. Execution Evidence for Sprint Review](#5245-execution-evidence-for-sprint-review)
+        - [5.2.4.6. Services Documentation Evidence for Sprint Review](#5246-services-documentation-evidence-for-sprint-review)
+        - [5.2.4.7. Software Deployment Evidence for Sprint Review](#5247-software-deployment-evidence-for-sprint-review)
+        - [5.2.4.8. Team Collaboration Insights during Sprint](#5248-team-collaboration-insights-during-sprint)
 - [5.3. Validation Interviews](#53-validation-interviews)
     - [5.3.1. Diseño de entrevistas](#531-diseño-de-entrevistas)
     - [5.3.2. Registro de entrevistas](#532-registro-de-entrevistas)
@@ -4903,6 +4973,511 @@ Tabla para poder identificarnos:
 Para este sprint se ha realizado la implementación de la web app, para esto los integrantes del grupo realizaron su aporte a través de commits en la herramienta Git Hub.  
 
 ![Commits sprint 3](https://github.com/user-attachments/assets/c4841792-7c9e-40f0-8c7a-bfc66851e211)
+
+### 5.2.3. Sprint 3
+
+#### 5.2.3.1. Sprint Planning 3
+
+<table border="1px" align="center">
+     <tr> 
+        <th> Sprint # </th>
+        <th> Sprint 3 </th>
+     </tr>
+     <tr> 
+        <td style="font-weight: bold;" colspan="2"> Sprint Planning Background</td>
+     </tr>
+     <tr>
+       <td style="font-weight: bold;"> Date </td>
+       <td> 10/10/2024 </td>
+     </tr>
+     <tr>
+       <td style="font-weight: bold;"> Time </td>
+       <td> 15:00 pm - 17:00 pm </td>
+     </tr>
+     <tr>
+       <td style="font-weight: bold;"> Location </td>
+       <td> Modalidad remota a través de WhatsApp y Google Meets </td>
+     </tr>
+     <tr>
+        <td style="font-weight: bold;"> Prepared By </td>
+        <td> Bárbara Espinoza Espinoza Delgado </td>
+     </tr>
+     <tr>
+        <td style="font-weight: bold;"> Attendees (to planning meeting) </td>
+        <td> 
+         Adriana María Diestra Zambrano<br>
+         Bárbara Espinoza Espinoza Delgado <br>
+         Mathias Adriano Hidalgo López <br>
+         Néstor Velarde Gonzales <br>
+         Quique Vladimir Jara Benites<br>
+         Roy Linsh Fernandez Remon
+        </td>
+     </tr>
+     <tr>
+        <td style="font-weight: bold;"> Sprint 2 Review Summary </td>
+        <td>Durante el desarrolo del Sprint 2, se logró implementar con éxito la web app, la cuál fue desplegada mediante Netlify. Se llego a cumplir con todo los requisitos funcionales indicados en el Sprint.</td>
+     </tr>
+     <tr>
+        <td style="font-weight: bold;"> Sprint 2 Retrospective Summary </td>
+        <td> El sprint 2 se logró de manera satisfactoria. Sin embargo, como punto de mejora encontramos el realizar el trabajo de manera conjunta y equitativa. </td>
+     </tr>
+     <tr> 
+        <td style="font-weight: bold;" colspan="2"> Sprint Goal & User Stories</td>
+     </tr>
+     <tr>
+          <td style="font-weight: bold;"> Sprint 3 Goal</td>
+          <td> En este sprint se espera la implementación y deployado del front-end terminado y tener un buen avance del código del backend. </td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;"> Sprint 3 Velocity </td>
+          <td> 32 </td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;"> Sum of Story Points </td>
+          <td> 32 </td>
+      </tr>
+</table>
+
+<div style="page-break-before: always;"></div>
+
+#### 5.2.3.2. Sprint Backlog 3  
+
+![Trello3](https://github.com/user-attachments/assets/f091a66e-b3f3-4156-a9f4-994a41e90281)
+
+Link del Trello: [Ver trello](https://trello.com/invite/b/671b1ba2f142ab4e27fc4eeb/ATTId71a3914fa327f13001d08f8c97cdf38211543E8/sprint-3) 
+
+<table border="1px" align="center"> 
+   <tr>
+      <th colspan="4"> Sprint # </th>
+      <th colspan="7"> Sprint 3 </th>
+   </tr>
+   <tr >
+     <th colspan="4"> User Story </th>
+     <th colspan="7"> Work-Item / Task</th>
+   </tr>
+   <tr>
+     <th> Id </th>
+     <th colspan="3"> Title </th>
+     <th> Id </th>
+     <th> Title </th>
+     <th> Description </th>
+     <th> Estimation (Hours) </th>
+     <th> Assigned To </th> 
+     <th> Status (To-do / In-Process / To- Review / Done) </th>
+   </tr>
+   <tr>
+      <td> EP06-US-22 </td>
+      <td colspan="3">Adquisición de suscripción de paga</td>
+      <td> W01  </td>
+      <td> Adquirir plan </td>
+      <td>Implementar el adquirir plan. </td>
+      <td> 5  </td>
+      <td> Bárbara Espinoza </td> 
+      <td> Done </td>
+   </tr>
+  <tr>
+      <td> EP06-US-23 </td>
+      <td colspan="3">Cancelación de suscripción elegida</td>
+      <td> W02  </td>
+      <td> Cancelar suscripción </td>
+      <td>Implementar el cancelar suscripción. </td>
+      <td> 3  </td>
+      <td> Mathias Hidalgo </td> 
+      <td> Done </td>
+   </tr>
+   <tr>
+      <td> EP07-TS-02 </td>
+      <td colspan="3">Endpoint de Scooter</td>
+      <td> W03  </td>
+      <td> Endpoint scooter </td>
+      <td>Implementar el endpoint scooter </td>
+      <td> 8  </td>
+      <td> Bárbara Espinoza </td> 
+      <td> Done </td>
+   </tr>
+  <tr>
+      <td> EP07-TS-03 </td>
+      <td colspan="3">Endpoint de Suscripción</td>
+      <td> W04  </td>
+      <td> Endpoint suscription </td>
+      <td>Implementar el endpoint suscription </td>
+      <td> 8  </td>
+      <td> Bárbara Espinoza </td> 
+      <td> Done </td>
+   </tr>
+  <tr>
+      <td> EP07-TS-04 </td>
+      <td colspan="3">Endpoint de Historial</td>
+      <td> W05  </td>
+      <td> Endpoint historial </td>
+      <td>Implementar el endpoint historial </td>
+      <td> 8  </td>
+      <td> Vladimir Jara </td> 
+      <td> Done </td>
+   </tr>
+</table>
+
+
+#### 5.2.3.3. Development Evidence for Sprint Review  
+
+En esta sección se detallarán los commits realizados en el desarrollo del backend de la aplicación web.
+
+<table border="1px" align="center">
+  <tr>
+    <th>User/Repository</th>
+    <th>Branch</th>
+    <th>Commit ID</th>
+    <th>Commit Message</th>
+    <th>Commit Message <br> Body</th>
+    <th>Committed <br> On (Date)</th>
+  </tr>
+  <tr>
+    <td>MesSobble/front-end</td>
+    <td>master</td>
+    <td>da6d649</td>
+    <td>feat: upload file</td>
+    <td>-</td>
+    <td>20/10/2024</td>
+  </tr>
+  <tr>
+    <td>VelardeSoft/front-end</td>
+    <td>develop</td>
+    <td>e8b7655</td>
+    <td>feat: add gitflow</td>
+    <td>-</td>
+    <td>23/10/2024</td>
+  </tr>
+  <tr>
+    <td>MesSobble/front-end</td>
+    <td>scooter-managment</td>
+    <td>f1c2d66</td>
+    <td>feat: add scooter and shared in domain</td>
+    <td>-</td>
+    <td>24/10/2024</td>
+  </tr>
+  <tr>
+    <td>MesSobble/front-end</td>
+    <td>scooter-managment</td>
+    <td>dd99384</td>
+    <td>feat: add scooter in application</td>
+    <td>-</td>
+    <td>24/10/2024</td>
+  </tr>
+  <tr>
+    <td>MesSobble/front-end</td>
+    <td>scooter-managment</td>
+    <td>275ee35</td>
+    <td>feat: add scooter in presentation</td>
+    <td>-</td>
+    <td>24/10/2024</td>
+  </tr>
+  <tr>
+    <td>MesSobble/front-end</td>
+    <td>scooter-managment</td>
+    <td>56e5a69</td>
+    <td>feat: add scooter endpoint</td>
+    <td>-</td>
+    <td>25/10/2024</td>
+  </tr>
+  <tr>
+    <td>MesSobble/front-end</td>
+    <td>scooter-managment</td>
+    <td>9954fcd</td>
+    <td>feat: add dependencies</td>
+    <td>-</td>
+    <td>25/10/2024</td>
+  </tr>
+   <tr>
+    <td>MesSobble/front-end</td>
+    <td>scooter-managment</td>
+    <td>dceb797</td>
+    <td>fix: all endpoint</td>
+    <td>-</td>
+    <td>27/10/2024</td>
+  </tr>
+  <tr>
+    <td>MesSobble/front-end</td>
+    <td>suscription</td>
+    <td>1dae58a</td>
+    <td>feat: add suscription endpoint</td>
+    <td>-</td>
+    <td>27/10/2024</td>
+  </tr>
+  <tr>
+    <td>MesSobble/front-end</td>
+    <td>suscription</td>
+    <td>e6fa0b0</td>
+    <td>fix: columns for table suscription</td>
+    <td>-</td>
+    <td>27/10/2024</td>
+  </tr>
+  <tr>
+    <td>MesSobble/front-end</td>
+    <td>suscription</td>
+    <td>fa4377c</td>
+    <td>feat: add HTTP POST</td>
+    <td>-</td>
+    <td>27/10/2024</td>
+  </tr>
+  <tr>
+    <td>MesSobble/front-end</td>
+    <td>suscription</td>
+    <td>dceb797</td>
+    <td>fix: all endpoint</td>
+    <td>-</td>
+    <td>27/10/2024</td>
+  </tr>
+  <tr>
+    <td>QuiqueVladimir/front-end</td>
+    <td>historial-management</td>
+    <td>6b4b0fa</td>
+    <td>feat: add controller</td>
+    <td>-</td>
+    <td>29/10/2024</td>
+  </tr>
+  <tr>
+    <td>QuiqueVladimir/front-end</td>
+    <td>historial-management</td>
+    <td>35ae902</td>
+    <td>feat: add entity</td>
+    <td>-</td>
+    <td>29/10/2024</td>
+  </tr>
+  <tr>
+    <td>QuiqueVladimir/front-end</td>
+    <td>historial-management</td>
+    <td>6e5c2e6</td>
+    <td>feat: add query to get all</td>
+    <td>-</td>
+    <td>29/10/2024</td>
+  </tr>
+  <tr>
+    <td>QuiqueVladimir/front-end</td>
+    <td>historial-management</td>
+    <td>fd1caba</td>
+    <td>update: methods async to update and remove</td>
+    <td>-</td>
+    <td>29/10/2024</td>
+  </tr>
+  <tr>
+    <td>QuiqueVladimir/back-end</td>
+    <td>historial-management</td>
+    <td>dde945b</td>
+    <td>update: build table in database</td>
+    <td>-</td>
+    <td>29/10/2024</td>
+  </tr>
+  <tr>
+    <td>QuiqueVladimir/back-end</td>
+    <td>historial-management</td>
+    <td>2b3dc8b</td>
+    <td>update: add command service</td>
+    <td>-</td>
+    <td>29/10/2024</td>
+  </tr>
+  <tr>
+    <td>QuiqueVladimir/back-end</td>
+    <td>historial-management</td>
+    <td>dde945b</td>
+    <td>update: build table in database</td>
+    <td>-</td>
+    <td>29/10/2024</td>
+  </tr>
+  <tr>
+    <td>QuiqueVladimir/back-end</td>
+    <td>historial-management</td>
+    <td>54f287f</td>
+    <td>feat: add model creating on AppDbContext</td>
+    <td>-</td>
+    <td>29/10/2024</td>
+  </tr>
+</table>
+
+
+![c4](https://github.com/user-attachments/assets/ab16382b-c11a-4e81-a60a-7e614fe877e6)
+
+![c1](https://github.com/user-attachments/assets/7d9e0a3a-bbb3-44b7-be10-465e4ec8e4d1)
+
+![c2](https://github.com/user-attachments/assets/d5bbe321-85fd-40c3-b3dd-c130de8750a8)
+
+![c3](https://github.com/user-attachments/assets/a1bd11c0-d4cc-4684-9731-79e9a2ea96a7)
+
+![c5](https://github.com/user-attachments/assets/83b1ecb5-8767-4681-ab19-09f2230f4aa0)
+
+
+#### 5.2.3.4. Testing Suite Evidence for Sprint Review
+
+<table border="1px" align="center">
+  <tr>
+    <th>User/Repository</th>
+    <th>Branch</th>
+    <th>Commit ID</th>
+    <th>Commit Message</th>
+    <th>Commit Message <br> Body</th>
+    <th>Commited<br>On (Date)</th>
+  </tr>
+  <tr>
+    <td>RTPX26/AcceptanceTest</td>
+    <td>Main</td>
+    <td>06e96a9</td>
+    <td>feat: add US-22</td>
+    <td>-</td>
+    <td>20/09/2024</td>
+  </tr>
+  <tr>
+    <td>RTPX26/AcceptanceTest</td>
+    <td>Main</td>
+    <td>0484b3b</td>
+    <td>feat: add US-23</td>
+    <td>-</td>
+    <td>20/09/2024</td>
+  </tr>
+  <tr>
+    <td>MesSobble/AcceptanceTest</td>
+    <td>Main</td>
+    <td>f2db580</td>
+    <td>feat: add TS-02</td>
+    <td>-</td>
+    <td>20/10/2024</td>
+  </tr>
+  <tr>
+    <td>MesSobble/AcceptanceTest</td>
+    <td>Main</td>
+    <td>be72af0</td>
+    <td>feat: add TS-03</td>
+    <td>-</td>
+    <td>20/10/2024</td>
+  </tr>
+  <tr>
+    <td>MesSobble/AcceptanceTest</td>
+    <td>Main</td>
+    <td>96fdc77</td>
+    <td>feat: add TS-04</td>
+    <td>-</td>
+    <td>30/10/2024</td>
+  </tr>
+</table>
+
+#### 5.2.3.5. Execution Evidence for Sprint Review  
+
+Para esta entrega, el equipo CiberMach logró implementar de manera exitosa el frontend web app y un avance del backend de la aplicación.
+
+Enlace del deploy de la web app mediante: https://movirent-tb2.web.app/
+
+En el landing page se agregaron los videos about the product y about the team, para que de ese modo podamos dar a conocer de mejor manera al público tanto nuestro producto mediante un vidoe promocional como a nuestro equipo.
+
+Enlace del deploy de la landing page mediante: https://upc-appweb-cibermach.github.io/movirent-landing-page/
+
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review  
+Para esta entrega, el equipo CiberMach logró implementar de manera exitosa el frontend web app, en 
+la cual se brindará variadas opciones de creación de usuarios, publicar scooters y visualizar y elegir una suscripción. 
+
+Enlace del deploy de la web app mediante: https://movirent-tb2.web.app/
+
+Ademas, se hizo un avance del backend de la aplicación. A continuación se presentaran los endpoints desarrollados en el presente sprint y se adjuntan capturas de pantalla de las acciones Crud y otros metodos realiazados en OpenApi. 
+
+Se adjunta el link del repositorio del backend en Github.: [movirent-backend](https://github.com/UPC-AppWeb-CiberMach/movirent-back-end)
+
+<table>
+  <tr>
+   <th style="text-align:center;"> <strong> Bounded Context </strong> </th>
+    <th style="text-align:center;"> <strong> Enpoint Url </strong> </th>
+    <th style="text-align:center;"> <strong> Swagger </strong> </th>
+  </tr>
+  <tr>
+   <th style="text-align:center;"> <strong> Scooter Bounded Context </strong> </th>
+    <th style="text-align:center;"> <strong> /scooter </strong> </th>
+    <th> <img src="https://github.com/user-attachments/assets/7f675f78-f77e-4538-a08d-d979ceaf73f1"> </th>
+  </tr>
+  <tr>
+   <th style="text-align:center;"> <strong> Suscription Bounded Context </strong> </th>
+    <th style="text-align:center;"> <strong> /suscription </strong> </th>
+    <th> <img src="https://github.com/user-attachments/assets/99212dd9-f370-46a1-ba13-58633fa96cb1" > </th>
+  </tr>
+  <tr>
+   <th style="text-align:center;"> <strong> Historial Bounded Context </strong> </th>
+    <th style="text-align:center;"> <strong> /historial </strong> </th>
+    <th> <img src="https://github.com/user-attachments/assets/a59a6ada-64d0-4d5d-872a-2776c8f657fa" > </th>
+  </tr>
+</table>
+
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review   
+
+Para el presente sprint, se ha desarollado el backend de la web application. Para lo cual se emplearon las siguientes herramientas. Sin embargo, dentro del alcance de este sprint no se contempla el deploy del backend.
+
+Git: Sistema de control de versiones el cual empleamos para trabajar de manera colaborativa y monitorear las versiones de la web application en un repositorio remoto.
+Gitflow: Flujo de trabajo colaborativo, esto nos permitió dividir el trabajo por ramas dentro de nuestro repositorio con la finalidad de facilitar la colaboración en el desarrollo.
+GitHub: Plataforma que nos brindo la herramienta de crear nuestro repositorio para almacenar las versiones de nuestro proyecto.
+Swagger Ui: Herramienta para probar y documentar nuestra API.
+
+
+#### 5.2.3.8. Team Collaboration Insights during Sprint. 
+
+Colaboración por alumno en la aplicación web:
+
+<table border="1px" align="center">
+  <tr>
+    <th>Alumno</th>
+    <th>Actividad</th>
+  </tr>
+  <tr>
+    <td>Velarde Gonzales, Nestor</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>Espinoza Delgado, Bárbara Antonella</td>
+    <td>Endpoint Reseñas</td>
+  </tr>
+  <tr>
+    <td>Jara Benites, Quique Vladimir</td>
+    <td>Endpoint Historial</td>
+  </tr>
+  <tr>
+    <td>Hidalgo Lopez, Mathias Adriano</td>
+    <td>-</td>
+  </tr>
+ <tr>
+    <td>Diestra Zambrano, Adriana María</td>
+    <td>-</td>
+  </tr>
+</table>
+ 
+Tabla para poder identificarnos:
+
+<table border="1px" align="center">
+  <tr>
+    <th>Username (Github)</th>
+    <th>Nombre</th>
+  </tr>
+  <tr>
+    <td>VelardeSoft</td>
+    <td>Velarde Gonzales, Nestor</td>
+  </tr>
+  <tr>
+    <td>MesSobble</td>
+    <td>Espinoza Delgado, Bárbara Antonella</td>
+  </tr>
+  <tr>
+    <td>QuiqueVladimir</td>
+    <td>Jara Benitez, Quique Vladimir</td>
+  </tr>
+  <tr>
+    <td>mathiasadriano</td>
+    <td>Hidalgo Lopez, Mathias Adriano</td>
+  </tr>
+  <tr>
+    <td>adriiiiiiiiiiii</td>
+    <td>Diestra Zambrano, Adriana María</td>
+  </tr>
+  <tr>
+    <td>RTPX26</td>
+    <td>Fernandez Remon, Roy Linsh</td>
+  </tr>
+</table>
+
+Para este sprint se ha realizado la implementación de la web app, para esto los integrantes del grupo realizaron su aporte a través de commits en la herramienta Git Hub.  
+
+**IMAGEN DE LOS COMMITS**
 
 ## 5.3. Validation Interviews
 
