@@ -5045,9 +5045,10 @@ Para este sprint se ha realizado la implementación de la web app, para esto los
 
 #### 5.2.4.2. Sprint Backlog 4 
 
-**FALTA IMAGEN Y LINK DEL TRELLO 4**
+![Captura de pantalla 2024-11-13 193637](https://github.com/user-attachments/assets/7dff9ac2-8435-45bc-94d5-5520dd5def72)
 
-Link del Trello:
+
+Link del Trello: https://trello.com/invite/b/67354576cfbd5e6f70bc3fc8/ATTI9f7f9c2a72d24f101a03321e119403ba7A442B75/sprint-4
 
 <table border="1px" align="center"> 
    <tr>
@@ -5131,18 +5132,18 @@ En esta sección se detallarán los commits realizados en el desarrollo del back
   <tr>
     <td>MesSobble/AcceptanceTest</td>
     <td>Main</td>
-    <td>96fdc77</td>
+    <td>a0646bf</td>
     <td>feat: add TS-01</td>
     <td>-</td>
-    <td>30/10/2024</td>
+    <td>13/11/2024</td>
   </tr>
   <tr>
     <td>MesSobble/AcceptanceTest</td>
     <td>Main</td>
-    <td>96fdc77</td>
-    <td>feat: add TS-04</td>
+    <td>4528aab</td>
+    <td>feat: add TS-05</td>
     <td>-</td>
-    <td>30/10/2024</td>
+    <td>13/11/2024</td>
   </tr>
 </table>
 
