@@ -5029,7 +5029,7 @@ Para este sprint se ha realizado la implementación de la web app, para esto los
      </tr>
      <tr>
           <td style="font-weight: bold;"> Sprint 4 Goal</td>
-          <td> En este sprint se espera la implementación y deployado del backend terminado e integrarlo con el frontend. </td>
+          <td> Nuestro enfoque para este sprint es completar el desarrollo del backend iniciado en el Sprint 3, implementando los endpoints restantes necesarios para gestionar scooters y reservas, y asegurando que la integración con la web app desplegada en Firebase sea funcional y eficiente. Además, trabajaremos en optimizar el rendimiento de la web app para garantizar que los usuarios puedan navegar sin problemas. Creemos que esto mejorará la experiencia general, facilitará la gestión de scooters y reservas, y fortalecerá nuestra infraestructura técnica. Se confirmará cuando los endpoints pendientes del backend estén completados y desplegados, la web app permita una navegación fluida y eficiente, y las funcionalidades clave de gestión de vehículos y reservas estén plenamente integradas. </td>
       </tr>
       <tr>
           <td style="font-weight: bold;"> Sprint 4 Velocity </td>
