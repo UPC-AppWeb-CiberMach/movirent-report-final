@@ -440,7 +440,7 @@ del ABET – EAC - Student Outcome 5.
                 - <b>Fernández Remón, Roy</b>: <br> Mi particpación se reflejó en ayudar en mejorar el documento y realicé las entrevistas para la validación a los segementos objetivos.<br><br>
                 - <b>Velarde Gonzales, Néstor Hernan</b>: Dentro del equipo, mi participación se basó en realizar las mejoras el Front, un 0% de avance del Back-End para los enpoint de scooter y realizar las entrevistas a los segmentos objetivos para validar sus experiencias de usuario. <br><br>
               <b>TF</b>:<br>
-                - <b>Adriana María Diestra Zambrano</b>:  <br><br>
+                - <b>Adriana María Diestra Zambrano</b>:  <br> Me encargué de trabajar en el backend realizando pruebas para garantizar su correcto funcionamiento, contribuyendo al cumplimiento de los objetivos del proyecto.<br><br>
                 - <b>Bárbara Antonella Espinoza Delgado</b>: Como líder del equipo, en esta cuarta y ultima entrega, trabajé en conjunto para proporcionar los pendientes y asignar las partes obligatorias a realizar de cada miembro del equipo.<br><br>
                 - <b>Mathias Adriano Hidalgo Lopez</b>: <br><br>
                 - <b>Quique Vladimir Jara Benites</b>: <br><br>
@@ -479,12 +479,12 @@ del ABET – EAC - Student Outcome 5.
                 - <b>Fernández Remón, Roy</b>: <br>Colaboré con las entrevistas asignadas en el documento.<br><br>
                 - <b>Velarde Gonzales, Néstor Hernan</b>: <br>En esta entrega colaboré tanto en el desarrollo de front de nueva versión y despliegue a la nube.<br/><br>
               <b>TF</b>:<br>
-                - <b>Adriana María Diestra Zambrano</b>: <br><br>
+                - <b>Adriana María Diestra Zambrano</b>: <br> Cumplí con las tareas asignadas dentro del plazo establecido y colaboré activamente con mi equipo, asegurando una comunicación clara para alcanzar los objetivos del proyecto.<br><br>
                 - <b>Bárbara Antonella Espinoza Delgado</b>: <br>Como líder, creé un entorno colaborativo, estableciendo deadlines para la realización de tareas y pronta culminación del proyecto.<br><br>
                 - <b>Mathias Adriano Hidalgo Lopez</b>: <br> Cumplí con las tareas que se me asignaron a tiempo y colabore con mi equipo asegurando una cominucacion clara y efectiva.<br><br>
                 - <b>Quique Vladimir Jara Benites</b>: <br><br>
                 - <b>Fernández Remón, Roy</b>:<br><br>
-                - <b>Velarde Gonzales, Néstor Hernan</b>: <br/><br>
+                - <b>Velarde Gonzales, Néstor Hernan</b>: <br><br>
             </td>
             <td>
                 <b>TB1</b>: El equipo estableció medios de comunicación efectivos y cumplió con la entrega del proyecto a tiempo, con presentaciones detalladas y comunicación constante con stakeholders.<br><br>
