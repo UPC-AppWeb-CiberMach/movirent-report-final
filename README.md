@@ -219,6 +219,12 @@
       <td>Espinoza Delgado, Bárbara Antonella</td>
       <td>Sprint 4 y conclusiones</td>
     </tr>
+    <tr>
+      <td>4.1</td>
+      <td>2024/11/16</td>
+      <td>Espinoza Delgado, Bárbara Antonella</td>
+      <td>Sprint Planning</td>
+    </tr>
   </tbody>
 </table>
 
@@ -358,7 +364,7 @@ Para el desarrollo de la entrega TF, se optó por dividir el trabajo de la sigui
     <tbody>
         <tr>
             <td>Espinoza Delgado, Bárbara Antonella</td>
-            <td> Sprint Planning, Sprint Backlog, Development evidence, Testing Suite, Execution Evidence y Team Collaboration Insights.</td>
+            <td> Sprint Backlog, Development evidence, Testing Suite, Execution Evidence y Team Collaboration Insights.</td>
         </tr>
         <tr>
             <td>Velarde Gonzales, Néstor</td>
@@ -366,7 +372,7 @@ Para el desarrollo de la entrega TF, se optó por dividir el trabajo de la sigui
         </tr>
         <tr>
             <td>Diestra Zambrano, Adriana María</td>
-            <td>-</td>
+            <td>Sprint Planning</td>
         </tr>
         <tr>
             <td>Hidalgo López, Mathias Adriano</td>
@@ -382,16 +388,6 @@ Para el desarrollo de la entrega TF, se optó por dividir el trabajo de la sigui
         </tr>
     </tbody>
 </table>
-
-### Evidencia en el desarrollo del Front-end versión actual
-
-![Desarrollo del FrontEnd](https://github.com/user-attachments/assets/edcd067d-e7ce-4375-a57b-e7b96cc90dae)
-
-### Evidencia en el desarrollo del BackEnd versión actual
-
-![Desarrollo de BackEnd](https://github.com/user-attachments/assets/a1d8b2d3-b05e-4ca6-929b-3d27c9f20e3b)
-
-
 
 <div style="page-break-before: always;"></div>
 
@@ -5106,17 +5102,238 @@ En esta sección se detallarán los commits realizados en el desarrollo del back
     <th>Committed <br> On (Date)</th>
   </tr>
   <tr>
-    <td>QuiqueVladimir/back-end</td>
-    <td>historial-management</td>
-    <td>54f287f</td>
-    <td>feat: add model creating on AppDbContext</td>
+    <td>VelardeSoft/back-end</td>
+    <td>IAM</td>
+    <td>bc86677</td>
+    <td>feat: add the correct context bound for user</td>
     <td>-</td>
-    <td>29/10/2024</td>
+    <td>09/11/2024</td>
+  </tr>
+  <tr>
+    <td>MesSobble/back-end</td>
+    <td>historial-management</td>
+    <td>c699a38</td>
+    <td>feat: add historial correct endpoint</td>
+    <td>-</td>
+    <td>10/11/2024</td>
+  </tr>
+  <tr>
+    <td>MesSobble/back-end</td>
+    <td>review-management</td>
+    <td>95804b4</td>
+    <td>feat: add reviews endpoint</td>
+    <td>-</td>
+    <td>10/11/2024</td>
+  </tr>
+  <tr>
+    <td>MesSobble/back-end</td>
+    <td>review-management</td>
+    <td>4ea1a7e</td>
+    <td>fix: endpoint columns</td>
+    <td>-</td>
+    <td>10/11/2024</td>
+  </tr>
+  <tr>
+    <td>MesSobble/back-end</td>
+    <td>review-management</td>
+    <td>c8de725</td>
+    <td>feat: add dll changes</td>
+    <td>-</td>
+    <td>10/11/2024</td>
+  </tr>
+  <tr>
+    <td>QuiqueVladimir/back-end</td>
+    <td>main</td>
+    <td>2c406ad</td>
+    <td>feat: add controller to user</td>
+    <td>-</td>
+    <td>11/11/2024</td>
+  </tr>
+  <tr>
+    <td>QuiqueVladimir/back-end</td>
+    <td>develop</td>
+    <td>16ad180</td>
+    <td>update: id int to guid</td>
+    <td>-</td>
+    <td>12/11/2024</td>
+  </tr>
+  <tr>
+    <td>QuiqueVladimir/back-end</td>
+    <td>develop</td>
+    <td>7dbc229</td>
+    <td>feat: add entity and commands for history controller</td>
+    <td>-</td>
+    <td>12/11/2024</td>
+  </tr>
+  <tr>
+    <td>QuiqueVladimir/back-end</td>
+    <td>develop</td>
+    <td>e9a3ba7</td>
+    <td>update: AppDbContext for new history</td>
+    <td>-</td>
+    <td>12/11/2024</td>
+  </tr>
+  <tr>
+    <td>VelardeSoft/back-end</td>
+    <td>develop</td>
+    <td>3e58cd4</td>
+    <td>feat: add validations for attributes</td>
+    <td>-</td>
+    <td>14/11/2024</td>
+  </tr>
+  <tr>
+    <td>mathiasadriano/back-end</td>
+    <td>main</td>
+    <td>d463410</td>
+    <td>feat: add validations</td>
+    <td>-</td>
+    <td>15/11/2024</td>
+  </tr>
+  <tr>
+    <td>mathiasadriano/back-end</td>
+    <td>main</td>
+    <td>5a525fa</td>
+    <td>feat: corrections validation</td>
+    <td>-</td>
+    <td>15/11/2024</td>
+  </tr>
+  <tr>
+    <td>adriiiiiiiiiiii/back-end</td>
+    <td>develop</td>
+    <td>a68b58e</td>
+    <td>feat: add develop the user controller test</td>
+    <td>-</td>
+    <td>15/11/2024</td>
+  </tr>
+  <tr>
+    <td>adriiiiiiiiiiii/back-end</td>
+    <td>develop</td>
+    <td>0979c7b</td>
+    <td>feat: add testing CreateUserResource</td>
+    <td>-</td>
+    <td>15/11/2024</td>
+  </tr>
+  <tr>
+    <td>adriiiiiiiiiiii/back-end</td>
+    <td>develop</td>
+    <td>669e39f</td>
+    <td>feat: add the user controller test</td>
+    <td>-</td>
+    <td>15/11/2024</td>
+  </tr>
+  <tr>
+    <td>adriiiiiiiiiiii/back-end</td>
+    <td>develop</td>
+    <td>9275683</td>
+    <td>feat: add the scooter controller test</td>
+    <td>-</td>
+    <td>15/11/2024</td>
+  </tr>
+  <tr>
+    <td>adriiiiiiiiiiii/back-end</td>
+    <td>develop</td>
+    <td>c641ec4</td>
+    <td>feat: add the subscriptions controller test</td>
+    <td>-</td>
+    <td>15/11/2024</td>
+  </tr>
+  <tr>
+    <td>adriiiiiiiiiiii/back-end</td>
+    <td>develop</td>
+    <td>7a06343</td>
+    <td>feat: add the review management test</td>
+    <td>-</td>
+    <td>15/11/2024</td>
+  </tr>
+  <tr>
+    <td>MesSobble/back-end</td>
+    <td>main</td>
+    <td>787858b</td>
+    <td>feat: add documentation in controllers</td>
+    <td>-</td>
+    <td>16/11/2024</td>
+  </tr>
+  <tr>
+    <td>MesSobble/back-end</td>
+    <td>main</td>
+    <td>a322296</td>
+    <td>feat: add documentation in repositories</td>
+    <td>-</td>
+    <td>16/11/2024</td>
+  </tr>
+  <tr>
+    <td>MesSobble/back-end</td>
+    <td>main</td>
+    <td>98f6428</td>
+    <td>feat: add documentation in application</td>
+    <td>-</td>
+    <td>16/11/2024</td>
+  </tr>
+  <tr>
+    <td>MesSobble/back-end</td>
+    <td>main</td>
+    <td>87959d6</td>
+    <td>feat: add more documentation in code</td>
+    <td>-</td>
+    <td>16/11/2024</td>
+  </tr>
+  <tr>
+    <td>VelardeSoft/back-end</td>
+    <td>develop</td>
+    <td>ef53399</td>
+    <td>feat: update test in UserController</td>
+    <td>-</td>
+    <td>16/11/2024</td>
+  </tr>
+  <tr>
+    <td>VelardeSoft/back-end</td>
+    <td>develop</td>
+    <td>eadb889</td>
+    <td>feat: add tests for scooter</td>
+    <td>-</td>
+    <td>16/11/2024</td>
+  </tr>
+  <tr>
+    <td>VelardeSoft/back-end</td>
+    <td>develop</td>
+    <td>991c89c</td>
+    <td>feat: add business rules</td>
+    <td>-</td>
+    <td>17/11/2024</td>
+  </tr>
+  <tr>
+    <td>QuiqueVladimir/back-end</td>
+    <td>develop</td>
+    <td>677bc0c</td>
+    <td>feat: add test for user history</td>
+    <td>-</td>
+    <td>17/11/2024</td>
+  </tr>
+  <tr>
+    <td>QuiqueVladimir/back-end</td>
+    <td>develop</td>
+    <td>3c574e6</td>
+    <td>feat: add Hash Password</td>
+    <td>-</td>
+    <td>17/11/2024</td>
+  </tr>
+  <tr>
+    <td>VelardeSoft/back-end</td>
+    <td>develop</td>
+    <td>36512fe</td>
+    <td>feat: add Azure App Service</td>
+    <td>-</td>
+    <td>17/11/2024</td>
   </tr>
 </table>
 
+![Captura de pantalla 2024-11-17 190028](https://github.com/user-attachments/assets/2f8331c3-41b4-4b36-98a6-8c9133b19255)
 
-**FALTA IMAGENES DE LOS COMMITS**
+![Captura de pantalla 2024-11-17 185949](https://github.com/user-attachments/assets/ffc9f91d-b739-46e7-9ebc-2db519b6d5ac)
+
+![Captura de pantalla 2024-11-17 190003](https://github.com/user-attachments/assets/7dbd4c20-74ad-47da-a255-af1cb9d5f170)
+
+![Captura de pantalla 2024-11-17 185848](https://github.com/user-attachments/assets/c37550dc-8d22-4940-a748-e5de136beb82)
 
 #### 5.2.4.4. Testing Suite Evidence for Sprint Review
 
@@ -5175,19 +5392,14 @@ Se adjunta el link del repositorio del backend en Github.: [movirent-backend](ht
     <th style="text-align:center;"> <strong> Swagger </strong> </th>
   </tr>
   <tr>
-   <th style="text-align:center;"> <strong> Scooter Bounded Context </strong> </th>
-    <th style="text-align:center;"> <strong> /scooter </strong> </th>
-    <th> <img src="https://github.com/user-attachments/assets/7f675f78-f77e-4538-a08d-d979ceaf73f1"> </th>
+   <th style="text-align:center;"> <strong> Review Bounded Context </strong> </th>
+    <th style="text-align:center;"> <strong> /review </strong> </th>
+    <th> <img src="https://github.com/user-attachments/assets/0663b107-8097-4793-a9e4-f10d11225b2b"> </th>
   </tr>
   <tr>
-   <th style="text-align:center;"> <strong> Suscription Bounded Context </strong> </th>
-    <th style="text-align:center;"> <strong> /suscription </strong> </th>
-    <th> <img src="https://github.com/user-attachments/assets/99212dd9-f370-46a1-ba13-58633fa96cb1" > </th>
-  </tr>
-  <tr>
-   <th style="text-align:center;"> <strong> Historial Bounded Context </strong> </th>
-    <th style="text-align:center;"> <strong> /historial </strong> </th>
-    <th> <img src="https://github.com/user-attachments/assets/a59a6ada-64d0-4d5d-872a-2776c8f657fa" > </th>
+   <th style="text-align:center;"> <strong> User Bounded Context </strong> </th>
+    <th style="text-align:center;"> <strong> /user </strong> </th>
+    <th> <img src="https://github.com/user-attachments/assets/da6f73a2-eff2-43b0-a3a6-ad3f0952c6fa" > </th>
   </tr>
 </table>
 
@@ -5214,7 +5426,7 @@ Colaboración por alumno en la aplicación web:
   </tr>
   <tr>
     <td>Velarde Gonzales, Nestor</td>
-    <td>-</td>
+    <td>IAM</td>
   </tr>
   <tr>
     <td>Espinoza Delgado, Bárbara Antonella</td>
@@ -5226,11 +5438,11 @@ Colaboración por alumno en la aplicación web:
   </tr>
   <tr>
     <td>Hidalgo Lopez, Mathias Adriano</td>
-    <td>-</td>
+    <td>Validations</td>
   </tr>
  <tr>
     <td>Diestra Zambrano, Adriana María</td>
-    <td>-</td>
+    <td>Testing</td>
   </tr>
 </table>
  
@@ -5269,7 +5481,9 @@ Tabla para poder identificarnos:
 
 Para este sprint se ha realizado la implementación de la web app, para esto los integrantes del grupo realizaron su aporte a través de commits en la herramienta Git Hub.  
 
-**IMAGEN DE LOS COMMITS**
+![Captura de pantalla 2024-11-17 190741](https://github.com/user-attachments/assets/02836ba4-7477-434f-bd65-dcc959ce7657)
+
+![Captura de pantalla 2024-11-17 190848](https://github.com/user-attachments/assets/3c776ed3-3a91-4fd5-a9db-1d930650a981)
 
 ## 5.3. Validation Interviews
 
