@@ -4369,11 +4369,11 @@ Enlace del deploy de la web app mediante: https://movirent-tb2.web.app/
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review  
 Para esta entrega, el equipo CiberMach logró implementar de manera exitosa el frontend web app.
 
-Enlace del deploy de la web app mediante: https://movirent-tb2.web.app/
+Enlace del deploy de la web app mediante: https://cibermatch-movirent.netlify.app/
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review   
 
-Para el despliegue de la aplicacion web se utilizó netlify, a continuación se muestra el link de la aplicación web desplegada junto a los pasos realizados para publicarla: https://movirent-tb2.web.app/
+Para el despliegue de la aplicacion web se utilizó netlify, a continuación se muestra el link de la aplicación web desplegada junto a los pasos realizados para publicarla: https://cibermatch-movirent.netlify.app/
 
 Pasos:
 
@@ -4853,7 +4853,7 @@ En esta sección se detallarán los commits realizados en el desarrollo del back
 
 Para esta entrega, el equipo CiberMach logró implementar de manera exitosa el frontend web app y un avance del backend de la aplicación.
 
-Enlace del deploy de la web app mediante: https://movirent-tb2.web.app/
+Enlace del deploy de la web app mediante: https://cibermatch-movirent.netlify.app/
 
 En el landing page se agregaron los videos about the product y about the team, para que de ese modo podamos dar a conocer de mejor manera al público tanto nuestro producto mediante un vidoe promocional como a nuestro equipo.
 
@@ -4864,7 +4864,7 @@ Enlace del deploy de la landing page mediante: https://upc-appweb-cibermach.gith
 Para esta entrega, el equipo CiberMach logró implementar de manera exitosa el frontend web app, en 
 la cual se brindará variadas opciones de creación de usuarios, publicar scooters y visualizar y elegir una suscripción. 
 
-Enlace del deploy de la web app mediante: https://movirent-tb2.web.app/
+Enlace del deploy de la web app mediante: https://cibermatch-movirent.netlify.app/
 
 Ademas, se hizo un avance del backend de la aplicación. A continuación se presentaran los endpoints desarrollados en el presente sprint y se adjuntan capturas de pantalla de las acciones Crud y otros metodos realiazados en OpenApi. 
 
@@ -5368,18 +5368,18 @@ En esta sección se detallarán los commits realizados en el desarrollo del back
 
 Para esta entrega, el equipo CiberMach logró implementar de manera exitosa el frontend web app y un avance del backend de la aplicación.
 
-Enlace del deploy de la web app mediante: https://movirent-tb2.web.app/
+Enlace del deploy de la web app mediante: https://cibermatch-movirent.netlify.app/
 
 En el landing page se agregaron los videos about the product y about the team, para que de ese modo podamos dar a conocer de mejor manera al público tanto nuestro producto mediante un vidoe promocional como a nuestro equipo.
 
 Enlace del deploy de la landing page mediante: https://upc-appweb-cibermach.github.io/movirent-landing-page/
 
-El backend terminado de nuestra aplicación fue desplegado y se puede acceder desde el siguiente enlace: **FALTA LINK DEL DEPLOY BACKEND**
+El backend terminado de nuestra aplicación fue desplegado y se puede acceder desde el siguiente enlace: http://movirent-cegta7bcf8h2gmf5.canadacentral-01.azurewebsites.net/ 
 
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review  
 Para esta entrega, el equipo CiberMach logró corregir de manera exitosa el frontend web app. 
 
-Enlace del deploy de la web app mediante: https://movirent-tb2.web.app/
+Enlace del deploy de la web app mediante: https://cibermatch-movirent.netlify.app/
 
 Ademas, secompletaron los endpoints del backend de la aplicación. A continuación se presentaran los endpoints desarrollados en el presente sprint y se adjuntan capturas de pantalla de las acciones Crud y otros metodos realiazados en OpenApi. 
 
